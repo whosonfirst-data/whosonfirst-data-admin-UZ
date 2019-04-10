@@ -1,0 +1,70 @@
+{
+  "id": 1327348421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.06667,39.7,68.06667,39.7",
+    "geom:latitude":39.7,
+    "geom:longitude":68.06667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kukdzhar",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":1500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216707,
+    "gn:latitude":39.7,
+    "gn:longitude":68.06667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kukdzhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kok-Dzhar",
+        "Kukdzhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216707
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1003d7af70a73e66dc441dbdf5b72823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327348421,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1327348421,
+    "wof:lastmodified":1537713259,
+    "wof:name":"Kukdzhar",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.06667,
+    39.7,
+    68.06667,
+    39.7
+],
+  "geometry": {"coordinates":[68.06667,39.7],"type":"Point"}
+}

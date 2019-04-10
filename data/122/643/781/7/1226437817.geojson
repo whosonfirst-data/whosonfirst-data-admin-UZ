@@ -1,0 +1,70 @@
+{
+  "id": 1226437817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.65889,39.66333,66.65889,39.66333",
+    "geom:latitude":39.66333,
+    "geom:longitude":66.65889,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Temirkhodzha",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215965,
+    "gn:latitude":39.66333,
+    "gn:longitude":66.65889,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Temirkhodzha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Temir-khuzya",
+        "Temirkhodzha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215965
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d6465460b4472555d8af4c30c5dd2a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226437817,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1226437817,
+    "wof:lastmodified":1537713240,
+    "wof:name":"Temirkhodzha",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.65889,
+    39.66333,
+    66.65889,
+    39.66333
+],
+  "geometry": {"coordinates":[66.65889,39.66333],"type":"Point"}
+}

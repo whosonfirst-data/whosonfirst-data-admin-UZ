@@ -1,0 +1,65 @@
+{
+  "id": 1310415747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.16667,39.55,67.16667,39.55",
+    "geom:latitude":39.55,
+    "geom:longitude":67.16667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nauzandak",
+    "gn:country_code":"UZ",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216414,
+    "gn:latitude":39.55,
+    "gn:longitude":67.16667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Nauzandak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216414
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6df3de599a8c793ab5f4565feeab4dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310415747,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1310415747,
+    "wof:lastmodified":1537044578,
+    "wof:name":"Nauzandak",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.16667,
+    39.55,
+    67.16667,
+    39.55
+],
+  "geometry": {"coordinates":[67.16667,39.55],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343451631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.22789,39.13798,66.22789,39.13798",
+    "geom:latitude":39.13798,
+    "geom:longitude":66.22789,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Annaro`z",
+    "gn:country_code":"UZ",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785391,
+    "gn:latitude":39.13798,
+    "gn:longitude":66.22789,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Annaro\u2018z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785391
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7cc755f01e7383a26ed4d84bfa999092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343451631,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1343451631,
+    "wof:lastmodified":1536759147,
+    "wof:name":"Annaro`z",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.22789,
+    39.13798,
+    66.22789,
+    39.13798
+],
+  "geometry": {"coordinates":[66.22789,39.13798],"type":"Point"}
+}

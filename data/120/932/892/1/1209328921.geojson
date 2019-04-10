@@ -1,0 +1,64 @@
+{
+  "id": 1209328921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.00516,40.87312,72.00516,40.87312",
+    "geom:latitude":40.87312,
+    "geom:longitude":72.00516,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Botir",
+    "gn:country_code":"UZ",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11104997,
+    "gn:latitude":40.87312,
+    "gn:longitude":72.00516,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Botir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Botir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11104997
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9691a5c1c059c7338832cb1531236863",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209328921
+        }
+    ],
+    "wof:id":1209328921,
+    "wof:lastmodified":1537713478,
+    "wof:name":"Botir",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.00516,
+    40.87312,
+    72.00516,
+    40.87312
+],
+  "geometry": {"coordinates":[72.00516,40.87312],"type":"Point"}
+}

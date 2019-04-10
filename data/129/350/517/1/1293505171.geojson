@@ -1,0 +1,68 @@
+{
+  "id": 1293505171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.33174,40.52537,72.33174,40.52537",
+    "geom:latitude":40.52537,
+    "geom:longitude":72.33174,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Roxat",
+    "gn:country_code":"UZ",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11230155,
+    "gn:latitude":40.52537,
+    "gn:longitude":72.33174,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Roxat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Roxat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11230155
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a6067474c9d30882e286def5f2283d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293505171,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1293505171,
+    "wof:lastmodified":1537713482,
+    "wof:name":"Roxat",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.33174,
+    40.52537,
+    72.33174,
+    40.52537
+],
+  "geometry": {"coordinates":[72.33174,40.52537],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259866589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.25164,37.48645,67.25164,37.48645",
+    "geom:latitude":37.48645,
+    "geom:longitude":67.25164,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Tallashkan",
+    "gn:country_code":"UZ",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11245028,
+    "gn:latitude":37.48645,
+    "gn:longitude":67.25164,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Tallashkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Tallashkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11245028
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"81f574fffd713580b88ef6a6db4f6261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259866589,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1259866589,
+    "wof:lastmodified":1537713500,
+    "wof:name":"Tallashkan",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.25164000000001,
+    37.48645,
+    67.25164000000001,
+    37.48645
+],
+  "geometry": {"coordinates":[67.25164000000001,37.48645],"type":"Point"}
+}

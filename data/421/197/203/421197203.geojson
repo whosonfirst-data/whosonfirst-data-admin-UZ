@@ -1,0 +1,106 @@
+{
+  "id": 421197203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.07915,41.11371,72.07915,41.11371",
+    "geom:latitude":41.11371,
+    "geom:longitude":72.07915,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Uch-Korgon"
+    ],
+    "name:eng_x_preferred":[
+        "Uch-Korgon"
+    ],
+    "name:kir_x_preferred":[
+        "\u04ae\u0447-\u041a\u043e\u0440\u0433\u043e\u043d"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0648\u0686 \u06a9\u0631\u06af\u0646"
+    ],
+    "name:rup_x_preferred":[
+        "Uch-Kurgan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0447-\u041a\u043e\u0440\u0433\u043e\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Uchq\u016drghon"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0686-\u06a9\u0648\u0631\u06af\u0648\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Uchq\u016drghon Shahri"
+    ],
+    "qs:gn_country":"UZ",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":1512501,
+    "qs:gn_pop":33323,
+    "qs:name":"Uchkurgan",
+    "qs:name_adm0":"Uzbekistan",
+    "qs:name_adm1":"Namangan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":276587,
+    "qs:woe_adm0":23424980,
+    "qs:woe_id":2272648,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":14,
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512501,
+        "gp:id":2272648,
+        "qs:id":276587,
+        "wd:id":"Q2224028"
+    },
+    "wof:country":"UZ",
+    "wof:created":1459009906,
+    "wof:geomhash":"a991299ea9cc08e16b6a1e51b1ca1679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":421197203,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":421197203,
+    "wof:lastmodified":1527716402,
+    "wof:name":"Uchkurgan",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:population":33323,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.07915,
+    41.11371,
+    72.07915,
+    41.11371
+],
+  "geometry": {"coordinates":[72.07915,41.11371],"type":"Point"}
+}

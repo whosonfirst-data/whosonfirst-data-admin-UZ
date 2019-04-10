@@ -1,0 +1,67 @@
+{
+  "id": 1209028693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.84149,40.9785,71.84149,40.9785",
+    "geom:latitude":40.9785,
+    "geom:longitude":71.84149,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Qipchoq",
+    "gn:country_code":"UZ",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7528251,
+    "gn:latitude":40.9785,
+    "gn:longitude":71.84149,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Qipchoq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qipchoq"
+    ],
+    "name:und_x_variant":[
+        "Kipchak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7528251
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4890c3e8e669422fcb46ce8d93e51617",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209028693
+        }
+    ],
+    "wof:id":1209028693,
+    "wof:lastmodified":1537713378,
+    "wof:name":"Qipchoq",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.84149000000002,
+    40.9785,
+    71.84149000000002,
+    40.9785
+],
+  "geometry": {"coordinates":[71.84149000000002,40.9785],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327317235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.055,41.11333,69.055,41.11333",
+    "geom:latitude":41.11333,
+    "geom:longitude":69.055,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yangiyul Shahri",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538262,
+    "gn:latitude":41.11333,
+    "gn:longitude":69.055,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yangiy\u016dl Shahri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorod Yangiyul\u2019",
+        "Yangiy\u016dl Shahri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538262
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2bac6165c3f2552a80bec10604679eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327317235,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1327317235,
+    "wof:lastmodified":1537713371,
+    "wof:name":"Yangiyul Shahri",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.055,
+    41.11333,
+    69.055,
+    41.11333
+],
+  "geometry": {"coordinates":[69.05500000000001,41.11333],"type":"Point"}
+}

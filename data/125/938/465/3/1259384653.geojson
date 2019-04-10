@@ -1,0 +1,68 @@
+{
+  "id": 1259384653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.91344,40.49113,70.91344,40.49113",
+    "geom:latitude":40.49113,
+    "geom:longitude":70.91344,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qo`rbonmergan",
+    "gn:country_code":"UZ",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10651588,
+    "gn:latitude":40.49113,
+    "gn:longitude":70.91344,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Qo\u2018rbonmergan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Qo\u2018rbonmergan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10651588
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7841e3f6c11e49a545c71758aaef04ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259384653,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1259384653,
+    "wof:lastmodified":1537713447,
+    "wof:name":"Qo`rbonmergan",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.91344000000002,
+    40.49113,
+    70.91344000000002,
+    40.49113
+],
+  "geometry": {"coordinates":[70.91344000000002,40.49113],"type":"Point"}
+}

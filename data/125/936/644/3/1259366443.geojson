@@ -1,0 +1,69 @@
+{
+  "id": 1259366443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.28167,40.40194,69.28167,40.40194",
+    "geom:latitude":40.40194,
+    "geom:longitude":69.28167,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Dal'varzin",
+    "gn:country_code":"UZ",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514183,
+    "gn:latitude":40.40194,
+    "gn:longitude":69.28167,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dal\u2019varzin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dal\u2019verzin Pervyy",
+        "Dal\u2019varzin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514183
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"787f957274aba7f73651511b9721d70e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259366443,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1259366443,
+    "wof:lastmodified":1537713351,
+    "wof:name":"Dal'varzin",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.28166999999999,
+    40.40194,
+    69.28166999999999,
+    40.40194
+],
+  "geometry": {"coordinates":[69.28166999999999,40.40194],"type":"Point"}
+}

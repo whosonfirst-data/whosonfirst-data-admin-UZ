@@ -1,0 +1,70 @@
+{
+  "id": 1344175031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.11667,41.0,70.11667,41.0",
+    "geom:latitude":41.0,
+    "geom:longitude":70.11667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Grum",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513978,
+    "gn:latitude":41.0,
+    "gn:longitude":70.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Grum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gryum",
+        "Grum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513978
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"cbb3ea323ae6649d39cb53be85064495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344175031,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1344175031,
+    "wof:lastmodified":1537713344,
+    "wof:name":"Grum",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.11667,
+    41.0,
+    70.11667,
+    41.0
+],
+  "geometry": {"coordinates":[70.11667,41.0],"type":"Point"}
+}

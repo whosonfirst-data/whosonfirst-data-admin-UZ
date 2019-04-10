@@ -1,0 +1,65 @@
+{
+  "id": 1343865777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.79882,40.36008,71.79882,40.36008",
+    "geom:latitude":40.36008,
+    "geom:longitude":71.79882,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Akaryk",
+    "gn:country_code":"UZ",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538537,
+    "gn:latitude":40.36008,
+    "gn:longitude":71.79882,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Akaryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538537
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"71917548de03f051993a326eac9eddda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343865777,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1343865777,
+    "wof:lastmodified":1536658985,
+    "wof:name":"Akaryk",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.79881999999998,
+    40.36008,
+    71.79881999999998,
+    40.36008
+],
+  "geometry": {"coordinates":[71.79881999999998,40.36008],"type":"Point"}
+}

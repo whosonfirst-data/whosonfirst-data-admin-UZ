@@ -1,0 +1,67 @@
+{
+  "id": 1209401853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.71139,38.61528,67.71139,38.61528",
+    "geom:latitude":38.61528,
+    "geom:longitude":67.71139,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Malyana",
+    "gn:country_code":"UZ",
+    "gn:dem":1593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216532,
+    "gn:latitude":38.61528,
+    "gn:longitude":67.71139,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Malyana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malyand"
+    ],
+    "name:uzb_x_preferred":[
+        "Malyana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216532
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"551e53e9d667c90cbec7003f6f1c42e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209401853
+        }
+    ],
+    "wof:id":1209401853,
+    "wof:lastmodified":1537713255,
+    "wof:name":"Malyana",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.71139000000001,
+    38.61528,
+    67.71139000000001,
+    38.61528
+],
+  "geometry": {"coordinates":[67.71139000000001,38.61528],"type":"Point"}
+}

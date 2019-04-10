@@ -1,0 +1,70 @@
+{
+  "id": 1360099293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.57194,40.85833,72.57194,40.85833",
+    "geom:latitude":40.85833,
+    "geom:longitude":72.57194,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Changhir Tosh",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538532,
+    "gn:latitude":40.85833,
+    "gn:longitude":72.57194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Changhir Tosh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Changyr-Tash",
+        "Changhir Tosh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538532
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"70cb3e09d1b6e0b412bd70675affa7ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360099293,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1360099293,
+    "wof:lastmodified":1537713372,
+    "wof:name":"Changhir Tosh",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.57194,
+    40.85833,
+    72.57194,
+    40.85833
+],
+  "geometry": {"coordinates":[72.57194,40.85833],"type":"Point"}
+}

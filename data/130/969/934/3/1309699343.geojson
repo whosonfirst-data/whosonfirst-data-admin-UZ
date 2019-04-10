@@ -1,0 +1,65 @@
+{
+  "id": 1309699343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.08828,38.44264,68.08828,38.44264",
+    "geom:latitude":38.44264,
+    "geom:longitude":68.08828,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Galya-Batur",
+    "gn:country_code":"UZ",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217329,
+    "gn:latitude":38.44264,
+    "gn:longitude":68.08828,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Galya-Batur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217329
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"63bd5ed04ab54e8408e203214407579f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1309699343,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1309699343,
+    "wof:lastmodified":1537081486,
+    "wof:name":"Galya-Batur",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.08828000000001,
+    38.44264,
+    68.08828000000001,
+    38.44264
+],
+  "geometry": {"coordinates":[68.08828000000001,38.44264],"type":"Point"}
+}

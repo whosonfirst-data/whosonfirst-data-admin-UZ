@@ -1,0 +1,70 @@
+{
+  "id": 1259459995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.66056,38.70611,67.66056,38.70611",
+    "geom:latitude":38.70611,
+    "geom:longitude":67.66056,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Parkhat",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":1540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216346,
+    "gn:latitude":38.70611,
+    "gn:longitude":67.66056,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Parkhat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parkhot",
+        "Parkhat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216346
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f28e8da930e8d5f1c34416f7853fcca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259459995,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1259459995,
+    "wof:lastmodified":1537713250,
+    "wof:name":"Parkhat",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.66056,
+    38.70611,
+    67.66056,
+    38.70611
+],
+  "geometry": {"coordinates":[67.66056,38.70611],"type":"Point"}
+}

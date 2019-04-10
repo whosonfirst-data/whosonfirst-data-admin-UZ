@@ -1,0 +1,65 @@
+{
+  "id": 1209022015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.11667,40.8,72.11667,40.8",
+    "geom:latitude":40.8,
+    "geom:longitude":72.11667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Urmanbek",
+    "gn:country_code":"UZ",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512466,
+    "gn:latitude":40.8,
+    "gn:longitude":72.11667,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Urmanbek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urmanbek-Chek",
+        "Urmanbek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512466
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b779a3857dc8099aede359575692fb19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209022015
+        }
+    ],
+    "wof:id":1209022015,
+    "wof:lastmodified":1537713304,
+    "wof:name":"Urmanbek",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.11667,
+    40.8,
+    72.11667,
+    40.8
+],
+  "geometry": {"coordinates":[72.11667,40.8],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310398241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.78666,40.8994,70.78666,40.8994",
+    "geom:latitude":40.8994,
+    "geom:longitude":70.78666,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Xonobod",
+    "gn:country_code":"UZ",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7547741,
+    "gn:latitude":40.8994,
+    "gn:longitude":70.78666,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Xonobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Xonobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7547741
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"620eac90adc6a80450acbe29416e7b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310398241,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1310398241,
+    "wof:lastmodified":1537713390,
+    "wof:name":"Xonobod",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.78666,
+    40.8994,
+    70.78666,
+    40.8994
+],
+  "geometry": {"coordinates":[70.78666,40.8994],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226040447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.61307,41.03775,70.61307,41.03775",
+    "geom:latitude":41.03775,
+    "geom:longitude":70.61307,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Oqtepa Qishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":1779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7577925,
+    "gn:latitude":41.03775,
+    "gn:longitude":70.61307,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Oqtepa Qishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oqtepa Qishloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577925
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"8c551cf84fadb7c010f33a6c1f2a6c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226040447,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1226040447,
+    "wof:lastmodified":1537713393,
+    "wof:name":"Oqtepa Qishloq",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.61307,
+    41.03775,
+    70.61307,
+    41.03775
+],
+  "geometry": {"coordinates":[70.61306999999999,41.03775],"type":"Point"}
+}

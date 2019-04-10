@@ -1,0 +1,65 @@
+{
+  "id": 1343258601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.72391,41.89222,60.72391,41.89222",
+    "geom:latitude":41.89222,
+    "geom:longitude":60.72391,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Karatobe",
+    "gn:country_code":"UZ",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7894560,
+    "gn:latitude":41.89222,
+    "gn:longitude":60.72391,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Karatobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7894560
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"acb0d710bf805abf0872af08a08ce63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343258601,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1343258601,
+    "wof:lastmodified":1537036031,
+    "wof:name":"Karatobe",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.72391,
+    41.89222,
+    60.72391,
+    41.89222
+],
+  "geometry": {"coordinates":[60.72391,41.89222],"type":"Point"}
+}

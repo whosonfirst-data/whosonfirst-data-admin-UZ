@@ -1,0 +1,68 @@
+{
+  "id": 1242844753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.56347,40.22733,68.56347,40.22733",
+    "geom:latitude":40.22733,
+    "geom:longitude":68.56347,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Davlatobod",
+    "gn:country_code":"UZ",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241662,
+    "gn:latitude":40.22733,
+    "gn:longitude":68.56347,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Davlatobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Davlatobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241662
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4aaa7e6748de2ffbbfcc7c9d6d35a5fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242844753,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1242844753,
+    "wof:lastmodified":1537713484,
+    "wof:name":"Davlatobod",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.56347,
+    40.22733,
+    68.56347,
+    40.22733
+],
+  "geometry": {"coordinates":[68.56347,40.22733],"type":"Point"}
+}

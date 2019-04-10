@@ -1,0 +1,68 @@
+{
+  "id": 1259365063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.96309,40.35686,68.96309,40.35686",
+    "geom:latitude":40.35686,
+    "geom:longitude":68.96309,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Amir Temur",
+    "gn:country_code":"UZ",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242501,
+    "gn:latitude":40.35686,
+    "gn:longitude":68.96309,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Amir Temur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Amir Temur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242501
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ecbe7a9c380f4ba4b098a8bac6b6f3e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259365063,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1259365063,
+    "wof:lastmodified":1537713496,
+    "wof:name":"Amir Temur",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.96309000000001,
+    40.35686,
+    68.96309000000001,
+    40.35686
+],
+  "geometry": {"coordinates":[68.96309000000001,40.35686],"type":"Point"}
+}

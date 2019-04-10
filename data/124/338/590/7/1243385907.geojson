@@ -1,0 +1,63 @@
+{
+  "id": 1243385907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.35067,39.2495,67.35067,39.2495",
+    "geom:latitude":39.2495,
+    "geom:longitude":67.35067,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kavzaxona",
+    "gn:country_code":"UZ",
+    "gn:dem":1562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786166,
+    "gn:latitude":39.2495,
+    "gn:longitude":67.35067,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Kavzaxona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786166
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"291d184d7646c2d966fc3488dfed0543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1243385907,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243385907,
+    "wof:lastmodified":1536892618,
+    "wof:name":"Kavzaxona",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.35067,
+    39.2495,
+    67.35067,
+    39.2495
+],
+  "geometry": {"coordinates":[67.35066999999999,39.2495],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259877273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.27194,40.83926,71.27194,40.83926",
+    "geom:latitude":40.83926,
+    "geom:longitude":71.27194,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Qozoqovul",
+    "gn:country_code":"UZ",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7537271,
+    "gn:latitude":40.83926,
+    "gn:longitude":71.27194,
+    "gn:modification_date":"2017-08-03",
+    "gn:name":"Qozoqovul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qozoqovul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7537271
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c4a63450904faa3cfa8bd92c519abee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259877273,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1259877273,
+    "wof:lastmodified":1537713387,
+    "wof:name":"Qozoqovul",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.27194,
+    40.83926,
+    71.27194,
+    40.83926
+],
+  "geometry": {"coordinates":[71.27194,40.83926],"type":"Point"}
+}

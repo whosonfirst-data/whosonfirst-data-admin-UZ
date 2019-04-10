@@ -1,0 +1,61 @@
+{
+  "id": 1209027729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.91978,43.15537,62.91978,43.15537",
+    "geom:latitude":43.15537,
+    "geom:longitude":62.91978,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oqbo`g`ot",
+    "gn:country_code":"UZ",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7849864,
+    "gn:latitude":43.15537,
+    "gn:longitude":62.91978,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Oqbo\u2018g\u2018ot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7849864
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f8fe04450ffa34862dcb46295fc97477",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209027729
+        }
+    ],
+    "wof:id":1209027729,
+    "wof:lastmodified":1536299943,
+    "wof:name":"Oqbo`g`ot",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.91978,
+    43.15537,
+    62.91978,
+    43.15537
+],
+  "geometry": {"coordinates":[62.91978,43.15537],"type":"Point"}
+}

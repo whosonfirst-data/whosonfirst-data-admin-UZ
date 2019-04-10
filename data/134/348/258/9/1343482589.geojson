@@ -1,0 +1,65 @@
+{
+  "id": 1343482589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.36667,40.61667,66.36667,40.61667",
+    "geom:latitude":40.61667,
+    "geom:longitude":66.36667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Suluk",
+    "gn:country_code":"UZ",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512727,
+    "gn:latitude":40.61667,
+    "gn:longitude":66.36667,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Suluk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512727
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4312972f8e5e8c149307dc24efa37fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343482589,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1343482589,
+    "wof:lastmodified":1536714571,
+    "wof:name":"Suluk",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.36667,
+    40.61667,
+    66.36667,
+    40.61667
+],
+  "geometry": {"coordinates":[66.36667,40.61667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1327417545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.53667,39.60528,65.53667,39.60528",
+    "geom:latitude":39.60528,
+    "geom:longitude":65.53667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Dzhidalik",
+    "gn:country_code":"UZ",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217376,
+    "gn:latitude":39.60528,
+    "gn:longitude":65.53667,
+    "gn:modification_date":"2001-11-23",
+    "gn:name":"Dzhidalik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217376
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2cb721036b87d95243056af1237f165a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327417545,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1327417545,
+    "wof:lastmodified":1536702519,
+    "wof:name":"Dzhidalik",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.53667,
+    39.60528,
+    65.53667,
+    39.60528
+],
+  "geometry": {"coordinates":[65.53667,39.60528],"type":"Point"}
+}

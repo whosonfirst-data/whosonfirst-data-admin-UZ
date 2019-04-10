@@ -1,0 +1,70 @@
+{
+  "id": 1326615591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.8757,39.12251,66.8757,39.12251",
+    "geom:latitude":39.12251,
+    "geom:longitude":66.8757,
+    "gn:admin1_code":"08",
+    "gn:admin3_code":"1346485.0",
+    "gn:asciiname":"Kitob Shahri",
+    "gn:country_code":"UZ",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1346485,
+    "gn:latitude":39.12251,
+    "gn:longitude":66.8757,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kitob Shahri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorod Kitab",
+        "Kitob Shahri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346485
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e7c3783ae1b75f6334c934655c4876df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326615591,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1326615591,
+    "wof:lastmodified":1537713291,
+    "wof:name":"Kitob Shahri",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.8757,
+    39.12251,
+    66.8757,
+    39.12251
+],
+  "geometry": {"coordinates":[66.87569999999999,39.12251],"type":"Point"}
+}

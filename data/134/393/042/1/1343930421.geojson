@@ -1,0 +1,71 @@
+{
+  "id": 1343930421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.03194,40.52972,69.03194,40.52972",
+    "geom:latitude":40.52972,
+    "geom:longitude":69.03194,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Dehqonobod",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513457,
+    "gn:latitude":40.52972,
+    "gn:longitude":69.03194,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dehqonobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krest\u2019yanskiy",
+        "Krest\u2019yanskoye",
+        "Dehqonobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513457
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"546260e354385029a586c775b431d760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343930421,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1343930421,
+    "wof:lastmodified":1537713329,
+    "wof:name":"Dehqonobod",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.03194,
+    40.52972000000001,
+    69.03194,
+    40.52972000000001
+],
+  "geometry": {"coordinates":[69.03194000000001,40.52972000000001],"type":"Point"}
+}

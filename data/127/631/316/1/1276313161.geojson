@@ -1,0 +1,71 @@
+{
+  "id": 1276313161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.2892,37.27218,67.2892,37.27218",
+    "geom:latitude":37.27218,
+    "geom:longitude":67.2892,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kyzylshark",
+    "gn:country_code":"UZ",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8058862,
+    "gn:latitude":37.27218,
+    "gn:longitude":67.2892,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kyzylshark",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0448\u0430\u0440\u043a"
+    ],
+    "name:und_x_variant":[
+        "Namuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8058862
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5fc156fe9a4b149eac6199d65b90548a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276313161,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1276313161,
+    "wof:lastmodified":1537713405,
+    "wof:name":"Kyzylshark",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.2892,
+    37.27218,
+    67.2892,
+    37.27218
+],
+  "geometry": {"coordinates":[67.28919999999999,37.27218],"type":"Point"}
+}

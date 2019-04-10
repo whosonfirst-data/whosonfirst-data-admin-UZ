@@ -1,0 +1,65 @@
+{
+  "id": 1310592845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.25286,40.18508,65.25286,40.18508",
+    "geom:latitude":40.18508,
+    "geom:longitude":65.25286,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dovriqo`rg`on",
+    "gn:country_code":"UZ",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7858633,
+    "gn:latitude":40.18508,
+    "gn:longitude":65.25286,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Dovriqo\u2018rg\u2018on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7858633
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"186e3cb2c3c64cf8c316489c4b0d5ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310592845,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1310592845,
+    "wof:lastmodified":1536791356,
+    "wof:name":"Dovriqo`rg`on",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.25286,
+    40.18508,
+    65.25286,
+    40.18508
+],
+  "geometry": {"coordinates":[65.25286,40.18508],"type":"Point"}
+}

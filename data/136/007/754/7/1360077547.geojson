@@ -1,0 +1,71 @@
+{
+  "id": 1360077547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.75112,41.03077,71.75112,41.03077",
+    "geom:latitude":41.03077,
+    "geom:longitude":71.75112,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ergashkon",
+    "gn:country_code":"UZ",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580405,
+    "gn:latitude":41.03077,
+    "gn:longitude":71.75112,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Ergashkon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ergashkon"
+    ],
+    "name:uzb_x_preferred":[
+        "Ergashkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580405
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"70278bb140d9da709a480dffe78c06fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360077547,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1360077547,
+    "wof:lastmodified":1537713399,
+    "wof:name":"Ergashkon",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.75112,
+    41.03077,
+    71.75112,
+    41.03077
+],
+  "geometry": {"coordinates":[71.75112,41.03077],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343638555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.79136,37.89711,66.79136,37.89711",
+    "geom:latitude":37.89711,
+    "geom:longitude":66.79136,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Xo`jaanqo",
+    "gn:country_code":"UZ",
+    "gn:dem":1313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216879,
+    "gn:latitude":37.89711,
+    "gn:longitude":66.79136,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Xo\u2018jaanqo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khodzha-Anka"
+    ],
+    "name:uzb_x_preferred":[
+        "Xo\u2018jaanqo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216879
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"199a284b3913108157b23b52719eb915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343638555,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1343638555,
+    "wof:lastmodified":1537713264,
+    "wof:name":"Xo`jaanqo",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.79136,
+    37.89711,
+    66.79136,
+    37.89711
+],
+  "geometry": {"coordinates":[66.79136,37.89711],"type":"Point"}
+}

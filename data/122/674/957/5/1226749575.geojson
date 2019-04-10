@@ -1,0 +1,68 @@
+{
+  "id": 1226749575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.819,40.52889,71.819,40.52889",
+    "geom:latitude":40.52889,
+    "geom:longitude":71.819,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Jar",
+    "gn:country_code":"UZ",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10974500,
+    "gn:latitude":40.52889,
+    "gn:longitude":71.819,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Jar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Jar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10974500
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"769fd9b6ad8a4e12b1db3091f699d2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226749575,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1226749575,
+    "wof:lastmodified":1537713457,
+    "wof:name":"Jar",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.819,
+    40.52889,
+    71.819,
+    40.52889
+],
+  "geometry": {"coordinates":[71.819,40.52889],"type":"Point"}
+}

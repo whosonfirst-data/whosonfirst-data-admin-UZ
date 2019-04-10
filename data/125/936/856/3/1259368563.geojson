@@ -1,0 +1,65 @@
+{
+  "id": 1259368563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.85495,38.52348,66.85495,38.52348",
+    "geom:latitude":38.52348,
+    "geom:longitude":66.85495,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tersakar",
+    "gn:country_code":"UZ",
+    "gn:dem":1662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785461,
+    "gn:latitude":38.52348,
+    "gn:longitude":66.85495,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Tersakar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785461
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7be6ccccd5709d6098a9143d1e414712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259368563,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1259368563,
+    "wof:lastmodified":1537022763,
+    "wof:name":"Tersakar",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.85495,
+    38.52348,
+    66.85495,
+    38.52348
+],
+  "geometry": {"coordinates":[66.85495,38.52348],"type":"Point"}
+}

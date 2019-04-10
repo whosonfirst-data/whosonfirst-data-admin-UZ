@@ -1,0 +1,68 @@
+{
+  "id": 1260380869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.40715,42.58419,59.40715,42.58419",
+    "geom:latitude":42.58419,
+    "geom:longitude":59.40715,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Oqterak",
+    "gn:country_code":"UZ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601291,
+    "gn:latitude":42.58419,
+    "gn:longitude":59.40715,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Oqterak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nurtambay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601291
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"85727af6f7a17013b906a4943985d9da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260380869,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1260380869,
+    "wof:lastmodified":1537713230,
+    "wof:name":"Oqterak",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.40715,
+    42.58419,
+    59.40715,
+    42.58419
+],
+  "geometry": {"coordinates":[59.40715,42.58419],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343431963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.72444,41.61389,69.72444,41.61389",
+    "geom:latitude":41.61389,
+    "geom:longitude":69.72444,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Khondayliq",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513636,
+    "gn:latitude":41.61389,
+    "gn:longitude":69.72444,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khondayliq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khandaylyk",
+        "Khondayliq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513636
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"73656db38f10ed4c17c88cfc3a9fc0d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343431963,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1343431963,
+    "wof:lastmodified":1537713334,
+    "wof:name":"Khondayliq",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.72444,
+    41.61389000000001,
+    69.72444,
+    41.61389000000001
+],
+  "geometry": {"coordinates":[69.72444,41.61389000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326837917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.75801,40.5071,71.75801,40.5071",
+    "geom:latitude":40.5071,
+    "geom:longitude":71.75801,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hamrok",
+    "gn:country_code":"UZ",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10974869,
+    "gn:latitude":40.5071,
+    "gn:longitude":71.75801,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Hamrok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khamrakh"
+    ],
+    "name:uzb_x_preferred":[
+        "Hamrok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10974869
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"75e24f76e8d45f6df68949eea866a6f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326837917,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1326837917,
+    "wof:lastmodified":1537713459,
+    "wof:name":"Hamrok",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.75801,
+    40.5071,
+    71.75801,
+    40.5071
+],
+  "geometry": {"coordinates":[71.75801,40.5071],"type":"Point"}
+}

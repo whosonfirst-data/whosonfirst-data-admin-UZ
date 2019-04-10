@@ -1,0 +1,68 @@
+{
+  "id": 1243576253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.86782,41.07904,70.86782,41.07904",
+    "geom:latitude":41.07904,
+    "geom:longitude":70.86782,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Parda-Tursun",
+    "gn:country_code":"UZ",
+    "gn:dem":1665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7577881,
+    "gn:latitude":41.07904,
+    "gn:longitude":70.86782,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Parda-Tursun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Parda-Tursun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577881
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4417f72acd83de9348dc48fd3eb1ea30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243576253,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1243576253,
+    "wof:lastmodified":1537713393,
+    "wof:name":"Parda-Tursun",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.86782,
+    41.07904,
+    70.86782,
+    41.07904
+],
+  "geometry": {"coordinates":[70.86781999999999,41.07904],"type":"Point"}
+}

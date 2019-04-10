@@ -1,0 +1,80 @@
+{
+  "id": 421167347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.85527,41.06656,71.85527,41.06656",
+    "geom:latitude":41.06656,
+    "geom:longitude":71.85527,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Chartak"
+    ],
+    "qs:gn_country":"UZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1514258,
+    "qs:gn_pop":49844,
+    "qs:name":"Chertak",
+    "qs:name_adm0":"Uzbekistan",
+    "qs:name_adm1":"Namangan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":133102,
+    "qs:woe_adm0":23424980,
+    "qs:woe_id":2272543,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514258,
+        "gp:id":2272543,
+        "qs:id":133102
+    },
+    "wof:country":"UZ",
+    "wof:created":1459008728,
+    "wof:geomhash":"465eb603e14d7c0af152b3f89f1dd934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":421167347,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":421167347,
+    "wof:lastmodified":1505340585,
+    "wof:name":"Chertak",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:population":49844,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.85527,
+    41.06656,
+    71.85527,
+    41.06656
+],
+  "geometry": {"coordinates":[71.85527,41.06656],"type":"Point"}
+}

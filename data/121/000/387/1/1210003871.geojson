@@ -1,0 +1,70 @@
+{
+  "id": 1210003871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.59833,37.3925,66.59833,37.3925",
+    "geom:latitude":37.3925,
+    "geom:longitude":66.59833,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Chegarachi",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466050,
+    "gn:latitude":37.3925,
+    "gn:longitude":66.59833,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chegarachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sovkhoz Pogranichnik",
+        "Chegarachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466050
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"14b7c85336c9ac13350a1e9c0246bed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1210003871,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1210003871,
+    "wof:lastmodified":1537713296,
+    "wof:name":"Chegarachi",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.59833,
+    37.3925,
+    66.59833,
+    37.3925
+],
+  "geometry": {"coordinates":[66.59833,37.3925],"type":"Point"}
+}

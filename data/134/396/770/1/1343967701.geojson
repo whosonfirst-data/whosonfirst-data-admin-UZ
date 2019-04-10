@@ -1,0 +1,74 @@
+{
+  "id": 1343967701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.09988,40.69623,72.09988,40.69623",
+    "geom:latitude":40.69623,
+    "geom:longitude":72.09988,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dorikash",
+    "gn:country_code":"UZ",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149764,
+    "gn:latitude":40.69623,
+    "gn:longitude":72.09988,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Dorikash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0440\u0438\u0433\u0430\u0448"
+    ],
+    "name:und_x_variant":[
+        "Darigash"
+    ],
+    "name:uzb_x_preferred":[
+        "Dorikash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149764
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"251e3eaeb35b7e6aca2287bc5c06a8fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343967701,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1343967701,
+    "wof:lastmodified":1537713427,
+    "wof:name":"Dorikash",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.09988,
+    40.69623,
+    72.09988,
+    40.69623
+],
+  "geometry": {"coordinates":[72.09988,40.69623],"type":"Point"}
+}

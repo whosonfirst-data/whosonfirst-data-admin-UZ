@@ -1,0 +1,71 @@
+{
+  "id": 1326522601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.6452,40.8905,71.6452,40.8905",
+    "geom:latitude":40.8905,
+    "geom:longitude":71.6452,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"O`lmas",
+    "gn:country_code":"UZ",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7536278,
+    "gn:latitude":40.8905,
+    "gn:longitude":71.6452,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"O\u2018lmas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "O\u2018lmas"
+    ],
+    "name:rus_x_preferred":[
+        "Ul\u2019mas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7536278
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"35058be264de7390fd61cd47198f13a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326522601,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1326522601,
+    "wof:lastmodified":1537713384,
+    "wof:name":"O`lmas",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.6452,
+    40.8905,
+    71.6452,
+    40.8905
+],
+  "geometry": {"coordinates":[71.6452,40.8905],"type":"Point"}
+}

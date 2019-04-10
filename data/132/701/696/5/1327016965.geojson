@@ -1,0 +1,65 @@
+{
+  "id": 1327016965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.01056,38.01472,67.01056,38.01472",
+    "geom:latitude":38.01472,
+    "geom:longitude":67.01056,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Yangi-Pandzhob",
+    "gn:country_code":"UZ",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463560,
+    "gn:latitude":38.01472,
+    "gn:longitude":67.01056,
+    "gn:modification_date":"2001-02-19",
+    "gn:name":"Yangi-Pandzhob",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463560
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ffd449ba80b13f1184ac7b32144b4170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327016965,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1327016965,
+    "wof:lastmodified":1536783258,
+    "wof:name":"Yangi-Pandzhob",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.01056,
+    38.01472,
+    67.01056,
+    38.01472
+],
+  "geometry": {"coordinates":[67.01056,38.01472],"type":"Point"}
+}

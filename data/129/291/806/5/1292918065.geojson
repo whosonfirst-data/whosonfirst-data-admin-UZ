@@ -1,0 +1,68 @@
+{
+  "id": 1292918065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.66667,40.05,67.66667,40.05",
+    "geom:latitude":40.05,
+    "geom:longitude":67.66667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bakhmal'",
+    "gn:country_code":"UZ",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514473,
+    "gn:latitude":40.05,
+    "gn:longitude":67.66667,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Bakhmal\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bakhmal\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514473
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c8fa412037fc49df93d7e95f927e0c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1292918065,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1292918065,
+    "wof:lastmodified":1537713359,
+    "wof:name":"Bakhmal'",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.66667,
+    40.05,
+    67.66667,
+    40.05
+],
+  "geometry": {"coordinates":[67.66667,40.05],"type":"Point"}
+}

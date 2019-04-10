@@ -1,0 +1,74 @@
+{
+  "id": 1260192423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.0902,40.76606,72.0902,40.76606",
+    "geom:latitude":40.76606,
+    "geom:longitude":72.0902,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jiyanbek",
+    "gn:country_code":"UZ",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8152086,
+    "gn:latitude":40.76606,
+    "gn:longitude":72.0902,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Jiyanbek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0438\u044f\u043d\u0431\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Dzhiyanbek"
+    ],
+    "name:uzb_x_preferred":[
+        "Jiyanbek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8152086
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1ddc2e879bf015d6a536f6313cf4a76d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260192423,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1260192423,
+    "wof:lastmodified":1537713429,
+    "wof:name":"Jiyanbek",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.0902,
+    40.76606,
+    72.0902,
+    40.76606
+],
+  "geometry": {"coordinates":[72.0902,40.76606],"type":"Point"}
+}

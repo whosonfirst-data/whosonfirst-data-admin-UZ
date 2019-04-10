@@ -1,0 +1,65 @@
+{
+  "id": 1259396341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.13333,40.76667,72.13333,40.76667",
+    "geom:latitude":40.76667,
+    "geom:longitude":72.13333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yangi-Chek",
+    "gn:country_code":"UZ",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512358,
+    "gn:latitude":40.76667,
+    "gn:longitude":72.13333,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Yangi-Chek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512358
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"61122bc18a87c4c48e7a306c0969174c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259396341,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1259396341,
+    "wof:lastmodified":1536982994,
+    "wof:name":"Yangi-Chek",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.13333,
+    40.76667,
+    72.13333,
+    40.76667
+],
+  "geometry": {"coordinates":[72.13333,40.76667],"type":"Point"}
+}

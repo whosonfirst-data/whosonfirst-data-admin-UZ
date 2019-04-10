@@ -1,0 +1,72 @@
+{
+  "id": 1293222779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.04822,40.92145,72.04822,40.92145",
+    "geom:latitude":40.92145,
+    "geom:longitude":72.04822,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sho`ro",
+    "gn:country_code":"UZ",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513274,
+    "gn:latitude":40.92145,
+    "gn:longitude":72.04822,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sho\u2018ro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leninabad",
+        "Shura"
+    ],
+    "name:uzb_x_preferred":[
+        "Sho\u2018ro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513274
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"8e5d8ed79f2db19941f0fba3a861cd9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293222779,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1293222779,
+    "wof:lastmodified":1537713324,
+    "wof:name":"Sho`ro",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.04822,
+    40.92145,
+    72.04822,
+    40.92145
+],
+  "geometry": {"coordinates":[72.04822,40.92145],"type":"Point"}
+}

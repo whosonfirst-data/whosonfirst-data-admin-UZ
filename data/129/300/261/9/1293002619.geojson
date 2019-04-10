@@ -1,0 +1,71 @@
+{
+  "id": 1293002619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.22052,40.44474,71.22052,40.44474",
+    "geom:latitude":40.44474,
+    "geom:longitude":71.22052,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cho`raker",
+    "gn:country_code":"UZ",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11056948,
+    "gn:latitude":40.44474,
+    "gn:longitude":71.22052,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Cho\u2018raker",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuragir"
+    ],
+    "name:uzb_x_preferred":[
+        "Cho\u2018raker"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056948
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c344d928bd514040e081e2cf7e22304d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293002619,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1293002619,
+    "wof:lastmodified":1537713467,
+    "wof:name":"Cho`raker",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.22052,
+    40.44474,
+    71.22052,
+    40.44474
+],
+  "geometry": {"coordinates":[71.22051999999999,40.44474],"type":"Point"}
+}

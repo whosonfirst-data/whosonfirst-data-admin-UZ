@@ -1,0 +1,68 @@
+{
+  "id": 1360268119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.83472,40.11889,68.83472,40.11889",
+    "geom:latitude":40.11889,
+    "geom:longitude":68.83472,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"Yangiobod",
+    "gn:asciiname":"Uchturgan",
+    "gn:country_code":"UZ",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512494,
+    "gn:latitude":40.11889,
+    "gn:longitude":68.83472,
+    "gn:modification_date":"2001-08-20",
+    "gn:name":"Uchturgan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091918339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512494
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"75bea6be3eb5e850b5b56d1a4811927a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918339,
+            "locality_id":1360268119,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1360268119,
+    "wof:lastmodified":1536681612,
+    "wof:name":"Uchturgan",
+    "wof:parent_id":1091918339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.83471999999999,
+    40.11889,
+    68.83471999999999,
+    40.11889
+],
+  "geometry": {"coordinates":[68.83471999999999,40.11889],"type":"Point"}
+}

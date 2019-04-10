@@ -1,0 +1,68 @@
+{
+  "id": 1293072013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.83853,40.89825,68.83853,40.89825",
+    "geom:latitude":40.89825,
+    "geom:longitude":68.83853,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Zangar",
+    "gn:country_code":"UZ",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241822,
+    "gn:latitude":40.89825,
+    "gn:longitude":68.83853,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Zangar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Zangar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241822
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"29cbd301ddcc242b7bc8d01dec1d91da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293072013,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1293072013,
+    "wof:lastmodified":1537713486,
+    "wof:name":"Zangar",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.83853,
+    40.89825,
+    68.83853,
+    40.89825
+],
+  "geometry": {"coordinates":[68.83853000000001,40.89825],"type":"Point"}
+}

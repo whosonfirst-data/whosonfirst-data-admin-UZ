@@ -1,0 +1,68 @@
+{
+  "id": 1260094247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.17352,40.83674,72.17352,40.83674",
+    "geom:latitude":40.83674,
+    "geom:longitude":72.17352,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Shaurkhan",
+    "gn:country_code":"UZ",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149263,
+    "gn:latitude":40.83674,
+    "gn:longitude":72.17352,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Shaurkhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0443\u0440\u0445\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149263
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"09c067b37d6b2f0c4d15c3e68c7465b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260094247,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1260094247,
+    "wof:lastmodified":1537713416,
+    "wof:name":"Shaurkhan",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.17352,
+    40.83674,
+    72.17352,
+    40.83674
+],
+  "geometry": {"coordinates":[72.17352,40.83674],"type":"Point"}
+}

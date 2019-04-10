@@ -1,0 +1,65 @@
+{
+  "id": 1310214911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.96667,39.91667,65.96667,39.91667",
+    "geom:latitude":39.91667,
+    "geom:longitude":65.96667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aktash",
+    "gn:country_code":"UZ",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217925,
+    "gn:latitude":39.91667,
+    "gn:longitude":65.96667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Aktash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217925
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"38d3e04334a4cf55fba2970dac6bb162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310214911,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1310214911,
+    "wof:lastmodified":1536837557,
+    "wof:name":"Aktash",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.96667,
+    39.91667,
+    65.96667,
+    39.91667
+],
+  "geometry": {"coordinates":[65.96666999999999,39.91667],"type":"Point"}
+}

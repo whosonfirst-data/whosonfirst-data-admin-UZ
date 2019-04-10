@@ -1,0 +1,71 @@
+{
+  "id": 1310107775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.72509,40.47039,70.72509,40.47039",
+    "geom:latitude":40.47039,
+    "geom:longitude":70.72509,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tomosha",
+    "gn:country_code":"UZ",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512679,
+    "gn:latitude":40.47039,
+    "gn:longitude":70.72509,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Tomosha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamasha"
+    ],
+    "name:uzb_x_preferred":[
+        "Tomosha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512679
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4f756e7466020a327cc8ccf174bd347c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310107775,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1310107775,
+    "wof:lastmodified":1537713309,
+    "wof:name":"Tomosha",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.72509000000002,
+    40.47039,
+    70.72509000000002,
+    40.47039
+],
+  "geometry": {"coordinates":[70.72509000000002,40.47039],"type":"Point"}
+}

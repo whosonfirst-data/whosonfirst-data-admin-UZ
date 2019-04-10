@@ -1,0 +1,73 @@
+{
+  "id": 1309775653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.7,40.71667,68.7,40.71667",
+    "geom:latitude":40.71667,
+    "geom:longitude":68.7,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Baxt",
+    "gn:country_code":"UZ",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514471,
+    "gn:latitude":40.71667,
+    "gn:longitude":68.7,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Baxt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Velikoalekseyevskiy",
+        "Bakht"
+    ],
+    "name:uzb_x_preferred":[
+        "Baxt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514471,
+        "wk:page":"Baxt"
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"107b87a7433087bede1d58b413f2781a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1309775653,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1309775653,
+    "wof:lastmodified":1537713359,
+    "wof:name":"Baxt",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.7,
+    40.71667,
+    68.7,
+    40.71667
+],
+  "geometry": {"coordinates":[68.7,40.71667],"type":"Point"}
+}

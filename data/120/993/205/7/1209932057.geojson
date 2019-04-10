@@ -1,0 +1,71 @@
+{
+  "id": 1209932057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.89726,40.90408,71.89726,40.90408",
+    "geom:latitude":40.90408,
+    "geom:longitude":71.89726,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Oqqo`rg`on",
+    "gn:country_code":"UZ",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7527349,
+    "gn:latitude":40.90408,
+    "gn:longitude":71.89726,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Oqqo\u2018rg\u2018on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oqqo\u2018rg\u2018on"
+    ],
+    "name:und_x_variant":[
+        "Chunkayma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7527349
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"926bf3936adb7f92bf6509ace09cb2a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209932057,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1209932057,
+    "wof:lastmodified":1537713377,
+    "wof:name":"Oqqo`rg`on",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.89726,
+    40.90408,
+    71.89726,
+    40.90408
+],
+  "geometry": {"coordinates":[71.89726,40.90408],"type":"Point"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 421192301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.67512,38.69395,65.67512,38.69395",
+    "geom:latitude":38.69395,
+    "geom:longitude":65.67512,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u06cc\u0626\u0646\u06af\u06cc \u0646\u06cc\u0634\u0627\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Yangi-Nishon"
+    ],
+    "name:eng_x_preferred":[
+        "Yangi-Nishon"
+    ],
+    "name:ita_x_preferred":[
+        "Yangi-Nishon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30f3\u30ae\u30fb\u30cb\u30b7\u30e3\u30f3"
+    ],
+    "name:kik_x_preferred":[
+        "Yangi Nishon"
+    ],
+    "name:lit_x_preferred":[
+        "Jangi Ni\u0161anas"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u0433\u0438-\u041d\u0438\u0448\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Yangi-Nishon"
+    ],
+    "name:tur_x_preferred":[
+        "Yeni Ni\u015fan"
+    ],
+    "name:unk_x_variant":[
+        "Yangi-Nishan"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0626\u0646\u06af\u06cc-\u0646\u06cc\u0634\u0627\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Yangi Nishon"
+    ],
+    "qs:gn_country":"UZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1215736,
+    "qs:gn_pop":10558,
+    "qs:name":"Yangi Nishon",
+    "qs:name_adm0":"Uzbekistan",
+    "qs:name_adm1":"Qashqadaryo",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":79035,
+    "qs:woe_adm0":23424980,
+    "qs:woe_id":56122376,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215736,
+        "gp:id":56122376,
+        "qs:id":79035,
+        "wd:id":"Q798259"
+    },
+    "wof:country":"UZ",
+    "wof:created":1459009732,
+    "wof:geomhash":"898dee20f161be144c00d88254e1399b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":421192301,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":421192301,
+    "wof:lastmodified":1527716108,
+    "wof:name":"Yangi Nishon",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:population":10558,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.67512,
+    38.69395,
+    65.67512,
+    38.69395
+],
+  "geometry": {"coordinates":[65.67512000000001,38.69395],"type":"Point"}
+}

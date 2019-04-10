@@ -1,0 +1,70 @@
+{
+  "id": 1327246521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.53804,40.6096,72.53804,40.6096",
+    "geom:latitude":40.6096,
+    "geom:longitude":72.53804,
+    "gn:asciiname":"Tayake Pervyy",
+    "gn:country_code":"UZ",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140009,
+    "gn:latitude":40.6096,
+    "gn:longitude":72.53804,
+    "gn:modification_date":"2015-06-04",
+    "gn:name":"Tayake Pervyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0430\u044f\u043a\u0435 \u041f\u0435\u0440\u0432\u044b\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u044f\u043a\u0435 \u041f\u0435\u0440\u0432\u044b\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140009
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"68e4b06e9a7d664704d3df36e4787abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327246521,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1327246521,
+    "wof:lastmodified":1537713407,
+    "wof:name":"Tayake Pervyy",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.53804000000002,
+    40.6096,
+    72.53804000000002,
+    40.6096
+],
+  "geometry": {"coordinates":[72.53804000000002,40.6096],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1327404785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.21842,40.64125,69.21842,40.64125",
+    "geom:latitude":40.64125,
+    "geom:longitude":69.21842,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kokaral",
+    "gn:country_code":"UZ",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247266,
+    "gn:latitude":40.64125,
+    "gn:longitude":69.21842,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Kokaral",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247266
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"be2ee147f36e1b041e9033b4aaa2dadb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327404785,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1327404785,
+    "wof:lastmodified":1536721084,
+    "wof:name":"Kokaral",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.21842,
+    40.64125,
+    69.21842,
+    40.64125
+],
+  "geometry": {"coordinates":[69.21841999999999,40.64125],"type":"Point"}
+}

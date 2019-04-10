@@ -1,0 +1,65 @@
+{
+  "id": 1310225065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.855,38.59694,66.855,38.59694",
+    "geom:latitude":38.59694,
+    "geom:longitude":66.855,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kan",
+    "gn:country_code":"UZ",
+    "gn:dem":1223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463601,
+    "gn:latitude":38.59694,
+    "gn:longitude":66.855,
+    "gn:modification_date":"2001-02-19",
+    "gn:name":"Kan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463601
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0196f9c1b734d180ff6bb953e094b13b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310225065,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1310225065,
+    "wof:lastmodified":1536823196,
+    "wof:name":"Kan",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.855,
+    38.59694,
+    66.855,
+    38.59694
+],
+  "geometry": {"coordinates":[66.855,38.59694],"type":"Point"}
+}

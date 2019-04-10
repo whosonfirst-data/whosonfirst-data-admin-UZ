@@ -1,0 +1,65 @@
+{
+  "id": 1259494945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.15419,40.51737,72.15419,40.51737",
+    "geom:latitude":40.51737,
+    "geom:longitude":72.15419,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"May",
+    "gn:country_code":"UZ",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140539,
+    "gn:latitude":40.51737,
+    "gn:longitude":72.15419,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"May",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140539
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a520023ca4d7ab25d9a901e0dea20b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259494945,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1259494945,
+    "wof:lastmodified":1536841277,
+    "wof:name":"May",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.15419,
+    40.51737,
+    72.15419,
+    40.51737
+],
+  "geometry": {"coordinates":[72.15419,40.51737],"type":"Point"}
+}

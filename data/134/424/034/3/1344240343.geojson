@@ -1,0 +1,68 @@
+{
+  "id": 1344240343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.13217,40.83462,69.13217,40.83462",
+    "geom:latitude":40.83462,
+    "geom:longitude":69.13217,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ramadon",
+    "gn:country_code":"UZ",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241887,
+    "gn:latitude":40.83462,
+    "gn:longitude":69.13217,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ramadon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Ramadon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241887
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f6570289729bc52d054d5b2b1195bd1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344240343,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1344240343,
+    "wof:lastmodified":1537713488,
+    "wof:name":"Ramadon",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.13217,
+    40.83462,
+    69.13217,
+    40.83462
+],
+  "geometry": {"coordinates":[69.13217,40.83462],"type":"Point"}
+}

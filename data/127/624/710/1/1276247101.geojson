@@ -1,0 +1,65 @@
+{
+  "id": 1276247101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.05,39.43333,67.05,39.43333",
+    "geom:latitude":39.43333,
+    "geom:longitude":67.05,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khuzya-Dzhan",
+    "gn:country_code":"UZ",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216811,
+    "gn:latitude":39.43333,
+    "gn:longitude":67.05,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Khuzya-Dzhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216811
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5727aba14360b960baeaf4cb2d94b5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276247101,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1276247101,
+    "wof:lastmodified":1536893926,
+    "wof:name":"Khuzya-Dzhan",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.05,
+    39.43333,
+    67.05,
+    39.43333
+],
+  "geometry": {"coordinates":[67.05,39.43333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1344242425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.69881,38.49369,66.69881,38.49369",
+    "geom:latitude":38.49369,
+    "geom:longitude":66.69881,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Oqmachit",
+    "gn:country_code":"UZ",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785463,
+    "gn:latitude":38.49369,
+    "gn:longitude":66.69881,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Oqmachit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785463
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"abdea94901a2a83ac2c46c432cb83765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344242425,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1344242425,
+    "wof:lastmodified":1536610443,
+    "wof:name":"Oqmachit",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.69881,
+    38.49369,
+    66.69881,
+    38.49369
+],
+  "geometry": {"coordinates":[66.69880999999999,38.49369],"type":"Point"}
+}

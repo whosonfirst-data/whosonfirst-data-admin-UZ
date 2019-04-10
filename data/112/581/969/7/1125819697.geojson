@@ -1,0 +1,82 @@
+{
+  "id": 1125819697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.90372,43.06874,58.90372,43.06874",
+    "geom:latitude":43.06874,
+    "geom:longitude":58.90372,
+    "gn:gn_country":"UZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":59122,
+    "gn:population":59122,
+    "iso:country":"UZ",
+    "lbl:latitude":43.06874,
+    "lbl:longitude":58.90372,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Altynkul\u2019"
+    ],
+    "name:uzb_x_preferred":[
+        "Oltinko\u2018l"
+    ],
+    "qs_pg:aaroncc":"UZ",
+    "qs_pg:gn_country":"UZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":601417,
+    "qs_pg:gn_pop":59122,
+    "qs_pg:name":"Oltinko\u2019l",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":126025,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601417,
+        "qs_pg:id":126025
+    },
+    "wof:country":"UZ",
+    "wof:created":1497291994,
+    "wof:geomhash":"bc280a73c934f979172a5dd68c7573ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1125819697,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1125819697,
+    "wof:lastmodified":1509394010,
+    "wof:name":"Oltinko\u2019l",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:population":59122,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.90372,
+    43.06874,
+    58.90372,
+    43.06874
+],
+  "geometry": {"coordinates":[58.90372,43.06874],"type":"Point"}
+}

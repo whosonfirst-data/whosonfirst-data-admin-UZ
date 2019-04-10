@@ -1,0 +1,75 @@
+{
+  "id": 1327249087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.07954,40.63269,72.07954,40.63269",
+    "geom:latitude":40.63269,
+    "geom:longitude":72.07954,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yangi Naynova",
+    "gn:country_code":"UZ",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538531,
+    "gn:latitude":40.63269,
+    "gn:longitude":72.07954,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Yangi Naynova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yangi-Naynawa",
+        "Yangi-Naynava"
+    ],
+    "name:uzb_x_preferred":[
+        "Yangi Naynova"
+    ],
+    "name:uzb_x_variant":[
+        "Yangi-Naynavo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538531
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"db5b02263c546062c40b1f6895179fa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327249087,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1327249087,
+    "wof:lastmodified":1537713372,
+    "wof:name":"Yangi Naynova",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.07954000000002,
+    40.63269,
+    72.07954000000002,
+    40.63269
+],
+  "geometry": {"coordinates":[72.07954000000002,40.63269],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343865723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.1186,40.4743,72.1186,40.4743",
+    "geom:latitude":40.4743,
+    "geom:longitude":72.1186,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Anorzor",
+    "gn:country_code":"UZ",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140519,
+    "gn:latitude":40.4743,
+    "gn:longitude":72.1186,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Anorzor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0430\u0440\u0437\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Anarzar"
+    ],
+    "name:uzb_x_preferred":[
+        "Anorzor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140519
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"17bc6e0bc25d1d2bac45a0dcb5e1459d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343865723,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1343865723,
+    "wof:lastmodified":1537713413,
+    "wof:name":"Anorzor",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.1186,
+    40.4743,
+    72.1186,
+    40.4743
+],
+  "geometry": {"coordinates":[72.1186,40.4743],"type":"Point"}
+}

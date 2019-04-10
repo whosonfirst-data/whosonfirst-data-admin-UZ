@@ -1,0 +1,66 @@
+{
+  "id": 1293274407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.69594,40.18214,68.69594,40.18214",
+    "geom:latitude":40.18214,
+    "geom:longitude":68.69594,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Qoraqir",
+    "gn:country_code":"UZ",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242629,
+    "gn:latitude":40.18214,
+    "gn:longitude":68.69594,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Qoraqir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Qoraqir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242629
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"95367c352720d983a8bec92bf5423f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1293274407,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293274407,
+    "wof:lastmodified":1537713498,
+    "wof:name":"Qoraqir",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.69594000000001,
+    40.18214,
+    68.69594000000001,
+    40.18214
+],
+  "geometry": {"coordinates":[68.69594000000001,40.18214],"type":"Point"}
+}

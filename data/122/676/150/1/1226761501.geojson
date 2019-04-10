@@ -1,0 +1,74 @@
+{
+  "id": 1226761501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.0247,40.76418,72.0247,40.76418",
+    "geom:latitude":40.76418,
+    "geom:longitude":72.0247,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gulqishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8152097,
+    "gn:latitude":40.76418,
+    "gn:longitude":72.0247,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Gulqishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Gul\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0443\u043b\u044c"
+    ],
+    "name:uzb_x_preferred":[
+        "Gulqishloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8152097
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"77111d73c96a6b30798f873bae6dd7d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226761501,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1226761501,
+    "wof:lastmodified":1537713430,
+    "wof:name":"Gulqishloq",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.0247,
+    40.76418,
+    72.0247,
+    40.76418
+],
+  "geometry": {"coordinates":[72.0247,40.76418],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209588083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.70712,40.49501,68.70712,40.49501",
+    "geom:latitude":40.49501,
+    "geom:longitude":68.70712,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"A. Beruniy",
+    "gn:country_code":"UZ",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242363,
+    "gn:latitude":40.49501,
+    "gn:longitude":68.70712,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"A. Beruniy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "A. Beruniy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242363
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2122b65332584b42bc5bd604d333b53d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209588083
+        }
+    ],
+    "wof:id":1209588083,
+    "wof:lastmodified":1537713494,
+    "wof:name":"A. Beruniy",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.70711999999999,
+    40.49501,
+    68.70711999999999,
+    40.49501
+],
+  "geometry": {"coordinates":[68.70711999999999,40.49501],"type":"Point"}
+}

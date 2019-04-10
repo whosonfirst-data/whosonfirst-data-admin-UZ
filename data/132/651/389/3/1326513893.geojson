@@ -1,0 +1,65 @@
+{
+  "id": 1326513893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.50361,39.91889,66.50361,39.91889",
+    "geom:latitude":39.91889,
+    "geom:longitude":66.50361,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Burankhodzha",
+    "gn:country_code":"UZ",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217653,
+    "gn:latitude":39.91889,
+    "gn:longitude":66.50361,
+    "gn:modification_date":"2001-11-29",
+    "gn:name":"Burankhodzha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217653
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6dc3392b966d462aad4d3613233bc4dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326513893,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1326513893,
+    "wof:lastmodified":1537009816,
+    "wof:name":"Burankhodzha",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.50361,
+    39.91889000000001,
+    66.50361,
+    39.91889000000001
+],
+  "geometry": {"coordinates":[66.50360999999999,39.91889000000001],"type":"Point"}
+}

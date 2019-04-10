@@ -1,0 +1,68 @@
+{
+  "id": 1309726429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.35319,40.63387,72.35319,40.63387",
+    "geom:latitude":40.63387,
+    "geom:longitude":72.35319,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bazapbashi",
+    "gn:country_code":"UZ",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140323,
+    "gn:latitude":40.63387,
+    "gn:longitude":72.35319,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Bazapbashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0437\u0430\u043f\u0431\u0430\u0448\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140323
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ee6f708dbaa7690a2662b57c5c838972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1309726429,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1309726429,
+    "wof:lastmodified":1537713409,
+    "wof:name":"Bazapbashi",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.35319,
+    40.63387,
+    72.35319,
+    40.63387
+],
+  "geometry": {"coordinates":[72.35319,40.63387],"type":"Point"}
+}

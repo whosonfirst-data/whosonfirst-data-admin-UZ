@@ -1,0 +1,68 @@
+{
+  "id": 1310216495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.0733,40.53685,72.0733,40.53685",
+    "geom:latitude":40.53685,
+    "geom:longitude":72.0733,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Laylakuya",
+    "gn:country_code":"UZ",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10974660,
+    "gn:latitude":40.53685,
+    "gn:longitude":72.0733,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Laylakuya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Laylakuya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10974660
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0e42f5d8356fb403c7dc0457aadf5fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310216495,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1310216495,
+    "wof:lastmodified":1537713458,
+    "wof:name":"Laylakuya",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.0733,
+    40.53685,
+    72.0733,
+    40.53685
+],
+  "geometry": {"coordinates":[72.0733,40.53685],"type":"Point"}
+}

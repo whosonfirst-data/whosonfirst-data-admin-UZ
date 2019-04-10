@@ -1,0 +1,65 @@
+{
+  "id": 1327149075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.73333,40.3,66.73333,40.3",
+    "geom:latitude":40.3,
+    "geom:longitude":66.73333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bazardzhay",
+    "gn:country_code":"UZ",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514410,
+    "gn:latitude":40.3,
+    "gn:longitude":66.73333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Bazardzhay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514410
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"16535af6ee87be5e89b371be82d39662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327149075,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1327149075,
+    "wof:lastmodified":1537086625,
+    "wof:name":"Bazardzhay",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.73333000000001,
+    40.3,
+    66.73333000000001,
+    40.3
+],
+  "geometry": {"coordinates":[66.73333000000001,40.3],"type":"Point"}
+}

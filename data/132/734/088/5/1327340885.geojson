@@ -1,0 +1,71 @@
+{
+  "id": 1327340885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.87103,40.48953,71.87103,40.48953",
+    "geom:latitude":40.48953,
+    "geom:longitude":71.87103,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lesxoz",
+    "gn:country_code":"UZ",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10975022,
+    "gn:latitude":40.48953,
+    "gn:longitude":71.87103,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Lesxoz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leskhoz"
+    ],
+    "name:uzb_x_preferred":[
+        "Lesxoz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10975022
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"683e5aaa6a5d95f6389d238e2120d9ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327340885,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1327340885,
+    "wof:lastmodified":1537713460,
+    "wof:name":"Lesxoz",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.87103,
+    40.48953,
+    71.87103,
+    40.48953
+],
+  "geometry": {"coordinates":[71.87103,40.48953],"type":"Point"}
+}

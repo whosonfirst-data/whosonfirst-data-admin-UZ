@@ -1,0 +1,79 @@
+{
+  "id": 1225854319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.37846,40.80427,72.37846,40.80427",
+    "geom:latitude":40.80427,
+    "geom:longitude":72.37846,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Beshbo`ynoq",
+    "gn:country_code":"UZ",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8060015,
+    "gn:latitude":40.80427,
+    "gn:longitude":72.37846,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Beshbo\u2018ynoq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0448\u0431\u0443\u0439\u043d\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Beshbuynak",
+        "\u0411\u0435\u0448\u0431\u0443\u0439\u043d\u0430\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Beshbo\u2018ynoq"
+    ],
+    "name:uzb_x_variant":[
+        "Yorboshi",
+        "Beshbuynoq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8060015
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"156e5d202087dbd6bcb413244e8ac79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1225854319,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1225854319,
+    "wof:lastmodified":1537713406,
+    "wof:name":"Beshbo`ynoq",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.37846,
+    40.80427,
+    72.37846,
+    40.80427
+],
+  "geometry": {"coordinates":[72.37846,40.80427],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209014485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.56667,40.0,67.56667,40.0",
+    "geom:latitude":40.0,
+    "geom:longitude":67.56667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yany-Kurgan",
+    "gn:country_code":"UZ",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215730,
+    "gn:latitude":40.0,
+    "gn:longitude":67.56667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Yany-Kurgan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215730
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"042179c0ed2e4eb24fb25d42cf1950c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209014485
+        }
+    ],
+    "wof:id":1209014485,
+    "wof:lastmodified":1536300340,
+    "wof:name":"Yany-Kurgan",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.56667,
+    40.0,
+    67.56667,
+    40.0
+],
+  "geometry": {"coordinates":[67.56667,40.0],"type":"Point"}
+}

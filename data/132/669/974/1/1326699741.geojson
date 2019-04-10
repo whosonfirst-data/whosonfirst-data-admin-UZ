@@ -1,0 +1,68 @@
+{
+  "id": 1326699741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.67965,40.63307,68.67965,40.63307",
+    "geom:latitude":40.63307,
+    "geom:longitude":68.67965,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Boruxov",
+    "gn:country_code":"UZ",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242292,
+    "gn:latitude":40.63307,
+    "gn:longitude":68.67965,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Boruxov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Boruxov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242292
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7eb3a5e4ec3bfd0ba36fd46c3d921d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326699741,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1326699741,
+    "wof:lastmodified":1537713491,
+    "wof:name":"Boruxov",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.67965,
+    40.63307,
+    68.67965,
+    40.63307
+],
+  "geometry": {"coordinates":[68.67965,40.63307],"type":"Point"}
+}

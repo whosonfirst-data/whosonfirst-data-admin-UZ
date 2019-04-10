@@ -1,0 +1,68 @@
+{
+  "id": 1310206861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.88876,40.38177,70.88876,40.38177",
+    "geom:latitude":40.38177,
+    "geom:longitude":70.88876,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"To`lqin",
+    "gn:country_code":"UZ",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10649157,
+    "gn:latitude":40.38177,
+    "gn:longitude":70.88876,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"To\u2018lqin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "To\u2018lqin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10649157
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"685afc63cb3090f4516b50ab7436be7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310206861,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1310206861,
+    "wof:lastmodified":1537713444,
+    "wof:name":"To`lqin",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.88875999999998,
+    40.38177,
+    70.88875999999998,
+    40.38177
+],
+  "geometry": {"coordinates":[70.88875999999998,40.38177],"type":"Point"}
+}

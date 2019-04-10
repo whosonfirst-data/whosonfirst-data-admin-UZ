@@ -1,0 +1,75 @@
+{
+  "id": 1310099387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.63664,40.71548,68.63664,40.71548",
+    "geom:latitude":40.71548,
+    "geom:longitude":68.63664,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Yangihayot",
+    "gn:country_code":"UZ",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513055,
+    "gn:latitude":40.71548,
+    "gn:longitude":68.63664,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Yangihayot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Orlovskoye",
+        "Orlovskiy"
+    ],
+    "name:uzb_x_preferred":[
+        "Yangihayot"
+    ],
+    "name:uzb_x_variant":[
+        "Usmon Yusupov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513055
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e018f3795057d44e7fe574b1a7dcccb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310099387,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1310099387,
+    "wof:lastmodified":1537713318,
+    "wof:name":"Yangihayot",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.63664,
+    40.71548,
+    68.63664,
+    40.71548
+],
+  "geometry": {"coordinates":[68.63664,40.71548],"type":"Point"}
+}

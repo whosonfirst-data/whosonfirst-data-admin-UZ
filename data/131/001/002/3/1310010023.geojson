@@ -1,0 +1,77 @@
+{
+  "id": 1310010023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.39518,41.01993,72.39518,41.01993",
+    "geom:latitude":41.01993,
+    "geom:longitude":72.39518,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bodrog`obod",
+    "gn:country_code":"UZ",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8153082,
+    "gn:latitude":41.01993,
+    "gn:longitude":72.39518,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Bodrog\u2018obod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u043b\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Gulistan"
+    ],
+    "name:uzb_x_preferred":[
+        "Bodrog\u2018obod"
+    ],
+    "name:uzb_x_variant":[
+        "Guliston"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8153082
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"42bd4c37b13b59908b31f012baaedb7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310010023,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1310010023,
+    "wof:lastmodified":1537713430,
+    "wof:name":"Bodrog`obod",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.39518000000002,
+    41.01993,
+    72.39518000000002,
+    41.01993
+],
+  "geometry": {"coordinates":[72.39518000000002,41.01993],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293569423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.8969,38.42359,67.8969,38.42359",
+    "geom:latitude":38.42359,
+    "geom:longitude":67.8969,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ir-Sake",
+    "gn:country_code":"UZ",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217226,
+    "gn:latitude":38.42359,
+    "gn:longitude":67.8969,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ir-Sake",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217226
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"eb233f6e40684ae73b8a3e0fe68a3f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293569423,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1293569423,
+    "wof:lastmodified":1536669023,
+    "wof:name":"Ir-Sake",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.8969,
+    38.42359,
+    67.8969,
+    38.42359
+],
+  "geometry": {"coordinates":[67.8969,38.42359],"type":"Point"}
+}

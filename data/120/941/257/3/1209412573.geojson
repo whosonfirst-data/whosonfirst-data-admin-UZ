@@ -1,0 +1,64 @@
+{
+  "id": 1209412573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.61768,41.04085,71.61768,41.04085",
+    "geom:latitude":41.04085,
+    "geom:longitude":71.61768,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Chamanzor",
+    "gn:country_code":"UZ",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7578680,
+    "gn:latitude":41.04085,
+    "gn:longitude":71.61768,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chamanzor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chamanzor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7578680
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"75889e21721e495c7e2245f3f9836460",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209412573
+        }
+    ],
+    "wof:id":1209412573,
+    "wof:lastmodified":1537713394,
+    "wof:name":"Chamanzor",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.61768000000002,
+    41.04085,
+    71.61768000000002,
+    41.04085
+],
+  "geometry": {"coordinates":[71.61768000000002,41.04085],"type":"Point"}
+}

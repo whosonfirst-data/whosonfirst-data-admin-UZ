@@ -1,0 +1,68 @@
+{
+  "id": 1276847729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.87773,38.44896,67.87773,38.44896",
+    "geom:latitude":38.44896,
+    "geom:longitude":67.87773,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Til'garan-Katta",
+    "gn:country_code":"UZ",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215952,
+    "gn:latitude":38.44896,
+    "gn:longitude":67.87773,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Til\u2019garan-Katta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Til\u2019garan-Katta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215952
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"810626678c65fc9d76dc420e138a032e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276847729,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1276847729,
+    "wof:lastmodified":1537713240,
+    "wof:name":"Til'garan-Katta",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.87773,
+    38.44896,
+    67.87773,
+    38.44896
+],
+  "geometry": {"coordinates":[67.87773,38.44896],"type":"Point"}
+}

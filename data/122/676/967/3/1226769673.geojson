@@ -1,0 +1,68 @@
+{
+  "id": 1226769673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.76355,38.97417,65.76355,38.97417",
+    "geom:latitude":38.97417,
+    "geom:longitude":65.76355,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Darcha",
+    "gn:country_code":"UZ",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7630402,
+    "gn:latitude":38.97417,
+    "gn:longitude":65.76355,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Darcha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Darcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7630402
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"655df3b7bca1136ee5123a2488d3fe75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226769673,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1226769673,
+    "wof:lastmodified":1537713402,
+    "wof:name":"Darcha",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.76355,
+    38.97417,
+    65.76355,
+    38.97417
+],
+  "geometry": {"coordinates":[65.76355,38.97417],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243350487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.26474,37.8127,67.26474,37.8127",
+    "geom:latitude":37.8127,
+    "geom:longitude":67.26474,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Shaharlota",
+    "gn:country_code":"UZ",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244837,
+    "gn:latitude":37.8127,
+    "gn:longitude":67.26474,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Shaharlota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Shaharlota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244837
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"626e00150ddd9de1b5c79f9c03f1d44f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243350487,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1243350487,
+    "wof:lastmodified":1537713498,
+    "wof:name":"Shaharlota",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.26474,
+    37.8127,
+    67.26474,
+    37.8127
+],
+  "geometry": {"coordinates":[67.26474,37.8127],"type":"Point"}
+}

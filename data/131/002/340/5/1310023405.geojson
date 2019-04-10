@@ -1,0 +1,68 @@
+{
+  "id": 1310023405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.01214,40.79489,73.01214,40.79489",
+    "geom:latitude":40.79489,
+    "geom:longitude":73.01214,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qorabog`ish",
+    "gn:country_code":"UZ",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229684,
+    "gn:latitude":40.79489,
+    "gn:longitude":73.01214,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Qorabog\u2018ish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Qorabog\u2018ish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229684
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"cd9352fa48d66ec3e13ffea7d47ddddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310023405,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1310023405,
+    "wof:lastmodified":1537713481,
+    "wof:name":"Qorabog`ish",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.01214,
+    40.79489,
+    73.01214,
+    40.79489
+],
+  "geometry": {"coordinates":[73.01214,40.79489],"type":"Point"}
+}

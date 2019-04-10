@@ -1,0 +1,74 @@
+{
+  "id": 1226046685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.54482,40.91628,72.54482,40.91628",
+    "geom:latitude":40.91628,
+    "geom:longitude":72.54482,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Abjuvaz",
+    "gn:country_code":"UZ",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163797,
+    "gn:latitude":40.91628,
+    "gn:longitude":72.54482,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Abjuvaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0434\u0436\u0443\u0432\u0430\u0437"
+    ],
+    "name:und_x_variant":[
+        "Abdzhuvaz"
+    ],
+    "name:uzb_x_preferred":[
+        "Abjuvaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163797
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"38d1e8e6b754560473a8d41f3f97e7eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226046685,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1226046685,
+    "wof:lastmodified":1537713437,
+    "wof:name":"Abjuvaz",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.54482,
+    40.91628,
+    72.54482,
+    40.91628
+],
+  "geometry": {"coordinates":[72.54482,40.91628],"type":"Point"}
+}

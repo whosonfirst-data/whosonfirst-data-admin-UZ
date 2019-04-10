@@ -1,0 +1,74 @@
+{
+  "id": 1327347715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.07185,40.75733,72.07185,40.75733",
+    "geom:latitude":40.75733,
+    "geom:longitude":72.07185,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tolmozor",
+    "gn:country_code":"UZ",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8152087,
+    "gn:latitude":40.75733,
+    "gn:longitude":72.07185,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Tolmozor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u043c\u0430\u0437\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Talmazar"
+    ],
+    "name:uzb_x_preferred":[
+        "Tolmozor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8152087
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"cc78a7d54f4f51f2e0086de0802105ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327347715,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1327347715,
+    "wof:lastmodified":1537713429,
+    "wof:name":"Tolmozor",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.07185,
+    40.75733,
+    72.07185,
+    40.75733
+],
+  "geometry": {"coordinates":[72.07185,40.75733],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1242671473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.40028,39.74583,66.40028,39.74583",
+    "geom:latitude":39.74583,
+    "geom:longitude":66.40028,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nagornaya",
+    "gn:country_code":"UZ",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216438,
+    "gn:latitude":39.74583,
+    "gn:longitude":66.40028,
+    "gn:modification_date":"2001-11-29",
+    "gn:name":"Nagornaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216438
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"51524543dfc19746277030a454342568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242671473,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1242671473,
+    "wof:lastmodified":1536929298,
+    "wof:name":"Nagornaya",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.40028000000001,
+    39.74583,
+    66.40028000000001,
+    39.74583
+],
+  "geometry": {"coordinates":[66.40028000000001,39.74583],"type":"Point"}
+}

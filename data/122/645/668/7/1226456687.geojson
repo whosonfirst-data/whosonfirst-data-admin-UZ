@@ -1,0 +1,75 @@
+{
+  "id": 1226456687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.33415,40.91436,72.33415,40.91436",
+    "geom:latitude":40.91436,
+    "geom:longitude":72.33415,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Madrasa",
+    "gn:country_code":"UZ",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513220,
+    "gn:latitude":40.91436,
+    "gn:longitude":72.33415,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Madrasa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0434\u0440\u0430\u0441\u0430"
+    ],
+    "name:und_x_variant":[
+        "Medreso-Avtobachya",
+        "Medrese-Avtobachi"
+    ],
+    "name:uzb_x_preferred":[
+        "Madrasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513220
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6406e67cb4d0333d112845996bbf81f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226456687,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1226456687,
+    "wof:lastmodified":1537713323,
+    "wof:name":"Madrasa",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.33415,
+    40.91436,
+    72.33415,
+    40.91436
+],
+  "geometry": {"coordinates":[72.33414999999999,40.91436],"type":"Point"}
+}

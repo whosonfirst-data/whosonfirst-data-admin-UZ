@@ -1,0 +1,67 @@
+{
+  "id": 1209015951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.61689,40.25317,71.61689,40.25317",
+    "geom:latitude":40.25317,
+    "geom:longitude":71.61689,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qizil",
+    "gn:country_code":"UZ",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376088,
+    "gn:latitude":40.25317,
+    "gn:longitude":71.61689,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Qizil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kizil"
+    ],
+    "name:uzb_x_preferred":[
+        "Qizil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376088
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"46b144eb5f0209e5c5b8942735abc88d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209015951
+        }
+    ],
+    "wof:id":1209015951,
+    "wof:lastmodified":1537713439,
+    "wof:name":"Qizil",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.61689,
+    40.25317,
+    71.61689,
+    40.25317
+],
+  "geometry": {"coordinates":[71.61689,40.25317],"type":"Point"}
+}

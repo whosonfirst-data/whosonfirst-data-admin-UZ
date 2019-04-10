@@ -1,0 +1,68 @@
+{
+  "id": 1292905481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.66203,40.52863,70.66203,40.52863",
+    "geom:latitude":40.52863,
+    "geom:longitude":70.66203,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Xalqobod",
+    "gn:country_code":"UZ",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646097,
+    "gn:latitude":40.52863,
+    "gn:longitude":70.66203,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Xalqobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Xalqobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646097
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f4150de3c19217f5d29c1a96f67062c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1292905481,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1292905481,
+    "wof:lastmodified":1537713441,
+    "wof:name":"Xalqobod",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.66203,
+    40.52863,
+    70.66203,
+    40.52863
+],
+  "geometry": {"coordinates":[70.66203,40.52863],"type":"Point"}
+}

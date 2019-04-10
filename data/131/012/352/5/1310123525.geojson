@@ -1,0 +1,75 @@
+{
+  "id": 1310123525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.16264,40.60726,72.16264,40.60726",
+    "geom:latitude":40.60726,
+    "geom:longitude":72.16264,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qo`ng`irot",
+    "gn:country_code":"UZ",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513391,
+    "gn:latitude":40.60726,
+    "gn:longitude":72.16264,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Qo\u2018ng\u2018irot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043d\u0433\u0438\u0440\u0430\u0442"
+    ],
+    "name:und_x_variant":[
+        "Kungirat",
+        "Kungrad"
+    ],
+    "name:uzb_x_preferred":[
+        "Qo\u2018ng\u2018irot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513391
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"36e96f206d1ce6010799eab910b189e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310123525,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1310123525,
+    "wof:lastmodified":1537713327,
+    "wof:name":"Qo`ng`irot",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.16264,
+    40.60726,
+    72.16264,
+    40.60726
+],
+  "geometry": {"coordinates":[72.16264,40.60726],"type":"Point"}
+}

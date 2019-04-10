@@ -1,0 +1,64 @@
+{
+  "id": 1209186715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.88586,40.22706,68.88586,40.22706",
+    "geom:latitude":40.22706,
+    "geom:longitude":68.88586,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Chambil",
+    "gn:country_code":"UZ",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242598,
+    "gn:latitude":40.22706,
+    "gn:longitude":68.88586,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Chambil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Chambil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242598
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"541ca00f690c8530ae0cb8feed380b8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209186715
+        }
+    ],
+    "wof:id":1209186715,
+    "wof:lastmodified":1537713497,
+    "wof:name":"Chambil",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.88586,
+    40.22706,
+    68.88586,
+    40.22706
+],
+  "geometry": {"coordinates":[68.88585999999999,40.22706],"type":"Point"}
+}

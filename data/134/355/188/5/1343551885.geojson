@@ -1,0 +1,65 @@
+{
+  "id": 1343551885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.01371,39.02816,67.01371,39.02816",
+    "geom:latitude":39.02816,
+    "geom:longitude":67.01371,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bo`zariq",
+    "gn:country_code":"UZ",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786181,
+    "gn:latitude":39.02816,
+    "gn:longitude":67.01371,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Bo\u2018zariq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786181
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"cd46727aeb057c825c5033109f9c403e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343551885,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1343551885,
+    "wof:lastmodified":1536611811,
+    "wof:name":"Bo`zariq",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.01371,
+    39.02816,
+    67.01371,
+    39.02816
+],
+  "geometry": {"coordinates":[67.01371,39.02816],"type":"Point"}
+}

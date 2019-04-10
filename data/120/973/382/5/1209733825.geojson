@@ -1,0 +1,65 @@
+{
+  "id": 1209733825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.8,40.15,66.8,40.15",
+    "geom:latitude":40.15,
+    "geom:longitude":66.8,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Darnsay",
+    "gn:country_code":"UZ",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514170,
+    "gn:latitude":40.15,
+    "gn:longitude":66.8,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Darnsay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514170
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b3f2b2ccc4c5530825804621c3d7f090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209733825,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1209733825,
+    "wof:lastmodified":1536375838,
+    "wof:name":"Darnsay",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.8,
+    40.15,
+    66.8,
+    40.15
+],
+  "geometry": {"coordinates":[66.8,40.15],"type":"Point"}
+}

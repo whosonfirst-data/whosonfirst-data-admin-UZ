@@ -1,0 +1,70 @@
+{
+  "id": 1326748821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.95,39.86667,66.95,39.86667",
+    "geom:latitude":39.86667,
+    "geom:longitude":66.95,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tupadas",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215919,
+    "gn:latitude":39.86667,
+    "gn:longitude":66.95,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tupadas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tupalas",
+        "Tupadas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215919
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b33235c05ab17b527e6e4796c15414ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326748821,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1326748821,
+    "wof:lastmodified":1537713239,
+    "wof:name":"Tupadas",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.95,
+    39.86667,
+    66.95,
+    39.86667
+],
+  "geometry": {"coordinates":[66.95,39.86667],"type":"Point"}
+}

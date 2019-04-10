@@ -1,0 +1,71 @@
+{
+  "id": 1276144393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.96567,41.11791,71.96567,41.11791",
+    "geom:latitude":41.11791,
+    "geom:longitude":71.96567,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Yangihayot",
+    "gn:country_code":"UZ",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580505,
+    "gn:latitude":41.11791,
+    "gn:longitude":71.96567,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Yangihayot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yangihayot"
+    ],
+    "name:kir_x_preferred":[
+        "Yangihayot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580505
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a2d508f110d53867aaca81e4ba49f5f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276144393,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1276144393,
+    "wof:lastmodified":1537713400,
+    "wof:name":"Yangihayot",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.96566999999997,
+    41.11791,
+    71.96566999999997,
+    41.11791
+],
+  "geometry": {"coordinates":[71.96566999999997,41.11791],"type":"Point"}
+}

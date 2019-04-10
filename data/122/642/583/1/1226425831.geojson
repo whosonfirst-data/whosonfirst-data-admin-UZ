@@ -1,0 +1,68 @@
+{
+  "id": 1226425831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.20415,40.77653,69.20415,40.77653",
+    "geom:latitude":40.77653,
+    "geom:longitude":69.20415,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Oqbaliq",
+    "gn:country_code":"UZ",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241919,
+    "gn:latitude":40.77653,
+    "gn:longitude":69.20415,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Oqbaliq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Oqbaliq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241919
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a544c7a403cb7184e9353bf73947f223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226425831,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1226425831,
+    "wof:lastmodified":1537713489,
+    "wof:name":"Oqbaliq",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.20415,
+    40.77653,
+    69.20415,
+    40.77653
+],
+  "geometry": {"coordinates":[69.20415,40.77653],"type":"Point"}
+}

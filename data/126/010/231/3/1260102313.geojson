@@ -1,0 +1,68 @@
+{
+  "id": 1260102313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.12516,40.94397,72.12516,40.94397",
+    "geom:latitude":40.94397,
+    "geom:longitude":72.12516,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Pakhtafront",
+    "gn:country_code":"UZ",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148750,
+    "gn:latitude":40.94397,
+    "gn:longitude":72.12516,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pakhtafront",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0445\u0442\u0430\u0444\u0440\u043e\u043d\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148750
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a9b028b2aaca275b75f27f9ffa205061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260102313,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1260102313,
+    "wof:lastmodified":1537713416,
+    "wof:name":"Pakhtafront",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.12516,
+    40.94397,
+    72.12516,
+    40.94397
+],
+  "geometry": {"coordinates":[72.12515999999999,40.94397],"type":"Point"}
+}

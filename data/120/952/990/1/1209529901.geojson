@@ -1,0 +1,73 @@
+{
+  "id": 1209529901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.72742,40.59457,72.72742,40.59457",
+    "geom:latitude":40.59457,
+    "geom:longitude":72.72742,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"So`qoloq",
+    "gn:country_code":"UZ",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139953,
+    "gn:latitude":40.59457,
+    "gn:longitude":72.72742,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"So\u2018qoloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043a\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Sukulak"
+    ],
+    "name:uzb_x_preferred":[
+        "So\u2018qoloq"
+    ],
+    "name:uzb_x_variant":[
+        "Sukolok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139953
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"3ebf9ee048eb043dd279f85a088c8478",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209529901
+        }
+    ],
+    "wof:id":1209529901,
+    "wof:lastmodified":1537713406,
+    "wof:name":"So`qoloq",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.72742,
+    40.59457,
+    72.72742,
+    40.59457
+],
+  "geometry": {"coordinates":[72.72742,40.59457],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1327039985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.28333,40.11667,64.28333,40.11667",
+    "geom:latitude":40.11667,
+    "geom:longitude":64.28333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Baki-Mirishkor",
+    "gn:country_code":"UZ",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514469,
+    "gn:latitude":40.11667,
+    "gn:longitude":64.28333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Baki-Mirishkor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514469
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"55f0ba5ff81a7cd2495107ce9fbbe750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327039985,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":1327039985,
+    "wof:lastmodified":1536749238,
+    "wof:name":"Baki-Mirishkor",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.28333,
+    40.11667,
+    64.28333,
+    40.11667
+],
+  "geometry": {"coordinates":[64.28333000000001,40.11667],"type":"Point"}
+}

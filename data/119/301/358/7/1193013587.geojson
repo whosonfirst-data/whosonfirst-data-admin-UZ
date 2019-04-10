@@ -1,0 +1,71 @@
+{
+  "id": 1193013587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.08039,41.06204,72.08039,41.06204",
+    "geom:latitude":41.06204,
+    "geom:longitude":72.08039,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Beshtepa",
+    "gn:country_code":"UZ",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7528840,
+    "gn:latitude":41.06204,
+    "gn:longitude":72.08039,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Beshtepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Beshtepa"
+    ],
+    "name:uzb_x_preferred":[
+        "Beshtepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7528840
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0e687cb75f1b8a633ace1253bef12c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1193013587,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1193013587,
+    "wof:lastmodified":1537713380,
+    "wof:name":"Beshtepa",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.08039000000002,
+    41.06204,
+    72.08039000000002,
+    41.06204
+],
+  "geometry": {"coordinates":[72.08039000000002,41.06204],"type":"Point"}
+}

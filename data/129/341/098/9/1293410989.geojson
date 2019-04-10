@@ -1,0 +1,65 @@
+{
+  "id": 1293410989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.76667,40.51667,65.76667,40.51667",
+    "geom:latitude":40.51667,
+    "geom:longitude":65.76667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kachat",
+    "gn:country_code":"UZ",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513884,
+    "gn:latitude":40.51667,
+    "gn:longitude":65.76667,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kachat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513884
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b640b77b6ba1156744a135f34cc21af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293410989,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1293410989,
+    "wof:lastmodified":1536897280,
+    "wof:name":"Kachat",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.76666999999999,
+    40.51667,
+    65.76666999999999,
+    40.51667
+],
+  "geometry": {"coordinates":[65.76666999999999,40.51667],"type":"Point"}
+}

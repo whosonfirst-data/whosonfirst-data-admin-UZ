@@ -1,0 +1,68 @@
+{
+  "id": 1309708313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.74102,38.4729,65.74102,38.4729",
+    "geom:latitude":38.4729,
+    "geom:longitude":65.74102,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Otquduq",
+    "gn:country_code":"UZ",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217825,
+    "gn:latitude":38.4729,
+    "gn:longitude":65.74102,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Otquduq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolodets At-Kuduk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217825
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"24181aa183c50d6ff82ac76d7031981d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1309708313,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1309708313,
+    "wof:lastmodified":1537713287,
+    "wof:name":"Otquduq",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.74101999999999,
+    38.4729,
+    65.74101999999999,
+    38.4729
+],
+  "geometry": {"coordinates":[65.74101999999999,38.4729],"type":"Point"}
+}

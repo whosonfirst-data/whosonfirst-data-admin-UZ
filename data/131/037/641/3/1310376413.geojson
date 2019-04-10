@@ -1,0 +1,70 @@
+{
+  "id": 1310376413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.10917,41.35944,69.10917,41.35944",
+    "geom:latitude":41.35944,
+    "geom:longitude":69.10917,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Altyntepa",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514603,
+    "gn:latitude":41.35944,
+    "gn:longitude":69.10917,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Altyntepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Altyn-Tyube",
+        "Altyntepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514603
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"220b176274ac72e4587f5d5696ea7eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310376413,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1310376413,
+    "wof:lastmodified":1537713362,
+    "wof:name":"Altyntepa",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.10916999999999,
+    41.35944,
+    69.10916999999999,
+    41.35944
+],
+  "geometry": {"coordinates":[69.10916999999999,41.35944],"type":"Point"}
+}

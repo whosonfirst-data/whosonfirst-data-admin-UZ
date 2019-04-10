@@ -1,0 +1,77 @@
+{
+  "id": 1276995093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.17074,40.58988,72.17074,40.58988",
+    "geom:latitude":40.58988,
+    "geom:longitude":72.17074,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bahrin",
+    "gn:country_code":"UZ",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140429,
+    "gn:latitude":40.58988,
+    "gn:longitude":72.17074,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Bahrin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0445\u0440\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Bakhrin"
+    ],
+    "name:uzb_x_preferred":[
+        "Bahrin"
+    ],
+    "name:uzb_x_variant":[
+        "Baxrin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140429
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"59d04a87a02ecfdf053351ecc70bcb9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276995093,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1276995093,
+    "wof:lastmodified":1537713411,
+    "wof:name":"Bahrin",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.17074000000002,
+    40.58988,
+    72.17074000000002,
+    40.58988
+],
+  "geometry": {"coordinates":[72.17074000000002,40.58988],"type":"Point"}
+}

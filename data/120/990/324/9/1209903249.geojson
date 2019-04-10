@@ -1,0 +1,69 @@
+{
+  "id": 1209903249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.91368,38.33907,67.91368,38.33907",
+    "geom:latitude":38.33907,
+    "geom:longitude":67.91368,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Yurchi",
+    "gn:country_code":"UZ",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215703,
+    "gn:latitude":38.33907,
+    "gn:longitude":67.91368,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Yurchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schurtschi",
+        "Yurchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215703
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2df488889278ec7a5c52af21ec55ad1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209903249,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1209903249,
+    "wof:lastmodified":1537713234,
+    "wof:name":"Yurchi",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.91368,
+    38.33907,
+    67.91368,
+    38.33907
+],
+  "geometry": {"coordinates":[67.91368,38.33907],"type":"Point"}
+}

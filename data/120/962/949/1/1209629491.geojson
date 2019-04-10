@@ -1,0 +1,64 @@
+{
+  "id": 1209629491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.18066,40.71502,72.18066,40.71502",
+    "geom:latitude":40.71502,
+    "geom:longitude":72.18066,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Uzunko`cha",
+    "gn:country_code":"UZ",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229505,
+    "gn:latitude":40.71502,
+    "gn:longitude":72.18066,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Uzunko\u2018cha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Uzunko\u2018cha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229505
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"34c9a7e485cb71506b1a6d2ad3601534",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209629491
+        }
+    ],
+    "wof:id":1209629491,
+    "wof:lastmodified":1537713480,
+    "wof:name":"Uzunko`cha",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.18066,
+    40.71502,
+    72.18066,
+    40.71502
+],
+  "geometry": {"coordinates":[72.18066,40.71502],"type":"Point"}
+}

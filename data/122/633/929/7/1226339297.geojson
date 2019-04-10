@@ -1,0 +1,68 @@
+{
+  "id": 1226339297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.56414,38.29618,66.56414,38.29618",
+    "geom:latitude":38.29618,
+    "geom:longitude":66.56414,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yetimquduq",
+    "gn:country_code":"UZ",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783743,
+    "gn:latitude":38.29618,
+    "gn:longitude":66.56414,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Yetimquduq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Yetimquduq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783743
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5d40275d61f8f5d1a8dc3dcf3043191b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226339297,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1226339297,
+    "wof:lastmodified":1537713403,
+    "wof:name":"Yetimquduq",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.56414000000001,
+    38.29618,
+    66.56414000000001,
+    38.29618
+],
+  "geometry": {"coordinates":[66.56414000000001,38.29618],"type":"Point"}
+}

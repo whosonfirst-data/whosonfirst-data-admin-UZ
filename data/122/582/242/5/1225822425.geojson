@@ -1,0 +1,65 @@
+{
+  "id": 1225822425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.74482,38.07501,67.74482,38.07501",
+    "geom:latitude":38.07501,
+    "geom:longitude":67.74482,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Saksan-Kapa",
+    "gn:country_code":"UZ",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216278,
+    "gn:latitude":38.07501,
+    "gn:longitude":67.74482,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Saksan-Kapa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216278
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b8e80518999b89f0e27f39a4e079b950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1225822425,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1225822425,
+    "wof:lastmodified":1537045477,
+    "wof:name":"Saksan-Kapa",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.74481999999999,
+    38.07501,
+    67.74481999999999,
+    38.07501
+],
+  "geometry": {"coordinates":[67.74481999999999,38.07501],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1242687733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.13333,39.53333,67.13333,39.53333",
+    "geom:latitude":39.53333,
+    "geom:longitude":67.13333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kazan-Aryk",
+    "gn:country_code":"UZ",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216955,
+    "gn:latitude":39.53333,
+    "gn:longitude":67.13333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Kazan-Aryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216955
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"af867b3b6cc467df6296a2d29bf20642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242687733,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1242687733,
+    "wof:lastmodified":1536905257,
+    "wof:name":"Kazan-Aryk",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.13333,
+    39.53333,
+    67.13333,
+    39.53333
+],
+  "geometry": {"coordinates":[67.13333,39.53333],"type":"Point"}
+}

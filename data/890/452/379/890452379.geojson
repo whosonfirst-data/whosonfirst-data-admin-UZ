@@ -1,0 +1,101 @@
+{
+  "id": 890452379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.37944,39.92944,64.37944,39.92944",
+    "geom:latitude":39.92944,
+    "geom:longitude":64.37944,
+    "gn:country":"UZ",
+    "gn:fcode":"PPL",
+    "gn:pop":12927,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0631\u0627\u0645\u06cc\u062a\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Romitan"
+    ],
+    "name:eng_x_preferred":[
+        "Romitan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30df\u30bf\u30f3"
+    ],
+    "name:kik_x_preferred":[
+        "Romitan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u043c\u0438\u0442\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Romitan"
+    ],
+    "name:tur_x_preferred":[
+        "Romitan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u043c\u0456\u0442\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Kal\u2019ty-Mauri"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0645\u06cc\u062a\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Romitan"
+    ],
+    "qs:name":"Romiton",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216290,
+        "gp:id":2272540,
+        "qs:id":130933,
+        "wd:id":"Q797824"
+    },
+    "wof:country":"UZ",
+    "wof:created":1469052815,
+    "wof:geomhash":"98bb527bb48ae0fa70f388cbef2d673a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":890452379,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":890452379,
+    "wof:lastmodified":1514502108,
+    "wof:name":"Romiton",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:population":12927,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.37944,
+    39.92944,
+    64.37944,
+    39.92944
+],
+  "geometry": {"coordinates":[64.37944,39.92944],"type":"Point"}
+}

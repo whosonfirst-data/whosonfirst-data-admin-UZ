@@ -1,0 +1,71 @@
+{
+  "id": 1344064343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.14393,40.47436,71.14393,40.47436",
+    "geom:latitude":40.47436,
+    "geom:longitude":71.14393,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Irg`ali",
+    "gn:country_code":"UZ",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11056931,
+    "gn:latitude":40.47436,
+    "gn:longitude":71.14393,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Irg\u2018ali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Irgali"
+    ],
+    "name:uzb_x_preferred":[
+        "Irg\u2018ali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056931
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ba1d16a1d53759f5d8c4fabafb50e3e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344064343,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1344064343,
+    "wof:lastmodified":1537713466,
+    "wof:name":"Irg`ali",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.14393000000003,
+    40.47436,
+    71.14393000000003,
+    40.47436
+],
+  "geometry": {"coordinates":[71.14393000000003,40.47436],"type":"Point"}
+}

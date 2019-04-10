@@ -1,0 +1,70 @@
+{
+  "id": 1209707353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.82885,40.0254,64.82885,40.0254",
+    "geom:latitude":40.0254,
+    "geom:longitude":64.82885,
+    "gn:admin1_code":"07",
+    "gn:admin3_code":"1538233.0",
+    "gn:asciiname":"Qiziltepa Shahri",
+    "gn:country_code":"UZ",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1538233,
+    "gn:latitude":40.0254,
+    "gn:longitude":64.82885,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qiziltepa Shahri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorod Kyzyltepa",
+        "Qiziltepa Shahri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538233
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"30f55f09a3471715713ad7585b036382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209707353,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1209707353,
+    "wof:lastmodified":1537713371,
+    "wof:name":"Qiziltepa Shahri",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.82885,
+    40.0254,
+    64.82885,
+    40.0254
+],
+  "geometry": {"coordinates":[64.82885,40.0254],"type":"Point"}
+}

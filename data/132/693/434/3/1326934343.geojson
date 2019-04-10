@@ -1,0 +1,71 @@
+{
+  "id": 1326934343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.67992,40.784,72.67992,40.784",
+    "geom:latitude":40.784,
+    "geom:longitude":72.67992,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bolgariya",
+    "gn:country_code":"UZ",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229691,
+    "gn:latitude":40.784,
+    "gn:longitude":72.67992,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Bolgariya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Bolgariya"
+    ],
+    "name:uzb_x_variant":[
+        "Guliston"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229691
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b85dd62ff2b2741a400538b34ed89360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326934343,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1326934343,
+    "wof:lastmodified":1537713481,
+    "wof:name":"Bolgariya",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.67992,
+    40.784,
+    72.67992,
+    40.784
+],
+  "geometry": {"coordinates":[72.67992,40.784],"type":"Point"}
+}

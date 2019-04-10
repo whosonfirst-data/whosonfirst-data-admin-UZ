@@ -1,0 +1,74 @@
+{
+  "id": 1344271209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.16002,40.68185,72.16002,40.68185",
+    "geom:latitude":40.68185,
+    "geom:longitude":72.16002,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Do`rmon",
+    "gn:country_code":"UZ",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149758,
+    "gn:latitude":40.68185,
+    "gn:longitude":72.16002,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Do\u2018rmon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0440\u043c\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Dorman"
+    ],
+    "name:uzb_x_preferred":[
+        "Do\u2018rmon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149758
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e76a87f2fcc8b679d0bb937e196e91a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344271209,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1344271209,
+    "wof:lastmodified":1537713426,
+    "wof:name":"Do`rmon",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.16001999999997,
+    40.68185,
+    72.16001999999997,
+    40.68185
+],
+  "geometry": {"coordinates":[72.16001999999997,40.68185],"type":"Point"}
+}

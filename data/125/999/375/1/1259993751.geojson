@@ -1,0 +1,76 @@
+{
+  "id": 1259993751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.06452,40.67091,72.06452,40.67091",
+    "geom:latitude":40.67091,
+    "geom:longitude":72.06452,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nazarmahram",
+    "gn:country_code":"UZ",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527583,
+    "gn:latitude":40.67091,
+    "gn:longitude":72.06452,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Nazarmahram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0437\u0430\u0440\u043c\u0430\u0445\u0440\u0430\u043c"
+    ],
+    "name:und_x_variant":[
+        "Nazarmakhram",
+        "Nazar-Makhram"
+    ],
+    "name:uzb_x_preferred":[
+        "Nazarmahram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527583,
+        "wk:page":"Nazar-Makhram"
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6d1ef7741c1f24156a8cebf688f70399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259993751,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1259993751,
+    "wof:lastmodified":1537713366,
+    "wof:name":"Nazarmahram",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.06452,
+    40.67091,
+    72.06452,
+    40.67091
+],
+  "geometry": {"coordinates":[72.06452,40.67091],"type":"Point"}
+}

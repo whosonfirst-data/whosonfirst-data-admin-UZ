@@ -1,0 +1,65 @@
+{
+  "id": 1343247685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.07333,38.64139,67.07333,38.64139",
+    "geom:latitude":38.64139,
+    "geom:longitude":67.07333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Supa",
+    "gn:country_code":"UZ",
+    "gn:dem":1787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463565,
+    "gn:latitude":38.64139,
+    "gn:longitude":67.07333,
+    "gn:modification_date":"2001-02-19",
+    "gn:name":"Supa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463565
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2b1afd922e2b9694725317e6a2702c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343247685,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1343247685,
+    "wof:lastmodified":1537051251,
+    "wof:name":"Supa",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.07333,
+    38.64139,
+    67.07333,
+    38.64139
+],
+  "geometry": {"coordinates":[67.07333,38.64139],"type":"Point"}
+}

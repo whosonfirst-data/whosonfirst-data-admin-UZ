@@ -1,0 +1,71 @@
+{
+  "id": 1310216667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.59901,40.56364,71.59901,40.56364",
+    "geom:latitude":40.56364,
+    "geom:longitude":71.59901,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Solijonobod",
+    "gn:country_code":"UZ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10973674,
+    "gn:latitude":40.56364,
+    "gn:longitude":71.59901,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Solijonobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salydzhanabad"
+    ],
+    "name:uzb_x_preferred":[
+        "Solijonobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10973674
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"bea1f57bb602beafa8ed2ba9696fbe2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310216667,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1310216667,
+    "wof:lastmodified":1537713455,
+    "wof:name":"Solijonobod",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.59900999999998,
+    40.56364,
+    71.59900999999998,
+    40.56364
+],
+  "geometry": {"coordinates":[71.59900999999998,40.56364],"type":"Point"}
+}

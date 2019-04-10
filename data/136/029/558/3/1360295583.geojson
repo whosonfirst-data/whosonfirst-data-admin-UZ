@@ -1,0 +1,65 @@
+{
+  "id": 1360295583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.48333,41.3,60.48333,41.3",
+    "geom:latitude":41.3,
+    "geom:longitude":60.48333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yangiabad",
+    "gn:country_code":"UZ",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512371,
+    "gn:latitude":41.3,
+    "gn:longitude":60.48333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Yangiabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512371
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"78b4bc9a39cf3150f096c9669d351b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360295583,
+            "region_id":85680377
+        }
+    ],
+    "wof:id":1360295583,
+    "wof:lastmodified":1536641003,
+    "wof:name":"Yangiabad",
+    "wof:parent_id":85680377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.48333,
+    41.3,
+    60.48333,
+    41.3
+],
+  "geometry": {"coordinates":[60.48333,41.3],"type":"Point"}
+}

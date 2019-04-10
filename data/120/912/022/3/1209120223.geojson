@@ -1,0 +1,70 @@
+{
+  "id": 1209120223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.36692,40.52899,72.36692,40.52899",
+    "geom:latitude":40.52899,
+    "geom:longitude":72.36692,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Boboxuroson",
+    "gn:country_code":"UZ",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514493,
+    "gn:latitude":40.52899,
+    "gn:longitude":72.36692,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Boboxuroson",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Babakhorasan",
+        "Baba-Khorosan",
+        "Bobokhurosan",
+        "Babakharasan"
+    ],
+    "name:uzb_x_preferred":[
+        "Boboxuroson"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514493
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1fce6c5e3cacf61f4e60ad97e7c84362",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209120223
+        }
+    ],
+    "wof:id":1209120223,
+    "wof:lastmodified":1537713360,
+    "wof:name":"Boboxuroson",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.36692,
+    40.52899,
+    72.36692,
+    40.52899
+],
+  "geometry": {"coordinates":[72.36691999999999,40.52899],"type":"Point"}
+}

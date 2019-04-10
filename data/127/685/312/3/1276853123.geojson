@@ -1,0 +1,68 @@
+{
+  "id": 1276853123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.72492,40.52109,68.72492,40.52109",
+    "geom:latitude":40.52109,
+    "geom:longitude":68.72492,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Qurilish",
+    "gn:country_code":"UZ",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242353,
+    "gn:latitude":40.52109,
+    "gn:longitude":68.72492,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Qurilish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Qurilish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242353
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"62a857a2739350c8aa37a2956a893c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276853123,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1276853123,
+    "wof:lastmodified":1537713493,
+    "wof:name":"Qurilish",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.72492,
+    40.52109,
+    68.72492,
+    40.52109
+],
+  "geometry": {"coordinates":[68.72492,40.52109],"type":"Point"}
+}

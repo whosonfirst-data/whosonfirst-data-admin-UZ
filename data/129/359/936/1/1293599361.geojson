@@ -1,0 +1,70 @@
+{
+  "id": 1293599361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.03333,39.8,67.03333,39.8",
+    "geom:latitude":39.8,
+    "geom:longitude":67.03333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Naymantepa",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216405,
+    "gn:latitude":39.8,
+    "gn:longitude":67.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Naymantepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nayman-tepe",
+        "Naymantepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216405
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b1800e4131348b506a2985317d69d990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293599361,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1293599361,
+    "wof:lastmodified":1537713252,
+    "wof:name":"Naymantepa",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.03333,
+    39.8,
+    67.03333,
+    39.8
+],
+  "geometry": {"coordinates":[67.03333000000001,39.8],"type":"Point"}
+}

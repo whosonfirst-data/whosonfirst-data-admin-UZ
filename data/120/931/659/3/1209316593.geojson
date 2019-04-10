@@ -1,0 +1,64 @@
+{
+  "id": 1209316593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.11256,40.58917,71.11256,40.58917",
+    "geom:latitude":40.58917,
+    "geom:longitude":71.11256,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tuman",
+    "gn:country_code":"UZ",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11057118,
+    "gn:latitude":40.58917,
+    "gn:longitude":71.11256,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Tuman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Tuman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11057118
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6c486409a0194864dc9d4fc94aff13c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209316593
+        }
+    ],
+    "wof:id":1209316593,
+    "wof:lastmodified":1537713470,
+    "wof:name":"Tuman",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.11256,
+    40.58917,
+    71.11256,
+    40.58917
+],
+  "geometry": {"coordinates":[71.11256,40.58917],"type":"Point"}
+}

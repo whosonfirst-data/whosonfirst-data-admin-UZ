@@ -1,0 +1,68 @@
+{
+  "id": 1310693903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.34797,40.96897,71.34797,40.96897",
+    "geom:latitude":40.96897,
+    "geom:longitude":71.34797,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Do`stlarobod",
+    "gn:country_code":"UZ",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7537362,
+    "gn:latitude":40.96897,
+    "gn:longitude":71.34797,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Do\u2018stlarobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Do\u2018stlarobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7537362
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"56d2e9c6235cb466134c5be8c27c10fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310693903,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1310693903,
+    "wof:lastmodified":1537713388,
+    "wof:name":"Do`stlarobod",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.34796999999998,
+    40.96897,
+    71.34796999999998,
+    40.96897
+],
+  "geometry": {"coordinates":[71.34796999999998,40.96897],"type":"Point"}
+}

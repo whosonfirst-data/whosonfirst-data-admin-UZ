@@ -1,0 +1,80 @@
+{
+  "id": 421167311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.9125,39.76389,66.9125,39.76389",
+    "geom:latitude":39.76389,
+    "geom:longitude":66.9125,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Dagbid"
+    ],
+    "qs:gn_country":"UZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1217512,
+    "qs:gn_pop":8044,
+    "qs:name":"Dakhbed",
+    "qs:name_adm0":"Uzbekistan",
+    "qs:name_adm1":"Samarqand",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":130942,
+    "qs:woe_adm0":23424980,
+    "qs:woe_id":2269857,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217512,
+        "gp:id":2269857,
+        "qs:id":130942
+    },
+    "wof:country":"UZ",
+    "wof:created":1459008726,
+    "wof:geomhash":"74eaf4dab02db312863ca88debf11e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":421167311,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":421167311,
+    "wof:lastmodified":1505340585,
+    "wof:name":"Dakhbed",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:population":8044,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.9125,
+    39.76389,
+    66.9125,
+    39.76389
+],
+  "geometry": {"coordinates":[66.91249999999999,39.76389],"type":"Point"}
+}

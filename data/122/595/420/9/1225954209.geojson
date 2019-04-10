@@ -1,0 +1,71 @@
+{
+  "id": 1225954209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.08333,41.68333,70.08333,41.68333",
+    "geom:latitude":41.68333,
+    "geom:longitude":70.08333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dzhakhanabad",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514115,
+    "gn:latitude":41.68333,
+    "gn:longitude":70.08333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dzhakhanabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bogustan",
+        "Dzhakhanabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514115,
+        "wk:page":"Bogustan"
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c0f61f57b86bbb67977bc5878a00b26e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1225954209,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1225954209,
+    "wof:lastmodified":1537713349,
+    "wof:name":"Dzhakhanabad",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.08333,
+    41.68333,
+    70.08333,
+    41.68333
+],
+  "geometry": {"coordinates":[70.08333,41.68333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310212591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.86301,40.47886,71.86301,40.47886",
+    "geom:latitude":40.47886,
+    "geom:longitude":71.86301,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dasht",
+    "gn:country_code":"UZ",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10975021,
+    "gn:latitude":40.47886,
+    "gn:longitude":71.86301,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Dasht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Dasht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10975021
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"885cfbccbe6630987105aef6951a1088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310212591,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1310212591,
+    "wof:lastmodified":1537713460,
+    "wof:name":"Dasht",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.86301,
+    40.47886,
+    71.86301,
+    40.47886
+],
+  "geometry": {"coordinates":[71.86301,40.47886],"type":"Point"}
+}

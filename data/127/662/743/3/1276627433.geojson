@@ -1,0 +1,65 @@
+{
+  "id": 1276627433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.705,40.88111,68.705,40.88111",
+    "geom:latitude":40.88111,
+    "geom:longitude":68.705,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Shalikor",
+    "gn:country_code":"UZ",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535850,
+    "gn:latitude":40.88111,
+    "gn:longitude":68.705,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Shalikor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535850
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"03bc6281545784f349eb26da0b123063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276627433,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1276627433,
+    "wof:lastmodified":1536881356,
+    "wof:name":"Shalikor",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.705,
+    40.88111,
+    68.705,
+    40.88111
+],
+  "geometry": {"coordinates":[68.705,40.88111],"type":"Point"}
+}

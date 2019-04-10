@@ -1,0 +1,69 @@
+{
+  "id": 1209733705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.91667,39.7,67.91667,39.7",
+    "geom:latitude":39.7,
+    "geom:longitude":67.91667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ten'gatapty",
+    "gn:country_code":"UZ",
+    "gn:dem":1474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215964,
+    "gn:latitude":39.7,
+    "gn:longitude":67.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ten\u2019gatapty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Telge-Tapty",
+        "Ten\u2019gatapty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215964
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"864c47e4cb6d6d343aef644cb6f47141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209733705,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1209733705,
+    "wof:lastmodified":1537713240,
+    "wof:name":"Ten'gatapty",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.91667,
+    39.7,
+    67.91667,
+    39.7
+],
+  "geometry": {"coordinates":[67.91667,39.7],"type":"Point"}
+}

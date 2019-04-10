@@ -1,0 +1,65 @@
+{
+  "id": 1276640349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.53443,42.6627,61.53443,42.6627",
+    "geom:latitude":42.6627,
+    "geom:longitude":61.53443,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Chuqurqoq",
+    "gn:country_code":"UZ",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7888720,
+    "gn:latitude":42.6627,
+    "gn:longitude":61.53443,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Chuqurqoq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7888720
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0db2b6144cd5ac4aa2974f347ab931ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276640349,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1276640349,
+    "wof:lastmodified":1536863164,
+    "wof:name":"Chuqurqoq",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.53443000000001,
+    42.6627,
+    61.53443000000001,
+    42.6627
+],
+  "geometry": {"coordinates":[61.53443000000001,42.6627],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1360181459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.46688,43.17748,60.46688,43.17748",
+    "geom:latitude":43.17748,
+    "geom:longitude":60.46688,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Beltov",
+    "gn:country_code":"UZ",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889087,
+    "gn:latitude":43.17748,
+    "gn:longitude":60.46688,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Beltov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889087
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"db5bbc542264767e1ca1efa7afc9e355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360181459,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1360181459,
+    "wof:lastmodified":1536806393,
+    "wof:name":"Beltov",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.46688,
+    43.17748,
+    60.46688,
+    43.17748
+],
+  "geometry": {"coordinates":[60.46688,43.17748],"type":"Point"}
+}

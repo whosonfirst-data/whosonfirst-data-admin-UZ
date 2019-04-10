@@ -1,0 +1,67 @@
+{
+  "id": 1209307139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.98692,41.12514,71.98692,41.12514",
+    "geom:latitude":41.12514,
+    "geom:longitude":71.98692,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Rashidov Nomli",
+    "gn:country_code":"UZ",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580282,
+    "gn:latitude":41.12514,
+    "gn:longitude":71.98692,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Rashidov Nomli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rashidov Nomli"
+    ],
+    "name:kir_x_preferred":[
+        "Rashidov Nomli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580282
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5922d4e9db20b97a6c9842b7d1e63040",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209307139
+        }
+    ],
+    "wof:id":1209307139,
+    "wof:lastmodified":1537713396,
+    "wof:name":"Rashidov Nomli",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.98692,
+    41.12514,
+    71.98692,
+    41.12514
+],
+  "geometry": {"coordinates":[71.98692,41.12514],"type":"Point"}
+}

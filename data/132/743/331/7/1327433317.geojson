@@ -1,0 +1,68 @@
+{
+  "id": 1327433317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.80938,40.39747,71.80938,40.39747",
+    "geom:latitude":40.39747,
+    "geom:longitude":71.80938,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Beshbola",
+    "gn:country_code":"UZ",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514378,
+    "gn:latitude":40.39747,
+    "gn:longitude":71.80938,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Beshbola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beshbala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514378
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"fe9f9de8a1b9cb8427a87f2276010540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327433317,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1327433317,
+    "wof:lastmodified":1537713357,
+    "wof:name":"Beshbola",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.80938,
+    40.39747,
+    71.80938,
+    40.39747
+],
+  "geometry": {"coordinates":[71.80938,40.39747],"type":"Point"}
+}

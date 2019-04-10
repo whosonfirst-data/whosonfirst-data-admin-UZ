@@ -1,0 +1,65 @@
+{
+  "id": 1276426535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.06849,39.10799,67.06849,39.10799",
+    "geom:latitude":39.10799,
+    "geom:longitude":67.06849,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Birkunlik",
+    "gn:country_code":"UZ",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786173,
+    "gn:latitude":39.10799,
+    "gn:longitude":67.06849,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Birkunlik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786173
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"80b80235d0ddaca4df47557224902a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276426535,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1276426535,
+    "wof:lastmodified":1536653756,
+    "wof:name":"Birkunlik",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.06849,
+    39.10799,
+    67.06849,
+    39.10799
+],
+  "geometry": {"coordinates":[67.06849,39.10799],"type":"Point"}
+}

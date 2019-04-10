@@ -1,0 +1,65 @@
+{
+  "id": 1293763853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.83803,38.70533,67.83803,38.70533",
+    "geom:latitude":38.70533,
+    "geom:longitude":67.83803,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Zinchov",
+    "gn:country_code":"UZ",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215658,
+    "gn:latitude":38.70533,
+    "gn:longitude":67.83803,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Zinchov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215658
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f66583c8a496c9da258c546f3e699c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293763853,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1293763853,
+    "wof:lastmodified":1536885240,
+    "wof:name":"Zinchov",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.83803,
+    38.70533,
+    67.83803,
+    38.70533
+],
+  "geometry": {"coordinates":[67.83803,38.70533],"type":"Point"}
+}

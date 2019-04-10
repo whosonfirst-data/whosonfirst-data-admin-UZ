@@ -1,0 +1,68 @@
+{
+  "id": 1243466097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.7375,40.33765,70.7375,40.33765",
+    "geom:latitude":40.33765,
+    "geom:longitude":70.7375,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bekobod",
+    "gn:country_code":"UZ",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646525,
+    "gn:latitude":40.33765,
+    "gn:longitude":70.7375,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Bekobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Bekobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646525
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f82cf561c5b5361db809ee1b74611161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243466097,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1243466097,
+    "wof:lastmodified":1537713443,
+    "wof:name":"Bekobod",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.7375,
+    40.33765,
+    70.7375,
+    40.33765
+],
+  "geometry": {"coordinates":[70.7375,40.33765],"type":"Point"}
+}

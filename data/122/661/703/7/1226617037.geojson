@@ -1,0 +1,65 @@
+{
+  "id": 1226617037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.25,41.03333,69.25,41.03333",
+    "geom:latitude":41.03333,
+    "geom:longitude":69.25,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ak-Touzak",
+    "gn:country_code":"UZ",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514638,
+    "gn:latitude":41.03333,
+    "gn:longitude":69.25,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Ak-Touzak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514638
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"97730132dc0149b733cbf0ae1bedf656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226617037,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1226617037,
+    "wof:lastmodified":1536900707,
+    "wof:name":"Ak-Touzak",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.25,
+    41.03333,
+    69.25,
+    41.03333
+],
+  "geometry": {"coordinates":[69.25,41.03333],"type":"Point"}
+}

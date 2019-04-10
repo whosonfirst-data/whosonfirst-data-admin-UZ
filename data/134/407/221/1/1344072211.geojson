@@ -1,0 +1,70 @@
+{
+  "id": 1344072211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.53831,40.58295,72.53831,40.58295",
+    "geom:latitude":40.58295,
+    "geom:longitude":72.53831,
+    "gn:asciiname":"Shatalyk",
+    "gn:country_code":"UZ",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140005,
+    "gn:latitude":40.58295,
+    "gn:longitude":72.53831,
+    "gn:modification_date":"2015-06-04",
+    "gn:name":"Shatalyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0428\u0430\u0442\u0430\u043b\u044b\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0442\u0430\u043b\u044b\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140005
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5a678925d498cf9047777bd6ba094f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344072211,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1344072211,
+    "wof:lastmodified":1537713406,
+    "wof:name":"Shatalyk",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.53831,
+    40.58295,
+    72.53831,
+    40.58295
+],
+  "geometry": {"coordinates":[72.53831,40.58295],"type":"Point"}
+}

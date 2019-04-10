@@ -1,0 +1,71 @@
+{
+  "id": 1259770265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.30005,37.61243,67.30005,37.61243",
+    "geom:latitude":37.61243,
+    "geom:longitude":67.30005,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Gilambob",
+    "gn:country_code":"UZ",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217299,
+    "gn:latitude":37.61243,
+    "gn:longitude":67.30005,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Gilambob",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gilyambob"
+    ],
+    "name:uzb_x_preferred":[
+        "Gilambob"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217299
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"03fceb8ef68d7fc81c41d423c06b1450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259770265,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1259770265,
+    "wof:lastmodified":1537713275,
+    "wof:name":"Gilambob",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.30005,
+    37.61243,
+    67.30005,
+    37.61243
+],
+  "geometry": {"coordinates":[67.30005,37.61243],"type":"Point"}
+}

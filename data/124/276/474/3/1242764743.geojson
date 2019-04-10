@@ -1,0 +1,65 @@
+{
+  "id": 1242764743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.08161,38.1176,67.08161,38.1176",
+    "geom:latitude":38.1176,
+    "geom:longitude":67.08161,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Bokaty",
+    "gn:country_code":"UZ",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217675,
+    "gn:latitude":38.1176,
+    "gn:longitude":67.08161,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Bokaty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217675
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"3fedbb84eef3b425da7aff0baf122a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242764743,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1242764743,
+    "wof:lastmodified":1536794403,
+    "wof:name":"Bokaty",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.08161,
+    38.1176,
+    67.08161,
+    38.1176
+],
+  "geometry": {"coordinates":[67.08161,38.1176],"type":"Point"}
+}

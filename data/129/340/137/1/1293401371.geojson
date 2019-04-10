@@ -1,0 +1,72 @@
+{
+  "id": 1293401371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.98952,40.59555,70.98952,40.59555",
+    "geom:latitude":40.59555,
+    "geom:longitude":70.98952,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sho`x",
+    "gn:country_code":"UZ",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512789,
+    "gn:latitude":40.59555,
+    "gn:longitude":70.98952,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Sho\u2018x",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuk",
+        "Shur"
+    ],
+    "name:uzb_x_preferred":[
+        "Sho\u2018x"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512789
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7ddacfdc078ad3e8ba7d05de3df54e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293401371,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1293401371,
+    "wof:lastmodified":1537713311,
+    "wof:name":"Sho`x",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.98952,
+    40.59555,
+    70.98952,
+    40.59555
+],
+  "geometry": {"coordinates":[70.98952,40.59555],"type":"Point"}
+}

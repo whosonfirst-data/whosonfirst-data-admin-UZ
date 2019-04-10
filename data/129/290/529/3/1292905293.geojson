@@ -1,0 +1,71 @@
+{
+  "id": 1292905293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.0377,40.25108,71.0377,40.25108",
+    "geom:latitude":40.25108,
+    "geom:longitude":71.0377,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chon-Qora",
+    "gn:country_code":"UZ",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514271,
+    "gn:latitude":40.25108,
+    "gn:longitude":71.0377,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Chon-Qora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Changara",
+        "Chongara",
+        "Chon-Kara"
+    ],
+    "name:uzb_x_preferred":[
+        "Chon-Qora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514271
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"987b8321b01ca5dfcb28b60437b2e2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1292905293,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1292905293,
+    "wof:lastmodified":1537713354,
+    "wof:name":"Chon-Qora",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.0377,
+    40.25108,
+    71.0377,
+    40.25108
+],
+  "geometry": {"coordinates":[71.0377,40.25108],"type":"Point"}
+}

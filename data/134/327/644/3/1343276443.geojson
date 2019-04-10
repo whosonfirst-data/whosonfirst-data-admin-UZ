@@ -1,0 +1,65 @@
+{
+  "id": 1343276443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.08333,39.93333,68.08333,39.93333",
+    "geom:latitude":39.93333,
+    "geom:longitude":68.08333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yantut",
+    "gn:country_code":"UZ",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215731,
+    "gn:latitude":39.93333,
+    "gn:longitude":68.08333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Yantut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215731
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"cecfc8048de1d00fac5278041e00919c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343276443,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1343276443,
+    "wof:lastmodified":1537011063,
+    "wof:name":"Yantut",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.08333,
+    39.93333,
+    68.08333,
+    39.93333
+],
+  "geometry": {"coordinates":[68.08333,39.93333],"type":"Point"}
+}

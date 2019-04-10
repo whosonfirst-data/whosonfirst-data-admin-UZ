@@ -1,0 +1,94 @@
+{
+  "id": 421169883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.63833,40.90639,69.63833,40.90639",
+    "geom:latitude":40.90639,
+    "geom:longitude":69.63833,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Kurama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u978d\u99ac"
+    ],
+    "name:msa_x_preferred":[
+        "Kurama"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0430\u043c\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Akhangaran"
+    ],
+    "qs:gn_country":"UZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1513072,
+    "qs:gn_pop":35516,
+    "qs:name":"Kurama",
+    "qs:name_adm0":"Uzbekistan",
+    "qs:name_adm1":"Toshkent",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":190796,
+    "qs:woe_adm0":23424980,
+    "qs:woe_id":2271460,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":115,
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513072,
+        "gp:id":2271460,
+        "qs:id":190796,
+        "wd:id":"Q11213363"
+    },
+    "wof:country":"UZ",
+    "wof:created":1459008828,
+    "wof:geomhash":"7bf1bfb2c361a556831c7042bbef0cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":421169883,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":421169883,
+    "wof:lastmodified":1527716172,
+    "wof:name":"Kurama",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:population":35516,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.63833,
+    40.90639,
+    69.63833,
+    40.90639
+],
+  "geometry": {"coordinates":[69.63833,40.90639],"type":"Point"}
+}

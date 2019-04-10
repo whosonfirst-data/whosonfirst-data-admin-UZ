@@ -1,0 +1,65 @@
+{
+  "id": 1343571141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.06989,37.67952,67.06989,37.67952",
+    "geom:latitude":37.67952,
+    "geom:longitude":67.06989,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khurumsha",
+    "gn:country_code":"UZ",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216813,
+    "gn:latitude":37.67952,
+    "gn:longitude":67.06989,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Khurumsha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216813
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ba5699a41185e2be10a2839bb56f947f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343571141,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1343571141,
+    "wof:lastmodified":1537080834,
+    "wof:name":"Khurumsha",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.06989,
+    37.67952,
+    67.06989,
+    37.67952
+],
+  "geometry": {"coordinates":[67.06989,37.67952],"type":"Point"}
+}

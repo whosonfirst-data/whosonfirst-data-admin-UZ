@@ -1,0 +1,69 @@
+{
+  "id": 1243546999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.03032,40.75843,71.03032,40.75843",
+    "geom:latitude":40.75843,
+    "geom:longitude":71.03032,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nayman",
+    "gn:country_code":"UZ",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513123,
+    "gn:latitude":40.75843,
+    "gn:longitude":71.03032,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Nayman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naiman",
+        "Nayman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513123
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6cef209f7a9ccde9759b5aedf1beaf3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243546999,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1243546999,
+    "wof:lastmodified":1537713320,
+    "wof:name":"Nayman",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.03031999999997,
+    40.75843,
+    71.03031999999997,
+    40.75843
+],
+  "geometry": {"coordinates":[71.03031999999997,40.75843],"type":"Point"}
+}

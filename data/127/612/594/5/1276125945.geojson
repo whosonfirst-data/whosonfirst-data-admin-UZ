@@ -1,0 +1,68 @@
+{
+  "id": 1276125945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.91619,40.42759,70.91619,40.42759",
+    "geom:latitude":40.42759,
+    "geom:longitude":70.91619,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Maorif",
+    "gn:country_code":"UZ",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10649172,
+    "gn:latitude":40.42759,
+    "gn:longitude":70.91619,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Maorif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Maorif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10649172
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ca0747cb21cc23876a14f90c0c52c324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276125945,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1276125945,
+    "wof:lastmodified":1537713444,
+    "wof:name":"Maorif",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.91619,
+    40.42759,
+    70.91619,
+    40.42759
+],
+  "geometry": {"coordinates":[70.91619,40.42759],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276747837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.08972,42.084,60.08972,42.084",
+    "geom:latitude":42.084,
+    "geom:longitude":60.08972,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Yusufxo`ja",
+    "gn:country_code":"UZ",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892708,
+    "gn:latitude":42.084,
+    "gn:longitude":60.08972,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Yusufxo\u2018ja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Yusufxo\u2018ja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892708
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"74ecf3cf4495505c9961bafa9f19fca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276747837,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1276747837,
+    "wof:lastmodified":1537713404,
+    "wof:name":"Yusufxo`ja",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.08971999999999,
+    42.084,
+    60.08971999999999,
+    42.084
+],
+  "geometry": {"coordinates":[60.08971999999999,42.084],"type":"Point"}
+}

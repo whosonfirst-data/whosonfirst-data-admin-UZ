@@ -1,0 +1,68 @@
+{
+  "id": 1293587035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.30515,41.05764,71.30515,41.05764",
+    "geom:latitude":41.05764,
+    "geom:longitude":71.30515,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Qiziltepa",
+    "gn:country_code":"UZ",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580387,
+    "gn:latitude":41.05764,
+    "gn:longitude":71.30515,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Qiziltepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qiziltepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580387
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a989a043b449e57d46873fe10450d760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293587035,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1293587035,
+    "wof:lastmodified":1537713398,
+    "wof:name":"Qiziltepa",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.30515,
+    41.05764,
+    71.30515,
+    41.05764
+],
+  "geometry": {"coordinates":[71.30515,41.05764],"type":"Point"}
+}

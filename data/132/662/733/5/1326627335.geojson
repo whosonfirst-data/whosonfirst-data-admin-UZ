@@ -1,0 +1,70 @@
+{
+  "id": 1326627335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.42655,39.00375,65.42655,39.00375",
+    "geom:latitude":39.00375,
+    "geom:longitude":65.42655,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Komilon",
+    "gn:country_code":"UZ",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217140,
+    "gn:latitude":39.00375,
+    "gn:longitude":65.42655,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Komilon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamlen",
+        "Kamelyan",
+        "Komilon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217140
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"67a17d292c4c2c5dfe6859a6b7b4a779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326627335,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1326627335,
+    "wof:lastmodified":1537713270,
+    "wof:name":"Komilon",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.42655,
+    39.00375,
+    65.42655,
+    39.00375
+],
+  "geometry": {"coordinates":[65.42655000000001,39.00375],"type":"Point"}
+}

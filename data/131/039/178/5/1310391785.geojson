@@ -1,0 +1,65 @@
+{
+  "id": 1310391785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.25,41.38333,69.25,41.38333",
+    "geom:latitude":41.38333,
+    "geom:longitude":69.25,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ayrikuylak",
+    "gn:country_code":"UZ",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514505,
+    "gn:latitude":41.38333,
+    "gn:longitude":69.25,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Ayrikuylak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514505
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"16ffa30d803b45836ab2fd77f7dc8c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310391785,
+            "region_id":85680429
+        }
+    ],
+    "wof:id":1310391785,
+    "wof:lastmodified":1537077922,
+    "wof:name":"Ayrikuylak",
+    "wof:parent_id":85680429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.25,
+    41.38333,
+    69.25,
+    41.38333
+],
+  "geometry": {"coordinates":[69.25,41.38333],"type":"Point"}
+}

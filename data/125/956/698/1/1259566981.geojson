@@ -1,0 +1,70 @@
+{
+  "id": 1259566981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.52889,39.79333,66.52889,39.79333",
+    "geom:latitude":39.79333,
+    "geom:longitude":66.52889,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kosh-Kuduk",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216743,
+    "gn:latitude":39.79333,
+    "gn:longitude":66.52889,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kosh-Kuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kosh-Kuduk Vtoroy",
+        "Kosh-Kuduk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216743
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f55aa624c7298a3bc5553769e5fee4a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259566981,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1259566981,
+    "wof:lastmodified":1537713260,
+    "wof:name":"Kosh-Kuduk",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.52889,
+    39.79333,
+    66.52889,
+    39.79333
+],
+  "geometry": {"coordinates":[66.52889,39.79333],"type":"Point"}
+}

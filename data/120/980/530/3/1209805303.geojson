@@ -1,0 +1,65 @@
+{
+  "id": 1209805303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.03357,41.69749,61.03357,41.69749",
+    "geom:latitude":41.69749,
+    "geom:longitude":61.03357,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Navoiy",
+    "gn:country_code":"UZ",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7894549,
+    "gn:latitude":41.69749,
+    "gn:longitude":61.03357,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Navoiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7894549
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ebebad357837fc1540314832e71193dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209805303,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1209805303,
+    "wof:lastmodified":1536388873,
+    "wof:name":"Navoiy",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.03357,
+    41.69749,
+    61.03357,
+    41.69749
+],
+  "geometry": {"coordinates":[61.03357,41.69749],"type":"Point"}
+}

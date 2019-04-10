@@ -1,0 +1,68 @@
+{
+  "id": 1259493383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.91667,39.76667,65.91667,39.76667",
+    "geom:latitude":39.76667,
+    "geom:longitude":65.91667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akiral'",
+    "gn:country_code":"UZ",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217952,
+    "gn:latitude":39.76667,
+    "gn:longitude":65.91667,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Akiral\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Akiral\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217952
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b97640760bf1a006a0b7db4acab379eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259493383,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1259493383,
+    "wof:lastmodified":1537713290,
+    "wof:name":"Akiral'",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.91667,
+    39.76667,
+    65.91667,
+    39.76667
+],
+  "geometry": {"coordinates":[65.91667,39.76667],"type":"Point"}
+}

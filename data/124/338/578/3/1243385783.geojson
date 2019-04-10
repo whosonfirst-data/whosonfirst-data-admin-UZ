@@ -1,0 +1,66 @@
+{
+  "id": 1243385783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.7134,41.52747,71.7134,41.52747",
+    "geom:latitude":41.52747,
+    "geom:longitude":71.7134,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Qayroqi",
+    "gn:country_code":"UZ",
+    "gn:dem":1425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11266760,
+    "gn:latitude":41.52747,
+    "gn:longitude":71.7134,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Qayroqi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Qayroqi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11266760
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0abc0868b0928393d9e5ef841f790567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1243385783,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243385783,
+    "wof:lastmodified":1537713503,
+    "wof:name":"Qayroqi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.7134,
+    41.52747,
+    71.7134,
+    41.52747
+],
+  "geometry": {"coordinates":[71.71339999999999,41.52747],"type":"Point"}
+}

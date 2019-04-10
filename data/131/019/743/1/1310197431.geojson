@@ -1,0 +1,74 @@
+{
+  "id": 1310197431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.56207,40.77991,71.56207,40.77991",
+    "geom:latitude":40.77991,
+    "geom:longitude":71.56207,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tolliovul",
+    "gn:country_code":"UZ",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7536274,
+    "gn:latitude":40.77991,
+    "gn:longitude":71.56207,
+    "gn:modification_date":"2017-08-03",
+    "gn:name":"Tolliovul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tolovul"
+    ],
+    "name:und_x_variant":[
+        "Otdeleniye Nomer Sovkhoz Namangan"
+    ],
+    "name:uzb_x_preferred":[
+        "Tolliovul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7536274
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"633b81c79fbf660a4d1ae4ce28a0bc66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310197431,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1310197431,
+    "wof:lastmodified":1537713384,
+    "wof:name":"Tolliovul",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.56206999999998,
+    40.77991,
+    71.56206999999998,
+    40.77991
+],
+  "geometry": {"coordinates":[71.56206999999998,40.77991],"type":"Point"}
+}

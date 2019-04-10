@@ -1,0 +1,70 @@
+{
+  "id": 1343472621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.61273,40.75611,72.61273,40.75611",
+    "geom:latitude":40.75611,
+    "geom:longitude":72.61273,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Janubiy Olamushuk",
+    "gn:country_code":"UZ",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512292,
+    "gn:latitude":40.75611,
+    "gn:longitude":72.61273,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Janubiy Olamushuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yuzhnyj-Alamyshik",
+        "Yuzhnyy Alamyshik",
+        "Janubiy Olamushuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512292
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4fa71d06824d8587a4548c2204726ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343472621,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1343472621,
+    "wof:lastmodified":1537713299,
+    "wof:name":"Janubiy Olamushuk",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.61273,
+    40.75611,
+    72.61273,
+    40.75611
+],
+  "geometry": {"coordinates":[72.61273,40.75611],"type":"Point"}
+}

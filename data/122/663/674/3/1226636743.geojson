@@ -1,0 +1,68 @@
+{
+  "id": 1226636743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.8032,39.05743,65.8032,39.05743",
+    "geom:latitude":39.05743,
+    "geom:longitude":65.8032,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Toshli",
+    "gn:country_code":"UZ",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7630399,
+    "gn:latitude":39.05743,
+    "gn:longitude":65.8032,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Toshli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Toshli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7630399
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"099cca5a622b7c22a5c6ac32b784f5ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226636743,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1226636743,
+    "wof:lastmodified":1537713402,
+    "wof:name":"Toshli",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.8032,
+    39.05743,
+    65.8032,
+    39.05743
+],
+  "geometry": {"coordinates":[65.8032,39.05743],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344175195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.35,39.75,64.35,39.75",
+    "geom:latitude":39.75,
+    "geom:longitude":64.35,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yurun-Bolo",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215701,
+    "gn:latitude":39.75,
+    "gn:longitude":64.35,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yurun-Bolo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Orun-Bolo",
+        "Yurun-Bolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215701
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"02b1a6ada5665aadb0950c1d08e421cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344175195,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":1344175195,
+    "wof:lastmodified":1537713234,
+    "wof:name":"Yurun-Bolo",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.35,
+    39.75,
+    64.35,
+    39.75
+],
+  "geometry": {"coordinates":[64.34999999999999,39.75],"type":"Point"}
+}

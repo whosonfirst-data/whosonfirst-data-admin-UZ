@@ -1,0 +1,68 @@
+{
+  "id": 1276855655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.99983,43.60968,58.99983,43.60968",
+    "geom:latitude":43.60968,
+    "geom:longitude":58.99983,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Shag`irlik",
+    "gn:country_code":"UZ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889044,
+    "gn:latitude":43.60968,
+    "gn:longitude":58.99983,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Shag\u2018irlik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Shag\u2018irlik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889044
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"3a463f38369e3a09543a134c423280dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276855655,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1276855655,
+    "wof:lastmodified":1537713403,
+    "wof:name":"Shag`irlik",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.99983,
+    43.60968,
+    58.99983,
+    43.60968
+],
+  "geometry": {"coordinates":[58.99983,43.60968],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242791759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.44722,40.96078,72.44722,40.96078",
+    "geom:latitude":40.96078,
+    "geom:longitude":72.44722,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qoraqo`rg`on",
+    "gn:country_code":"UZ",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11231683,
+    "gn:latitude":40.96078,
+    "gn:longitude":72.44722,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Qoraqo\u2018rg\u2018on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Qoraqo\u2018rg\u2018on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11231683
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"69f9f0c252baacb8f23072764f07e0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242791759,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1242791759,
+    "wof:lastmodified":1537713483,
+    "wof:name":"Qoraqo`rg`on",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.44722,
+    40.96078,
+    72.44722,
+    40.96078
+],
+  "geometry": {"coordinates":[72.44722,40.96078],"type":"Point"}
+}

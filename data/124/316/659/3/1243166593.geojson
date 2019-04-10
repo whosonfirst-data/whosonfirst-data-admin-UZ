@@ -1,0 +1,65 @@
+{
+  "id": 1243166593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.65109,42.26181,61.65109,42.26181",
+    "geom:latitude":42.26181,
+    "geom:longitude":61.65109,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bekariston",
+    "gn:country_code":"UZ",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7888725,
+    "gn:latitude":42.26181,
+    "gn:longitude":61.65109,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Bekariston",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7888725
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a1ff90fb020e0a96119a12fb28d82530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243166593,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1243166593,
+    "wof:lastmodified":1536712373,
+    "wof:name":"Bekariston",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.65109,
+    42.26181,
+    61.65109,
+    42.26181
+],
+  "geometry": {"coordinates":[61.65109,42.26181],"type":"Point"}
+}

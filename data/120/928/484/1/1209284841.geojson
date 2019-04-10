@@ -1,0 +1,64 @@
+{
+  "id": 1209284841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.07988,40.30095,68.07988,40.30095",
+    "geom:latitude":40.30095,
+    "geom:longitude":68.07988,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Paxtachi",
+    "gn:country_code":"UZ",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241656,
+    "gn:latitude":40.30095,
+    "gn:longitude":68.07988,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Paxtachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Paxtachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241656
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e3da53c722df7c9ed80a07561576319c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209284841
+        }
+    ],
+    "wof:id":1209284841,
+    "wof:lastmodified":1537713484,
+    "wof:name":"Paxtachi",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.07988,
+    40.30095,
+    68.07988,
+    40.30095
+],
+  "geometry": {"coordinates":[68.07988,40.30095],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259877165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.49159,40.89106,71.49159,40.89106",
+    "geom:latitude":40.89106,
+    "geom:longitude":71.49159,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Olchin",
+    "gn:country_code":"UZ",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7537249,
+    "gn:latitude":40.89106,
+    "gn:longitude":71.49159,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Olchin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Olchin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7537249
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0cfecd9fc8f5d36687f3b0bbac4b4c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259877165,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1259877165,
+    "wof:lastmodified":1537713386,
+    "wof:name":"Olchin",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.49159,
+    40.89106,
+    71.49159,
+    40.89106
+],
+  "geometry": {"coordinates":[71.49159,40.89106],"type":"Point"}
+}

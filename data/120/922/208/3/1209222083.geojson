@@ -1,0 +1,67 @@
+{
+  "id": 1209222083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.87044,40.50703,71.87044,40.50703",
+    "geom:latitude":40.50703,
+    "geom:longitude":71.87044,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yakkatut",
+    "gn:country_code":"UZ",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512398,
+    "gn:latitude":40.50703,
+    "gn:longitude":71.87044,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Yakkatut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yakatut"
+    ],
+    "name:uzb_x_preferred":[
+        "Birlik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512398
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9857ad054dd412af7946cc93a1dcbe51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209222083
+        }
+    ],
+    "wof:id":1209222083,
+    "wof:lastmodified":1537713302,
+    "wof:name":"Yakkatut",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.87044,
+    40.50703,
+    71.87044,
+    40.50703
+],
+  "geometry": {"coordinates":[71.87044,40.50703],"type":"Point"}
+}

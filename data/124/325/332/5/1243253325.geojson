@@ -1,0 +1,68 @@
+{
+  "id": 1243253325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.02116,43.14127,60.02116,43.14127",
+    "geom:latitude":43.14127,
+    "geom:longitude":60.02116,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Qo`shkarboy",
+    "gn:country_code":"UZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889062,
+    "gn:latitude":43.14127,
+    "gn:longitude":60.02116,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Qo\u2018shkarboy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Qo\u2018shkarboy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889062
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ef351a9e05eaf688f1b8e8b1ee19cf17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243253325,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1243253325,
+    "wof:lastmodified":1537713404,
+    "wof:name":"Qo`shkarboy",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.02116,
+    43.14127,
+    60.02116,
+    43.14127
+],
+  "geometry": {"coordinates":[60.02116,43.14127],"type":"Point"}
+}

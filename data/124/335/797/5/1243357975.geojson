@@ -1,0 +1,70 @@
+{
+  "id": 1243357975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.76437,39.93905,64.76437,39.93905",
+    "geom:latitude":39.93905,
+    "geom:longitude":64.76437,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ayronchi",
+    "gn:country_code":"UZ",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217806,
+    "gn:latitude":39.93905,
+    "gn:longitude":64.76437,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ayronchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Airancki",
+        "Ayranchi",
+        "Ayronchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217806
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"cb3ff4a1499b6592af8d4ec7408f2649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243357975,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1243357975,
+    "wof:lastmodified":1537713286,
+    "wof:name":"Ayronchi",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.76437,
+    39.93905,
+    64.76437,
+    39.93905
+],
+  "geometry": {"coordinates":[64.76437,39.93905],"type":"Point"}
+}

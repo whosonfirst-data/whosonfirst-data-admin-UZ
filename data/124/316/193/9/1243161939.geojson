@@ -1,0 +1,70 @@
+{
+  "id": 1243161939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.98484,43.80409,58.98484,43.80409",
+    "geom:latitude":43.80409,
+    "geom:longitude":58.98484,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tokpakota",
+    "gn:country_code":"UZ",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601256,
+    "gn:latitude":43.80409,
+    "gn:longitude":58.98484,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tokpakota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tokmak",
+        "Tokpakota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601256,
+        "wk:page":"Tokmak%2C_Uzbekistan"
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5c91a20e83544d4dac3e182595be6fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243161939,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1243161939,
+    "wof:lastmodified":1537713229,
+    "wof:name":"Tokpakota",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.98484000000001,
+    43.80409,
+    58.98484000000001,
+    43.80409
+],
+  "geometry": {"coordinates":[58.98484000000001,43.80409],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293085639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.24762,41.45145,61.24762,41.45145",
+    "geom:latitude":41.45145,
+    "geom:longitude":61.24762,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Oqboshli Raz`ezd",
+    "gn:country_code":"UZ",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7894055,
+    "gn:latitude":41.45145,
+    "gn:longitude":61.24762,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Oqboshli Raz\u2018ezd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Oqboshli Raz\u2018ezd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7894055
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7f6a863a928e87d3b0d6370a0bc4aeb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293085639,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1293085639,
+    "wof:lastmodified":1537713405,
+    "wof:name":"Oqboshli Raz`ezd",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.24762,
+    41.45145,
+    61.24762,
+    41.45145
+],
+  "geometry": {"coordinates":[61.24762,41.45145],"type":"Point"}
+}

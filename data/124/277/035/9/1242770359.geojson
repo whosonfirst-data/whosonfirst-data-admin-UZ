@@ -1,0 +1,68 @@
+{
+  "id": 1242770359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.83599,40.70975,70.83599,40.70975",
+    "geom:latitude":40.70975,
+    "geom:longitude":70.83599,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Chagall",
+    "gn:country_code":"UZ",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7564612,
+    "gn:latitude":40.70975,
+    "gn:longitude":70.83599,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chagall",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chagall"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7564612
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e85799c03f9a98d12c83e6cc5f349f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242770359,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1242770359,
+    "wof:lastmodified":1537713392,
+    "wof:name":"Chagall",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.83599,
+    40.70975,
+    70.83599,
+    40.70975
+],
+  "geometry": {"coordinates":[70.83599,40.70975],"type":"Point"}
+}

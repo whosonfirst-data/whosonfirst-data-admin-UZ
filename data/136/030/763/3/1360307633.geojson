@@ -1,0 +1,71 @@
+{
+  "id": 1360307633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.97214,41.08946,71.97214,41.08946",
+    "geom:latitude":41.08946,
+    "geom:longitude":71.97214,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ro`ziboyev",
+    "gn:country_code":"UZ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580503,
+    "gn:latitude":41.08946,
+    "gn:longitude":71.97214,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ro\u2018ziboyev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ro\u2018ziboyev"
+    ],
+    "name:kir_x_preferred":[
+        "Ro\u2018ziboyev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580503
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d4debe484d6d8c0394fc4441b1b2d4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360307633,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1360307633,
+    "wof:lastmodified":1537713400,
+    "wof:name":"Ro`ziboyev",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.97214,
+    41.08946,
+    71.97214,
+    41.08946
+],
+  "geometry": {"coordinates":[71.97214,41.08946],"type":"Point"}
+}

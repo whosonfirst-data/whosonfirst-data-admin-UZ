@@ -1,0 +1,74 @@
+{
+  "id": 1226349915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.77322,40.59142,71.77322,40.59142",
+    "geom:latitude":40.59142,
+    "geom:longitude":71.77322,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ikkinchi Besarang",
+    "gn:country_code":"UZ",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10973689,
+    "gn:latitude":40.59142,
+    "gn:longitude":71.77322,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Ikkinchi Besarang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bersarang"
+    ],
+    "name:uzb_x_preferred":[
+        "Ikkinchi Besarang"
+    ],
+    "name:uzb_x_variant":[
+        "Besarang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10973689
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f40fff34e69699965e3777a6f034fa3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226349915,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1226349915,
+    "wof:lastmodified":1537713456,
+    "wof:name":"Ikkinchi Besarang",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.77322,
+    40.59142,
+    71.77322,
+    40.59142
+],
+  "geometry": {"coordinates":[71.77321999999999,40.59142],"type":"Point"}
+}

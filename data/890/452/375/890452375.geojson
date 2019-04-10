@@ -1,0 +1,78 @@
+{
+  "id": 890452375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.80512,39.98322,71.80512,39.98322",
+    "geom:latitude":39.98322,
+    "geom:longitude":71.80512,
+    "gn:country":"UZ",
+    "gn:fcode":"PPL",
+    "gn:pop":5100,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Shaymardan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0445\u0438\u043c\u0430\u0440\u0434\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Shakhimardan"
+    ],
+    "name:uzb_x_preferred":[
+        "Shohimardon"
+    ],
+    "qs:name":"Shohimardon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":103,
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216189,
+        "qs:id":130932,
+        "wd:id":"Q1005592",
+        "wk:page":"Shohimardon"
+    },
+    "wof:country":"UZ",
+    "wof:created":1469052815,
+    "wof:geomhash":"74ac641238f761c8df25e22283f5cf40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "locality_id":890452375,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":890452375,
+    "wof:lastmodified":1527734189,
+    "wof:name":"Shohimardon",
+    "wof:parent_id":85672995,
+    "wof:placetype":"locality",
+    "wof:population":5100,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.80512,
+    39.98322,
+    71.80512,
+    39.98322
+],
+  "geometry": {"coordinates":[71.80512,39.98322],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259384569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07732,40.45378,71.07732,40.45378",
+    "geom:latitude":40.45378,
+    "geom:longitude":71.07732,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dashtqo`rg`oncha",
+    "gn:country_code":"UZ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11056927,
+    "gn:latitude":40.45378,
+    "gn:longitude":71.07732,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Dashtqo\u2018rg\u2018oncha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dashtkurgancha"
+    ],
+    "name:uzb_x_preferred":[
+        "Dashtqo\u2018rg\u2018oncha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056927
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2e0f5571a4220434b19505493a362a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259384569,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1259384569,
+    "wof:lastmodified":1537713466,
+    "wof:name":"Dashtqo`rg`oncha",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07732,
+    40.45378,
+    71.07732,
+    40.45378
+],
+  "geometry": {"coordinates":[71.07732,40.45378],"type":"Point"}
+}

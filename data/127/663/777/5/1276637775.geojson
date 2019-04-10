@@ -1,0 +1,68 @@
+{
+  "id": 1276637775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.59597,40.51088,68.59597,40.51088",
+    "geom:latitude":40.51088,
+    "geom:longitude":68.59597,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Boyto`bi",
+    "gn:country_code":"UZ",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242348,
+    "gn:latitude":40.51088,
+    "gn:longitude":68.59597,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Boyto\u2018bi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Boyto\u2018bi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242348
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c655222bd5125f4d65af93128adfb448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276637775,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1276637775,
+    "wof:lastmodified":1537713493,
+    "wof:name":"Boyto`bi",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.59597,
+    40.51088,
+    68.59597,
+    40.51088
+],
+  "geometry": {"coordinates":[68.59596999999999,40.51088],"type":"Point"}
+}

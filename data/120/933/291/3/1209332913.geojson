@@ -1,0 +1,61 @@
+{
+  "id": 1209332913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.26667,39.95,67.26667,39.95",
+    "geom:latitude":39.95,
+    "geom:longitude":67.26667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kazanly",
+    "gn:country_code":"UZ",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216954,
+    "gn:latitude":39.95,
+    "gn:longitude":67.26667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Kazanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216954
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e01542f9a399761d81e92065e44bcdde",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209332913
+        }
+    ],
+    "wof:id":1209332913,
+    "wof:lastmodified":1536290316,
+    "wof:name":"Kazanly",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.26666999999999,
+    39.95,
+    67.26666999999999,
+    39.95
+],
+  "geometry": {"coordinates":[67.26666999999999,39.95],"type":"Point"}
+}

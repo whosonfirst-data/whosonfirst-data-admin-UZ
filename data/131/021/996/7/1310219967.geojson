@@ -1,0 +1,65 @@
+{
+  "id": 1310219967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.75,39.41667,63.75,39.41667",
+    "geom:latitude":39.41667,
+    "geom:longitude":63.75,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sheykh",
+    "gn:country_code":"UZ",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216151,
+    "gn:latitude":39.41667,
+    "gn:longitude":63.75,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Sheykh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216151
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0e31e93d015ce7e068d850bd7872b898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310219967,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":1310219967,
+    "wof:lastmodified":1536830329,
+    "wof:name":"Sheykh",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.75,
+    39.41667,
+    63.75,
+    39.41667
+],
+  "geometry": {"coordinates":[63.75,39.41667],"type":"Point"}
+}

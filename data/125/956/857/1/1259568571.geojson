@@ -1,0 +1,69 @@
+{
+  "id": 1259568571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.71827,39.34701,65.71827,39.34701",
+    "geom:latitude":39.34701,
+    "geom:longitude":65.71827,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Jarqum",
+    "gn:country_code":"UZ",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217393,
+    "gn:latitude":39.34701,
+    "gn:longitude":65.71827,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Jarqum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzharkum",
+        "Jarqum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217393
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0aa9d6b9c6e5bb2fe6ef22438532b58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259568571,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1259568571,
+    "wof:lastmodified":1537713277,
+    "wof:name":"Jarqum",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.71826999999999,
+    39.34701,
+    65.71826999999999,
+    39.34701
+],
+  "geometry": {"coordinates":[65.71826999999999,39.34701],"type":"Point"}
+}

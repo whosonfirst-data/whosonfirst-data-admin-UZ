@@ -1,0 +1,68 @@
+{
+  "id": 1276329909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.18722,38.71007,65.18722,38.71007",
+    "geom:latitude":38.71007,
+    "geom:longitude":65.18722,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Vari",
+    "gn:country_code":"UZ",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7630286,
+    "gn:latitude":38.71007,
+    "gn:longitude":65.18722,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Vari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7630286
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7ff87f3e60b14f529e265508f91bc54b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276329909,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1276329909,
+    "wof:lastmodified":1537713400,
+    "wof:name":"Vari",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.18722,
+    38.71007,
+    65.18722,
+    38.71007
+],
+  "geometry": {"coordinates":[65.18722,38.71007],"type":"Point"}
+}

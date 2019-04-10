@@ -1,0 +1,68 @@
+{
+  "id": 1310699345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.78483,40.87447,70.78483,40.87447",
+    "geom:latitude":40.87447,
+    "geom:longitude":70.78483,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Xonobod",
+    "gn:country_code":"UZ",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513645,
+    "gn:latitude":40.87447,
+    "gn:longitude":70.78483,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Xonobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khanabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513645
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ec3c8c339672003dc387b0b38881f5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310699345,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1310699345,
+    "wof:lastmodified":1537713334,
+    "wof:name":"Xonobod",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.78483,
+    40.87447,
+    70.78483,
+    40.87447
+],
+  "geometry": {"coordinates":[70.78483,40.87447],"type":"Point"}
+}

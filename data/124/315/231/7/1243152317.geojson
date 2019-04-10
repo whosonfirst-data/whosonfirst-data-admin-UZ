@@ -1,0 +1,68 @@
+{
+  "id": 1243152317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.04712,38.21367,67.04712,38.21367",
+    "geom:latitude":38.21367,
+    "geom:longitude":67.04712,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Qapchig`ay",
+    "gn:country_code":"UZ",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244166,
+    "gn:latitude":38.21367,
+    "gn:longitude":67.04712,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Qapchig\u2018ay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Qapchig\u2018ay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244166
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f5c70c0fe0919fb63b70d6cb8af97619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243152317,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1243152317,
+    "wof:lastmodified":1537713498,
+    "wof:name":"Qapchig`ay",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.04711999999999,
+    38.21367,
+    67.04711999999999,
+    38.21367
+],
+  "geometry": {"coordinates":[67.04711999999999,38.21367],"type":"Point"}
+}

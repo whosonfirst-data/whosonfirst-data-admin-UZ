@@ -1,0 +1,72 @@
+{
+  "id": 1242750385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.77,40.76,68.77,40.76",
+    "geom:latitude":40.76,
+    "geom:longitude":68.77,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Sh. Rahimov",
+    "gn:country_code":"UZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535860,
+    "gn:latitude":40.76,
+    "gn:longitude":68.77,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Sh. Rahimov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolkhoz Imeni Maksima Gor\u2019kogo",
+        "Sentablik"
+    ],
+    "name:uzb_x_preferred":[
+        "Sh. Rahimov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535860
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6d123f6d2a11d7ca76f21089e86b770e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242750385,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1242750385,
+    "wof:lastmodified":1537713368,
+    "wof:name":"Sh. Rahimov",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.77,
+    40.76,
+    68.77,
+    40.76
+],
+  "geometry": {"coordinates":[68.77,40.76],"type":"Point"}
+}

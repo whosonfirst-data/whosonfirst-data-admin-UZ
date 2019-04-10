@@ -1,0 +1,68 @@
+{
+  "id": 1243180873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.59917,39.96306,64.59917,39.96306",
+    "geom:latitude":39.96306,
+    "geom:longitude":64.59917,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dil'-Oram",
+    "gn:country_code":"UZ",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217466,
+    "gn:latitude":39.96306,
+    "gn:longitude":64.59917,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Dil\u2019-Oram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Dil\u2019-Oram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217466
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"af4f3d446c145eded8a4c86091698280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243180873,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":1243180873,
+    "wof:lastmodified":1537713278,
+    "wof:name":"Dil'-Oram",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.59917,
+    39.96306,
+    64.59917,
+    39.96306
+],
+  "geometry": {"coordinates":[64.59917,39.96306],"type":"Point"}
+}

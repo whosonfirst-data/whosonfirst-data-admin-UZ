@@ -1,0 +1,68 @@
+{
+  "id": 1327345161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.83941,40.40209,70.83941,40.40209",
+    "geom:latitude":40.40209,
+    "geom:longitude":70.83941,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Botirboy",
+    "gn:country_code":"UZ",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10649153,
+    "gn:latitude":40.40209,
+    "gn:longitude":70.83941,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Botirboy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Botirboy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10649153
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"521e00a4b64bf5cbbee4833041432f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327345161,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1327345161,
+    "wof:lastmodified":1537713444,
+    "wof:name":"Botirboy",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.83941,
+    40.40209,
+    70.83941,
+    40.40209
+],
+  "geometry": {"coordinates":[70.83941,40.40209],"type":"Point"}
+}

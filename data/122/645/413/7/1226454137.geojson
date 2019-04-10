@@ -1,0 +1,71 @@
+{
+  "id": 1226454137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.24201,40.49323,71.24201,40.49323",
+    "geom:latitude":40.49323,
+    "geom:longitude":71.24201,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bog`ishamol",
+    "gn:country_code":"UZ",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11056952,
+    "gn:latitude":40.49323,
+    "gn:longitude":71.24201,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Bog\u2018ishamol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagyshamal"
+    ],
+    "name:uzb_x_preferred":[
+        "Bog\u2018ishamol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056952
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"418ef56a2022df3d68c6297069f26e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226454137,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1226454137,
+    "wof:lastmodified":1537713467,
+    "wof:name":"Bog`ishamol",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.24201,
+    40.49323,
+    71.24201,
+    40.49323
+],
+  "geometry": {"coordinates":[71.24200999999999,40.49323],"type":"Point"}
+}

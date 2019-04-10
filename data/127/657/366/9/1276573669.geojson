@@ -1,0 +1,68 @@
+{
+  "id": 1276573669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.26279,40.8917,71.26279,40.8917",
+    "geom:latitude":40.8917,
+    "geom:longitude":71.26279,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Yangiyer",
+    "gn:country_code":"UZ",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7537268,
+    "gn:latitude":40.8917,
+    "gn:longitude":71.26279,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Yangiyer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yangiyer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7537268
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c00ac8fc44b5fdcd32dc925774c3cf9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276573669,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1276573669,
+    "wof:lastmodified":1537713387,
+    "wof:name":"Yangiyer",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.26279,
+    40.8917,
+    71.26279,
+    40.8917
+],
+  "geometry": {"coordinates":[71.26279,40.8917],"type":"Point"}
+}

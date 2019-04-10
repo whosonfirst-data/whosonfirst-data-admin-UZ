@@ -1,0 +1,64 @@
+{
+  "id": 1209396983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.72846,40.54264,68.72846,40.54264",
+    "geom:latitude":40.54264,
+    "geom:longitude":68.72846,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Ahilliq",
+    "gn:country_code":"UZ",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242320,
+    "gn:latitude":40.54264,
+    "gn:longitude":68.72846,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ahilliq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Ahilliq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242320
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9974fa30d0bb935b4d30b6efb68dbbfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209396983
+        }
+    ],
+    "wof:id":1209396983,
+    "wof:lastmodified":1537713492,
+    "wof:name":"Ahilliq",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.72846,
+    40.54264000000001,
+    68.72846,
+    40.54264000000001
+],
+  "geometry": {"coordinates":[68.72846,40.54264000000001],"type":"Point"}
+}

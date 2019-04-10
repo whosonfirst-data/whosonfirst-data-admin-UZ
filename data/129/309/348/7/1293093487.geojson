@@ -1,0 +1,68 @@
+{
+  "id": 1293093487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.16193,41.02143,71.16193,41.02143",
+    "geom:latitude":41.02143,
+    "geom:longitude":71.16193,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Toshqo`rg`on",
+    "gn:country_code":"UZ",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539696,
+    "gn:latitude":41.02143,
+    "gn:longitude":71.16193,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Toshqo\u2018rg\u2018on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Toshqo\u2018rg\u2018on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539696
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"056220203b4a1985a92c86637bed13cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293093487,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1293093487,
+    "wof:lastmodified":1537713389,
+    "wof:name":"Toshqo`rg`on",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.16193,
+    41.02143,
+    71.16193,
+    41.02143
+],
+  "geometry": {"coordinates":[71.16193,41.02143],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310719481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.69824,40.84482,71.69824,40.84482",
+    "geom:latitude":40.84482,
+    "geom:longitude":71.69824,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Terakzor",
+    "gn:country_code":"UZ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11104881,
+    "gn:latitude":40.84482,
+    "gn:longitude":71.69824,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Terakzor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Terakzor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11104881
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f775313290cb3662a1a44a335207f0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310719481,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1310719481,
+    "wof:lastmodified":1537713475,
+    "wof:name":"Terakzor",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.69824,
+    40.84482,
+    71.69824,
+    40.84482
+],
+  "geometry": {"coordinates":[71.69824,40.84482],"type":"Point"}
+}

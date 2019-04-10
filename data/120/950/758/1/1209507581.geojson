@@ -1,0 +1,66 @@
+{
+  "id": 1209507581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.51056,41.00334,71.51056,41.00334",
+    "geom:latitude":41.00334,
+    "geom:longitude":71.51056,
+    "gn:admin1_code":"06",
+    "gn:admin3_code":"1538280.0",
+    "gn:asciiname":"Turagurghon Shahri",
+    "gn:country_code":"UZ",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1538280,
+    "gn:latitude":41.00334,
+    "gn:longitude":71.51056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u016drag\u016drghon Shahri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorod Turakurgan",
+        "T\u016drag\u016drghon Shahri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538280
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2caae73e45a6715ab281c500486f4d5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209507581
+        }
+    ],
+    "wof:id":1209507581,
+    "wof:lastmodified":1537713372,
+    "wof:name":"Turagurghon Shahri",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.51056,
+    41.00334,
+    71.51056,
+    41.00334
+],
+  "geometry": {"coordinates":[71.51056,41.00334],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 890433737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.34556,41.535,60.34556,41.535",
+    "geom:latitude":41.535,
+    "geom:longitude":60.34556,
+    "gn:country":"UZ",
+    "gn:fcode":"PPL",
+    "gn:pop":16948,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0634 \u06a9\u0624\u067e\u06cc\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Qo\u2018shko\u2018pir"
+    ],
+    "name:eng_x_preferred":[
+        "Qo\u2018shko\u2018pir"
+    ],
+    "name:epo_x_preferred":[
+        "Ku\u015dkupir"
+    ],
+    "name:fre_x_preferred":[
+        "Kushkupir"
+    ],
+    "name:hun_x_preferred":[
+        "Koskopir"
+    ],
+    "name:ita_x_preferred":[
+        "Kushkupir"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30b7\u30e5\u30b3\u30d4\u30eb"
+    ],
+    "name:kik_x_preferred":[
+        "Qo\u2018shko\u2018pir"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0448\u043a\u0443\u043f\u044b\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "Ko\u015fk\u00f6p\u00fcr"
+    ],
+    "name:unk_x_variant":[
+        "Koshkupyr"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0648\u0634 \u06a9\u0624\u067e\u06cc\u0631"
+    ],
+    "name:uzb_x_preferred":[
+        "Qo\u02bbshko\u02bbpir"
+    ],
+    "qs:name":"Q\u016dshk\u016dpir",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512978,
+        "gp:id":2271578,
+        "qs:id":133078,
+        "wd:id":"Q650339"
+    },
+    "wof:country":"UZ",
+    "wof:created":1469051992,
+    "wof:geomhash":"f4fa07b5190368eeba64622da7cb31ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":890433737,
+            "region_id":85680377
+        }
+    ],
+    "wof:id":890433737,
+    "wof:lastmodified":1514502108,
+    "wof:name":"Q\u016dshk\u016dpir",
+    "wof:parent_id":85680377,
+    "wof:placetype":"locality",
+    "wof:population":16948,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.34556,
+    41.535,
+    60.34556,
+    41.535
+],
+  "geometry": {"coordinates":[60.34556,41.535],"type":"Point"}
+}

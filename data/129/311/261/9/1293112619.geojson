@@ -1,0 +1,70 @@
+{
+  "id": 1293112619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.15448,40.72028,72.15448,40.72028",
+    "geom:latitude":40.72028,
+    "geom:longitude":72.15448,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Segaza",
+    "gn:country_code":"UZ",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512768,
+    "gn:latitude":40.72028,
+    "gn:longitude":72.15448,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Segaza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kum-Sigoza",
+        "Sigaza",
+        "Segaza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512768
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b1a90dfb90c6ac657a8dad0595d1e796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293112619,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1293112619,
+    "wof:lastmodified":1537713310,
+    "wof:name":"Segaza",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.15448,
+    40.72028,
+    72.15448,
+    40.72028
+],
+  "geometry": {"coordinates":[72.15448000000001,40.72028],"type":"Point"}
+}

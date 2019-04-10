@@ -1,0 +1,65 @@
+{
+  "id": 1293679811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.63729,38.8573,66.63729,38.8573",
+    "geom:latitude":38.8573,
+    "geom:longitude":66.63729,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Langar",
+    "gn:country_code":"UZ",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7788311,
+    "gn:latitude":38.8573,
+    "gn:longitude":66.63729,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Langar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7788311
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"231afdc2f03a1a975b097fe08988d6d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293679811,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1293679811,
+    "wof:lastmodified":1537006385,
+    "wof:name":"Langar",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.63729000000001,
+    38.8573,
+    66.63729000000001,
+    38.8573
+],
+  "geometry": {"coordinates":[66.63729000000001,38.8573],"type":"Point"}
+}

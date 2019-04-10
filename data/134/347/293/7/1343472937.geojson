@@ -1,0 +1,68 @@
+{
+  "id": 1343472937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.10624,40.70087,72.10624,40.70087",
+    "geom:latitude":40.70087,
+    "geom:longitude":72.10624,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sharvantin",
+    "gn:country_code":"UZ",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10972729,
+    "gn:latitude":40.70087,
+    "gn:longitude":72.10624,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Sharvantin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Sharvantin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10972729
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"139c9af68a357555cf487d3bd42cc03e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343472937,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1343472937,
+    "wof:lastmodified":1537713453,
+    "wof:name":"Sharvantin",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.10624,
+    40.70087,
+    72.10624,
+    40.70087
+],
+  "geometry": {"coordinates":[72.10624,40.70087],"type":"Point"}
+}

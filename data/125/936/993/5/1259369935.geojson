@@ -1,0 +1,73 @@
+{
+  "id": 1259369935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.90248,38.85511,67.90248,38.85511",
+    "geom:latitude":38.85511,
+    "geom:longitude":67.90248,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kishtut",
+    "gn:country_code":"UZ",
+    "gn:dem":1932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216607,
+    "gn:latitude":38.85511,
+    "gn:longitude":67.90248,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Kishtut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kshtut",
+        "Kyshtut",
+        "K\u016dshtut"
+    ],
+    "name:uzb_x_preferred":[
+        "Kishtut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216607
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d962c17d6915c6819e5fff001eab505b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259369935,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1259369935,
+    "wof:lastmodified":1537713257,
+    "wof:name":"Kishtut",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.90248000000001,
+    38.85511,
+    67.90248000000001,
+    38.85511
+],
+  "geometry": {"coordinates":[67.90248000000001,38.85511],"type":"Point"}
+}

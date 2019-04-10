@@ -1,0 +1,71 @@
+{
+  "id": 1259590837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.70677,40.54195,70.70677,40.54195",
+    "geom:latitude":40.54195,
+    "geom:longitude":70.70677,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Temirqishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512606,
+    "gn:latitude":40.54195,
+    "gn:longitude":70.70677,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Temirqishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Temirkishlak"
+    ],
+    "name:uzb_x_preferred":[
+        "Temirqishloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512606
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2b88c94c31e76accddc41309aadc5212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259590837,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1259590837,
+    "wof:lastmodified":1537713308,
+    "wof:name":"Temirqishloq",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.70676999999998,
+    40.54195,
+    70.70676999999998,
+    40.54195
+],
+  "geometry": {"coordinates":[70.70676999999998,40.54195],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293696341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.26836,40.7213,72.26836,40.7213",
+    "geom:latitude":40.7213,
+    "geom:longitude":72.26836,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qoraqiy",
+    "gn:country_code":"UZ",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149733,
+    "gn:latitude":40.7213,
+    "gn:longitude":72.26836,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Qoraqiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Karaki"
+    ],
+    "name:uzb_x_preferred":[
+        "Qoraqiy"
+    ],
+    "name:uzb_x_variant":[
+        "Qoraki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149733
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d3bb27b3086ea3e435d8ef42f1017cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293696341,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1293696341,
+    "wof:lastmodified":1537713425,
+    "wof:name":"Qoraqiy",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.26836,
+    40.7213,
+    72.26836,
+    40.7213
+],
+  "geometry": {"coordinates":[72.26836,40.7213],"type":"Point"}
+}

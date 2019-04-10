@@ -1,0 +1,71 @@
+{
+  "id": 1292917757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.31767,40.75474,72.31767,40.75474",
+    "geom:latitude":40.75474,
+    "geom:longitude":72.31767,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jalabek",
+    "gn:country_code":"UZ",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229295,
+    "gn:latitude":40.75474,
+    "gn:longitude":72.31767,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Jalabek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Jalabek"
+    ],
+    "name:uzb_x_variant":[
+        "Jalobek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229295
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e45778d341ef8bc6c70efc7da055a05f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1292917757,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1292917757,
+    "wof:lastmodified":1537713480,
+    "wof:name":"Jalabek",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.31766999999998,
+    40.75474000000001,
+    72.31766999999998,
+    40.75474000000001
+],
+  "geometry": {"coordinates":[72.31766999999998,40.75474000000001],"type":"Point"}
+}

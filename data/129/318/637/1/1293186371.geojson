@@ -1,0 +1,68 @@
+{
+  "id": 1293186371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.51077,38.83792,65.51077,38.83792",
+    "geom:latitude":38.83792,
+    "geom:longitude":65.51077,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Talliyulg`un",
+    "gn:country_code":"UZ",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7630334,
+    "gn:latitude":38.83792,
+    "gn:longitude":65.51077,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Talliyulg\u2018un",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Talliyulg\u2018un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7630334
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"48dd44ed565dadf4da26df6f455405f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293186371,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1293186371,
+    "wof:lastmodified":1537713401,
+    "wof:name":"Talliyulg`un",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.51077,
+    38.83792,
+    65.51077,
+    38.83792
+],
+  "geometry": {"coordinates":[65.51076999999999,38.83792],"type":"Point"}
+}

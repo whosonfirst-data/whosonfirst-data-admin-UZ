@@ -1,0 +1,61 @@
+{
+  "id": 1209298947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.31667,42.98333,60.31667,42.98333",
+    "geom:latitude":42.98333,
+    "geom:longitude":60.31667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mevali",
+    "gn:country_code":"UZ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513215,
+    "gn:latitude":42.98333,
+    "gn:longitude":60.31667,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Mevali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513215
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"80ab653e3a61e1eefd0d921d0ff23896",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209298947
+        }
+    ],
+    "wof:id":1209298947,
+    "wof:lastmodified":1536291425,
+    "wof:name":"Mevali",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.31667,
+    42.98333,
+    60.31667,
+    42.98333
+],
+  "geometry": {"coordinates":[60.31667,42.98333],"type":"Point"}
+}

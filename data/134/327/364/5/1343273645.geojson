@@ -1,0 +1,68 @@
+{
+  "id": 1343273645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.67644,40.62533,71.67644,40.62533",
+    "geom:latitude":40.62533,
+    "geom:longitude":71.67644,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tinchlik",
+    "gn:country_code":"UZ",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10973045,
+    "gn:latitude":40.62533,
+    "gn:longitude":71.67644,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Tinchlik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Tinchlik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10973045
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"018dd66b2904246817aa1664ee9fdd6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343273645,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1343273645,
+    "wof:lastmodified":1537713454,
+    "wof:name":"Tinchlik",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.67644,
+    40.62533,
+    71.67644,
+    40.62533
+],
+  "geometry": {"coordinates":[71.67644,40.62533],"type":"Point"}
+}

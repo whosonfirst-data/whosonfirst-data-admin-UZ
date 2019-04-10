@@ -1,0 +1,74 @@
+{
+  "id": 1293093731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.95266,41.06572,71.95266,41.06572",
+    "geom:latitude":41.06572,
+    "geom:longitude":71.95266,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Qahramon",
+    "gn:country_code":"UZ",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580423,
+    "gn:latitude":41.06572,
+    "gn:longitude":71.95266,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Qahramon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qahramon"
+    ],
+    "name:kir_x_preferred":[
+        "Qahramon"
+    ],
+    "name:und_x_variant":[
+        "Kakhraman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580423
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5a5032b4ac6cb63421da9f9a72202ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293093731,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1293093731,
+    "wof:lastmodified":1537713399,
+    "wof:name":"Qahramon",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.95266,
+    41.06572,
+    71.95266,
+    41.06572
+],
+  "geometry": {"coordinates":[71.95265999999999,41.06572],"type":"Point"}
+}

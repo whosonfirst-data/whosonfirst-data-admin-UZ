@@ -1,0 +1,65 @@
+{
+  "id": 1344244049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.02833,38.2575,67.02833,38.2575",
+    "geom:latitude":38.2575,
+    "geom:longitude":67.02833,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Charvak",
+    "gn:country_code":"UZ",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217591,
+    "gn:latitude":38.2575,
+    "gn:longitude":67.02833,
+    "gn:modification_date":"2001-02-19",
+    "gn:name":"Charvak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217591
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c9fbdd50b61bf4f97389b3ba2e5179df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344244049,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1344244049,
+    "wof:lastmodified":1536607896,
+    "wof:name":"Charvak",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.02833000000001,
+    38.2575,
+    67.02833000000001,
+    38.2575
+],
+  "geometry": {"coordinates":[67.02833000000001,38.2575],"type":"Point"}
+}

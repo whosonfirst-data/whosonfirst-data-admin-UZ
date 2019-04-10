@@ -1,0 +1,68 @@
+{
+  "id": 1293088163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.54627,37.52716,67.54627,37.52716",
+    "geom:latitude":37.52716,
+    "geom:longitude":67.54627,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Yuqori Bobotog`",
+    "gn:country_code":"UZ",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11246924,
+    "gn:latitude":37.52716,
+    "gn:longitude":67.54627,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Yuqori Bobotog\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Yuqori Bobotog\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11246924
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"dce68ff680f76c81f29aebfacc2c9f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293088163,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1293088163,
+    "wof:lastmodified":1537713501,
+    "wof:name":"Yuqori Bobotog`",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.54626999999999,
+    37.52716,
+    67.54626999999999,
+    37.52716
+],
+  "geometry": {"coordinates":[67.54626999999999,37.52716],"type":"Point"}
+}

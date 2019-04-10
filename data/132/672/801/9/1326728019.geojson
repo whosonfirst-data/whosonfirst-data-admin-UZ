@@ -1,0 +1,68 @@
+{
+  "id": 1326728019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.8178,41.01241,70.8178,41.01241",
+    "geom:latitude":41.01241,
+    "geom:longitude":70.8178,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Pagdi Qishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":1518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7557424,
+    "gn:latitude":41.01241,
+    "gn:longitude":70.8178,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Pagdi Qishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pagdi Qishloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7557424
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"bb25db928f902c4c92d20e0aa79ec59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326728019,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1326728019,
+    "wof:lastmodified":1537713390,
+    "wof:name":"Pagdi Qishloq",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.8178,
+    41.01241,
+    70.8178,
+    41.01241
+],
+  "geometry": {"coordinates":[70.81780000000001,41.01241],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209626815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.10605,40.55904,72.10605,40.55904",
+    "geom:latitude":40.55904,
+    "geom:longitude":72.10605,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Maxchagar",
+    "gn:country_code":"UZ",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140544,
+    "gn:latitude":40.55904,
+    "gn:longitude":72.10605,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Maxchagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0445\u0447\u0430\u0431\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Makhchagar"
+    ],
+    "name:uzb_x_preferred":[
+        "Maxchagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140544
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5ed7c2545306a40a6774132a7d2dc785",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209626815
+        }
+    ],
+    "wof:id":1209626815,
+    "wof:lastmodified":1537713415,
+    "wof:name":"Maxchagar",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.10605,
+    40.55904,
+    72.10605,
+    40.55904
+],
+  "geometry": {"coordinates":[72.10605,40.55904],"type":"Point"}
+}

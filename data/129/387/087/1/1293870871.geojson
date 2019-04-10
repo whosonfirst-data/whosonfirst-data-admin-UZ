@@ -1,0 +1,72 @@
+{
+  "id": 1293870871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.43778,37.42056,67.43778,37.42056",
+    "geom:latitude":37.42056,
+    "geom:longitude":67.43778,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Oqtepa",
+    "gn:country_code":"UZ",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217920,
+    "gn:latitude":37.42056,
+    "gn:longitude":67.43778,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Oqtepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aktepe",
+        "Aktepa"
+    ],
+    "name:uzb_x_preferred":[
+        "Oqtepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217920
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"78eefb7335f642a32fbada6e09bea6f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293870871,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1293870871,
+    "wof:lastmodified":1537713289,
+    "wof:name":"Oqtepa",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.43778,
+    37.42056,
+    67.43778,
+    37.42056
+],
+  "geometry": {"coordinates":[67.43778,37.42056],"type":"Point"}
+}

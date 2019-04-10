@@ -1,0 +1,71 @@
+{
+  "id": 1292898709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.58114,41.10377,71.58114,41.10377",
+    "geom:latitude":41.10377,
+    "geom:longitude":71.58114,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Yangijoy",
+    "gn:country_code":"UZ",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580335,
+    "gn:latitude":41.10377,
+    "gn:longitude":71.58114,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Yangijoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yangijoy"
+    ],
+    "name:und_x_variant":[
+        "Otdeleniye Nomer Chetyre Sovkhoza Imeni Kudayberdyyeva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580335
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f2521c01bace553bea84cfb4df03f5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1292898709,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1292898709,
+    "wof:lastmodified":1537713397,
+    "wof:name":"Yangijoy",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.58114,
+    41.10377,
+    71.58114,
+    41.10377
+],
+  "geometry": {"coordinates":[71.58114,41.10377],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243254241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.88906,39.15612,66.88906,39.15612",
+    "geom:latitude":39.15612,
+    "geom:longitude":66.88906,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"O`risqishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215820,
+    "gn:latitude":39.15612,
+    "gn:longitude":66.88906,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"O\u2018risqishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urus-Kishlak"
+    ],
+    "name:uzb_x_preferred":[
+        "O\u2018risqishloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215820
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"436390eb9710f537ff2409e90f8dfeae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243254241,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1243254241,
+    "wof:lastmodified":1537713236,
+    "wof:name":"O`risqishloq",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.88906,
+    39.15612,
+    66.88906,
+    39.15612
+],
+  "geometry": {"coordinates":[66.88906,39.15612],"type":"Point"}
+}

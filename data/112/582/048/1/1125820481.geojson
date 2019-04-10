@@ -1,0 +1,113 @@
+{
+  "id": 1125820481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.81556,40.37583,70.81556,40.37583",
+    "geom:latitude":40.37583,
+    "geom:longitude":70.81556,
+    "gn:gn_country":"UZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":20332,
+    "gn:population":20332,
+    "iso:country":"UZ",
+    "lbl:latitude":40.37583,
+    "lbl:longitude":70.81556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Yaypan"
+    ],
+    "name:eng_x_preferred":[
+        "Yaypan"
+    ],
+    "name:fre_x_preferred":[
+        "Yaypan"
+    ],
+    "name:ger_x_preferred":[
+        "Yaypan"
+    ],
+    "name:kik_x_preferred":[
+        "Yaypan"
+    ],
+    "name:pol_x_preferred":[
+        "Yaypan"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0439\u043f\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Yaypan"
+    ],
+    "name:tur_x_preferred":[
+        "Yaypan"
+    ],
+    "name:unk_x_variant":[
+        "Bazar-Yaypan"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u06cc\u067e\u0648\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Yaypan"
+    ],
+    "qs_pg:aaroncc":"UZ",
+    "qs_pg:gn_country":"UZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1512320,
+    "qs_pg:gn_pop":20332,
+    "qs_pg:name":"Yaypan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":133071,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512320,
+        "qs_pg:id":133071,
+        "wd:id":"Q3608608"
+    },
+    "wof:country":"UZ",
+    "wof:created":1497292026,
+    "wof:geomhash":"b214246db294cf7465c3376a4a312f12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1125820481,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1125820481,
+    "wof:lastmodified":1514502125,
+    "wof:name":"Yaypan",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:population":20332,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.81556,
+    40.37583,
+    70.81556,
+    40.37583
+],
+  "geometry": {"coordinates":[70.81556,40.37583],"type":"Point"}
+}

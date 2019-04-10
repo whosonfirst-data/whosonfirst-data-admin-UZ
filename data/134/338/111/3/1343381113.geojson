@@ -1,0 +1,65 @@
+{
+  "id": 1343381113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.04622,38.22958,66.04622,38.22958",
+    "geom:latitude":38.22958,
+    "geom:longitude":66.04622,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chuychak Quduq",
+    "gn:country_code":"UZ",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783681,
+    "gn:latitude":38.22958,
+    "gn:longitude":66.04622,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Chuychak Quduq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783681
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ebebc02c063db981bc8175bf2c9bad5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343381113,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1343381113,
+    "wof:lastmodified":1536859389,
+    "wof:name":"Chuychak Quduq",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.04621999999999,
+    38.22958,
+    66.04621999999999,
+    38.22958
+],
+  "geometry": {"coordinates":[66.04621999999999,38.22958],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209226245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.00676,40.63066,71.00676,40.63066",
+    "geom:latitude":40.63066,
+    "geom:longitude":71.00676,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mehnatrohat",
+    "gn:country_code":"UZ",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11057410,
+    "gn:latitude":40.63066,
+    "gn:longitude":71.00676,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Mehnatrohat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mikhnatrakhat"
+    ],
+    "name:uzb_x_preferred":[
+        "Mehnatrohat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11057410
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d642db039bf5cfc04b45f47552345bcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209226245
+        }
+    ],
+    "wof:id":1209226245,
+    "wof:lastmodified":1537713473,
+    "wof:name":"Mehnatrohat",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.00676,
+    40.63066,
+    71.00676,
+    40.63066
+],
+  "geometry": {"coordinates":[71.00676,40.63066],"type":"Point"}
+}

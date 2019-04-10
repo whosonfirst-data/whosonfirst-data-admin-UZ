@@ -1,0 +1,78 @@
+{
+  "id": 1259497537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.19523,40.61299,72.19523,40.61299",
+    "geom:latitude":40.61299,
+    "geom:longitude":72.19523,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yuqori Bo`z",
+    "gn:country_code":"UZ",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140432,
+    "gn:latitude":40.61299,
+    "gn:longitude":72.19523,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Yuqori Bo\u2018z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u043c\u0443\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kommuna"
+    ],
+    "name:uzb_x_preferred":[
+        "Yuqori Bo\u2018z"
+    ],
+    "name:uzb_x_variant":[
+        "Yuqori-Vuz",
+        "Yukori-Buz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140432
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2f2420d5580e9083f096648f1f43a12e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259497537,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1259497537,
+    "wof:lastmodified":1537713412,
+    "wof:name":"Yuqori Bo`z",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.19523000000002,
+    40.61299,
+    72.19523000000002,
+    40.61299
+],
+  "geometry": {"coordinates":[72.19523000000002,40.61299],"type":"Point"}
+}

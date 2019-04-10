@@ -1,0 +1,71 @@
+{
+  "id": 1344171243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.38765,40.65116,71.38765,40.65116",
+    "geom:latitude":40.65116,
+    "geom:longitude":71.38765,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Uzumzor",
+    "gn:country_code":"UZ",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7537278,
+    "gn:latitude":40.65116,
+    "gn:longitude":71.38765,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Uzumzor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Uzumzor"
+    ],
+    "name:und_x_variant":[
+        "Vinsovkhoz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7537278
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4d7f7a9afc954dd8cd15e69c7f157dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344171243,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1344171243,
+    "wof:lastmodified":1537713387,
+    "wof:name":"Uzumzor",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.38765,
+    40.65116,
+    71.38765,
+    40.65116
+],
+  "geometry": {"coordinates":[71.38764999999999,40.65116],"type":"Point"}
+}

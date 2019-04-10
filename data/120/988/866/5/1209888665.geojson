@@ -1,0 +1,68 @@
+{
+  "id": 1209888665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.94419,40.37494,68.94419,40.37494",
+    "geom:latitude":40.37494,
+    "geom:longitude":68.94419,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Sobir Rahimov",
+    "gn:country_code":"UZ",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242498,
+    "gn:latitude":40.37494,
+    "gn:longitude":68.94419,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Sobir Rahimov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Sobir Rahimov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242498
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f511420eb72ac1359dc0d10decf32e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209888665,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1209888665,
+    "wof:lastmodified":1537713496,
+    "wof:name":"Sobir Rahimov",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.94419,
+    40.37494,
+    68.94419,
+    40.37494
+],
+  "geometry": {"coordinates":[68.94419000000001,40.37494],"type":"Point"}
+}

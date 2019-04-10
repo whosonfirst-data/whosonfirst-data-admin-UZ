@@ -1,0 +1,65 @@
+{
+  "id": 1242857941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.16836,41.27377,69.16836,41.27377",
+    "geom:latitude":41.27377,
+    "geom:longitude":69.16836,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Burdzhar",
+    "gn:country_code":"UZ",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247496,
+    "gn:latitude":41.27377,
+    "gn:longitude":69.16836,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Burdzhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247496
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"bd4c854ee0c24639e5def23810f2d2b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242857941,
+            "region_id":85680429
+        }
+    ],
+    "wof:id":1242857941,
+    "wof:lastmodified":1536659930,
+    "wof:name":"Burdzhar",
+    "wof:parent_id":85680429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.16835999999999,
+    41.27377,
+    69.16835999999999,
+    41.27377
+],
+  "geometry": {"coordinates":[69.16835999999999,41.27377],"type":"Point"}
+}

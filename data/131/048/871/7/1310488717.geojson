@@ -1,0 +1,65 @@
+{
+  "id": 1310488717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.7347,38.82998,67.7347,38.82998",
+    "geom:latitude":38.82998,
+    "geom:longitude":67.7347,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Biyroga",
+    "gn:country_code":"UZ",
+    "gn:dem":1477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217681,
+    "gn:latitude":38.82998,
+    "gn:longitude":67.7347,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Biyroga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217681
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f0f6bcf15e1223ac058071c1612b2313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310488717,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1310488717,
+    "wof:lastmodified":1536941736,
+    "wof:name":"Biyroga",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.7347,
+    38.82998,
+    67.7347,
+    38.82998
+],
+  "geometry": {"coordinates":[67.7347,38.82998],"type":"Point"}
+}

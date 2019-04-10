@@ -1,0 +1,74 @@
+{
+  "id": 1293690971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.93574,40.73148,71.93574,40.73148",
+    "geom:latitude":40.73148,
+    "geom:longitude":71.93574,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"G`alaba",
+    "gn:country_code":"UZ",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10972697,
+    "gn:latitude":40.73148,
+    "gn:longitude":71.93574,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"G\u2018alaba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kolkhoz Imeni Tel\u2019mana"
+    ],
+    "name:uzb_x_preferred":[
+        "G\u2018alaba"
+    ],
+    "name:uzb_x_variant":[
+        "Avangard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10972697
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1ce1bdd1865aa6b596611ba7fb1b15f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293690971,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1293690971,
+    "wof:lastmodified":1537713452,
+    "wof:name":"G`alaba",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.93574,
+    40.73148,
+    71.93574,
+    40.73148
+],
+  "geometry": {"coordinates":[71.93574,40.73148],"type":"Point"}
+}

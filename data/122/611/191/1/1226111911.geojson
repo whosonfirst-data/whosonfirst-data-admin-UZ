@@ -1,0 +1,68 @@
+{
+  "id": 1226111911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.82357,40.60573,68.82357,40.60573",
+    "geom:latitude":40.60573,
+    "geom:longitude":68.82357,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Uchqun",
+    "gn:country_code":"UZ",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242297,
+    "gn:latitude":40.60573,
+    "gn:longitude":68.82357,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Uchqun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Uchqun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242297
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6db695b15a9f5ce45b4cbe75d3b667bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226111911,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1226111911,
+    "wof:lastmodified":1537713491,
+    "wof:name":"Uchqun",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.82356999999999,
+    40.60573,
+    68.82356999999999,
+    40.60573
+],
+  "geometry": {"coordinates":[68.82356999999999,40.60573],"type":"Point"}
+}

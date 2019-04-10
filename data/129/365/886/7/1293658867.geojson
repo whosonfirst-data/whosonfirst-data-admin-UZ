@@ -1,0 +1,72 @@
+{
+  "id": 1293658867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.59528,40.875,68.59528,40.875",
+    "geom:latitude":40.875,
+    "geom:longitude":68.59528,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Bog`aro",
+    "gn:country_code":"UZ",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535829,
+    "gn:latitude":40.875,
+    "gn:longitude":68.59528,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Bog\u2018aro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uchastok Nomer Tri Kolkhoza Leningrad",
+        "Bogara"
+    ],
+    "name:uzb_x_preferred":[
+        "Bog\u2018aro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535829
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"76b0cd42355bb169106fa3b8195d8fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293658867,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1293658867,
+    "wof:lastmodified":1537713367,
+    "wof:name":"Bog`aro",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.59528,
+    40.875,
+    68.59528,
+    40.875
+],
+  "geometry": {"coordinates":[68.59528,40.875],"type":"Point"}
+}

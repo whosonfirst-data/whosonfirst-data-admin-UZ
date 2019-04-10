@@ -1,0 +1,73 @@
+{
+  "id": 1193017715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.08225,40.11164,71.08225,40.11164",
+    "geom:latitude":40.11164,
+    "geom:longitude":71.08225,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tul",
+    "gn:country_code":"UZ",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512558,
+    "gn:latitude":40.11164,
+    "gn:longitude":71.08225,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Tul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Tul\u2019"
+    ],
+    "name:und_x_variant":[
+        "Kalacha",
+        "Gul\u2019"
+    ],
+    "name:uzb_x_preferred":[
+        "Tul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512558
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7a19d188916351a6f3980d62c98aa9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1193017715,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193017715,
+    "wof:lastmodified":1537713307,
+    "wof:name":"Tul",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.08225,
+    40.11164,
+    71.08225,
+    40.11164
+],
+  "geometry": {"coordinates":[71.08225,40.11164],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310671725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.15042,40.63248,69.15042,40.63248",
+    "geom:latitude":40.63248,
+    "geom:longitude":69.15042,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Guliston",
+    "gn:country_code":"UZ",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241991,
+    "gn:latitude":40.63248,
+    "gn:longitude":69.15042,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Guliston",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Guliston"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241991
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ea8c3d7d02fd9bfd56aa2bf31cf15e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310671725,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1310671725,
+    "wof:lastmodified":1537713489,
+    "wof:name":"Guliston",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.15042,
+    40.63248,
+    69.15042,
+    40.63248
+],
+  "geometry": {"coordinates":[69.15042,40.63248],"type":"Point"}
+}

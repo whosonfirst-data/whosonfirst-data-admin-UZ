@@ -1,0 +1,61 @@
+{
+  "id": 1209484939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.93488,40.37649,68.93488,40.37649",
+    "geom:latitude":40.37649,
+    "geom:longitude":68.93488,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Bayaut Pervyy",
+    "gn:country_code":"UZ",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514431,
+    "gn:latitude":40.37649,
+    "gn:longitude":68.93488,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Bayaut Pervyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514431
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"29e3ca794acc2eb6a879d6f809292f76",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209484939
+        }
+    ],
+    "wof:id":1209484939,
+    "wof:lastmodified":1536285666,
+    "wof:name":"Bayaut Pervyy",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.93488,
+    40.37649,
+    68.93488,
+    40.37649
+],
+  "geometry": {"coordinates":[68.93488000000001,40.37649],"type":"Point"}
+}

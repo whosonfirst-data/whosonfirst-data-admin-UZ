@@ -1,0 +1,71 @@
+{
+  "id": 1326507347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.98194,38.55222,67.98194,38.55222",
+    "geom:latitude":38.55222,
+    "geom:longitude":67.98194,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Zaxnobod",
+    "gn:country_code":"UZ",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215686,
+    "gn:latitude":38.55222,
+    "gn:longitude":67.98194,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Zaxnobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zakhnabad"
+    ],
+    "name:uzb_x_preferred":[
+        "Zaxnobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215686
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0c4506636e1be26e35debf325b835a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326507347,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1326507347,
+    "wof:lastmodified":1537713234,
+    "wof:name":"Zaxnobod",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.98194000000001,
+    38.55222,
+    67.98194000000001,
+    38.55222
+],
+  "geometry": {"coordinates":[67.98194000000001,38.55222],"type":"Point"}
+}

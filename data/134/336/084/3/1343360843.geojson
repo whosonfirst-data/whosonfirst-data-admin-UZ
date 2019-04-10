@@ -1,0 +1,68 @@
+{
+  "id": 1343360843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.7415,40.34792,70.7415,40.34792",
+    "geom:latitude":40.34792,
+    "geom:longitude":70.7415,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tog`ob",
+    "gn:country_code":"UZ",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646517,
+    "gn:latitude":40.34792,
+    "gn:longitude":70.7415,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Tog\u2018ob",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Tog\u2018ob"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646517
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ff33b29643910f14df19038e868368d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343360843,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1343360843,
+    "wof:lastmodified":1537713443,
+    "wof:name":"Tog`ob",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.7415,
+    40.34792,
+    70.7415,
+    40.34792
+],
+  "geometry": {"coordinates":[70.7415,40.34792],"type":"Point"}
+}

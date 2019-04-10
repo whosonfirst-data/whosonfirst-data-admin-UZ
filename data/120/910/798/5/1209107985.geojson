@@ -1,0 +1,64 @@
+{
+  "id": 1209107985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.95084,40.40673,70.95084,40.40673",
+    "geom:latitude":40.40673,
+    "geom:longitude":70.95084,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dasturxonchi",
+    "gn:country_code":"UZ",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10649169,
+    "gn:latitude":40.40673,
+    "gn:longitude":70.95084,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Dasturxonchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Dasturxonchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10649169
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"dde2b9a9c0b830ca1495da5292ed8c2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209107985
+        }
+    ],
+    "wof:id":1209107985,
+    "wof:lastmodified":1537713444,
+    "wof:name":"Dasturxonchi",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.95084,
+    40.40673,
+    70.95084,
+    40.40673
+],
+  "geometry": {"coordinates":[70.95084,40.40673],"type":"Point"}
+}

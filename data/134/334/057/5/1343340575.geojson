@@ -1,0 +1,65 @@
+{
+  "id": 1343340575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.14083,41.35528,69.14083,41.35528",
+    "geom:latitude":41.35528,
+    "geom:longitude":69.14083,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Koksaray",
+    "gn:country_code":"UZ",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513510,
+    "gn:latitude":41.35528,
+    "gn:longitude":69.14083,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Koksaray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513510
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c09afebd585b1144f94f56ca4aabba34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343340575,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1343340575,
+    "wof:lastmodified":1536919977,
+    "wof:name":"Koksaray",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.14083000000001,
+    41.35528,
+    69.14083000000001,
+    41.35528
+],
+  "geometry": {"coordinates":[69.14083000000001,41.35528],"type":"Point"}
+}

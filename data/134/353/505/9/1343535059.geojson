@@ -1,0 +1,70 @@
+{
+  "id": 1343535059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.51972,41.31694,69.51972,41.31694",
+    "geom:latitude":41.31694,
+    "geom:longitude":69.51972,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yangibozor",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512362,
+    "gn:latitude":41.31694,
+    "gn:longitude":69.51972,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yangibozor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yangibazar",
+        "Yangibozor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512362
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9456fec08a4cb3498ec21ce2cbf052c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343535059,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1343535059,
+    "wof:lastmodified":1537713301,
+    "wof:name":"Yangibozor",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.51971999999999,
+    41.31694,
+    69.51971999999999,
+    41.31694
+],
+  "geometry": {"coordinates":[69.51971999999999,41.31694],"type":"Point"}
+}

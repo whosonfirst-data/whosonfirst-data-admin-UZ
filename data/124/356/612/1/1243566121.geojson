@@ -1,0 +1,68 @@
+{
+  "id": 1243566121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.55781,40.41812,70.55781,40.41812",
+    "geom:latitude":40.41812,
+    "geom:longitude":70.55781,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Uzunqishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646195,
+    "gn:latitude":40.41812,
+    "gn:longitude":70.55781,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Uzunqishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Uzunqishloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646195
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"29bda60bcf9a68c3cb59d21701455ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243566121,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1243566121,
+    "wof:lastmodified":1537713443,
+    "wof:name":"Uzunqishloq",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.55781,
+    40.41812,
+    70.55781,
+    40.41812
+],
+  "geometry": {"coordinates":[70.55781,40.41812],"type":"Point"}
+}

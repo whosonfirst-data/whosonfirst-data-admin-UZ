@@ -1,0 +1,68 @@
+{
+  "id": 1259768789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.43256,38.9013,65.43256,38.9013",
+    "geom:latitude":38.9013,
+    "geom:longitude":65.43256,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Qoratepa",
+    "gn:country_code":"UZ",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7630327,
+    "gn:latitude":38.9013,
+    "gn:longitude":65.43256,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qoratepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qoratepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7630327
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a24fb366f98c04285922b80a3f4d52d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259768789,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1259768789,
+    "wof:lastmodified":1537713401,
+    "wof:name":"Qoratepa",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.43256,
+    38.9013,
+    65.43256,
+    38.9013
+],
+  "geometry": {"coordinates":[65.43256,38.9013],"type":"Point"}
+}

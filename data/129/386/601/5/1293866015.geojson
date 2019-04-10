@@ -1,0 +1,68 @@
+{
+  "id": 1293866015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.84991,40.35795,68.84991,40.35795",
+    "geom:latitude":40.35795,
+    "geom:longitude":68.84991,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Darvozaqir",
+    "gn:country_code":"UZ",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242494,
+    "gn:latitude":40.35795,
+    "gn:longitude":68.84991,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Darvozaqir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Darvozaqir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242494
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0a0ed2eb073d8e5b343c249686c256ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293866015,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1293866015,
+    "wof:lastmodified":1537713496,
+    "wof:name":"Darvozaqir",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.84991,
+    40.35795,
+    68.84991,
+    40.35795
+],
+  "geometry": {"coordinates":[68.84990999999999,40.35795],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1344153121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.13399,43.15226,59.13399,43.15226",
+    "geom:latitude":43.15226,
+    "geom:longitude":59.13399,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Qiziljar",
+    "gn:country_code":"UZ",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889128,
+    "gn:latitude":43.15226,
+    "gn:longitude":59.13399,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Qiziljar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889128
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"396962d43235c11e84e803585136a3d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344153121,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1344153121,
+    "wof:lastmodified":1536741710,
+    "wof:name":"Qiziljar",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.13399,
+    43.15226,
+    59.13399,
+    43.15226
+],
+  "geometry": {"coordinates":[59.13399,43.15226],"type":"Point"}
+}

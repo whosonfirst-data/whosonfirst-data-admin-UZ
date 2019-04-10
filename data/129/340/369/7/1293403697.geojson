@@ -1,0 +1,68 @@
+{
+  "id": 1293403697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.92187,40.74065,71.92187,40.74065",
+    "geom:latitude":40.74065,
+    "geom:longitude":71.92187,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Madraximov",
+    "gn:country_code":"UZ",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11104919,
+    "gn:latitude":40.74065,
+    "gn:longitude":71.92187,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Madraximov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Madraximov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11104919
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"8ff4a8b5dfa9e1010110f0b72b979e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293403697,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1293403697,
+    "wof:lastmodified":1537713477,
+    "wof:name":"Madraximov",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.92187,
+    40.74065,
+    71.92187,
+    40.74065
+],
+  "geometry": {"coordinates":[71.92187,40.74065],"type":"Point"}
+}

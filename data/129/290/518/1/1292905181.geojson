@@ -1,0 +1,74 @@
+{
+  "id": 1292905181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.71414,40.655,71.71414,40.655",
+    "geom:latitude":40.655,
+    "geom:longitude":71.71414,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Soybo`yi",
+    "gn:country_code":"UZ",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512863,
+    "gn:latitude":40.655,
+    "gn:longitude":71.71414,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Soybo\u2018yi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saybuii"
+    ],
+    "name:uzb_x_preferred":[
+        "Soybo\u2018yi"
+    ],
+    "name:uzb_x_variant":[
+        "Sayb\u016dyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512863
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"75c1ab11560e23f8225ee41469b1b10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1292905181,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1292905181,
+    "wof:lastmodified":1537713313,
+    "wof:name":"Soybo`yi",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.71414,
+    40.655,
+    71.71414,
+    40.655
+],
+  "geometry": {"coordinates":[71.71414,40.655],"type":"Point"}
+}

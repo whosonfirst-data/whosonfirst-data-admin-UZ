@@ -1,0 +1,68 @@
+{
+  "id": 1293509821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.43973,39.10086,65.43973,39.10086",
+    "geom:latitude":39.10086,
+    "geom:longitude":65.43973,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zafarobod",
+    "gn:country_code":"UZ",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7630351,
+    "gn:latitude":39.10086,
+    "gn:longitude":65.43973,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zafarobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zafarobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7630351
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"8a84a7cfe7faf021a8e7f1fecf8dc1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293509821,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1293509821,
+    "wof:lastmodified":1537713401,
+    "wof:name":"Zafarobod",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.43973000000001,
+    39.10086,
+    65.43973000000001,
+    39.10086
+],
+  "geometry": {"coordinates":[65.43973000000001,39.10086],"type":"Point"}
+}

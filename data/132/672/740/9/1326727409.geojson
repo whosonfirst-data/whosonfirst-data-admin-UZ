@@ -1,0 +1,69 @@
+{
+  "id": 1326727409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.78333,40.06667,64.78333,40.06667",
+    "geom:latitude":40.06667,
+    "geom:longitude":64.78333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sufiyan",
+    "gn:country_code":"UZ",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512746,
+    "gn:latitude":40.06667,
+    "gn:longitude":64.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sufiyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sefiyan",
+        "Sufiyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512746
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"bdf8f50acbcfb78aa222bb5fef33fd31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326727409,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1326727409,
+    "wof:lastmodified":1537713310,
+    "wof:name":"Sufiyan",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.78333,
+    40.06667,
+    64.78333,
+    40.06667
+],
+  "geometry": {"coordinates":[64.78333000000001,40.06667],"type":"Point"}
+}

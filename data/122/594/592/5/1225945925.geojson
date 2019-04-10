@@ -1,0 +1,68 @@
+{
+  "id": 1225945925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.0145,40.56522,72.0145,40.56522",
+    "geom:latitude":40.56522,
+    "geom:longitude":72.0145,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yangikishlak",
+    "gn:country_code":"UZ",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140550,
+    "gn:latitude":40.56522,
+    "gn:longitude":72.0145,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Yangikishlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u0433\u0438\u043a\u0438\u0448\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140550
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"34010135aa9d7997e4cff83e8eb0bc17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1225945925,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1225945925,
+    "wof:lastmodified":1537713415,
+    "wof:name":"Yangikishlak",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.0145,
+    40.56522,
+    72.0145,
+    40.56522
+],
+  "geometry": {"coordinates":[72.0145,40.56522],"type":"Point"}
+}

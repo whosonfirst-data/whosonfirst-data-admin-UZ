@@ -1,0 +1,67 @@
+{
+  "id": 1209093353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.98333,38.88167,67.98333,38.88167",
+    "geom:latitude":38.88167,
+    "geom:longitude":67.98333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Tamarxum",
+    "gn:country_code":"UZ",
+    "gn:dem":1709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216016,
+    "gn:latitude":38.88167,
+    "gn:longitude":67.98333,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Tamarxum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamarkhut"
+    ],
+    "name:uzb_x_preferred":[
+        "Tamarxum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216016
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2cd2f410b73b88bd6a3904204501de20",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209093353
+        }
+    ],
+    "wof:id":1209093353,
+    "wof:lastmodified":1537713241,
+    "wof:name":"Tamarxum",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.98333000000001,
+    38.88167,
+    67.98333000000001,
+    38.88167
+],
+  "geometry": {"coordinates":[67.98333000000001,38.88167],"type":"Point"}
+}

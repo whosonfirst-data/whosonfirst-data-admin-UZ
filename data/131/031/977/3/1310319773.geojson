@@ -1,0 +1,63 @@
+{
+  "id": 1310319773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.43333,39.46667,67.43333,39.46667",
+    "geom:latitude":39.46667,
+    "geom:longitude":67.43333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tuyakly",
+    "gn:country_code":"UZ",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215895,
+    "gn:latitude":39.46667,
+    "gn:longitude":67.43333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Tuyakly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215895
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"8ea62b4e624e6b64ce48e5c24183e23e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1310319773,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310319773,
+    "wof:lastmodified":1536687297,
+    "wof:name":"Tuyakly",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.43333,
+    39.46667,
+    67.43333,
+    39.46667
+],
+  "geometry": {"coordinates":[67.43333,39.46667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276452725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.95411,40.63094,71.95411,40.63094",
+    "geom:latitude":40.63094,
+    "geom:longitude":71.95411,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Navoiy",
+    "gn:country_code":"UZ",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11104927,
+    "gn:latitude":40.63094,
+    "gn:longitude":71.95411,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Navoiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Navoiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11104927
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0fe85db0ec099af2bd8edd07aa0922d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276452725,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1276452725,
+    "wof:lastmodified":1537713477,
+    "wof:name":"Navoiy",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.95411,
+    40.63094,
+    71.95411,
+    40.63094
+],
+  "geometry": {"coordinates":[71.95411,40.63094],"type":"Point"}
+}

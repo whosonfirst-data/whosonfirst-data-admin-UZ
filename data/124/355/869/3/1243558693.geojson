@@ -1,0 +1,77 @@
+{
+  "id": 1243558693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.20594,40.79354,72.20594,40.79354",
+    "geom:latitude":40.79354,
+    "geom:longitude":72.20594,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ijtimoiyot",
+    "gn:country_code":"UZ",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8152065,
+    "gn:latitude":40.79354,
+    "gn:longitude":72.20594,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ijtimoiyot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0436\u0442\u0438\u043c\u0430\u0438\u044f\u0442"
+    ],
+    "name:und_x_variant":[
+        "Izhtimaiyat"
+    ],
+    "name:uzb_x_preferred":[
+        "Ijtimoiyot"
+    ],
+    "name:uzb_x_variant":[
+        "Namuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8152065
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6301dbfc5756e6381ab27a39760be460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243558693,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1243558693,
+    "wof:lastmodified":1537713428,
+    "wof:name":"Ijtimoiyot",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.20594,
+    40.79354,
+    72.20594,
+    40.79354
+],
+  "geometry": {"coordinates":[72.20594,40.79354],"type":"Point"}
+}

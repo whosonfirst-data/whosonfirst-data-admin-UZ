@@ -1,0 +1,74 @@
+{
+  "id": 421185543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"69.19111,41.35167,69.19111,41.35167",
+    "geom:latitude":41.35167,
+    "geom:longitude":69.19111,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"UZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":1514641,
+    "qs:gn_pop":0,
+    "qs:name":"Aktepa-Chigatay",
+    "qs:name_adm0":"Uzbekistan",
+    "qs:name_adm1":"Toshkent",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1026077,
+    "qs:woe_adm0":23424980,
+    "qs:woe_id":2269289,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514641,
+        "gp:id":2269289,
+        "qs:id":1026077
+    },
+    "wof:country":"UZ",
+    "wof:created":1459009446,
+    "wof:geomhash":"11c543c24779a964e6c87fc937800af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":-1,
+            "neighbourhood_id":421185543,
+            "region_id":85680429
+        }
+    ],
+    "wof:id":421185543,
+    "wof:lastmodified":1531858590,
+    "wof:name":"Aktepa-Chigatay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.19111,
+    41.35167,
+    69.19111,
+    41.35167
+],
+  "geometry": {"coordinates":[69.19110999999999,41.35167],"type":"Point"}
+}

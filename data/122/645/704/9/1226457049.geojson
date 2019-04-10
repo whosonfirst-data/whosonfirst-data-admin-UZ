@@ -1,0 +1,72 @@
+{
+  "id": 1226457049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.28333,40.26667,66.28333,40.26667",
+    "geom:latitude":40.26667,
+    "geom:longitude":66.28333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Maulyan",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513235,
+    "gn:latitude":40.26667,
+    "gn:longitude":66.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Maulyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taulyan",
+        "Maulyak",
+        "Taulyak",
+        "Maulyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513235
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"df360b7ab5e425ff0fdc1e6a8cdd024e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226457049,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1226457049,
+    "wof:lastmodified":1537713323,
+    "wof:name":"Maulyan",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.28333,
+    40.26667,
+    66.28333,
+    40.26667
+],
+  "geometry": {"coordinates":[66.28333000000001,40.26667],"type":"Point"}
+}

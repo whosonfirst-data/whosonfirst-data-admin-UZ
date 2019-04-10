@@ -1,0 +1,64 @@
+{
+  "id": 1292918771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.48414,40.71906,62.48414,40.71906",
+    "geom:latitude":40.71906,
+    "geom:longitude":62.48414,
+    "gn:asciiname":"Kishlak",
+    "gn:country_code":"UZ",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8714389,
+    "gn:latitude":40.71906,
+    "gn:longitude":62.48414,
+    "gn:modification_date":"2014-02-22",
+    "gn:name":"Kishlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8714389
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"bdbbf7f9957bae1c0be7f136bdef2491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1292918771,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":1292918771,
+    "wof:lastmodified":1536610119,
+    "wof:name":"Kishlak",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.48414,
+    40.71906,
+    62.48414,
+    40.71906
+],
+  "geometry": {"coordinates":[62.48414,40.71906],"type":"Point"}
+}

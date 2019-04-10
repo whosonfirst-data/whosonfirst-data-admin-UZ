@@ -1,0 +1,68 @@
+{
+  "id": 1226449909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.26106,40.34561,71.26106,40.34561",
+    "geom:latitude":40.34561,
+    "geom:longitude":71.26106,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qo`shkaryon",
+    "gn:country_code":"UZ",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11056861,
+    "gn:latitude":40.34561,
+    "gn:longitude":71.26106,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Qo\u2018shkaryon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Qo\u2018shkaryon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056861
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a082bcddc6e4e8bd37050801a5eb56fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226449909,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1226449909,
+    "wof:lastmodified":1537713463,
+    "wof:name":"Qo`shkaryon",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.26106,
+    40.34561,
+    71.26106,
+    40.34561
+],
+  "geometry": {"coordinates":[71.26106,40.34561],"type":"Point"}
+}

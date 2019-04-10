@@ -1,0 +1,69 @@
+{
+  "id": 1343256501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.96667,40.03333,65.96667,40.03333",
+    "geom:latitude":40.03333,
+    "geom:longitude":65.96667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Khatyrchi",
+    "gn:country_code":"UZ",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513623,
+    "gn:latitude":40.03333,
+    "gn:longitude":65.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khatyrchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chatyrtschi",
+        "Khatyrchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513623
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"40f96a638f8af634dfb44c48628d3b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343256501,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1343256501,
+    "wof:lastmodified":1537713334,
+    "wof:name":"Khatyrchi",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.96667,
+    40.03333,
+    65.96667,
+    40.03333
+],
+  "geometry": {"coordinates":[65.96666999999999,40.03333],"type":"Point"}
+}

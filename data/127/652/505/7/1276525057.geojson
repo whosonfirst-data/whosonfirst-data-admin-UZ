@@ -1,0 +1,72 @@
+{
+  "id": 1276525057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.22871,38.18839,68.22871,38.18839",
+    "geom:latitude":38.18839,
+    "geom:longitude":68.22871,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Do`g`ob",
+    "gn:country_code":"UZ",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217456,
+    "gn:latitude":38.18839,
+    "gn:longitude":68.22871,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Do\u2018g\u2018ob",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dogap",
+        "Dogab"
+    ],
+    "name:uzb_x_preferred":[
+        "Do\u2018g\u2018ob"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217456
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"79e992d26f4467000eafe0e83a2161fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276525057,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1276525057,
+    "wof:lastmodified":1537713278,
+    "wof:name":"Do`g`ob",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.22870999999999,
+    38.18839000000001,
+    68.22870999999999,
+    38.18839000000001
+],
+  "geometry": {"coordinates":[68.22870999999999,38.18839000000001],"type":"Point"}
+}

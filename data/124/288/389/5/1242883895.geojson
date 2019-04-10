@@ -1,0 +1,74 @@
+{
+  "id": 1242883895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.51917,40.69373,72.51917,40.69373",
+    "geom:latitude":40.69373,
+    "geom:longitude":72.51917,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sariqamish",
+    "gn:country_code":"UZ",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163755,
+    "gn:latitude":40.69373,
+    "gn:longitude":72.51917,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Sariqamish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u043a\u0430\u043c\u044b\u0448"
+    ],
+    "name:und_x_variant":[
+        "Sarykamysh"
+    ],
+    "name:uzb_x_preferred":[
+        "Sariqamish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163755
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"55d99fff377de4b269d16411d386a12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242883895,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1242883895,
+    "wof:lastmodified":1537713435,
+    "wof:name":"Sariqamish",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.51916999999997,
+    40.69373,
+    72.51916999999997,
+    40.69373
+],
+  "geometry": {"coordinates":[72.51916999999997,40.69373],"type":"Point"}
+}

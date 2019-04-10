@@ -1,0 +1,68 @@
+{
+  "id": 1243236107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.71358,40.72637,68.71358,40.72637",
+    "geom:latitude":40.72637,
+    "geom:longitude":68.71358,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Obodon",
+    "gn:country_code":"UZ",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242253,
+    "gn:latitude":40.72637,
+    "gn:longitude":68.71358,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Obodon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Obodon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242253
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"bdd5298bd5188720bef94864b670c784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243236107,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1243236107,
+    "wof:lastmodified":1537713490,
+    "wof:name":"Obodon",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.71358000000001,
+    40.72637,
+    68.71358000000001,
+    40.72637
+],
+  "geometry": {"coordinates":[68.71358000000001,40.72637],"type":"Point"}
+}

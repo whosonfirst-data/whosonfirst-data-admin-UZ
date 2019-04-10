@@ -1,0 +1,68 @@
+{
+  "id": 1293681691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.6598,40.96313,71.6598,40.96313",
+    "geom:latitude":40.96313,
+    "geom:longitude":71.6598,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Qo`qonqishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7536284,
+    "gn:latitude":40.96313,
+    "gn:longitude":71.6598,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qo\u2018qonqishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qo\u2018qonqishloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7536284
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"662877d4c8f491bb6a6c2b93c937366b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293681691,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1293681691,
+    "wof:lastmodified":1537713384,
+    "wof:name":"Qo`qonqishloq",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.6598,
+    40.96313,
+    71.6598,
+    40.96313
+],
+  "geometry": {"coordinates":[71.6598,40.96313],"type":"Point"}
+}

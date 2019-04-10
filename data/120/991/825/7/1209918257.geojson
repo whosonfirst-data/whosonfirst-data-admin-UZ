@@ -1,0 +1,71 @@
+{
+  "id": 1209918257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.913,40.76057,72.913,40.76057",
+    "geom:latitude":40.76057,
+    "geom:longitude":72.913,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Beshkaltak",
+    "gn:country_code":"UZ",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163624,
+    "gn:latitude":40.76057,
+    "gn:longitude":72.913,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Beshkaltak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0448\u043a\u0430\u043b\u0442\u0430\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Beshkaltak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163624
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"efa28ec30db667d26860a61854fa0138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209918257,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1209918257,
+    "wof:lastmodified":1537713431,
+    "wof:name":"Beshkaltak",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.913,
+    40.76057,
+    72.913,
+    40.76057
+],
+  "geometry": {"coordinates":[72.913,40.76057],"type":"Point"}
+}

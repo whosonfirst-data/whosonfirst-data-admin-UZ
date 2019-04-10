@@ -1,0 +1,72 @@
+{
+  "id": 1259666705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.76889,39.90444,68.76889,39.90444",
+    "geom:latitude":39.90444,
+    "geom:longitude":68.76889,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"Yangiobod",
+    "gn:asciiname":"Chakand",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217632,
+    "gn:latitude":39.90444,
+    "gn:longitude":68.76889,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chakand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chekand",
+        "Chakanda",
+        "Chakand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217632
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"8b0ee870d7bcc75c417647a2a83e3a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259666705,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1259666705,
+    "wof:lastmodified":1537713283,
+    "wof:name":"Chakand",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.76889,
+    39.90444,
+    68.76889,
+    39.90444
+],
+  "geometry": {"coordinates":[68.76889,39.90444],"type":"Point"}
+}

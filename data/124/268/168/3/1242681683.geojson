@@ -1,0 +1,77 @@
+{
+  "id": 1242681683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.23222,40.71853,72.23222,40.71853",
+    "geom:latitude":40.71853,
+    "geom:longitude":72.23222,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qovoqto`pi",
+    "gn:country_code":"UZ",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149741,
+    "gn:latitude":40.71853,
+    "gn:longitude":72.23222,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Qovoqto\u2018pi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0432\u0430\u043a\u0442\u0443\u043f\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kuvaktupi"
+    ],
+    "name:uzb_x_preferred":[
+        "Kavakto\u2018pi"
+    ],
+    "name:uzb_x_variant":[
+        "Qovoqto\u2018pi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149741
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b9f92d00a462504e56c109dd7504f800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242681683,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1242681683,
+    "wof:lastmodified":1537713426,
+    "wof:name":"Qovoqto`pi",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.23222,
+    40.71853,
+    72.23222,
+    40.71853
+],
+  "geometry": {"coordinates":[72.23222,40.71853],"type":"Point"}
+}

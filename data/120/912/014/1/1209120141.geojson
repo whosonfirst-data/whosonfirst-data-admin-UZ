@@ -1,0 +1,61 @@
+{
+  "id": 1209120141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.36667,40.75,72.36667,40.75",
+    "geom:latitude":40.75,
+    "geom:longitude":72.36667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Khakan",
+    "gn:country_code":"UZ",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513656,
+    "gn:latitude":40.75,
+    "gn:longitude":72.36667,
+    "gn:modification_date":"2011-11-05",
+    "gn:name":"Khakan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513656
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"141623048a79ed8c7233756b3d8e911b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209120141
+        }
+    ],
+    "wof:id":1209120141,
+    "wof:lastmodified":1536297126,
+    "wof:name":"Khakan",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.36667,
+    40.75,
+    72.36667,
+    40.75
+],
+  "geometry": {"coordinates":[72.36667,40.75],"type":"Point"}
+}

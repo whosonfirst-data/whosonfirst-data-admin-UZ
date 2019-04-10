@@ -1,0 +1,68 @@
+{
+  "id": 1260200913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.76345,40.65171,72.76345,40.65171",
+    "geom:latitude":40.65171,
+    "geom:longitude":72.76345,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Paxtafront",
+    "gn:country_code":"UZ",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229798,
+    "gn:latitude":40.65171,
+    "gn:longitude":72.76345,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Paxtafront",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Paxtafront"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229798
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1f9ce7549bde0a53ae6ab24e740dd47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260200913,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1260200913,
+    "wof:lastmodified":1537713481,
+    "wof:name":"Paxtafront",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.76345,
+    40.65171,
+    72.76345,
+    40.65171
+],
+  "geometry": {"coordinates":[72.76345000000001,40.65171],"type":"Point"}
+}

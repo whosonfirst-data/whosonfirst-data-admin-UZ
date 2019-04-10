@@ -1,0 +1,65 @@
+{
+  "id": 1243468871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.15,40.15,67.15,40.15",
+    "geom:latitude":40.15,
+    "geom:longitude":67.15,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Katta-Charbak",
+    "gn:country_code":"UZ",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513703,
+    "gn:latitude":40.15,
+    "gn:longitude":67.15,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Katta-Charbak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513703
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b0dad44f37c857841d8a5218fc6bcb18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243468871,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1243468871,
+    "wof:lastmodified":1536773778,
+    "wof:name":"Katta-Charbak",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.15,
+    40.15,
+    67.15,
+    40.15
+],
+  "geometry": {"coordinates":[67.15000000000001,40.15],"type":"Point"}
+}

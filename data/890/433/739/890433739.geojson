@@ -1,0 +1,103 @@
+{
+  "id": 890433739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.03583,40.52472,68.03583,40.52472",
+    "geom:latitude":40.52472,
+    "geom:longitude":68.03583,
+    "gn:country":"UZ",
+    "gn:fcode":"PPL",
+    "gn:pop":16524,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u062f\u0648\u0633\u062a\u0644\u06cc\u06a9"
+    ],
+    "name:dut_x_preferred":[
+        "Dustlik"
+    ],
+    "name:eng_x_preferred":[
+        "Dustlik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30a5\u30b9\u30c8\u30ea\u30af"
+    ],
+    "name:kik_x_preferred":[
+        "Do\u02bbstlik"
+    ],
+    "name:pol_x_preferred":[
+        "Do\u02bbstlik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0441\u0442\u043b\u0438\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Dustlik"
+    ],
+    "name:tur_x_preferred":[
+        "Dostluk"
+    ],
+    "name:unk_x_variant":[
+        "Dustlik"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0648\u0633\u062a\u0644\u06cc\u06a9"
+    ],
+    "name:uzb_x_preferred":[
+        "Do\u02bbstlik"
+    ],
+    "qs:name":"D\u016dstlik",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514125,
+        "gp:id":2269968,
+        "qs:id":133100,
+        "wd:id":"Q892038",
+        "wk:page":"Dustlik District"
+    },
+    "wof:country":"UZ",
+    "wof:created":1469051992,
+    "wof:geomhash":"45f2ca7edb502f728e417829b5e36ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":890433739,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":890433739,
+    "wof:lastmodified":1553816396,
+    "wof:name":"D\u016dstlik",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:population":16524,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.03583,
+    40.52472,
+    68.03583,
+    40.52472
+],
+  "geometry": {"coordinates":[68.03583,40.52472],"type":"Point"}
+}

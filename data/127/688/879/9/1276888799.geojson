@@ -1,0 +1,64 @@
+{
+  "id": 1276888799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.18195,44.78061,56.18195,44.78061",
+    "geom:latitude":44.78061,
+    "geom:longitude":56.18195,
+    "gn:asciiname":"Daut-ata",
+    "gn:country_code":"UZ",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9072839,
+    "gn:latitude":44.78061,
+    "gn:longitude":56.18195,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Daut-ata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9072839
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"af4001bbec40645d76d951b42992587f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276888799,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1276888799,
+    "wof:lastmodified":1537027923,
+    "wof:name":"Daut-ata",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.18195,
+    44.78061,
+    56.18195,
+    44.78061
+],
+  "geometry": {"coordinates":[56.18195,44.78061],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343769551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.89684,40.59592,70.89684,40.59592",
+    "geom:latitude":40.59592,
+    "geom:longitude":70.89684,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Oltiqush",
+    "gn:country_code":"UZ",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10651680,
+    "gn:latitude":40.59592,
+    "gn:longitude":70.89684,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Oltiqush",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Oltiqush"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10651680
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"24ad59ec20526771483565803ebc9ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343769551,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1343769551,
+    "wof:lastmodified":1537713448,
+    "wof:name":"Oltiqush",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.89684,
+    40.59592,
+    70.89684,
+    40.59592
+],
+  "geometry": {"coordinates":[70.89684,40.59592],"type":"Point"}
+}

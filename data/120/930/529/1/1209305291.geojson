@@ -1,0 +1,61 @@
+{
+  "id": 1209305291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.01312,38.98077,66.01312,38.98077",
+    "geom:latitude":38.98077,
+    "geom:longitude":66.01312,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Shamolquduq",
+    "gn:country_code":"UZ",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7784784,
+    "gn:latitude":38.98077,
+    "gn:longitude":66.01312,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Shamolquduq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7784784
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b31df36c6de0c855146dfd137aa0bdfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209305291
+        }
+    ],
+    "wof:id":1209305291,
+    "wof:lastmodified":1536291217,
+    "wof:name":"Shamolquduq",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.01312,
+    38.98077,
+    66.01312,
+    38.98077
+],
+  "geometry": {"coordinates":[66.01312,38.98077],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209233065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.6,40.03333,67.6,40.03333",
+    "geom:latitude":40.03333,
+    "geom:longitude":67.6,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Milyutinskaya",
+    "gn:country_code":"UZ",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513210,
+    "gn:latitude":40.03333,
+    "gn:longitude":67.6,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Milyutinskaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513210
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5a8e2a54a7d9018a14bab92baddaccf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209233065
+        }
+    ],
+    "wof:id":1209233065,
+    "wof:lastmodified":1536293576,
+    "wof:name":"Milyutinskaya",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.6,
+    40.03333,
+    67.6,
+    40.03333
+],
+  "geometry": {"coordinates":[67.59999999999999,40.03333],"type":"Point"}
+}

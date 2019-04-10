@@ -1,0 +1,67 @@
+{
+  "id": 1209616951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.96515,40.27491,71.96515,40.27491",
+    "geom:latitude":40.27491,
+    "geom:longitude":71.96515,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Boqcha",
+    "gn:country_code":"UZ",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376133,
+    "gn:latitude":40.27491,
+    "gn:longitude":71.96515,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Boqcha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bokcha"
+    ],
+    "name:uzb_x_preferred":[
+        "Boqcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376133
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4abc0273eb966dae36c194f7a9de1a48",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209616951
+        }
+    ],
+    "wof:id":1209616951,
+    "wof:lastmodified":1537713439,
+    "wof:name":"Boqcha",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.96515,
+    40.27491,
+    71.96515,
+    40.27491
+],
+  "geometry": {"coordinates":[71.96514999999999,40.27491],"type":"Point"}
+}

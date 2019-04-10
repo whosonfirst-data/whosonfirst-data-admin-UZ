@@ -1,0 +1,68 @@
+{
+  "id": 1226514815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.92976,40.57769,68.92976,40.57769",
+    "geom:latitude":40.57769,
+    "geom:longitude":68.92976,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Boltay",
+    "gn:country_code":"UZ",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242328,
+    "gn:latitude":40.57769,
+    "gn:longitude":68.92976,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Boltay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Boltay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242328
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9b4b6a8fa87d559cb5670f56fd23535d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226514815,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1226514815,
+    "wof:lastmodified":1537713492,
+    "wof:name":"Boltay",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.92976,
+    40.57769,
+    68.92976,
+    40.57769
+],
+  "geometry": {"coordinates":[68.92976,40.57769],"type":"Point"}
+}

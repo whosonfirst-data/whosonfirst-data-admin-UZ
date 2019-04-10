@@ -1,0 +1,71 @@
+{
+  "id": 1360099357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.19093,40.66223,72.19093,40.66223",
+    "geom:latitude":40.66223,
+    "geom:longitude":72.19093,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Objuvoz",
+    "gn:country_code":"UZ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10972733,
+    "gn:latitude":40.66223,
+    "gn:longitude":72.19093,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Objuvoz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Objuvaz"
+    ],
+    "name:uzb_x_variant":[
+        "Objuvoz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10972733
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0de79ea76b36df910230a666c113e5be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360099357,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1360099357,
+    "wof:lastmodified":1537713453,
+    "wof:name":"Objuvoz",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.19093000000002,
+    40.66223,
+    72.19093000000002,
+    40.66223
+],
+  "geometry": {"coordinates":[72.19093000000002,40.66223],"type":"Point"}
+}

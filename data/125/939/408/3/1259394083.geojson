@@ -1,0 +1,71 @@
+{
+  "id": 1259394083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.82644,40.24979,71.82644,40.24979",
+    "geom:latitude":40.24979,
+    "geom:longitude":71.82644,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Zarifdor",
+    "gn:country_code":"UZ",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376126,
+    "gn:latitude":40.24979,
+    "gn:longitude":71.82644,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Zarifdor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Zarifdor"
+    ],
+    "name:uzb_x_variant":[
+        "Zaribdor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376126
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b20e1aa0c64fb90dd396ead1f7ba64a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259394083,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1259394083,
+    "wof:lastmodified":1537713439,
+    "wof:name":"Zarifdor",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.82644,
+    40.24979,
+    71.82644,
+    40.24979
+],
+  "geometry": {"coordinates":[71.82644000000001,40.24979],"type":"Point"}
+}

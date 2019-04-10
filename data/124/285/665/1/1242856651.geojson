@@ -1,0 +1,68 @@
+{
+  "id": 1242856651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.53201,40.49789,68.53201,40.49789",
+    "geom:latitude":40.49789,
+    "geom:longitude":68.53201,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Juvonsiyrak",
+    "gn:country_code":"UZ",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242347,
+    "gn:latitude":40.49789,
+    "gn:longitude":68.53201,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Juvonsiyrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Juvonsiyrak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242347
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"41ffdadb9bda2965edc7ac0c7693a8f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242856651,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1242856651,
+    "wof:lastmodified":1537713493,
+    "wof:name":"Juvonsiyrak",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.53201,
+    40.49789000000001,
+    68.53201,
+    40.49789000000001
+],
+  "geometry": {"coordinates":[68.53201,40.49789000000001],"type":"Point"}
+}

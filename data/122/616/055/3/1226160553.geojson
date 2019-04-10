@@ -1,0 +1,68 @@
+{
+  "id": 1226160553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.93267,40.72608,71.93267,40.72608",
+    "geom:latitude":40.72608,
+    "geom:longitude":71.93267,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Marufabad",
+    "gn:country_code":"UZ",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11104973,
+    "gn:latitude":40.72608,
+    "gn:longitude":71.93267,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Marufabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Marufabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11104973
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6665e2900414f23dee67c69b3196886e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226160553,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1226160553,
+    "wof:lastmodified":1537713477,
+    "wof:name":"Marufabad",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.93267,
+    40.72608,
+    71.93267,
+    40.72608
+],
+  "geometry": {"coordinates":[71.93267,40.72608],"type":"Point"}
+}

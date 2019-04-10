@@ -1,0 +1,65 @@
+{
+  "id": 1343681907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.75,39.45,65.75,39.45",
+    "geom:latitude":39.45,
+    "geom:longitude":65.75,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Khasansakau",
+    "gn:country_code":"UZ",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216917,
+    "gn:latitude":39.45,
+    "gn:longitude":65.75,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Khasansakau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216917
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e3390af97a749bb823d0f3e6b5d65579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343681907,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1343681907,
+    "wof:lastmodified":1536924869,
+    "wof:name":"Khasansakau",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.75,
+    39.45,
+    65.75,
+    39.45
+],
+  "geometry": {"coordinates":[65.75,39.45],"type":"Point"}
+}

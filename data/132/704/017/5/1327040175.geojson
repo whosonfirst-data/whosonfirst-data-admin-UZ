@@ -1,0 +1,65 @@
+{
+  "id": 1327040175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.30111,37.45,67.30111,37.45",
+    "geom:latitude":37.45,
+    "geom:longitude":67.30111,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Karabizan",
+    "gn:country_code":"UZ",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1481654,
+    "gn:latitude":37.45,
+    "gn:longitude":67.30111,
+    "gn:modification_date":"2005-03-11",
+    "gn:name":"Karabizan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1481654
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"873bfe108f573f91d86869f752f9141a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327040175,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1327040175,
+    "wof:lastmodified":1536748950,
+    "wof:name":"Karabizan",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.30111,
+    37.45,
+    67.30111,
+    37.45
+],
+  "geometry": {"coordinates":[67.30110999999999,37.45],"type":"Point"}
+}

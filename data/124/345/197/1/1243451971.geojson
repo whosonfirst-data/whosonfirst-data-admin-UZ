@@ -1,0 +1,65 @@
+{
+  "id": 1243451971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.1,41.1,72.1,41.1",
+    "geom:latitude":41.1,
+    "geom:longitude":72.1,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kosh-Kupryuk",
+    "gn:country_code":"UZ",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513478,
+    "gn:latitude":41.1,
+    "gn:longitude":72.1,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Kosh-Kupryuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513478
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"61db2686d6133da06e26c743d4adc7e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243451971,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1243451971,
+    "wof:lastmodified":1536797721,
+    "wof:name":"Kosh-Kupryuk",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.1,
+    41.1,
+    72.1,
+    41.1
+],
+  "geometry": {"coordinates":[72.09999999999999,41.1],"type":"Point"}
+}

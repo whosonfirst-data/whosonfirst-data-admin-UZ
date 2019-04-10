@@ -1,0 +1,71 @@
+{
+  "id": 1226057243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.1,39.4,67.1,39.4",
+    "geom:latitude":39.4,
+    "geom:longitude":67.1,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khozyay-Dun",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216820,
+    "gn:latitude":39.4,
+    "gn:longitude":67.1,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khozyay-Dun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khuzya-dyk",
+        "Khozyay-Duk",
+        "Khozyay-Dun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216820
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"25e62936f2c9903ebd56e4d826bd5669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226057243,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1226057243,
+    "wof:lastmodified":1537713262,
+    "wof:name":"Khozyay-Dun",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.1,
+    39.4,
+    67.1,
+    39.4
+],
+  "geometry": {"coordinates":[67.09999999999999,39.4],"type":"Point"}
+}

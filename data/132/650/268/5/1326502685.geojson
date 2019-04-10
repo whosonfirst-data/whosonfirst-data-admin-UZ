@@ -1,0 +1,68 @@
+{
+  "id": 1326502685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.73019,40.52862,68.73019,40.52862",
+    "geom:latitude":40.52862,
+    "geom:longitude":68.73019,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Paxtakor",
+    "gn:country_code":"UZ",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242322,
+    "gn:latitude":40.52862,
+    "gn:longitude":68.73019,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Paxtakor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Paxtakor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242322
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"377d910e6b539add4823b436915790bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326502685,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1326502685,
+    "wof:lastmodified":1537713492,
+    "wof:name":"Paxtakor",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.73019000000001,
+    40.52862,
+    68.73019000000001,
+    40.52862
+],
+  "geometry": {"coordinates":[68.73019000000001,40.52862],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209533897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.86667,39.41667,63.86667,39.41667",
+    "geom:latitude":39.41667,
+    "geom:longitude":63.86667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tamozhik",
+    "gn:country_code":"UZ",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216015,
+    "gn:latitude":39.41667,
+    "gn:longitude":63.86667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Tamozhik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216015
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"992a3c2e85d8e666fc968d41a40a7ad4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209533897
+        }
+    ],
+    "wof:id":1209533897,
+    "wof:lastmodified":1536284199,
+    "wof:name":"Tamozhik",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.86666999999999,
+    39.41667,
+    63.86666999999999,
+    39.41667
+],
+  "geometry": {"coordinates":[63.86666999999999,39.41667],"type":"Point"}
+}

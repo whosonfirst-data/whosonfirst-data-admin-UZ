@@ -1,0 +1,74 @@
+{
+  "id": 1310113209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.72054,40.39936,71.72054,40.39936",
+    "geom:latitude":40.39936,
+    "geom:longitude":71.72054,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ilg`or",
+    "gn:country_code":"UZ",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10909214,
+    "gn:latitude":40.39936,
+    "gn:longitude":71.72054,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Ilg\u2018or",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyrgyzshura"
+    ],
+    "name:uzb_x_preferred":[
+        "Qirgizsho\u2018ra"
+    ],
+    "name:uzb_x_variant":[
+        "Ilg\u2018or"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10909214
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f1f2e7f889c623b3d4a41e973721c3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310113209,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1310113209,
+    "wof:lastmodified":1537713450,
+    "wof:name":"Ilg`or",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.72054,
+    40.39936,
+    71.72054,
+    40.39936
+],
+  "geometry": {"coordinates":[71.72054,40.39936],"type":"Point"}
+}

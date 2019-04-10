@@ -1,0 +1,70 @@
+{
+  "id": 1309919457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.77916,40.63918,72.77916,40.63918",
+    "geom:latitude":40.63918,
+    "geom:longitude":72.77916,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Adizhan-Makhalla",
+    "gn:country_code":"UZ",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139946,
+    "gn:latitude":40.63918,
+    "gn:longitude":72.77916,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Adizhan-Makhalla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u0438\u0436\u0430\u043d-\u041c\u0430\u0445\u0430\u043b\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139946
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"62aeafb32ae6e679b363edda7756e848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1309919457,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1309919457,
+    "wof:lastmodified":1537713406,
+    "wof:name":"Adizhan-Makhalla",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.77916,
+    40.63918,
+    72.77916,
+    40.63918
+],
+  "geometry": {"coordinates":[72.77916,40.63918],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1243367789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.37153,40.90816,72.37153,40.90816",
+    "geom:latitude":40.90816,
+    "geom:longitude":72.37153,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gurkirav",
+    "gn:country_code":"UZ",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149499,
+    "gn:latitude":40.90816,
+    "gn:longitude":72.37153,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Gurkirav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0440\u043a\u0443\u0430\u0432"
+    ],
+    "name:und_x_variant":[
+        "Gurkurav"
+    ],
+    "name:uzb_x_preferred":[
+        "Gurkirav"
+    ],
+    "name:uzb_x_variant":[
+        "Gurkirov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149499
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"83ab125292a8d2a433c43df08677a1a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243367789,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1243367789,
+    "wof:lastmodified":1537713422,
+    "wof:name":"Gurkirav",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.37153,
+    40.90816,
+    72.37153,
+    40.90816
+],
+  "geometry": {"coordinates":[72.37153000000001,40.90816],"type":"Point"}
+}

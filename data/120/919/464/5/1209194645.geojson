@@ -1,0 +1,64 @@
+{
+  "id": 1209194645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.81302,38.16089,67.81302,38.16089",
+    "geom:latitude":38.16089,
+    "geom:longitude":67.81302,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Paxtakurash",
+    "gn:country_code":"UZ",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254935,
+    "gn:latitude":38.16089,
+    "gn:longitude":67.81302,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Paxtakurash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Paxtakurash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254935
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4577de39ed95c0d569489c50f8b188e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209194645
+        }
+    ],
+    "wof:id":1209194645,
+    "wof:lastmodified":1537713503,
+    "wof:name":"Paxtakurash",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.81302,
+    38.16089,
+    67.81302,
+    38.16089
+],
+  "geometry": {"coordinates":[67.81301999999999,38.16089],"type":"Point"}
+}

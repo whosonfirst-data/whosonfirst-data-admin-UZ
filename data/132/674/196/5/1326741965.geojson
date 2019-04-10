@@ -1,0 +1,68 @@
+{
+  "id": 1326741965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.8928,40.41313,70.8928,40.41313",
+    "geom:latitude":40.41313,
+    "geom:longitude":70.8928,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mallaxan",
+    "gn:country_code":"UZ",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10649171,
+    "gn:latitude":40.41313,
+    "gn:longitude":70.8928,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Mallaxan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Mallaxan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10649171
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"878d3a608c57bd023ffb051bb682ef2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326741965,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1326741965,
+    "wof:lastmodified":1537713444,
+    "wof:name":"Mallaxan",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.8928,
+    40.41313,
+    70.8928,
+    40.41313
+],
+  "geometry": {"coordinates":[70.89279999999999,40.41313],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1309925803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.90515,39.2198,66.90515,39.2198",
+    "geom:latitude":39.2198,
+    "geom:longitude":66.90515,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Qangli",
+    "gn:country_code":"UZ",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786190,
+    "gn:latitude":39.2198,
+    "gn:longitude":66.90515,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Qangli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786190
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"637fd68292aeb57c6350a1ad0e4e79d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1309925803,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1309925803,
+    "wof:lastmodified":1536758306,
+    "wof:name":"Qangli",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.90515,
+    39.2198,
+    66.90515,
+    39.2198
+],
+  "geometry": {"coordinates":[66.90515000000001,39.2198],"type":"Point"}
+}

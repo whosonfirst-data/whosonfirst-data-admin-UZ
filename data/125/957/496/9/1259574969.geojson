@@ -1,0 +1,65 @@
+{
+  "id": 1259574969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.33159,41.25362,65.33159,41.25362",
+    "geom:latitude":41.25362,
+    "geom:longitude":65.33159,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chimboy",
+    "gn:country_code":"UZ",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857476,
+    "gn:latitude":41.25362,
+    "gn:longitude":65.33159,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Chimboy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857476
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"adf3b667a7b81e0db49883faa76f9232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259574969,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1259574969,
+    "wof:lastmodified":1536727533,
+    "wof:name":"Chimboy",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.33159,
+    41.25362,
+    65.33159,
+    41.25362
+],
+  "geometry": {"coordinates":[65.33159000000001,41.25362],"type":"Point"}
+}

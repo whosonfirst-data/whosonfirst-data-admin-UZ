@@ -1,0 +1,68 @@
+{
+  "id": 1259366339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.96176,40.76707,68.96176,40.76707",
+    "geom:latitude":40.76707,
+    "geom:longitude":68.96176,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Hamzaobod",
+    "gn:country_code":"UZ",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241897,
+    "gn:latitude":40.76707,
+    "gn:longitude":68.96176,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Hamzaobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Hamzaobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241897
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"abb988b8c934b11f28f7a5d1edcb0309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259366339,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1259366339,
+    "wof:lastmodified":1537713488,
+    "wof:name":"Hamzaobod",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.96176,
+    40.76707,
+    68.96176,
+    40.76707
+],
+  "geometry": {"coordinates":[68.96176,40.76707],"type":"Point"}
+}

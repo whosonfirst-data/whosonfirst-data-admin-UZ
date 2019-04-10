@@ -1,0 +1,68 @@
+{
+  "id": 1326932287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.4802,40.39015,70.4802,40.39015",
+    "geom:latitude":40.39015,
+    "geom:longitude":70.4802,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Beshovul",
+    "gn:country_code":"UZ",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646052,
+    "gn:latitude":40.39015,
+    "gn:longitude":70.4802,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Beshovul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Beshovul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646052
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"df79d6ac10b17e820c0415e37180985f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326932287,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1326932287,
+    "wof:lastmodified":1537713440,
+    "wof:name":"Beshovul",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.4802,
+    40.39015,
+    70.4802,
+    40.39015
+],
+  "geometry": {"coordinates":[70.4802,40.39015],"type":"Point"}
+}

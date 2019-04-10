@@ -1,0 +1,65 @@
+{
+  "id": 1259894365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.0,39.8,67.0,39.8",
+    "geom:latitude":39.8,
+    "geom:longitude":67.0,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nuzh",
+    "gn:country_code":"UZ",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216385,
+    "gn:latitude":39.8,
+    "gn:longitude":67.0,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Nuzh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216385
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c1bbb91916ce6792428a023b0bf4b50c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259894365,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1259894365,
+    "wof:lastmodified":1536763708,
+    "wof:name":"Nuzh",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.0,
+    39.8,
+    67.0,
+    39.8
+],
+  "geometry": {"coordinates":[67.0,39.8],"type":"Point"}
+}

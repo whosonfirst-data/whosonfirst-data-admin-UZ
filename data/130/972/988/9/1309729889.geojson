@@ -1,0 +1,68 @@
+{
+  "id": 1309729889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.45543,40.76004,72.45543,40.76004",
+    "geom:latitude":40.76004,
+    "geom:longitude":72.45543,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kyzylbayrak",
+    "gn:country_code":"UZ",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149654,
+    "gn:latitude":40.76004,
+    "gn:longitude":72.45543,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kyzylbayrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0431\u0430\u0439\u0440\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149654
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"35900727cac9841e655f9483d10a6ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1309729889,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1309729889,
+    "wof:lastmodified":1537713424,
+    "wof:name":"Kyzylbayrak",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.45543,
+    40.76004,
+    72.45543,
+    40.76004
+],
+  "geometry": {"coordinates":[72.45543000000001,40.76004],"type":"Point"}
+}

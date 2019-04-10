@@ -1,0 +1,65 @@
+{
+  "id": 1310515261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.13171,40.65984,72.13171,40.65984",
+    "geom:latitude":40.65984,
+    "geom:longitude":72.13171,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kumtepa",
+    "gn:country_code":"UZ",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140383,
+    "gn:latitude":40.65984,
+    "gn:longitude":72.13171,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Kumtepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140383
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"cc8d3d4acc0cbd0f8c7bf9178b30c41b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310515261,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1310515261,
+    "wof:lastmodified":1536902856,
+    "wof:name":"Kumtepa",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.13171,
+    40.65984,
+    72.13171,
+    40.65984
+],
+  "geometry": {"coordinates":[72.13171,40.65984],"type":"Point"}
+}

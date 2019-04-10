@@ -1,0 +1,68 @@
+{
+  "id": 1276841093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.11647,40.75248,69.11647,40.75248",
+    "geom:latitude":40.75248,
+    "geom:longitude":69.11647,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mirzabek",
+    "gn:country_code":"UZ",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241909,
+    "gn:latitude":40.75248,
+    "gn:longitude":69.11647,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Mirzabek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Mirzabek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241909
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9f97511f3958a7f0b6ec02fb84e824b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276841093,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1276841093,
+    "wof:lastmodified":1537713488,
+    "wof:name":"Mirzabek",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.11646999999999,
+    40.75248,
+    69.11646999999999,
+    40.75248
+],
+  "geometry": {"coordinates":[69.11646999999999,40.75248],"type":"Point"}
+}

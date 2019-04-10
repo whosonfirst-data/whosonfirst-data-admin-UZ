@@ -1,0 +1,64 @@
+{
+  "id": 1209126071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.41327,38.90934,66.41327,38.90934",
+    "geom:latitude":38.90934,
+    "geom:longitude":66.41327,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Quyi Yangi",
+    "gn:country_code":"UZ",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463673,
+    "gn:latitude":38.90934,
+    "gn:longitude":66.41327,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Quyi Yangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kul\u2019yamgir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463673
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d9a173a33ea4e9c121e647df66106cce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209126071
+        }
+    ],
+    "wof:id":1209126071,
+    "wof:lastmodified":1537713295,
+    "wof:name":"Quyi Yangi",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.41327,
+    38.90934,
+    66.41327,
+    38.90934
+],
+  "geometry": {"coordinates":[66.41327,38.90934],"type":"Point"}
+}

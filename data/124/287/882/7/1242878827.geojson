@@ -1,0 +1,76 @@
+{
+  "id": 1242878827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.30667,41.22222,61.30667,41.22222",
+    "geom:latitude":41.22222,
+    "geom:longitude":61.30667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pitnak",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514140,
+    "gn:latitude":41.22222,
+    "gn:longitude":61.30667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pitnak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0442\u043d\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Druzhba",
+        "Drujba",
+        "Sharlauk",
+        "Pitnak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514140,
+        "wk:page":"Pitnak"
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9b05b0cdc7175d45078be28166bf1c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242878827,
+            "region_id":85680377
+        }
+    ],
+    "wof:id":1242878827,
+    "wof:lastmodified":1537713349,
+    "wof:name":"Pitnak",
+    "wof:parent_id":85680377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.30667,
+    41.22222,
+    61.30667,
+    41.22222
+],
+  "geometry": {"coordinates":[61.30667,41.22222],"type":"Point"}
+}

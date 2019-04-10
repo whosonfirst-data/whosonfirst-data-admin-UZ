@@ -1,0 +1,68 @@
+{
+  "id": 1276251311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.69348,41.4418,71.69348,41.4418",
+    "geom:latitude":41.4418,
+    "geom:longitude":71.69348,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mamay",
+    "gn:country_code":"UZ",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7579682,
+    "gn:latitude":41.4418,
+    "gn:longitude":71.69348,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Mamay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mamay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7579682
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5582d024d387e83aa8309dec60d902b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276251311,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1276251311,
+    "wof:lastmodified":1537713394,
+    "wof:name":"Mamay",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.69348000000002,
+    41.4418,
+    71.69348000000002,
+    41.4418
+],
+  "geometry": {"coordinates":[71.69348000000002,41.4418],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276891547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.31576,40.80588,72.31576,40.80588",
+    "geom:latitude":40.80588,
+    "geom:longitude":72.31576,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Shakhitepa",
+    "gn:country_code":"UZ",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8059987,
+    "gn:latitude":40.80588,
+    "gn:longitude":72.31576,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Shakhitepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0445\u0438\u0442\u0435\u043f\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0428\u0430\u0439\u0442\u0442\u0435\u043f\u0430"
+    ],
+    "name:und_x_variant":[
+        "Shayttepa",
+        "\u0428\u0430\u0439\u0442\u0442\u0435\u043f\u0430",
+        "Shakhitepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8059987
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e4422fa73fcf386424e063ee5a4550d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276891547,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1276891547,
+    "wof:lastmodified":1537713405,
+    "wof:name":"Shakhitepa",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.31576,
+    40.80588,
+    72.31576,
+    40.80588
+],
+  "geometry": {"coordinates":[72.31576,40.80588],"type":"Point"}
+}

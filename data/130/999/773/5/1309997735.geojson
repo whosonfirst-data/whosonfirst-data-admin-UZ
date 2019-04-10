@@ -1,0 +1,71 @@
+{
+  "id": 1309997735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.91039,40.1585,64.91039,40.1585",
+    "geom:latitude":40.1585,
+    "geom:longitude":64.91039,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"O`rtaqo`rg`on",
+    "gn:country_code":"UZ",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512460,
+    "gn:latitude":40.1585,
+    "gn:longitude":64.91039,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"O\u2018rtaqo\u2018rg\u2018on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urta-Kurgan"
+    ],
+    "name:uzb_x_preferred":[
+        "O\u2018rtaqo\u2018rg\u2018on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512460
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ec80b1574cb9d324b2b2dd2ba3b84cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1309997735,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1309997735,
+    "wof:lastmodified":1537713304,
+    "wof:name":"O`rtaqo`rg`on",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.91039,
+    40.1585,
+    64.91039,
+    40.1585
+],
+  "geometry": {"coordinates":[64.91039000000001,40.1585],"type":"Point"}
+}

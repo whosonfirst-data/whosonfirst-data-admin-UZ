@@ -1,0 +1,71 @@
+{
+  "id": 1343259519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.24515,38.62596,66.24515,38.62596",
+    "geom:latitude":38.62596,
+    "geom:longitude":66.24515,
+    "gn:admin1_code":"08",
+    "gn:admin3_code":"1346488.0",
+    "gn:asciiname":"G`uzor Shahri",
+    "gn:country_code":"UZ",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1346488,
+    "gn:latitude":38.62596,
+    "gn:longitude":66.24515,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"G\u2018uzor Shahri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorod Guzar",
+        "Ghuzor Shahri",
+        "G\u2018uzor Shahri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346488
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6bab3e414d49f6bcf938951498a0b195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343259519,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1343259519,
+    "wof:lastmodified":1537713291,
+    "wof:name":"G`uzor Shahri",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.24515,
+    38.62596,
+    66.24515,
+    38.62596
+],
+  "geometry": {"coordinates":[66.24515,38.62596],"type":"Point"}
+}

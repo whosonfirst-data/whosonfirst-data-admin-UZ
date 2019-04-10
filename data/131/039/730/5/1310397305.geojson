@@ -1,0 +1,65 @@
+{
+  "id": 1310397305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.00286,40.03736,66.00286,40.03736",
+    "geom:latitude":40.03736,
+    "geom:longitude":66.00286,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Shirinobod",
+    "gn:country_code":"UZ",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7858621,
+    "gn:latitude":40.03736,
+    "gn:longitude":66.00286,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Shirinobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7858621
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d4f6c84833a0d30d129608a7106b4fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310397305,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1310397305,
+    "wof:lastmodified":1537070065,
+    "wof:name":"Shirinobod",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.00286,
+    40.03736,
+    66.00286,
+    40.03736
+],
+  "geometry": {"coordinates":[66.00286,40.03736],"type":"Point"}
+}

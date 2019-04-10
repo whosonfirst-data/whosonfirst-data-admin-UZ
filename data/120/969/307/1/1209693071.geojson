@@ -1,0 +1,64 @@
+{
+  "id": 1209693071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.45492,37.56752,67.45492,37.56752",
+    "geom:latitude":37.56752,
+    "geom:longitude":67.45492,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Yangi Haytobod",
+    "gn:country_code":"UZ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11246928,
+    "gn:latitude":37.56752,
+    "gn:longitude":67.45492,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Yangi Haytobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Yangi Haytobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11246928
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"53fa9940bd700a7b559b2f34cfbbf601",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209693071
+        }
+    ],
+    "wof:id":1209693071,
+    "wof:lastmodified":1537713501,
+    "wof:name":"Yangi Haytobod",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.45492,
+    37.56752,
+    67.45492,
+    37.56752
+],
+  "geometry": {"coordinates":[67.45492,37.56752],"type":"Point"}
+}

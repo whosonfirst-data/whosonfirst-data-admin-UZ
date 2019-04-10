@@ -1,0 +1,71 @@
+{
+  "id": 1242885579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.97893,40.33946,71.97893,40.33946",
+    "geom:latitude":40.33946,
+    "geom:longitude":71.97893,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lashkar",
+    "gn:country_code":"UZ",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10904869,
+    "gn:latitude":40.33946,
+    "gn:longitude":71.97893,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Lashkar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lyashkar"
+    ],
+    "name:uzb_x_preferred":[
+        "Lashkar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10904869
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4c8ff799c5897117e590304abb8e606f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242885579,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1242885579,
+    "wof:lastmodified":1537713449,
+    "wof:name":"Lashkar",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.97893,
+    40.33946,
+    71.97893,
+    40.33946
+],
+  "geometry": {"coordinates":[71.97893000000001,40.33946],"type":"Point"}
+}

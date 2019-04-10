@@ -1,0 +1,68 @@
+{
+  "id": 1259889521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.34754,40.53874,72.34754,40.53874",
+    "geom:latitude":40.53874,
+    "geom:longitude":72.34754,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kashkarmakhalla",
+    "gn:country_code":"UZ",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140451,
+    "gn:latitude":40.53874,
+    "gn:longitude":72.34754,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kashkarmakhalla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0448\u043a\u0430\u0440\u043c\u0430\u0445\u0430\u043b\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140451
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0f283647fea376931a2a53dfe1707fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259889521,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1259889521,
+    "wof:lastmodified":1537713413,
+    "wof:name":"Kashkarmakhalla",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.34754000000002,
+    40.53874,
+    72.34754000000002,
+    40.53874
+],
+  "geometry": {"coordinates":[72.34754000000002,40.53874],"type":"Point"}
+}

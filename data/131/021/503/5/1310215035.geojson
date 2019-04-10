@@ -1,0 +1,71 @@
+{
+  "id": 1310215035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.63333,40.23333,66.63333,40.23333",
+    "geom:latitude":40.23333,
+    "geom:longitude":66.63333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kushrabad",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513342,
+    "gn:latitude":40.23333,
+    "gn:longitude":66.63333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kushrabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bulak-Bashi-Tayat\u2019",
+        "Bulak-Bashi",
+        "Kushrabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513342
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c9aaa4ede53ef1424d78bbc48fccf573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310215035,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1310215035,
+    "wof:lastmodified":1537713326,
+    "wof:name":"Kushrabad",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.63333,
+    40.23333,
+    66.63333,
+    40.23333
+],
+  "geometry": {"coordinates":[66.63333,40.23333],"type":"Point"}
+}

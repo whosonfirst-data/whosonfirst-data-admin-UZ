@@ -1,0 +1,77 @@
+{
+  "id": 1242891641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.06492,40.66503,72.06492,40.66503",
+    "geom:latitude":40.66503,
+    "geom:longitude":72.06492,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chujaarab",
+    "gn:country_code":"UZ",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140295,
+    "gn:latitude":40.66503,
+    "gn:longitude":72.06492,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Chujaarab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u0434\u0436\u0430\u0430\u0440\u0430\u0431"
+    ],
+    "name:und_x_variant":[
+        "Chudzhaarab"
+    ],
+    "name:uzb_x_preferred":[
+        "Chujaarab"
+    ],
+    "name:uzb_x_variant":[
+        "Cho\u2018jaarab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140295
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"012dc2af9abe21896408621f6237c068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242891641,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1242891641,
+    "wof:lastmodified":1537713407,
+    "wof:name":"Chujaarab",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.06492,
+    40.66503,
+    72.06492,
+    40.66503
+],
+  "geometry": {"coordinates":[72.06492,40.66503],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343571369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.45,40.01667,68.45,40.01667",
+    "geom:latitude":40.01667,
+    "geom:longitude":68.45,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yakhtanlik",
+    "gn:country_code":"UZ",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512397,
+    "gn:latitude":40.01667,
+    "gn:longitude":68.45,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Yakhtanlik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512397
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7103fa592415be3a0bf59d6cca86973f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343571369,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1343571369,
+    "wof:lastmodified":1537080494,
+    "wof:name":"Yakhtanlik",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.45,
+    40.01667,
+    68.45,
+    40.01667
+],
+  "geometry": {"coordinates":[68.45,40.01667],"type":"Point"}
+}

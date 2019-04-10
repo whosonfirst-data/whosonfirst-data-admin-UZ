@@ -1,0 +1,81 @@
+{
+  "id": 1293704389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.59832,40.62769,72.59832,40.62769",
+    "geom:latitude":40.62769,
+    "geom:longitude":72.59832,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Solpi",
+    "gn:country_code":"UZ",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512931,
+    "gn:latitude":40.62769,
+    "gn:longitude":72.59832,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Solpi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Sal\u2019pi"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0430\u043b\u044c\u043f\u0438"
+    ],
+    "name:und_x_variant":[
+        "Sal\u2019pe",
+        "Sal\u2019pi"
+    ],
+    "name:uzb_x_preferred":[
+        "Solpi"
+    ],
+    "name:uzb_x_variant":[
+        "Salpi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512931
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0ae98f6dd0bd409dd94165f09fc6f534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293704389,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1293704389,
+    "wof:lastmodified":1537713315,
+    "wof:name":"Solpi",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.59832,
+    40.62769,
+    72.59832,
+    40.62769
+],
+  "geometry": {"coordinates":[72.59832,40.62769],"type":"Point"}
+}

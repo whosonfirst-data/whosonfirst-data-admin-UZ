@@ -1,0 +1,68 @@
+{
+  "id": 1293861075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.1458,37.49166,67.1458,37.49166",
+    "geom:latitude":37.49166,
+    "geom:longitude":67.1458,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Yangi Xo`jakiya",
+    "gn:country_code":"UZ",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11245026,
+    "gn:latitude":37.49166,
+    "gn:longitude":67.1458,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Yangi Xo\u2018jakiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Yangi Xo\u2018jakiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11245026
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b50b1d6e086410d27928b2d574d869cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293861075,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1293861075,
+    "wof:lastmodified":1537713500,
+    "wof:name":"Yangi Xo`jakiya",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.1458,
+    37.49166,
+    67.1458,
+    37.49166
+],
+  "geometry": {"coordinates":[67.14579999999999,37.49166],"type":"Point"}
+}

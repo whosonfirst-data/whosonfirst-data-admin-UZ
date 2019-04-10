@@ -1,0 +1,72 @@
+{
+  "id": 1343827459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.1,40.26667,69.1,40.26667",
+    "geom:latitude":40.26667,
+    "geom:longitude":69.1,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Mingchinor",
+    "gn:country_code":"UZ",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513497,
+    "gn:latitude":40.26667,
+    "gn:longitude":69.1,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Mingchinor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kommunizm",
+        "Mingchinar"
+    ],
+    "name:uzb_x_preferred":[
+        "Mingchinor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513497
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5ad3cf566594035ea92bb7703b0d7e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343827459,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1343827459,
+    "wof:lastmodified":1537713330,
+    "wof:name":"Mingchinor",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.1,
+    40.26667,
+    69.1,
+    40.26667
+],
+  "geometry": {"coordinates":[69.09999999999999,40.26667],"type":"Point"}
+}

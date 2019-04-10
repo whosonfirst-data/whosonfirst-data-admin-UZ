@@ -1,0 +1,65 @@
+{
+  "id": 1343835211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.95453,38.58281,67.95453,38.58281",
+    "geom:latitude":38.58281,
+    "geom:longitude":67.95453,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Shargun",
+    "gn:country_code":"UZ",
+    "gn:dem":1439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216176,
+    "gn:latitude":38.58281,
+    "gn:longitude":67.95453,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Shargun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216176
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"8137b175231e59b35f8a3495733f215c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343835211,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1343835211,
+    "wof:lastmodified":1536703368,
+    "wof:name":"Shargun",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.95453,
+    38.58281,
+    67.95453,
+    38.58281
+],
+  "geometry": {"coordinates":[67.95453000000001,38.58281],"type":"Point"}
+}

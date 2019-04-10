@@ -1,0 +1,75 @@
+{
+  "id": 1293495285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.72031,40.66039,71.72031,40.66039",
+    "geom:latitude":40.66039,
+    "geom:longitude":71.72031,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tolhovuz",
+    "gn:country_code":"UZ",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512660,
+    "gn:latitude":40.66039,
+    "gn:longitude":71.72031,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Tolhovuz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tashauz",
+        "Talkhavuz"
+    ],
+    "name:uzb_x_preferred":[
+        "Tolhovuz"
+    ],
+    "name:uzb_x_variant":[
+        "Toshhovuz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512660
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"71a76454b15d3b2a8a679d7db5221298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293495285,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1293495285,
+    "wof:lastmodified":1537713308,
+    "wof:name":"Tolhovuz",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.72031,
+    40.66039,
+    71.72031,
+    40.66039
+],
+  "geometry": {"coordinates":[71.72031,40.66039],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1344227885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.1494,40.27009,69.1494,40.27009",
+    "geom:latitude":40.27009,
+    "geom:longitude":69.1494,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yuqori Qo`shtamg`ali",
+    "gn:country_code":"UZ",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242032,
+    "gn:latitude":40.27009,
+    "gn:longitude":69.1494,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Yuqori Qo\u2018shtamg\u2018ali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Yuqori Qo\u2018shtamg\u2018ali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242032
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c0d7834c4c8287ca5363d85e27cc1ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344227885,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1344227885,
+    "wof:lastmodified":1537713490,
+    "wof:name":"Yuqori Qo`shtamg`ali",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.1494,
+    40.27009,
+    69.1494,
+    40.27009
+],
+  "geometry": {"coordinates":[69.1494,40.27009],"type":"Point"}
+}

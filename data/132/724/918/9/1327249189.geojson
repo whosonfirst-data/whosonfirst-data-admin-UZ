@@ -1,0 +1,68 @@
+{
+  "id": 1327249189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.68088,40.60631,72.68088,40.60631",
+    "geom:latitude":40.60631,
+    "geom:longitude":72.68088,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pagarik",
+    "gn:country_code":"UZ",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139957,
+    "gn:latitude":40.60631,
+    "gn:longitude":72.68088,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pagarik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0433\u0430\u0440\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139957
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"77ec17cbbe9bbc038c5f820e9982d62f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327249189,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1327249189,
+    "wof:lastmodified":1537713406,
+    "wof:name":"Pagarik",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.68088,
+    40.60631,
+    72.68088,
+    40.60631
+],
+  "geometry": {"coordinates":[72.68088,40.60631],"type":"Point"}
+}

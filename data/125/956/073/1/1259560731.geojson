@@ -1,0 +1,74 @@
+{
+  "id": 1259560731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.36593,38.31875,67.36593,38.31875",
+    "geom:latitude":38.31875,
+    "geom:longitude":67.36593,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Do`g`oba",
+    "gn:country_code":"UZ",
+    "gn:dem":1401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217446,
+    "gn:latitude":38.31875,
+    "gn:longitude":67.36593,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Do\u2018g\u2018oba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duoba",
+        "Dugab",
+        "Dugaba",
+        "Dugoba"
+    ],
+    "name:uzb_x_preferred":[
+        "Do\u2018g\u2018oba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217446
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1d32c32171993d405271083c6b44c315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259560731,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1259560731,
+    "wof:lastmodified":1537713278,
+    "wof:name":"Do`g`oba",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.36593,
+    38.31875,
+    67.36593,
+    38.31875
+],
+  "geometry": {"coordinates":[67.36593000000001,38.31875],"type":"Point"}
+}

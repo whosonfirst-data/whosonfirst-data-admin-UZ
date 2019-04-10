@@ -1,0 +1,65 @@
+{
+  "id": 1226137183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.71667,41.11667,64.71667,41.11667",
+    "geom:latitude":41.11667,
+    "geom:longitude":64.71667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Manamdzhan",
+    "gn:country_code":"UZ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513248,
+    "gn:latitude":41.11667,
+    "gn:longitude":64.71667,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Manamdzhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513248
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7674e8e3d3b4f10e0908e3c6f37ceb52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226137183,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1226137183,
+    "wof:lastmodified":1537086883,
+    "wof:name":"Manamdzhan",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.71667,
+    41.11667,
+    64.71667,
+    41.11667
+],
+  "geometry": {"coordinates":[64.71666999999999,41.11667],"type":"Point"}
+}

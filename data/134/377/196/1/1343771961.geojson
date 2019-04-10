@@ -1,0 +1,65 @@
+{
+  "id": 1343771961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.06667,39.75,68.06667,39.75",
+    "geom:latitude":39.75,
+    "geom:longitude":68.06667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Karasu",
+    "gn:country_code":"UZ",
+    "gn:dem":1557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217052,
+    "gn:latitude":39.75,
+    "gn:longitude":68.06667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Karasu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217052
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"30161e72d4426239b5afb392ecd09479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343771961,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1343771961,
+    "wof:lastmodified":1536794507,
+    "wof:name":"Karasu",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.06667,
+    39.75,
+    68.06667,
+    39.75
+],
+  "geometry": {"coordinates":[68.06667,39.75],"type":"Point"}
+}

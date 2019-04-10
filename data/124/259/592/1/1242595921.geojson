@@ -1,0 +1,65 @@
+{
+  "id": 1242595921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.01667,39.96667,68.01667,39.96667",
+    "geom:latitude":39.96667,
+    "geom:longitude":68.01667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Maltab",
+    "gn:country_code":"UZ",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216533,
+    "gn:latitude":39.96667,
+    "gn:longitude":68.01667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Maltab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216533
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"52563b8aa0db5d54a75d1a86bbd29955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242595921,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1242595921,
+    "wof:lastmodified":1537035694,
+    "wof:name":"Maltab",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.01666999999999,
+    39.96667,
+    68.01666999999999,
+    39.96667
+],
+  "geometry": {"coordinates":[68.01666999999999,39.96667],"type":"Point"}
+}

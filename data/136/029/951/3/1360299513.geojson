@@ -1,0 +1,75 @@
+{
+  "id": 1360299513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.73568,40.75105,72.73568,40.75105",
+    "geom:latitude":40.75105,
+    "geom:longitude":72.73568,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yangichek",
+    "gn:country_code":"UZ",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163710,
+    "gn:latitude":40.75105,
+    "gn:longitude":72.73568,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Yangichek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u0433\u0438\u0447\u0435\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Yangichek"
+    ],
+    "name:uzb_x_variant":[
+        "Qoraqamish",
+        "Yahgichek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163710
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"cc84751dd4d2e3ce892b8a8e84f37bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360299513,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1360299513,
+    "wof:lastmodified":1537713433,
+    "wof:name":"Yangichek",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.73568,
+    40.75105,
+    72.73568,
+    40.75105
+],
+  "geometry": {"coordinates":[72.73568,40.75105],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226244619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.60351,40.22061,71.60351,40.22061",
+    "geom:latitude":40.22061,
+    "geom:longitude":71.60351,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Arab",
+    "gn:country_code":"UZ",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376090,
+    "gn:latitude":40.22061,
+    "gn:longitude":71.60351,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Arab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Arab"
+    ],
+    "name:uzb_x_variant":[
+        "Gulshan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376090
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"577b87385b6ef349878e8338d705984b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1226244619,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226244619,
+    "wof:lastmodified":1537713439,
+    "wof:name":"Arab",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.60351,
+    40.22061,
+    71.60351,
+    40.22061
+],
+  "geometry": {"coordinates":[71.60351,40.22061],"type":"Point"}
+}

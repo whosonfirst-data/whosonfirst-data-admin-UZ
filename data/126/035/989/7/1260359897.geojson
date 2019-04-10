@@ -1,0 +1,73 @@
+{
+  "id": 1260359897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.90722,40.20389,67.90722,40.20389",
+    "geom:latitude":40.20389,
+    "geom:longitude":67.90722,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Uchtepa",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512493,
+    "gn:latitude":40.20389,
+    "gn:longitude":67.90722,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Uchtepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0447\u0442\u0435\u043f\u0430"
+    ],
+    "name:und_x_variant":[
+        "Uch-Tyube",
+        "Uchtepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512493
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"764479bf53899f72a16a19ec8e3a5a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260359897,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1260359897,
+    "wof:lastmodified":1537713305,
+    "wof:name":"Uchtepa",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.90722,
+    40.20389,
+    67.90722,
+    40.20389
+],
+  "geometry": {"coordinates":[67.90722,40.20389],"type":"Point"}
+}

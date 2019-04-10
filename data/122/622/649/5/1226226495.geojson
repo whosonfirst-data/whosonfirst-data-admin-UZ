@@ -1,0 +1,65 @@
+{
+  "id": 1226226495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.76117,41.7713,60.76117,41.7713",
+    "geom:latitude":41.7713,
+    "geom:longitude":60.76117,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Maxtumquli",
+    "gn:country_code":"UZ",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7894558,
+    "gn:latitude":41.7713,
+    "gn:longitude":60.76117,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Maxtumquli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7894558
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"443cbca9f3a0a3e415e1de442f05415c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226226495,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1226226495,
+    "wof:lastmodified":1536961315,
+    "wof:name":"Maxtumquli",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.76116999999999,
+    41.7713,
+    60.76116999999999,
+    41.7713
+],
+  "geometry": {"coordinates":[60.76116999999999,41.7713],"type":"Point"}
+}

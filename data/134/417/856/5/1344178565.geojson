@@ -1,0 +1,65 @@
+{
+  "id": 1344178565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.90324,40.33313,65.90324,40.33313",
+    "geom:latitude":40.33313,
+    "geom:longitude":65.90324,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Shardarok",
+    "gn:country_code":"UZ",
+    "gn:dem":844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7858405,
+    "gn:latitude":40.33313,
+    "gn:longitude":65.90324,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Shardarok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7858405
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f06be239d8b4f68491564cce2879e4e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344178565,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1344178565,
+    "wof:lastmodified":1536705499,
+    "wof:name":"Shardarok",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.90324,
+    40.33313,
+    65.90324,
+    40.33313
+],
+  "geometry": {"coordinates":[65.90324,40.33313],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243159313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.84133,38.35509,67.84133,38.35509",
+    "geom:latitude":38.35509,
+    "geom:longitude":67.84133,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Oqlar",
+    "gn:country_code":"UZ",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11245784,
+    "gn:latitude":38.35509,
+    "gn:longitude":67.84133,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Oqlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Oqlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11245784
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"978bc4deecf69248269fe30c067833a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243159313,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1243159313,
+    "wof:lastmodified":1537713500,
+    "wof:name":"Oqlar",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.84133,
+    38.35509,
+    67.84133,
+    38.35509
+],
+  "geometry": {"coordinates":[67.84133,38.35509],"type":"Point"}
+}

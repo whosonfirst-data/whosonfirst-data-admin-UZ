@@ -1,0 +1,68 @@
+{
+  "id": 1243534645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.32443,38.22601,67.32443,38.22601",
+    "geom:latitude":38.22601,
+    "geom:longitude":67.32443,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Omonxona",
+    "gn:country_code":"UZ",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244214,
+    "gn:latitude":38.22601,
+    "gn:longitude":67.32443,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Omonxona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Omonxona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244214
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1a7894d6915d3b1ace57d8021aa7fd9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243534645,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1243534645,
+    "wof:lastmodified":1537713498,
+    "wof:name":"Omonxona",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.32443,
+    38.22601,
+    67.32443,
+    38.22601
+],
+  "geometry": {"coordinates":[67.32443000000001,38.22601],"type":"Point"}
+}

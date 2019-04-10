@@ -1,0 +1,74 @@
+{
+  "id": 1226152635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.25325,40.66325,72.25325,40.66325",
+    "geom:latitude":40.66325,
+    "geom:longitude":72.25325,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qashqar",
+    "gn:country_code":"UZ",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140336,
+    "gn:latitude":40.66325,
+    "gn:longitude":72.25325,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Qashqar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0448\u043a\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Kashkar"
+    ],
+    "name:uzb_x_preferred":[
+        "Qashqar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140336
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"65501aa6a60cccb59ec7f4c8bfdb8ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226152635,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1226152635,
+    "wof:lastmodified":1537713410,
+    "wof:name":"Qashqar",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.25325,
+    40.66325,
+    72.25325,
+    40.66325
+],
+  "geometry": {"coordinates":[72.25324999999999,40.66325],"type":"Point"}
+}

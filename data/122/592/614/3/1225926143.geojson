@@ -1,0 +1,66 @@
+{
+  "id": 1225926143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.95063,40.2209,68.95063,40.2209",
+    "geom:latitude":40.2209,
+    "geom:longitude":68.95063,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Sharqobod",
+    "gn:country_code":"UZ",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242600,
+    "gn:latitude":40.2209,
+    "gn:longitude":68.95063,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Sharqobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Sharqobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242600
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2139e45e2a80b1b8990e1ee7340116b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1225926143,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225926143,
+    "wof:lastmodified":1537713497,
+    "wof:name":"Sharqobod",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.95063,
+    40.2209,
+    68.95063,
+    40.2209
+],
+  "geometry": {"coordinates":[68.95063,40.2209],"type":"Point"}
+}

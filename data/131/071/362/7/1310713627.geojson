@@ -1,0 +1,65 @@
+{
+  "id": 1310713627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.09811,40.58543,72.09811,40.58543",
+    "geom:latitude":40.58543,
+    "geom:longitude":72.09811,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kesaklar",
+    "gn:country_code":"UZ",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140559,
+    "gn:latitude":40.58543,
+    "gn:longitude":72.09811,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Kesaklar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140559
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"03b4c9ec2eb0071724716c031adcbbb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310713627,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1310713627,
+    "wof:lastmodified":1536614264,
+    "wof:name":"Kesaklar",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.09810999999998,
+    40.58543,
+    72.09810999999998,
+    40.58543
+],
+  "geometry": {"coordinates":[72.09810999999998,40.58543],"type":"Point"}
+}

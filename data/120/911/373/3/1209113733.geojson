@@ -1,0 +1,68 @@
+{
+  "id": 1209113733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.21696,40.56305,71.21696,40.56305",
+    "geom:latitude":40.56305,
+    "geom:longitude":71.21696,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Karimbobo",
+    "gn:country_code":"UZ",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513719,
+    "gn:latitude":40.56305,
+    "gn:longitude":71.21696,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Karimbobo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karym-Baba",
+        "Karimbaba"
+    ],
+    "name:uzb_x_preferred":[
+        "Karimbobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513719
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"58c9b92de301a9f32bc434c66866206f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209113733
+        }
+    ],
+    "wof:id":1209113733,
+    "wof:lastmodified":1537713337,
+    "wof:name":"Karimbobo",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.21696,
+    40.56305,
+    71.21696,
+    40.56305
+],
+  "geometry": {"coordinates":[71.21696,40.56305],"type":"Point"}
+}

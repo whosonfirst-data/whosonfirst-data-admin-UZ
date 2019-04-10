@@ -1,0 +1,68 @@
+{
+  "id": 1343533737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.94883,40.47865,68.94883,40.47865",
+    "geom:latitude":40.47865,
+    "geom:longitude":68.94883,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"U. Nosir",
+    "gn:country_code":"UZ",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242389,
+    "gn:latitude":40.47865,
+    "gn:longitude":68.94883,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"U. Nosir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "U. Nosir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242389
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"fa02ff51f803649aa13d2ffcfb75099e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343533737,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1343533737,
+    "wof:lastmodified":1537713495,
+    "wof:name":"U. Nosir",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.94883,
+    40.47865,
+    68.94883,
+    40.47865
+],
+  "geometry": {"coordinates":[68.94883,40.47865],"type":"Point"}
+}

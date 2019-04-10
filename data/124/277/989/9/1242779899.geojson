@@ -1,0 +1,74 @@
+{
+  "id": 1242779899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.0794,40.57512,72.0794,40.57512",
+    "geom:latitude":40.57512,
+    "geom:longitude":72.0794,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Oqtepa",
+    "gn:country_code":"UZ",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140560,
+    "gn:latitude":40.57512,
+    "gn:longitude":72.0794,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Oqtepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0442\u0435\u043f\u0430"
+    ],
+    "name:und_x_variant":[
+        "Aktepa"
+    ],
+    "name:uzb_x_preferred":[
+        "Oqtepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140560
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"78aa072cb553a86850a6976012f17e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242779899,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1242779899,
+    "wof:lastmodified":1537713415,
+    "wof:name":"Oqtepa",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.0794,
+    40.57512,
+    72.0794,
+    40.57512
+],
+  "geometry": {"coordinates":[72.07940000000001,40.57512],"type":"Point"}
+}

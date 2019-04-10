@@ -1,0 +1,70 @@
+{
+  "id": 1260163185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.92708,40.21597,68.92708,40.21597",
+    "geom:latitude":40.21597,
+    "geom:longitude":68.92708,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Gulbahor",
+    "gn:country_code":"UZ",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242599,
+    "gn:latitude":40.21597,
+    "gn:longitude":68.92708,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Gulbahor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Gulbahor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091918339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242599
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"fdc0c9b013196a8246b0ffaf62b41990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918339,
+            "locality_id":1260163185,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1260163185,
+    "wof:lastmodified":1537713497,
+    "wof:name":"Gulbahor",
+    "wof:parent_id":1091918339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.92708,
+    40.21597,
+    68.92708,
+    40.21597
+],
+  "geometry": {"coordinates":[68.92708,40.21597],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1309796701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.81268,39.24698,66.81268,39.24698",
+    "geom:latitude":39.24698,
+    "geom:longitude":66.81268,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Hasantepa",
+    "gn:country_code":"UZ",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786185,
+    "gn:latitude":39.24698,
+    "gn:longitude":66.81268,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Hasantepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786185
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"453eb62bda003bb3c10bcd3ed7108c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1309796701,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1309796701,
+    "wof:lastmodified":1536944677,
+    "wof:name":"Hasantepa",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.81268,
+    39.24698,
+    66.81268,
+    39.24698
+],
+  "geometry": {"coordinates":[66.81268,39.24698],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1193034421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.65,40.25,66.65,40.25",
+    "geom:latitude":40.25,
+    "geom:longitude":66.65,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kurlas",
+    "gn:country_code":"UZ",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513362,
+    "gn:latitude":40.25,
+    "gn:longitude":66.65,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Kurlas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513362
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"aab4044a05413141203a24243dd87012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1193034421,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1193034421,
+    "wof:lastmodified":1536382570,
+    "wof:name":"Kurlas",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.65,
+    40.25,
+    66.65,
+    40.25
+],
+  "geometry": {"coordinates":[66.65000000000001,40.25],"type":"Point"}
+}

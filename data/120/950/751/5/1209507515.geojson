@@ -1,0 +1,68 @@
+{
+  "id": 1209507515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07771,40.75242,71.07771,40.75242",
+    "geom:latitude":40.75242,
+    "geom:longitude":71.07771,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Beshsari",
+    "gn:country_code":"UZ",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514368,
+    "gn:latitude":40.75242,
+    "gn:longitude":71.07771,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Beshsari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bessari",
+        "Besh-Sary"
+    ],
+    "name:uzb_x_preferred":[
+        "Beshsari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514368
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"3fe7a1cf9b48b57d5dec4d30f8c8e9c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209507515
+        }
+    ],
+    "wof:id":1209507515,
+    "wof:lastmodified":1537713357,
+    "wof:name":"Beshsari",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07771,
+    40.75242,
+    71.07771,
+    40.75242
+],
+  "geometry": {"coordinates":[71.07771,40.75242],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1310388977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.4,41.41667,69.4,41.41667",
+    "geom:latitude":41.41667,
+    "geom:longitude":69.4,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kyr-Aryk",
+    "gn:country_code":"UZ",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513316,
+    "gn:latitude":41.41667,
+    "gn:longitude":69.4,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Kyr-Aryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513316
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"99f80beb1ff01e5fd62331e9a8363bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310388977,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1310388977,
+    "wof:lastmodified":1537081895,
+    "wof:name":"Kyr-Aryk",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.4,
+    41.41667,
+    69.4,
+    41.41667
+],
+  "geometry": {"coordinates":[69.40000000000001,41.41667],"type":"Point"}
+}

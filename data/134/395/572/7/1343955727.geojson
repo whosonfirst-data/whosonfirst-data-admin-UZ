@@ -1,0 +1,65 @@
+{
+  "id": 1343955727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.83404,38.76227,66.83404,38.76227",
+    "geom:latitude":38.76227,
+    "geom:longitude":66.83404,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Guldara",
+    "gn:country_code":"UZ",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7787836,
+    "gn:latitude":38.76227,
+    "gn:longitude":66.83404,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Guldara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787836
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c50c73c48947db5d5c4dcab0dfed847d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343955727,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1343955727,
+    "wof:lastmodified":1537025738,
+    "wof:name":"Guldara",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.83404,
+    38.76227,
+    66.83404,
+    38.76227
+],
+  "geometry": {"coordinates":[66.83404,38.76227],"type":"Point"}
+}

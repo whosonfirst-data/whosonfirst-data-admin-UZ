@@ -1,0 +1,68 @@
+{
+  "id": 1242856567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.74378,40.55475,68.74378,40.55475",
+    "geom:latitude":40.55475,
+    "geom:longitude":68.74378,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Turkiston",
+    "gn:country_code":"UZ",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242319,
+    "gn:latitude":40.55475,
+    "gn:longitude":68.74378,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Turkiston",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Turkiston"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242319
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a9e1e7782acb864b8a4875540b467723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242856567,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1242856567,
+    "wof:lastmodified":1537713492,
+    "wof:name":"Turkiston",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.74378,
+    40.55475,
+    68.74378,
+    40.55475
+],
+  "geometry": {"coordinates":[68.74378,40.55475],"type":"Point"}
+}

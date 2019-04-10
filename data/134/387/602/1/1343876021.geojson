@@ -1,0 +1,71 @@
+{
+  "id": 1343876021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.43713,40.67718,72.43713,40.67718",
+    "geom:latitude":40.67718,
+    "geom:longitude":72.43713,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Poselok Neftyanikov",
+    "gn:country_code":"UZ",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149665,
+    "gn:latitude":40.67718,
+    "gn:longitude":72.43713,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pos\u00eblok Neftyanikov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Pos\u00eblok Neftyanikov"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u041d\u0435\u0444\u0442\u044f\u043d\u0438\u043a\u043e\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149665
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b252a43498f5959b653440b5fde62b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343876021,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1343876021,
+    "wof:lastmodified":1537713424,
+    "wof:name":"Poselok Neftyanikov",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.43713000000002,
+    40.67718,
+    72.43713000000002,
+    40.67718
+],
+  "geometry": {"coordinates":[72.43713000000002,40.67718],"type":"Point"}
+}

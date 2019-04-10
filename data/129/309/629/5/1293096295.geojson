@@ -1,0 +1,71 @@
+{
+  "id": 1293096295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.67181,40.90803,71.67181,40.90803",
+    "geom:latitude":40.90803,
+    "geom:longitude":71.67181,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Olaxomak",
+    "gn:country_code":"UZ",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7536290,
+    "gn:latitude":40.90803,
+    "gn:longitude":71.67181,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Olaxomak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Olaxomak"
+    ],
+    "name:und_x_variant":[
+        "Alakhamak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7536290
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"eb49c2ae0f0686b4ab7a296ca24d420f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293096295,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1293096295,
+    "wof:lastmodified":1537713385,
+    "wof:name":"Olaxomak",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.67181,
+    40.90803,
+    71.67181,
+    40.90803
+],
+  "geometry": {"coordinates":[71.67180999999999,40.90803],"type":"Point"}
+}

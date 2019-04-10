@@ -1,0 +1,126 @@
+{
+  "id": 421180863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.10889,40.87361,71.10889,40.87361",
+    "geom:latitude":40.87361,
+    "geom:longitude":71.10889,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u067e\u0627\u067e"
+    ],
+    "name:chi_x_preferred":[
+        "\u7436\u5e03"
+    ],
+    "name:dut_x_preferred":[
+        "Pop"
+    ],
+    "name:eng_x_preferred":[
+        "Pop"
+    ],
+    "name:ger_x_preferred":[
+        "Pop"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b1\u03c0"
+    ],
+    "name:ita_x_preferred":[
+        "Pop"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30d7"
+    ],
+    "name:lit_x_preferred":[
+        "Papas"
+    ],
+    "name:pol_x_preferred":[
+        "Pop"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f"
+    ],
+    "name:spa_x_preferred":[
+        "Pap"
+    ],
+    "name:tur_x_preferred":[
+        "Pap"
+    ],
+    "name:unk_x_variant":[
+        "Pop"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u067e\u060c \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Pop"
+    ],
+    "qs:gn_country":"UZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1513023,
+    "qs:gn_pop":22122,
+    "qs:name":"Pap",
+    "qs:name_adm0":"Uzbekistan",
+    "qs:name_adm1":"Namangan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":463110,
+    "qs:woe_adm0":23424980,
+    "qs:woe_id":2271514,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513023,
+        "gp:id":2271514,
+        "qs:id":463110,
+        "wd:id":"Q723164"
+    },
+    "wof:country":"UZ",
+    "wof:created":1459009273,
+    "wof:geomhash":"1ce96334df63f35e498a7efa0bc4819d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":421180863,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":421180863,
+    "wof:lastmodified":1514502105,
+    "wof:name":"Pap",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:population":22122,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.10889,
+    40.87361,
+    71.10889,
+    40.87361
+],
+  "geometry": {"coordinates":[71.10889,40.87361],"type":"Point"}
+}

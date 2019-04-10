@@ -1,0 +1,70 @@
+{
+  "id": 1310375845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.86667,41.04222,67.86667,41.04222",
+    "geom:latitude":41.04222,
+    "geom:longitude":67.86667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kulboy",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1531841,
+    "gn:latitude":41.04222,
+    "gn:longitude":67.86667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u016dlboy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolbay",
+        "K\u016dlboy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1531841
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"8bf2c63141cebc55f29d3ac62ef330f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310375845,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1310375845,
+    "wof:lastmodified":1537713367,
+    "wof:name":"Kulboy",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.86667,
+    41.04222,
+    67.86667,
+    41.04222
+],
+  "geometry": {"coordinates":[67.86667,41.04222],"type":"Point"}
+}

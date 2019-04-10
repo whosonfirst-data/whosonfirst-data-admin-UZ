@@ -1,0 +1,78 @@
+{
+  "id": 1226356809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.13375,40.67152,72.13375,40.67152",
+    "geom:latitude":40.67152,
+    "geom:longitude":72.13375,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ahmadbek",
+    "gn:country_code":"UZ",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149759,
+    "gn:latitude":40.67152,
+    "gn:longitude":72.13375,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ahmadbek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u043c\u0430\u0442\u0431\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Akmatbek"
+    ],
+    "name:uzb_x_preferred":[
+        "Ahmanbek"
+    ],
+    "name:uzb_x_variant":[
+        "Ahmadbek",
+        "Ahmatbek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149759
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"baacee3ee35852316c8f3542f543b4bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226356809,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1226356809,
+    "wof:lastmodified":1537713427,
+    "wof:name":"Ahmadbek",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.13375,
+    40.67152,
+    72.13375,
+    40.67152
+],
+  "geometry": {"coordinates":[72.13375000000001,40.67152],"type":"Point"}
+}

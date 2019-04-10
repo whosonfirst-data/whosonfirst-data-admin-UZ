@@ -1,0 +1,68 @@
+{
+  "id": 1343331375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.08545,40.44723,69.08545,40.44723",
+    "geom:latitude":40.44723,
+    "geom:longitude":69.08545,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Oltintepa",
+    "gn:country_code":"UZ",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242425,
+    "gn:latitude":40.44723,
+    "gn:longitude":69.08545,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Oltintepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Oltintepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242425
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"eb26ed93b8264838beaf60a75b365c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343331375,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1343331375,
+    "wof:lastmodified":1537713495,
+    "wof:name":"Oltintepa",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.08545,
+    40.44723,
+    69.08545,
+    40.44723
+],
+  "geometry": {"coordinates":[69.08544999999999,40.44723],"type":"Point"}
+}

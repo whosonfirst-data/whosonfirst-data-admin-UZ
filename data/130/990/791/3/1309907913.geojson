@@ -1,0 +1,68 @@
+{
+  "id": 1309907913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.817,40.46821,70.817,40.46821",
+    "geom:latitude":40.46821,
+    "geom:longitude":70.817,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shaboda",
+    "gn:country_code":"UZ",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10651260,
+    "gn:latitude":40.46821,
+    "gn:longitude":70.817,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Shaboda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Shaboda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10651260
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ca5e91db54784260f855092f9e9bb6b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1309907913,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1309907913,
+    "wof:lastmodified":1537713446,
+    "wof:name":"Shaboda",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.817,
+    40.46821,
+    70.817,
+    40.46821
+],
+  "geometry": {"coordinates":[70.81699999999999,40.46821],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293212181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07594,40.66592,71.07594,40.66592",
+    "geom:latitude":40.66592,
+    "geom:longitude":71.07594,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Olqar",
+    "gn:country_code":"UZ",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7538903,
+    "gn:latitude":40.66592,
+    "gn:longitude":71.07594,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Olqar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Olqar"
+    ],
+    "name:und_x_variant":[
+        "Alkar"
+    ],
+    "name:uzb_x_preferred":[
+        "Alqor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7538903
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a678a9c8382c6b94f0a64cbaafa8ebcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293212181,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1293212181,
+    "wof:lastmodified":1537713389,
+    "wof:name":"Olqar",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07594,
+    40.66592,
+    71.07594,
+    40.66592
+],
+  "geometry": {"coordinates":[71.07594,40.66592],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343257107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.02231,41.05977,72.02231,41.05977",
+    "geom:latitude":41.05977,
+    "geom:longitude":72.02231,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Qayqi",
+    "gn:country_code":"UZ",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513686,
+    "gn:latitude":41.05977,
+    "gn:longitude":72.02231,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Qayqi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kayky",
+        "Kaiki",
+        "Chek-Kayka",
+        "Kayke",
+        "Kayki",
+        "Chek",
+        "Qayqi"
+    ],
+    "name:uzb_x_preferred":[
+        "Qayqi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513686
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ed250cd9ada53f3d5ca52cd947d17cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343257107,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1343257107,
+    "wof:lastmodified":1537713336,
+    "wof:name":"Qayqi",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.02231,
+    41.05977,
+    72.02231,
+    41.05977
+],
+  "geometry": {"coordinates":[72.02231,41.05977],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1327441673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.63333,40.18333,66.63333,40.18333",
+    "geom:latitude":40.18333,
+    "geom:longitude":66.63333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bushlak",
+    "gn:country_code":"UZ",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514310,
+    "gn:latitude":40.18333,
+    "gn:longitude":66.63333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Bushlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514310
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"59684c1e017d93a27970356335da40e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327441673,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1327441673,
+    "wof:lastmodified":1536667361,
+    "wof:name":"Bushlak",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.63333,
+    40.18333,
+    66.63333,
+    40.18333
+],
+  "geometry": {"coordinates":[66.63333,40.18333],"type":"Point"}
+}

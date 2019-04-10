@@ -1,0 +1,71 @@
+{
+  "id": 1276531667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.20151,40.79325,69.20151,40.79325",
+    "geom:latitude":40.79325,
+    "geom:longitude":69.20151,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chig`atoy",
+    "gn:country_code":"UZ",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514234,
+    "gn:latitude":40.79325,
+    "gn:longitude":69.20151,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Chig\u2018atoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chigatay"
+    ],
+    "name:uzb_x_preferred":[
+        "Chig\u2018atoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514234
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e911d730f9354634fe911fd87409faa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276531667,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1276531667,
+    "wof:lastmodified":1537713352,
+    "wof:name":"Chig`atoy",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.20151,
+    40.79325,
+    69.20151,
+    40.79325
+],
+  "geometry": {"coordinates":[69.20151,40.79325],"type":"Point"}
+}

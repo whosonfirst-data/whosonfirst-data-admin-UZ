@@ -1,0 +1,68 @@
+{
+  "id": 1225856573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.58555,40.41609,70.58555,40.41609",
+    "geom:latitude":40.41609,
+    "geom:longitude":70.58555,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Saritol",
+    "gn:country_code":"UZ",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646153,
+    "gn:latitude":40.41609,
+    "gn:longitude":70.58555,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Saritol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Saritol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646153
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1503d4b84b2d9927d47880f3d43c7d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1225856573,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1225856573,
+    "wof:lastmodified":1537713441,
+    "wof:name":"Saritol",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.58555,
+    40.41609,
+    70.58555,
+    40.41609
+],
+  "geometry": {"coordinates":[70.58555,40.41609],"type":"Point"}
+}

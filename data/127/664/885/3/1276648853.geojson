@@ -1,0 +1,74 @@
+{
+  "id": 1276648853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.98002,40.98083,71.98002,40.98083",
+    "geom:latitude":40.98083,
+    "geom:longitude":71.98002,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Xafato`pi",
+    "gn:country_code":"UZ",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7528262,
+    "gn:latitude":40.98083,
+    "gn:longitude":71.98002,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Xafato\u2018pi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Xafato\u2018pi"
+    ],
+    "name:kir_x_preferred":[
+        "Xafato\u2018pi"
+    ],
+    "name:uzb_x_preferred":[
+        "Xaltato\u2018pi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7528262
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9368bf93643fa3c4a9099590da94134e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276648853,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1276648853,
+    "wof:lastmodified":1537713379,
+    "wof:name":"Xafato`pi",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.98002,
+    40.98083,
+    71.98002,
+    40.98083
+],
+  "geometry": {"coordinates":[71.98002,40.98083],"type":"Point"}
+}

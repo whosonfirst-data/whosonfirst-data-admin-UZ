@@ -1,0 +1,77 @@
+{
+  "id": 1226460137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.06408,40.63531,72.06408,40.63531",
+    "geom:latitude":40.63531,
+    "geom:longitude":72.06408,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qorabo`yin",
+    "gn:country_code":"UZ",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140423,
+    "gn:latitude":40.63531,
+    "gn:longitude":72.06408,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Qorabo\u2018yin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0443\u0439\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Karabuyin"
+    ],
+    "name:uzb_x_preferred":[
+        "Qoramo\u2018yin"
+    ],
+    "name:uzb_x_variant":[
+        "Qorabo\u2018yin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140423
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"81981329a5aaa10e73661291268bd2f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226460137,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1226460137,
+    "wof:lastmodified":1537713411,
+    "wof:name":"Qorabo`yin",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.06408,
+    40.63531,
+    72.06408,
+    40.63531
+],
+  "geometry": {"coordinates":[72.06408,40.63531],"type":"Point"}
+}

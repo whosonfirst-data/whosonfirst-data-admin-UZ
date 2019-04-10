@@ -1,0 +1,68 @@
+{
+  "id": 1309910029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.17386,40.67196,72.17386,40.67196",
+    "geom:latitude":40.67196,
+    "geom:longitude":72.17386,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chimbog`ish",
+    "gn:country_code":"UZ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229508,
+    "gn:latitude":40.67196,
+    "gn:longitude":72.17386,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Chimbog\u2018ish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Chimbog\u2018ish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229508
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"fa6c2e5043e000fdbb830e3b4100bda4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1309910029,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1309910029,
+    "wof:lastmodified":1537713480,
+    "wof:name":"Chimbog`ish",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.17385999999998,
+    40.67196,
+    72.17385999999998,
+    40.67196
+],
+  "geometry": {"coordinates":[72.17385999999998,40.67196],"type":"Point"}
+}

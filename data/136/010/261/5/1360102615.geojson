@@ -1,0 +1,79 @@
+{
+  "id": 1360102615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.88577,40.72782,72.88577,40.72782",
+    "geom:latitude":40.72782,
+    "geom:longitude":72.88577,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qorasuv",
+    "gn:country_code":"UZ",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513953,
+    "gn:latitude":40.72782,
+    "gn:longitude":72.88577,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Qorasuv",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Il\u2019ichevsk"
+    ],
+    "name:und_x_variant":[
+        "Voroshilovo",
+        "Il\u2019ichevsk",
+        "Imeni Voroshilovo",
+        "Kara-Su",
+        "Imeni Il\u2019icha",
+        "Qorasuw"
+    ],
+    "name:uzb_x_preferred":[
+        "Qorasuv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513953
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b5eb5a5103e1fc5c12978d6fb1ea660d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360102615,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1360102615,
+    "wof:lastmodified":1537713344,
+    "wof:name":"Qorasuv",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.88577,
+    40.72782,
+    72.88577,
+    40.72782
+],
+  "geometry": {"coordinates":[72.88576999999999,40.72782],"type":"Point"}
+}

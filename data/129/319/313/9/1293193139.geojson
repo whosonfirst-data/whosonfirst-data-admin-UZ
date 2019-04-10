@@ -1,0 +1,68 @@
+{
+  "id": 1293193139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.72854,40.95959,71.72854,40.95959",
+    "geom:latitude":40.95959,
+    "geom:longitude":71.72854,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ko`lqo`rg`on",
+    "gn:country_code":"UZ",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7529332,
+    "gn:latitude":40.95959,
+    "gn:longitude":71.72854,
+    "gn:modification_date":"2010-09-04",
+    "gn:name":"Ko\u2018lqo\u2018rg\u2018on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ko\u2018lqo\u2018rg\u2018on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7529332
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"13c5c25a3d9b5c00d960db060c1a600e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293193139,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1293193139,
+    "wof:lastmodified":1537713383,
+    "wof:name":"Ko`lqo`rg`on",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.72854,
+    40.95959000000001,
+    71.72854,
+    40.95959000000001
+],
+  "geometry": {"coordinates":[71.72854,40.95959000000001],"type":"Point"}
+}

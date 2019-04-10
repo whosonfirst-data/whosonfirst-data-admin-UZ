@@ -1,0 +1,68 @@
+{
+  "id": 1310487209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.29631,39.21848,67.29631,39.21848",
+    "geom:latitude":39.21848,
+    "geom:longitude":67.29631,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Matman",
+    "gn:country_code":"UZ",
+    "gn:dem":1437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216480,
+    "gn:latitude":39.21848,
+    "gn:longitude":67.29631,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Matman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Modmon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216480
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6a40154ac94913b4c0f1ac5475009bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310487209,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1310487209,
+    "wof:lastmodified":1537713253,
+    "wof:name":"Matman",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.29630999999999,
+    39.21848,
+    67.29630999999999,
+    39.21848
+],
+  "geometry": {"coordinates":[67.29630999999999,39.21848],"type":"Point"}
+}

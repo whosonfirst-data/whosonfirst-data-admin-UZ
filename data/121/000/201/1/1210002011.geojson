@@ -1,0 +1,65 @@
+{
+  "id": 1210002011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.86262,38.36169,65.86262,38.36169",
+    "geom:latitude":38.36169,
+    "geom:longitude":65.86262,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kengsoy",
+    "gn:country_code":"UZ",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783682,
+    "gn:latitude":38.36169,
+    "gn:longitude":65.86262,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Kengsoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783682
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1b7fb868a36660bc10562e09a8badb87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1210002011,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1210002011,
+    "wof:lastmodified":1536377711,
+    "wof:name":"Kengsoy",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.86261999999999,
+    38.36169,
+    65.86261999999999,
+    38.36169
+],
+  "geometry": {"coordinates":[65.86261999999999,38.36169],"type":"Point"}
+}

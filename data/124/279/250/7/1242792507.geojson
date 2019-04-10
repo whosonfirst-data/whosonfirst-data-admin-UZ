@@ -1,0 +1,68 @@
+{
+  "id": 1242792507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.0,39.65,67.0,39.65",
+    "geom:latitude":39.65,
+    "geom:longitude":67.0,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akmechet'",
+    "gn:country_code":"UZ",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217941,
+    "gn:latitude":39.65,
+    "gn:longitude":67.0,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Akmechet\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Akmechet\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217941
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9e06ce15fa94da3313a039801eb3164c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242792507,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1242792507,
+    "wof:lastmodified":1537713289,
+    "wof:name":"Akmechet'",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.0,
+    39.65,
+    67.0,
+    39.65
+],
+  "geometry": {"coordinates":[67.0,39.65],"type":"Point"}
+}

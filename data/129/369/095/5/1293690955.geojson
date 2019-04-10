@@ -1,0 +1,68 @@
+{
+  "id": 1293690955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.14393,40.73802,72.14393,40.73802",
+    "geom:latitude":40.73802,
+    "geom:longitude":72.14393,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ravat",
+    "gn:country_code":"UZ",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8152077,
+    "gn:latitude":40.73802,
+    "gn:longitude":72.14393,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ravat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0432\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8152077
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"39bb01f37fc18101f3b87f09434a8aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293690955,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1293690955,
+    "wof:lastmodified":1537713429,
+    "wof:name":"Ravat",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.14393000000003,
+    40.73802,
+    72.14393000000003,
+    40.73802
+],
+  "geometry": {"coordinates":[72.14393000000003,40.73802],"type":"Point"}
+}

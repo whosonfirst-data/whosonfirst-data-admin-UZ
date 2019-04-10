@@ -1,0 +1,117 @@
+{
+  "id": 421197405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.71889,40.42722,71.71889,40.42722",
+    "geom:latitude":40.42722,
+    "geom:longitude":71.71889,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Komsomolski"
+    ],
+    "name:deu_x_preferred":[
+        "Komsomolski"
+    ],
+    "name:fra_x_preferred":[
+        "Komsomolska\u00efa"
+    ],
+    "name:hun_x_preferred":[
+        "Komszomolszkij"
+    ],
+    "name:ita_x_preferred":[
+        "Komsomol'skij"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30e0\u30bd\u30e2\u30fc\u30ea\u30b9\u30ab\u30e4\u99c5"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf64\uc18c\ubab0\uc2a4\uce74\uc57c \uc5ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a\u0438\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Komsomolski"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Stantsiya Gorchakovo"
+    ],
+    "name:uzb_x_preferred":[
+        "Yangi Marg\u2018ilon"
+    ],
+    "name:zho_x_preferred":[
+        "\u5171\u9752\u5718\u7ad9"
+    ],
+    "qs:gn_country":"UZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1513491,
+    "qs:gn_pop":14114,
+    "qs:name":"Komsomol'skiy",
+    "qs:name_adm0":"Uzbekistan",
+    "qs:name_adm1":"Farghona",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":133086,
+    "qs:woe_adm0":23424980,
+    "qs:woe_id":2270889,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":206,
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513491,
+        "gp:id":2270889,
+        "qs:id":133086
+    },
+    "wof:country":"UZ",
+    "wof:created":1459009912,
+    "wof:geomhash":"1786ea99174500ca0482d1c6052c6145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":421197405,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":421197405,
+    "wof:lastmodified":1527716406,
+    "wof:name":"Komsomol'skiy",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:population":14114,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.71889,
+    40.42722,
+    71.71889,
+    40.42722
+],
+  "geometry": {"coordinates":[71.71889,40.42722],"type":"Point"}
+}

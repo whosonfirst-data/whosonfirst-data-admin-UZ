@@ -1,0 +1,65 @@
+{
+  "id": 1327217465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.45972,39.41056,66.45972,39.41056",
+    "geom:latitude":39.41056,
+    "geom:longitude":66.45972,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Dzham Vtoroy",
+    "gn:country_code":"UZ",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217408,
+    "gn:latitude":39.41056,
+    "gn:longitude":66.45972,
+    "gn:modification_date":"2001-11-29",
+    "gn:name":"Dzham Vtoroy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217408
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"091d134781da1e0876c273fc7d1a0d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327217465,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1327217465,
+    "wof:lastmodified":1536990397,
+    "wof:name":"Dzham Vtoroy",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.45971999999999,
+    39.41056,
+    66.45971999999999,
+    39.41056
+],
+  "geometry": {"coordinates":[66.45971999999999,39.41056],"type":"Point"}
+}

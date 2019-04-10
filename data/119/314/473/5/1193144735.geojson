@@ -1,0 +1,68 @@
+{
+  "id": 1193144735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.21411,40.40717,71.21411,40.40717",
+    "geom:latitude":40.40717,
+    "geom:longitude":71.21411,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bulakbashi",
+    "gn:country_code":"UZ",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11056902,
+    "gn:latitude":40.40717,
+    "gn:longitude":71.21411,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Bulakbashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Bulakbashi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056902
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f1babeed9bbc93d98a05d67fc44f17b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1193144735,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1193144735,
+    "wof:lastmodified":1537713465,
+    "wof:name":"Bulakbashi",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.21410999999998,
+    40.40717,
+    71.21410999999998,
+    40.40717
+],
+  "geometry": {"coordinates":[71.21410999999998,40.40717],"type":"Point"}
+}

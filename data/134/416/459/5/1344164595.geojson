@@ -1,0 +1,68 @@
+{
+  "id": 1344164595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.65296,40.48327,71.65296,40.48327",
+    "geom:latitude":40.48327,
+    "geom:longitude":71.65296,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chimkent",
+    "gn:country_code":"UZ",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514223,
+    "gn:latitude":40.48327,
+    "gn:longitude":71.65296,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Chimkent",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Chimkent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514223
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"03b1341d5a12ee485f745bd55a9c05ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344164595,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1344164595,
+    "wof:lastmodified":1537713352,
+    "wof:name":"Chimkent",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.65296,
+    40.48327000000001,
+    71.65296,
+    40.48327000000001
+],
+  "geometry": {"coordinates":[71.65295999999999,40.48327000000001],"type":"Point"}
+}

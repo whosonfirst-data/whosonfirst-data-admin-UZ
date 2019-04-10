@@ -1,0 +1,68 @@
+{
+  "id": 1310673307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.37101,40.29744,68.37101,40.29744",
+    "geom:latitude":40.29744,
+    "geom:longitude":68.37101,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Ko`tarma",
+    "gn:country_code":"UZ",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242575,
+    "gn:latitude":40.29744,
+    "gn:longitude":68.37101,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ko\u2018tarma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Ko\u2018tarma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242575
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c6973b18aaab12a5685a0742a7f42f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310673307,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1310673307,
+    "wof:lastmodified":1537713496,
+    "wof:name":"Ko`tarma",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.37101,
+    40.29744,
+    68.37101,
+    40.29744
+],
+  "geometry": {"coordinates":[68.37101,40.29744],"type":"Point"}
+}

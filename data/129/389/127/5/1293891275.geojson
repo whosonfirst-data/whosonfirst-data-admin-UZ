@@ -1,0 +1,68 @@
+{
+  "id": 1293891275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.08711,40.5653,72.08711,40.5653",
+    "geom:latitude":40.5653,
+    "geom:longitude":72.08711,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yong`oqtosh",
+    "gn:country_code":"UZ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10975306,
+    "gn:latitude":40.5653,
+    "gn:longitude":72.08711,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Yong\u2018oqtosh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Yong\u2018oqtosh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10975306
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"020b5f82333a6e487dc31ba79cfb0ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293891275,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1293891275,
+    "wof:lastmodified":1537713461,
+    "wof:name":"Yong`oqtosh",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.08711,
+    40.5653,
+    72.08711,
+    40.5653
+],
+  "geometry": {"coordinates":[72.08711,40.5653],"type":"Point"}
+}

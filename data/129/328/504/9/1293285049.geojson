@@ -1,0 +1,69 @@
+{
+  "id": 1293285049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.50611,41.18837,71.50611,41.18837",
+    "geom:latitude":41.18837,
+    "geom:longitude":71.50611,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Cho`ngbosh",
+    "gn:country_code":"UZ",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514203,
+    "gn:latitude":41.18837,
+    "gn:longitude":71.50611,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Cho\u2018ngbosh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cho\u2018ngbosh",
+        "Chonbash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514203
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"498761c42df18ad7766177b1d2e58443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293285049,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1293285049,
+    "wof:lastmodified":1537713351,
+    "wof:name":"Cho`ngbosh",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.50610999999998,
+    41.18837,
+    71.50610999999998,
+    41.18837
+],
+  "geometry": {"coordinates":[71.50610999999998,41.18837],"type":"Point"}
+}

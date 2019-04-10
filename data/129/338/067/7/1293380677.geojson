@@ -1,0 +1,68 @@
+{
+  "id": 1293380677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.77221,38.99011,65.77221,38.99011",
+    "geom:latitude":38.99011,
+    "geom:longitude":65.77221,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Qozoqli",
+    "gn:country_code":"UZ",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216958,
+    "gn:latitude":38.99011,
+    "gn:longitude":65.77221,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Qozoqli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kazakly-Baurdak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216958
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ce352fe5c1fafcd8063b6da5b53a6d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293380677,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1293380677,
+    "wof:lastmodified":1537713266,
+    "wof:name":"Qozoqli",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.77221,
+    38.99011,
+    65.77221,
+    38.99011
+],
+  "geometry": {"coordinates":[65.77221,38.99011],"type":"Point"}
+}

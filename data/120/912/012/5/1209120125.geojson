@@ -1,0 +1,74 @@
+{
+  "id": 1209120125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.2449,40.8977,72.2449,40.8977",
+    "geom:latitude":40.8977,
+    "geom:longitude":72.2449,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Poytug`",
+    "gn:country_code":"UZ",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1513010,
+    "gn:latitude":40.8977,
+    "gn:longitude":72.2449,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Poytug\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0439\u0442\u0443\u0433"
+    ],
+    "name:und_x_variant":[
+        "Baytok",
+        "Paytok",
+        "Paytug",
+        "Poytugh"
+    ],
+    "name:uzb_x_preferred":[
+        "Poytug\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513010,
+        "wk:page":"Paytug"
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"8ffe68b377c9525e6a62e0db41b81489",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209120125
+        }
+    ],
+    "wof:id":1209120125,
+    "wof:lastmodified":1537713317,
+    "wof:name":"Poytug`",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.2449,
+    40.8977,
+    72.2449,
+    40.8977
+],
+  "geometry": {"coordinates":[72.2449,40.8977],"type":"Point"}
+}

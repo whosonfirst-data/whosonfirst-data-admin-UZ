@@ -1,0 +1,68 @@
+{
+  "id": 1259366359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.78552,41.01883,68.78552,41.01883",
+    "geom:latitude":41.01883,
+    "geom:longitude":68.78552,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Alisher Navoiy",
+    "gn:country_code":"UZ",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241667,
+    "gn:latitude":41.01883,
+    "gn:longitude":68.78552,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Alisher Navoiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Alisher Navoiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241667
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e8bcc2fa155cf976b62c61a9891b7d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259366359,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1259366359,
+    "wof:lastmodified":1537713484,
+    "wof:name":"Alisher Navoiy",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.78551999999999,
+    41.01883,
+    68.78551999999999,
+    41.01883
+],
+  "geometry": {"coordinates":[68.78551999999999,41.01883],"type":"Point"}
+}

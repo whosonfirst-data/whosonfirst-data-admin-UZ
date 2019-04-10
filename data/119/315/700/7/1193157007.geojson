@@ -1,0 +1,68 @@
+{
+  "id": 1193157007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.09221,39.02644,66.09221,39.02644",
+    "geom:latitude":39.02644,
+    "geom:longitude":66.09221,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Qiyot",
+    "gn:country_code":"UZ",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216781,
+    "gn:latitude":39.02644,
+    "gn:longitude":66.09221,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Qiyot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolodets Kiyat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216781
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e781339f7de1ae065f222b7ec93e2ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1193157007,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1193157007,
+    "wof:lastmodified":1537713261,
+    "wof:name":"Qiyot",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.09221,
+    39.02644,
+    66.09221,
+    39.02644
+],
+  "geometry": {"coordinates":[66.09220999999999,39.02644],"type":"Point"}
+}

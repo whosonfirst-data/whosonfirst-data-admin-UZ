@@ -1,0 +1,74 @@
+{
+  "id": 1226541705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.13757,40.51179,72.13757,40.51179",
+    "geom:latitude":40.51179,
+    "geom:longitude":72.13757,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Uchtol",
+    "gn:country_code":"UZ",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140490,
+    "gn:latitude":40.51179,
+    "gn:longitude":72.13757,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Uchtol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0447\u0442\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "Uchtal"
+    ],
+    "name:uzb_x_preferred":[
+        "Uchtol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140490
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"438bcb54e51983d010f2bb7e46c3684b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226541705,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1226541705,
+    "wof:lastmodified":1537713413,
+    "wof:name":"Uchtol",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.13757,
+    40.51179000000001,
+    72.13757,
+    40.51179000000001
+],
+  "geometry": {"coordinates":[72.13757,40.51179000000001],"type":"Point"}
+}

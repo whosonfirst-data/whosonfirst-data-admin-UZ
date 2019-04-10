@@ -1,0 +1,65 @@
+{
+  "id": 1259698571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.11667,40.73333,72.11667,40.73333",
+    "geom:latitude":40.73333,
+    "geom:longitude":72.11667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ish-Kazak",
+    "gn:country_code":"UZ",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513903,
+    "gn:latitude":40.73333,
+    "gn:longitude":72.11667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Ish-Kazak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513903
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d2d63fa252d785c62f2792d7a7509c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259698571,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1259698571,
+    "wof:lastmodified":1537043417,
+    "wof:name":"Ish-Kazak",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.11667,
+    40.73333,
+    72.11667,
+    40.73333
+],
+  "geometry": {"coordinates":[72.11667,40.73333],"type":"Point"}
+}

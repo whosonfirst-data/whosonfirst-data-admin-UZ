@@ -1,0 +1,68 @@
+{
+  "id": 1226018717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.20594,40.6028,69.20594,40.6028",
+    "geom:latitude":40.6028,
+    "geom:longitude":69.20594,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ko`rkam",
+    "gn:country_code":"UZ",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241992,
+    "gn:latitude":40.6028,
+    "gn:longitude":69.20594,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ko\u2018rkam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Ko\u2018rkam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241992
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"21d226184195fdab648daca40c12bc87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226018717,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1226018717,
+    "wof:lastmodified":1537713489,
+    "wof:name":"Ko`rkam",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.20594,
+    40.6028,
+    69.20594,
+    40.6028
+],
+  "geometry": {"coordinates":[69.20594,40.6028],"type":"Point"}
+}

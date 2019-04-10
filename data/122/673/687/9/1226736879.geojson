@@ -1,0 +1,68 @@
+{
+  "id": 1226736879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.60106,37.65626,67.60106,37.65626",
+    "geom:latitude":37.65626,
+    "geom:longitude":67.60106,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Do`stlik",
+    "gn:country_code":"UZ",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11246939,
+    "gn:latitude":37.65626,
+    "gn:longitude":67.60106,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Do\u2018stlik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Do\u2018stlik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11246939
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"55377fed5fc1710e7822102a16f8e077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226736879,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1226736879,
+    "wof:lastmodified":1537713501,
+    "wof:name":"Do`stlik",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.60106,
+    37.65626,
+    67.60106,
+    37.65626
+],
+  "geometry": {"coordinates":[67.60106,37.65626],"type":"Point"}
+}

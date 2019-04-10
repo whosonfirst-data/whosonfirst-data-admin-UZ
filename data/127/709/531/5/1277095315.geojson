@@ -1,0 +1,65 @@
+{
+  "id": 1277095315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.96081,41.63493,60.96081,41.63493",
+    "geom:latitude":41.63493,
+    "geom:longitude":60.96081,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ellikqata",
+    "gn:country_code":"UZ",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7894554,
+    "gn:latitude":41.63493,
+    "gn:longitude":60.96081,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Ellikqata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7894554
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7483976ef4d031333071d723d5fbb4f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1277095315,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1277095315,
+    "wof:lastmodified":1536749395,
+    "wof:name":"Ellikqata",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.96081,
+    41.63493,
+    60.96081,
+    41.63493
+],
+  "geometry": {"coordinates":[60.96081,41.63493],"type":"Point"}
+}

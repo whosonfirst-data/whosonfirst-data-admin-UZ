@@ -1,0 +1,74 @@
+{
+  "id": 1276235569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.0344,40.50709,72.0344,40.50709",
+    "geom:latitude":40.50709,
+    "geom:longitude":72.0344,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"O`zbek",
+    "gn:country_code":"UZ",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140524,
+    "gn:latitude":40.50709,
+    "gn:longitude":72.0344,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"O\u2018zbek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0437\u0431\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Uzbek"
+    ],
+    "name:uzb_x_preferred":[
+        "O\u2018zbek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140524
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ebfe3346f6414b83a532c11958ca8000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276235569,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1276235569,
+    "wof:lastmodified":1537713414,
+    "wof:name":"O`zbek",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.0344,
+    40.50709000000001,
+    72.0344,
+    40.50709000000001
+],
+  "geometry": {"coordinates":[72.03440000000001,40.50709000000001],"type":"Point"}
+}

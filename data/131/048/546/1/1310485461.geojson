@@ -1,0 +1,68 @@
+{
+  "id": 1310485461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.17111,39.98167,66.17111,39.98167",
+    "geom:latitude":39.98167,
+    "geom:longitude":66.17111,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Vol'dzhan",
+    "gn:country_code":"UZ",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215777,
+    "gn:latitude":39.98167,
+    "gn:longitude":66.17111,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Vol\u2019dzhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Vol\u2019dzhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215777
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f9fb889b924a2bf352b018674b66a7eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310485461,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1310485461,
+    "wof:lastmodified":1537713236,
+    "wof:name":"Vol'dzhan",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.17111,
+    39.98167,
+    66.17111,
+    39.98167
+],
+  "geometry": {"coordinates":[66.17111,39.98167],"type":"Point"}
+}

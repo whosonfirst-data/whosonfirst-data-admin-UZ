@@ -1,0 +1,61 @@
+{
+  "id": 1209100765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.28333,41.05,65.28333,41.05",
+    "geom:latitude":41.05,
+    "geom:longitude":65.28333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mashikuduk",
+    "gn:country_code":"UZ",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521087,
+    "gn:latitude":41.05,
+    "gn:longitude":65.28333,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Mashikuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521087
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9d2f203f8903246fa71a04fa54d00bc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209100765
+        }
+    ],
+    "wof:id":1209100765,
+    "wof:lastmodified":1536297741,
+    "wof:name":"Mashikuduk",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.28333,
+    41.05,
+    65.28333,
+    41.05
+],
+  "geometry": {"coordinates":[65.28333000000001,41.05],"type":"Point"}
+}

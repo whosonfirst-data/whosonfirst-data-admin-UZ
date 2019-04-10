@@ -1,0 +1,68 @@
+{
+  "id": 1326809203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.42665,41.0298,69.42665,41.0298",
+    "geom:latitude":41.0298,
+    "geom:longitude":69.42665,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Karkaztop",
+    "gn:country_code":"UZ",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247656,
+    "gn:latitude":41.0298,
+    "gn:longitude":69.42665,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Karkaztop",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolkhoz Kommunizm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247656
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7db2ab56555b2ff65d239751825d3cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326809203,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1326809203,
+    "wof:lastmodified":1537713502,
+    "wof:name":"Karkaztop",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.42665,
+    41.0298,
+    69.42665,
+    41.0298
+],
+  "geometry": {"coordinates":[69.42665,41.0298],"type":"Point"}
+}

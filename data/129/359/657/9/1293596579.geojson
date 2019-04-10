@@ -1,0 +1,71 @@
+{
+  "id": 1293596579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.8518,40.27282,71.8518,40.27282",
+    "geom:latitude":40.27282,
+    "geom:longitude":71.8518,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mayoq",
+    "gn:country_code":"UZ",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376129,
+    "gn:latitude":40.27282,
+    "gn:longitude":71.8518,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Mayoq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mayak"
+    ],
+    "name:uzb_x_preferred":[
+        "Mayoq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376129
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"95a8e5af97b1728c32400282c8bfc006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293596579,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1293596579,
+    "wof:lastmodified":1537713439,
+    "wof:name":"Mayoq",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.8518,
+    40.27282,
+    71.8518,
+    40.27282
+],
+  "geometry": {"coordinates":[71.8518,40.27282],"type":"Point"}
+}

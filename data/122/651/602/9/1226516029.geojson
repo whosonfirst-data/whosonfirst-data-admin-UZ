@@ -1,0 +1,71 @@
+{
+  "id": 1226516029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.38778,41.18861,69.38778,41.18861",
+    "geom:latitude":41.18861,
+    "geom:longitude":69.38778,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Sewerniy Mayak",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512844,
+    "gn:latitude":41.18861,
+    "gn:longitude":69.38778,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sewerniy Mayak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uchastok Severnyy Mayak",
+        "Severnyy Mayak",
+        "Sewerniy Mayak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512844
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"870077dbaf5f2377bde5c0e243eff62b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226516029,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1226516029,
+    "wof:lastmodified":1537713313,
+    "wof:name":"Sewerniy Mayak",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.38778,
+    41.18861,
+    69.38778,
+    41.18861
+],
+  "geometry": {"coordinates":[69.38778000000001,41.18861],"type":"Point"}
+}

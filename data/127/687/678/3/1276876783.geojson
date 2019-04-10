@@ -1,0 +1,71 @@
+{
+  "id": 1276876783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.26439,40.79568,72.26439,40.79568",
+    "geom:latitude":40.79568,
+    "geom:longitude":72.26439,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Uyshunchek",
+    "gn:country_code":"UZ",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149363,
+    "gn:latitude":40.79568,
+    "gn:longitude":72.26439,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Uyshunchek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0439\u0448\u0443\u043d\u0447\u0435\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Uyshunchek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149363
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"fccd6468b2efcffe580a09566fc4cbe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276876783,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1276876783,
+    "wof:lastmodified":1537713418,
+    "wof:name":"Uyshunchek",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.26439,
+    40.79568,
+    72.26439,
+    40.79568
+],
+  "geometry": {"coordinates":[72.26439000000001,40.79568],"type":"Point"}
+}

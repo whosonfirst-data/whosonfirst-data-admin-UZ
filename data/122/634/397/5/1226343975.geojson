@@ -1,0 +1,65 @@
+{
+  "id": 1226343975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.00581,40.56239,71.00581,40.56239",
+    "geom:latitude":40.56239,
+    "geom:longitude":71.00581,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yau",
+    "gn:country_code":"UZ",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512321,
+    "gn:latitude":40.56239,
+    "gn:longitude":71.00581,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Yau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512321
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5ad96cef41f722cd616c1a3e9903f84e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226343975,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1226343975,
+    "wof:lastmodified":1536792328,
+    "wof:name":"Yau",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.00581,
+    40.56239,
+    71.00581,
+    40.56239
+],
+  "geometry": {"coordinates":[71.00581,40.56239],"type":"Point"}
+}

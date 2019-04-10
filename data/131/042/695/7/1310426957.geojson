@@ -1,0 +1,68 @@
+{
+  "id": 1310426957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.41667,40.4,65.41667,40.4",
+    "geom:latitude":40.4,
+    "geom:longitude":65.41667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Karakul'",
+    "gn:country_code":"UZ",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513774,
+    "gn:latitude":40.4,
+    "gn:longitude":65.41667,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Karakul\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Karakul\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513774
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"94343ae55523f49135c4ea6a53cfd472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310426957,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1310426957,
+    "wof:lastmodified":1537713339,
+    "wof:name":"Karakul'",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.41667,
+    40.4,
+    65.41667,
+    40.4
+],
+  "geometry": {"coordinates":[65.41667,40.4],"type":"Point"}
+}

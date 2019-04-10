@@ -1,0 +1,71 @@
+{
+  "id": 1209812909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.81363,41.35068,71.81363,41.35068",
+    "geom:latitude":41.35068,
+    "geom:longitude":71.81363,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bog`iston",
+    "gn:country_code":"UZ",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7579746,
+    "gn:latitude":41.35068,
+    "gn:longitude":71.81363,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Bog\u2018iston",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bog\u2018iston"
+    ],
+    "name:uzb_x_preferred":[
+        "M. Ulug\u2018bek jam. xo\u2018j. 3 bo\u2018l."
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7579746
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"694c9ce7ee2ecaba68bbba6724fc5320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209812909,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1209812909,
+    "wof:lastmodified":1537713395,
+    "wof:name":"Bog`iston",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.81363,
+    41.35068,
+    71.81363,
+    41.35068
+],
+  "geometry": {"coordinates":[71.81363,41.35068],"type":"Point"}
+}

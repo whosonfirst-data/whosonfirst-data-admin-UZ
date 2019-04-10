@@ -1,0 +1,69 @@
+{
+  "id": 1209936507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.53234,38.51727,66.53234,38.51727",
+    "geom:latitude":38.51727,
+    "geom:longitude":66.53234,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bazar-Tepe",
+    "gn:country_code":"UZ",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217727,
+    "gn:latitude":38.51727,
+    "gn:longitude":66.53234,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bazar-Tepe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bazor-Tepe",
+        "Bazar-Tepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217727
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a79b7a4ce3daf859557be62a9c429e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209936507,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1209936507,
+    "wof:lastmodified":1537713285,
+    "wof:name":"Bazar-Tepe",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.53234,
+    38.51727,
+    66.53234,
+    38.51727
+],
+  "geometry": {"coordinates":[66.53234,38.51727],"type":"Point"}
+}

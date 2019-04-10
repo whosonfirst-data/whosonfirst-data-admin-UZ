@@ -1,0 +1,65 @@
+{
+  "id": 1226460885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.43333,39.96667,64.43333,39.96667",
+    "geom:latitude":39.96667,
+    "geom:longitude":64.43333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Niyagan",
+    "gn:country_code":"UZ",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216398,
+    "gn:latitude":39.96667,
+    "gn:longitude":64.43333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Niyagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216398
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"403dc4e5cd2700a7bd5702c691e335c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226460885,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":1226460885,
+    "wof:lastmodified":1536621600,
+    "wof:name":"Niyagan",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.43333,
+    39.96667,
+    64.43333,
+    39.96667
+],
+  "geometry": {"coordinates":[64.43333,39.96667],"type":"Point"}
+}

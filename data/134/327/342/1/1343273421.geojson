@@ -1,0 +1,68 @@
+{
+  "id": 1343273421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.92764,40.49098,70.92764,40.49098",
+    "geom:latitude":40.49098,
+    "geom:longitude":70.92764,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sulaymon",
+    "gn:country_code":"UZ",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10649216,
+    "gn:latitude":40.49098,
+    "gn:longitude":70.92764,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Sulaymon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Sulaymon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10649216
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7f15a0f1513674bc373efe16cac881c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343273421,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1343273421,
+    "wof:lastmodified":1537713445,
+    "wof:name":"Sulaymon",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.92764,
+    40.49098,
+    70.92764,
+    40.49098
+],
+  "geometry": {"coordinates":[70.92764,40.49098],"type":"Point"}
+}

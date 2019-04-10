@@ -1,0 +1,71 @@
+{
+  "id": 1343754335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.64665,40.8999,71.64665,40.8999",
+    "geom:latitude":40.8999,
+    "geom:longitude":71.64665,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sho`rqishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7536289,
+    "gn:latitude":40.8999,
+    "gn:longitude":71.64665,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Sho\u2018rqishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sho\u2018rqishloq"
+    ],
+    "name:und_x_variant":[
+        "Shorkishlak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7536289
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1dc8ad305a7576f78d8b01d403e7141f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343754335,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1343754335,
+    "wof:lastmodified":1537713385,
+    "wof:name":"Sho`rqishloq",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.64665,
+    40.8999,
+    71.64665,
+    40.8999
+],
+  "geometry": {"coordinates":[71.64664999999999,40.8999],"type":"Point"}
+}

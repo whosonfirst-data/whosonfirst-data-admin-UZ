@@ -1,0 +1,65 @@
+{
+  "id": 1276137475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.45,39.73333,64.45,39.73333",
+    "geom:latitude":39.73333,
+    "geom:longitude":64.45,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Safidmay",
+    "gn:country_code":"UZ",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216284,
+    "gn:latitude":39.73333,
+    "gn:longitude":64.45,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Safidmay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216284
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"735de317ca9cb507479d267143315d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276137475,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":1276137475,
+    "wof:lastmodified":1537039404,
+    "wof:name":"Safidmay",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.45,
+    39.73333,
+    64.45,
+    39.73333
+],
+  "geometry": {"coordinates":[64.45,39.73333],"type":"Point"}
+}

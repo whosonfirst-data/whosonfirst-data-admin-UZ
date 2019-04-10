@@ -1,0 +1,68 @@
+{
+  "id": 1343450101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.55493,39.61328,65.55493,39.61328",
+    "geom:latitude":39.61328,
+    "geom:longitude":65.55493,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sahoba",
+    "gn:country_code":"UZ",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216255,
+    "gn:latitude":39.61328,
+    "gn:longitude":65.55493,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sahoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216255
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"86040c5cbf11f53f122acb97b9eccd2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343450101,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1343450101,
+    "wof:lastmodified":1537713248,
+    "wof:name":"Sahoba",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.55493,
+    39.61328,
+    65.55493,
+    39.61328
+],
+  "geometry": {"coordinates":[65.55493,39.61328],"type":"Point"}
+}

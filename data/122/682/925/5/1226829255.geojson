@@ -1,0 +1,75 @@
+{
+  "id": 1226829255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.05757,38.31462,67.05757,38.31462",
+    "geom:latitude":38.31462,
+    "geom:longitude":67.05757,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Pastki Machay",
+    "gn:country_code":"UZ",
+    "gn:dem":1348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216342,
+    "gn:latitude":38.31462,
+    "gn:longitude":67.05757,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Pastki Machay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urtamachay",
+        "Past-Machay",
+        "Pas-Machay",
+        "Pas-Machai",
+        "Pastky-Machay"
+    ],
+    "name:uzb_x_preferred":[
+        "Pastki Machay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216342
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f557107f21e1f44b437bbb1af9894c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226829255,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1226829255,
+    "wof:lastmodified":1537713250,
+    "wof:name":"Pastki Machay",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.05757,
+    38.31462,
+    67.05757,
+    38.31462
+],
+  "geometry": {"coordinates":[67.05757,38.31462],"type":"Point"}
+}

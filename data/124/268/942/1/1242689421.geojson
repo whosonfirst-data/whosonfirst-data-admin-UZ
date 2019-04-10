@@ -1,0 +1,72 @@
+{
+  "id": 1242689421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.49216,40.39622,70.49216,40.39622",
+    "geom:latitude":40.39622,
+    "geom:longitude":70.49216,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sovurtepa",
+    "gn:country_code":"UZ",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512867,
+    "gn:latitude":40.39622,
+    "gn:longitude":70.49216,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Sovurtepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sobertepa",
+        "Saurtepa"
+    ],
+    "name:uzb_x_preferred":[
+        "Sovurtepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512867
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"8f7fe084be899bc96d3d06f96f47ff1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242689421,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1242689421,
+    "wof:lastmodified":1537713313,
+    "wof:name":"Sovurtepa",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.49216,
+    40.39622,
+    70.49216,
+    40.39622
+],
+  "geometry": {"coordinates":[70.49216,40.39622],"type":"Point"}
+}

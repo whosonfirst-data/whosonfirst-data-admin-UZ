@@ -1,0 +1,72 @@
+{
+  "id": 1343548241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.27622,38.1857,68.27622,38.1857",
+    "geom:latitude":38.1857,
+    "geom:longitude":68.27622,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Jiydabuloq",
+    "gn:country_code":"UZ",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217377,
+    "gn:latitude":38.1857,
+    "gn:longitude":68.27622,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Jiydabuloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhana-Bulak",
+        "Dzhidabulak"
+    ],
+    "name:uzb_x_preferred":[
+        "Jiydabuloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217377
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7ea6ebbc5d7ee851985e44991c5f1e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343548241,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1343548241,
+    "wof:lastmodified":1537713276,
+    "wof:name":"Jiydabuloq",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.27622,
+    38.1857,
+    68.27622,
+    38.1857
+],
+  "geometry": {"coordinates":[68.27622,38.1857],"type":"Point"}
+}

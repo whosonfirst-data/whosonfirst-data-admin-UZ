@@ -1,0 +1,95 @@
+{
+  "id": 1125820501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.14528,41.18667,69.14528,41.18667",
+    "geom:latitude":41.18667,
+    "geom:longitude":69.14528,
+    "gn:gn_country":"UZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":14047,
+    "gn:population":14047,
+    "iso:country":"UZ",
+    "lbl:latitude":41.18667,
+    "lbl:longitude":69.14528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Urtaaul"
+    ],
+    "name:eng_x_preferred":[
+        "Urtaaul"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u0442\u0430\u0430\u0443\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Urtaaul"
+    ],
+    "name:unk_x_variant":[
+        "Urtaaul"
+    ],
+    "name:uzb_x_preferred":[
+        "O\u02bbrtaovul"
+    ],
+    "qs_pg:aaroncc":"UZ",
+    "qs_pg:gn_country":"UZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1512464,
+    "qs_pg:gn_pop":14047,
+    "qs_pg:name":"\u016crtaowul",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":133074,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512464,
+        "qs_pg:id":133074,
+        "wd:id":"Q4477307"
+    },
+    "wof:country":"UZ",
+    "wof:created":1497292027,
+    "wof:geomhash":"4e5e24c46d15150e6631c5523a5c4962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1125820501,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1125820501,
+    "wof:lastmodified":1514502125,
+    "wof:name":"\u016crtaowul",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:population":14047,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.14528,
+    41.18667,
+    69.14528,
+    41.18667
+],
+  "geometry": {"coordinates":[69.14528,41.18667],"type":"Point"}
+}

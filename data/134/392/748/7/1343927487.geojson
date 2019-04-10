@@ -1,0 +1,72 @@
+{
+  "id": 1343927487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.72405,40.60426,68.72405,40.60426",
+    "geom:latitude":40.60426,
+    "geom:longitude":68.72405,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Oqoltin",
+    "gn:country_code":"UZ",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514708,
+    "gn:latitude":40.60426,
+    "gn:longitude":68.72405,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Oqoltin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Solotaya Orda",
+        "Akaltyn"
+    ],
+    "name:uzb_x_preferred":[
+        "Oqoltin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514708
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6011b8601a1f669a369af1a36e56af6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343927487,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1343927487,
+    "wof:lastmodified":1537713365,
+    "wof:name":"Oqoltin",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.72405,
+    40.60426,
+    68.72405,
+    40.60426
+],
+  "geometry": {"coordinates":[68.72405000000001,40.60426],"type":"Point"}
+}

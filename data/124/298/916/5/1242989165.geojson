@@ -1,0 +1,69 @@
+{
+  "id": 1242989165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.23333,39.71667,67.23333,39.71667",
+    "geom:latitude":39.71667,
+    "geom:longitude":67.23333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kul'chaba",
+    "gn:country_code":"UZ",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216699,
+    "gn:latitude":39.71667,
+    "gn:longitude":67.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kul\u2019chaba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kul\u2019chabi",
+        "Kul\u2019chaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216699
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d7b5849d99208cbd28076f657666f6ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242989165,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1242989165,
+    "wof:lastmodified":1537713259,
+    "wof:name":"Kul'chaba",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.23333000000001,
+    39.71667,
+    67.23333000000001,
+    39.71667
+],
+  "geometry": {"coordinates":[67.23333000000001,39.71667],"type":"Point"}
+}

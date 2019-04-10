@@ -1,0 +1,64 @@
+{
+  "id": 1209098791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.69,41.48822,71.69,41.48822",
+    "geom:latitude":41.48822,
+    "geom:longitude":71.69,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ko`kyor",
+    "gn:country_code":"UZ",
+    "gn:dem":1311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7579737,
+    "gn:latitude":41.48822,
+    "gn:longitude":71.69,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Ko\u2018kyor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ko\u2018kyor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7579737
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"09f9e7421eeabdef767a88d611cdf977",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209098791
+        }
+    ],
+    "wof:id":1209098791,
+    "wof:lastmodified":1537713395,
+    "wof:name":"Ko`kyor",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.69,
+    41.48822,
+    71.69,
+    41.48822
+],
+  "geometry": {"coordinates":[71.69,41.48822],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343663625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.81228,40.54666,70.81228,40.54666",
+    "geom:latitude":40.54666,
+    "geom:longitude":70.81228,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Polvontosh",
+    "gn:country_code":"UZ",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10651244,
+    "gn:latitude":40.54666,
+    "gn:longitude":70.81228,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Polvontosh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Polvontosh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10651244
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"51c3e6f64d8185f82f9e9232a05022a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343663625,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1343663625,
+    "wof:lastmodified":1537713446,
+    "wof:name":"Polvontosh",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.81228,
+    40.54666,
+    70.81228,
+    40.54666
+],
+  "geometry": {"coordinates":[70.81228,40.54666],"type":"Point"}
+}

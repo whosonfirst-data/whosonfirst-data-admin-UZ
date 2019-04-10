@@ -1,0 +1,70 @@
+{
+  "id": 1327044623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.1,39.68333,67.1,39.68333",
+    "geom:latitude":39.68333,
+    "geom:longitude":67.1,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gadzhitalya",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217342,
+    "gn:latitude":39.68333,
+    "gn:longitude":67.1,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gadzhitalya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Godzhitalya",
+        "Gadzhitalya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217342
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2b9b951316228a8c976cb5e2e483f809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327044623,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1327044623,
+    "wof:lastmodified":1537713275,
+    "wof:name":"Gadzhitalya",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.1,
+    39.68333,
+    67.1,
+    39.68333
+],
+  "geometry": {"coordinates":[67.09999999999999,39.68333],"type":"Point"}
+}

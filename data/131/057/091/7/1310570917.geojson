@@ -1,0 +1,68 @@
+{
+  "id": 1310570917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.86286,40.65168,68.86286,40.65168",
+    "geom:latitude":40.65168,
+    "geom:longitude":68.86286,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Olg`abos",
+    "gn:country_code":"UZ",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242298,
+    "gn:latitude":40.65168,
+    "gn:longitude":68.86286,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Olg\u2018abos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Olg\u2018abos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242298
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0321c08b3749e01a0a9d5b53f5449d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310570917,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1310570917,
+    "wof:lastmodified":1537713491,
+    "wof:name":"Olg`abos",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.86286,
+    40.65168,
+    68.86286,
+    40.65168
+],
+  "geometry": {"coordinates":[68.86286,40.65168],"type":"Point"}
+}

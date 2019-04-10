@@ -1,0 +1,65 @@
+{
+  "id": 1343659421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.71667,39.13333,66.71667,39.13333",
+    "geom:latitude":39.13333,
+    "geom:longitude":66.71667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Safarcha",
+    "gn:country_code":"UZ",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216285,
+    "gn:latitude":39.13333,
+    "gn:longitude":66.71667,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Safarcha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216285
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5a8391cf610605f27a7cce2e1bfe21d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343659421,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1343659421,
+    "wof:lastmodified":1536956625,
+    "wof:name":"Safarcha",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.71667,
+    39.13333,
+    66.71667,
+    39.13333
+],
+  "geometry": {"coordinates":[66.71666999999999,39.13333],"type":"Point"}
+}

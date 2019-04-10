@@ -1,0 +1,71 @@
+{
+  "id": 1210009171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.59015,41.23871,71.59015,41.23871",
+    "geom:latitude":41.23871,
+    "geom:longitude":71.59015,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bomraxa",
+    "gn:country_code":"UZ",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580262,
+    "gn:latitude":41.23871,
+    "gn:longitude":71.59015,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Bomraxa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bamraxa"
+    ],
+    "name:uzb_x_preferred":[
+        "Bomraxa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580262
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"8876c48f80cfdbef5ae0f36f5873da4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1210009171,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1210009171,
+    "wof:lastmodified":1537713396,
+    "wof:name":"Bomraxa",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.59015,
+    41.23871,
+    71.59015,
+    41.23871
+],
+  "geometry": {"coordinates":[71.59014999999999,41.23871],"type":"Point"}
+}

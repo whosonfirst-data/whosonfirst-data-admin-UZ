@@ -1,0 +1,65 @@
+{
+  "id": 1293481741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.84141,40.03813,65.84141,40.03813",
+    "geom:latitude":40.03813,
+    "geom:longitude":65.84141,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Olchinobod",
+    "gn:country_code":"UZ",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7858622,
+    "gn:latitude":40.03813,
+    "gn:longitude":65.84141,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Olchinobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7858622
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d4400a672c63d1b06f9938da2842fabb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293481741,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1293481741,
+    "wof:lastmodified":1536795624,
+    "wof:name":"Olchinobod",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.84141,
+    40.03813,
+    65.84141,
+    40.03813
+],
+  "geometry": {"coordinates":[65.84141,40.03813],"type":"Point"}
+}

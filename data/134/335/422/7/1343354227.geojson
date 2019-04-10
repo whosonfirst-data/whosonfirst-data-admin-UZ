@@ -1,0 +1,68 @@
+{
+  "id": 1343354227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.45896,41.187,71.45896,41.187",
+    "geom:latitude":41.187,
+    "geom:longitude":71.45896,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Jiyda",
+    "gn:country_code":"UZ",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580275,
+    "gn:latitude":41.187,
+    "gn:longitude":71.45896,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Jiyda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jiyda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580275
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f364a5f94c7d2d2d940745e862b0d509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343354227,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1343354227,
+    "wof:lastmodified":1537713396,
+    "wof:name":"Jiyda",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.45896,
+    41.187,
+    71.45896,
+    41.187
+],
+  "geometry": {"coordinates":[71.45896,41.187],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209625433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.41667,39.45,67.41667,39.45",
+    "geom:latitude":39.45,
+    "geom:longitude":67.41667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mirza-Baglan",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216487,
+    "gn:latitude":39.45,
+    "gn:longitude":67.41667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mirza-Baglan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mirza-Boglon",
+        "Mirza-Baglan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216487
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"43ceec8bc7ed84d186b46171c7b86c6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209625433
+        }
+    ],
+    "wof:id":1209625433,
+    "wof:lastmodified":1537713253,
+    "wof:name":"Mirza-Baglan",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.41667,
+    39.45,
+    67.41667,
+    39.45
+],
+  "geometry": {"coordinates":[67.41667,39.45],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260261789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.96022,40.92019,68.96022,40.92019",
+    "geom:latitude":40.92019,
+    "geom:longitude":68.96022,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Xo`jaovul",
+    "gn:country_code":"UZ",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241830,
+    "gn:latitude":40.92019,
+    "gn:longitude":68.96022,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Xo\u2018jaovul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Xo\u2018jaovul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241830
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4b64d39fd8ab14d91947d100a0fe11b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260261789,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1260261789,
+    "wof:lastmodified":1537713486,
+    "wof:name":"Xo`jaovul",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.96021999999999,
+    40.92019000000001,
+    68.96021999999999,
+    40.92019000000001
+],
+  "geometry": {"coordinates":[68.96021999999999,40.92019000000001],"type":"Point"}
+}

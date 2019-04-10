@@ -1,0 +1,71 @@
+{
+  "id": 1277157413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.04847,38.41105,68.04847,38.41105",
+    "geom:latitude":38.41105,
+    "geom:longitude":68.04847,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"1 May",
+    "gn:country_code":"UZ",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11245791,
+    "gn:latitude":38.41105,
+    "gn:longitude":68.04847,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"1 May",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birinchi May"
+    ],
+    "name:uzb_x_preferred":[
+        "1 May"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11245791
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7237bf84a8355c38997e5bc5a7c676ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1277157413,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1277157413,
+    "wof:lastmodified":1537713500,
+    "wof:name":"1 May",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.04847,
+    38.41105,
+    68.04847,
+    38.41105
+],
+  "geometry": {"coordinates":[68.04846999999999,38.41105],"type":"Point"}
+}

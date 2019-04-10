@@ -1,0 +1,72 @@
+{
+  "id": 1276229733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.6075,40.40778,71.6075,40.40778",
+    "geom:latitude":40.40778,
+    "geom:longitude":71.6075,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Fayziobod",
+    "gn:country_code":"UZ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514023,
+    "gn:latitude":40.40778,
+    "gn:longitude":71.6075,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Fayziobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fayzy-Abad",
+        "Fayziabad"
+    ],
+    "name:uzb_x_preferred":[
+        "Fayziobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514023
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"14aa127bf067839023d2fd9c00bf04bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276229733,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1276229733,
+    "wof:lastmodified":1537713346,
+    "wof:name":"Fayziobod",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.6075,
+    40.40778,
+    71.6075,
+    40.40778
+],
+  "geometry": {"coordinates":[71.6075,40.40778],"type":"Point"}
+}

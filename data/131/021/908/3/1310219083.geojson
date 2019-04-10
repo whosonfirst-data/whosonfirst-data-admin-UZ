@@ -1,0 +1,68 @@
+{
+  "id": 1310219083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.99911,40.7603,71.99911,40.7603",
+    "geom:latitude":40.7603,
+    "geom:longitude":71.99911,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qumqayroq",
+    "gn:country_code":"UZ",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10972694,
+    "gn:latitude":40.7603,
+    "gn:longitude":71.99911,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Qumqayroq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Qumqayroq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10972694
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d2888fa346ec6b22d235eeb6540fff42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310219083,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1310219083,
+    "wof:lastmodified":1537713452,
+    "wof:name":"Qumqayroq",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.99911,
+    40.7603,
+    71.99911,
+    40.7603
+],
+  "geometry": {"coordinates":[71.99911,40.7603],"type":"Point"}
+}

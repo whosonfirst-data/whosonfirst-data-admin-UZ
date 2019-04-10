@@ -1,0 +1,75 @@
+{
+  "id": 1327141843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.07097,40.49506,72.07097,40.49506",
+    "geom:latitude":40.49506,
+    "geom:longitude":72.07097,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tolmazor",
+    "gn:country_code":"UZ",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512682,
+    "gn:latitude":40.49506,
+    "gn:longitude":72.07097,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Tolmazor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u043c\u0430\u0437\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Saykel\u2019dy",
+        "Talmazar"
+    ],
+    "name:uzb_x_preferred":[
+        "Tolmazor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512682
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9e8c188de630e0b43ed7accbd372dbb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327141843,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1327141843,
+    "wof:lastmodified":1537713309,
+    "wof:name":"Tolmazor",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.07096999999997,
+    40.49506,
+    72.07096999999997,
+    40.49506
+],
+  "geometry": {"coordinates":[72.07096999999997,40.49506],"type":"Point"}
+}

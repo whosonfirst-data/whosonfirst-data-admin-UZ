@@ -1,0 +1,68 @@
+{
+  "id": 1360070787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.51774,39.04046,65.51774,39.04046",
+    "geom:latitude":39.04046,
+    "geom:longitude":65.51774,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Halimesaboy",
+    "gn:country_code":"UZ",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217199,
+    "gn:latitude":39.04046,
+    "gn:longitude":65.51774,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Halimesaboy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Issabay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217199
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"54ba3a42f9840efa44c779cc349abacc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360070787,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1360070787,
+    "wof:lastmodified":1537713272,
+    "wof:name":"Halimesaboy",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.51774,
+    39.04046,
+    65.51774,
+    39.04046
+],
+  "geometry": {"coordinates":[65.51774,39.04046],"type":"Point"}
+}

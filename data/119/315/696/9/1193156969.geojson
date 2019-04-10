@@ -1,0 +1,65 @@
+{
+  "id": 1193156969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.28003,38.60757,66.28003,38.60757",
+    "geom:latitude":38.60757,
+    "geom:longitude":66.28003,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Qorqumdi",
+    "gn:country_code":"UZ",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7784740,
+    "gn:latitude":38.60757,
+    "gn:longitude":66.28003,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Qorqumdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7784740
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"51eb0ef5d0a2f7793019f5ae5bf44887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1193156969,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1193156969,
+    "wof:lastmodified":1536372209,
+    "wof:name":"Qorqumdi",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.28003000000001,
+    38.60757,
+    66.28003000000001,
+    38.60757
+],
+  "geometry": {"coordinates":[66.28003000000001,38.60757],"type":"Point"}
+}

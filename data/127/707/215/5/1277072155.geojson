@@ -1,0 +1,68 @@
+{
+  "id": 1277072155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.36687,40.97105,71.36687,40.97105",
+    "geom:latitude":40.97105,
+    "geom:longitude":71.36687,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Shohidon",
+    "gn:country_code":"UZ",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7537361,
+    "gn:latitude":40.97105,
+    "gn:longitude":71.36687,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shohidon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shohidon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7537361
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b782becd08b5a158cba7edaf2001b7d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1277072155,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1277072155,
+    "wof:lastmodified":1537713388,
+    "wof:name":"Shohidon",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.36686999999998,
+    40.97105,
+    71.36686999999998,
+    40.97105
+],
+  "geometry": {"coordinates":[71.36686999999998,40.97105],"type":"Point"}
+}

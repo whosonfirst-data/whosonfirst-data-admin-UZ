@@ -1,0 +1,65 @@
+{
+  "id": 1225964261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.42191,39.16201,66.42191,39.16201",
+    "geom:latitude":39.16201,
+    "geom:longitude":66.42191,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Madaniyat",
+    "gn:country_code":"UZ",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785387,
+    "gn:latitude":39.16201,
+    "gn:longitude":66.42191,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Madaniyat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785387
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c957697b726399257087e20abf82f87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1225964261,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1225964261,
+    "wof:lastmodified":1536841596,
+    "wof:name":"Madaniyat",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.42191,
+    39.16201,
+    66.42191,
+    39.16201
+],
+  "geometry": {"coordinates":[66.42191,39.16201],"type":"Point"}
+}

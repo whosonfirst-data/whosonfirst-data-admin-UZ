@@ -1,0 +1,71 @@
+{
+  "id": 1293887777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.87838,40.89118,71.87838,40.89118",
+    "geom:latitude":40.89118,
+    "geom:longitude":71.87838,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mirzaboshichek",
+    "gn:country_code":"UZ",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7528104,
+    "gn:latitude":40.89118,
+    "gn:longitude":71.87838,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Mirzaboshichek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mirzaboshichek"
+    ],
+    "name:uzb_x_preferred":[
+        "Mirzaboshlik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7528104
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e7c9d443fc5a63318d008e290c51598f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293887777,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1293887777,
+    "wof:lastmodified":1537713377,
+    "wof:name":"Mirzaboshichek",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.87838,
+    40.89118,
+    71.87838,
+    40.89118
+],
+  "geometry": {"coordinates":[71.87838000000001,40.89118],"type":"Point"}
+}

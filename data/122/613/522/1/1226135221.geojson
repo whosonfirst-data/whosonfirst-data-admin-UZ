@@ -1,0 +1,71 @@
+{
+  "id": 1226135221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.91857,40.99575,71.91857,40.99575",
+    "geom:latitude":40.99575,
+    "geom:longitude":71.91857,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Maydon",
+    "gn:country_code":"UZ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7529341,
+    "gn:latitude":40.99575,
+    "gn:longitude":71.91857,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Maydon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maydon"
+    ],
+    "name:und_x_variant":[
+        "Aral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7529341
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f8035958ceb91c300557309bc8687742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226135221,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1226135221,
+    "wof:lastmodified":1537713383,
+    "wof:name":"Maydon",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.91856999999997,
+    40.99575,
+    71.91856999999997,
+    40.99575
+],
+  "geometry": {"coordinates":[71.91856999999997,40.99575],"type":"Point"}
+}

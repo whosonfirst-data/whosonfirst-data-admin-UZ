@@ -1,0 +1,71 @@
+{
+  "id": 1193030697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.86667,39.81667,66.86667,39.81667",
+    "geom:latitude":39.81667,
+    "geom:longitude":66.86667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kumushkent",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216678,
+    "gn:latitude":39.81667,
+    "gn:longitude":66.86667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kumushkent",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katta-Kumyshkent",
+        "Katta-Kumushkent",
+        "Kumushkent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216678
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"139da742e190e3a3c12777b70e16401a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1193030697,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1193030697,
+    "wof:lastmodified":1537713258,
+    "wof:name":"Kumushkent",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.86667,
+    39.81667,
+    66.86667,
+    39.81667
+],
+  "geometry": {"coordinates":[66.86667,39.81667],"type":"Point"}
+}

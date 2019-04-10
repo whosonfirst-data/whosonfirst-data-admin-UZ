@@ -1,0 +1,65 @@
+{
+  "id": 1243527027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.63076,40.25262,68.63076,40.25262",
+    "geom:latitude":40.25262,
+    "geom:longitude":68.63076,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Guzal",
+    "gn:country_code":"UZ",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11247263,
+    "gn:latitude":40.25262,
+    "gn:longitude":68.63076,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Guzal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247263
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"196f5c3f102416725ca6e2b012165bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243527027,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1243527027,
+    "wof:lastmodified":1536689567,
+    "wof:name":"Guzal",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.63076,
+    40.25262,
+    68.63076,
+    40.25262
+],
+  "geometry": {"coordinates":[68.63076,40.25262],"type":"Point"}
+}

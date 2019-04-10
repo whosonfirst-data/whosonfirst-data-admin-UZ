@@ -1,0 +1,68 @@
+{
+  "id": 1343865949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.70925,40.62521,70.70925,40.62521",
+    "geom:latitude":40.62521,
+    "geom:longitude":70.70925,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shakurxo`ja",
+    "gn:country_code":"UZ",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646090,
+    "gn:latitude":40.62521,
+    "gn:longitude":70.70925,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Shakurxo\u2018ja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Shakurxo\u2018ja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646090
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9445d867375195af7e31f05f90efea01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343865949,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1343865949,
+    "wof:lastmodified":1537713440,
+    "wof:name":"Shakurxo`ja",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.70925,
+    40.62521,
+    70.70925,
+    40.62521
+],
+  "geometry": {"coordinates":[70.70925,40.62521],"type":"Point"}
+}

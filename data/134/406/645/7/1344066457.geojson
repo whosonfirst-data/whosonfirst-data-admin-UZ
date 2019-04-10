@@ -1,0 +1,68 @@
+{
+  "id": 1344066457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.30849,40.83257,72.30849,40.83257",
+    "geom:latitude":40.83257,
+    "geom:longitude":72.30849,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Khodzha",
+    "gn:country_code":"UZ",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149402,
+    "gn:latitude":40.83257,
+    "gn:longitude":72.30849,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Khodzha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0434\u0436\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149402
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"24db90434c9b61e117539dbc6e9184e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344066457,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1344066457,
+    "wof:lastmodified":1537713420,
+    "wof:name":"Khodzha",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.30849,
+    40.83257,
+    72.30849,
+    40.83257
+],
+  "geometry": {"coordinates":[72.30849000000001,40.83257],"type":"Point"}
+}

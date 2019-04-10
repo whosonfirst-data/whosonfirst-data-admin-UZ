@@ -1,0 +1,68 @@
+{
+  "id": 1226023815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.19392,40.37269,69.19392,40.37269",
+    "geom:latitude":40.37269,
+    "geom:longitude":69.19392,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Uyuvli",
+    "gn:country_code":"UZ",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242014,
+    "gn:latitude":40.37269,
+    "gn:longitude":69.19392,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Uyuvli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Uyuvli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242014
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"02ffdb1ccdee01adc860daa7d92614db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226023815,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1226023815,
+    "wof:lastmodified":1537713490,
+    "wof:name":"Uyuvli",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.19391999999999,
+    40.37269000000001,
+    69.19391999999999,
+    40.37269000000001
+],
+  "geometry": {"coordinates":[69.19391999999999,40.37269000000001],"type":"Point"}
+}

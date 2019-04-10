@@ -1,0 +1,68 @@
+{
+  "id": 1209885791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.04716,40.37288,69.04716,40.37288",
+    "geom:latitude":40.37288,
+    "geom:longitude":69.04716,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Novqishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242504,
+    "gn:latitude":40.37288,
+    "gn:longitude":69.04716,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Novqishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Novqishloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242504
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"12e35cbced3ea55978662442355a7efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209885791,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1209885791,
+    "wof:lastmodified":1537713496,
+    "wof:name":"Novqishloq",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.04715999999999,
+    40.37288,
+    69.04715999999999,
+    40.37288
+],
+  "geometry": {"coordinates":[69.04715999999999,40.37288],"type":"Point"}
+}

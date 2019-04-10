@@ -1,0 +1,71 @@
+{
+  "id": 1259795509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.02282,40.55443,71.02282,40.55443",
+    "geom:latitude":40.55443,
+    "geom:longitude":71.02282,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Xasanqora",
+    "gn:country_code":"UZ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11057380,
+    "gn:latitude":40.55443,
+    "gn:longitude":71.02282,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Xasanqora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khasankara"
+    ],
+    "name:uzb_x_preferred":[
+        "Xasanqora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11057380
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4195fb30b403d8aea82512d5d0767c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259795509,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1259795509,
+    "wof:lastmodified":1537713472,
+    "wof:name":"Xasanqora",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.02282,
+    40.55443,
+    71.02282,
+    40.55443
+],
+  "geometry": {"coordinates":[71.02282,40.55443],"type":"Point"}
+}

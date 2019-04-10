@@ -1,0 +1,74 @@
+{
+  "id": 1343671319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.51121,40.78563,72.51121,40.78563",
+    "geom:latitude":40.78563,
+    "geom:longitude":72.51121,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Otchopar",
+    "gn:country_code":"UZ",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149609,
+    "gn:latitude":40.78563,
+    "gn:longitude":72.51121,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Otchopar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u0447\u0430\u043f\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Atchapar"
+    ],
+    "name:uzb_x_preferred":[
+        "Otchopar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149609
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f7a620fca3a2ac9a06c3cd7979c4d503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343671319,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1343671319,
+    "wof:lastmodified":1537713424,
+    "wof:name":"Otchopar",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.51120999999998,
+    40.78563,
+    72.51120999999998,
+    40.78563
+],
+  "geometry": {"coordinates":[72.51120999999998,40.78563],"type":"Point"}
+}

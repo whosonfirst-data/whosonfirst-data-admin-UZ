@@ -1,0 +1,68 @@
+{
+  "id": 1226527775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.55985,38.88863,66.55985,38.88863",
+    "geom:latitude":38.88863,
+    "geom:longitude":66.55985,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Badaxshon",
+    "gn:country_code":"UZ",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217695,
+    "gn:latitude":38.88863,
+    "gn:longitude":66.55985,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Badaxshon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Besh-Kutan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217695
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"09926a57750a3d206ce468c9c39ef0b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226527775,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1226527775,
+    "wof:lastmodified":1537713284,
+    "wof:name":"Badaxshon",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.55985,
+    38.88863,
+    66.55985,
+    38.88863
+],
+  "geometry": {"coordinates":[66.55985,38.88863],"type":"Point"}
+}

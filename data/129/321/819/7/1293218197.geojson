@@ -1,0 +1,74 @@
+{
+  "id": 1293218197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.88969,40.77026,72.88969,40.77026",
+    "geom:latitude":40.77026,
+    "geom:longitude":72.88969,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chimyon",
+    "gn:country_code":"UZ",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163626,
+    "gn:latitude":40.77026,
+    "gn:longitude":72.88969,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Chimyon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043c\u0438\u043e\u043d"
+    ],
+    "name:und_x_variant":[
+        "Chimion"
+    ],
+    "name:uzb_x_preferred":[
+        "Chimyon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163626
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b35fc208fa6de9e76f798d765dfe8ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293218197,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1293218197,
+    "wof:lastmodified":1537713431,
+    "wof:name":"Chimyon",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.88969,
+    40.77026,
+    72.88969,
+    40.77026
+],
+  "geometry": {"coordinates":[72.88969,40.77026],"type":"Point"}
+}

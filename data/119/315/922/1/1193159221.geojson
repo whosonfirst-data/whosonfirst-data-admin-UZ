@@ -1,0 +1,71 @@
+{
+  "id": 1193159221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.40047,40.8345,71.40047,40.8345",
+    "geom:latitude":40.8345,
+    "geom:longitude":71.40047,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mehnatobod",
+    "gn:country_code":"UZ",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513218,
+    "gn:latitude":40.8345,
+    "gn:longitude":71.40047,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Mehnatobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mekhnatabad"
+    ],
+    "name:uzb_x_preferred":[
+        "Gigant"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513218
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"632829a602873d43a95d9d16666a2c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1193159221,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1193159221,
+    "wof:lastmodified":1537713322,
+    "wof:name":"Mehnatobod",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.40047,
+    40.8345,
+    71.40047,
+    40.8345
+],
+  "geometry": {"coordinates":[71.40047,40.8345],"type":"Point"}
+}

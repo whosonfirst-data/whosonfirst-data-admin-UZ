@@ -1,0 +1,68 @@
+{
+  "id": 1209898343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.79899,40.33629,68.79899,40.33629",
+    "geom:latitude":40.33629,
+    "geom:longitude":68.79899,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Ribxoz",
+    "gn:country_code":"UZ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242492,
+    "gn:latitude":40.33629,
+    "gn:longitude":68.79899,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ribxoz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Ribxoz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242492
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c883b59e7a49eb54437bbad772b34812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209898343,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1209898343,
+    "wof:lastmodified":1537713496,
+    "wof:name":"Ribxoz",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.79899,
+    40.33629000000001,
+    68.79899,
+    40.33629000000001
+],
+  "geometry": {"coordinates":[68.79899,40.33629000000001],"type":"Point"}
+}

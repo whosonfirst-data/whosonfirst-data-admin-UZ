@@ -1,0 +1,68 @@
+{
+  "id": 1209918075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.66465,40.74174,72.66465,40.74174",
+    "geom:latitude":40.74174,
+    "geom:longitude":72.66465,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Do`stlik",
+    "gn:country_code":"UZ",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229692,
+    "gn:latitude":40.74174,
+    "gn:longitude":72.66465,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Do\u2018stlik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Do\u2018stlik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229692
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f9e4c011349d7e91c0b915ef62660a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209918075,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1209918075,
+    "wof:lastmodified":1537713481,
+    "wof:name":"Do`stlik",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.66465,
+    40.74174,
+    72.66465,
+    40.74174
+],
+  "geometry": {"coordinates":[72.66464999999999,40.74174],"type":"Point"}
+}

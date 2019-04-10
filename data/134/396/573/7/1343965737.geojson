@@ -1,0 +1,68 @@
+{
+  "id": 1343965737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.69987,40.4468,71.69987,40.4468",
+    "geom:latitude":40.4468,
+    "geom:longitude":71.69987,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Birinchi Eshonguzar",
+    "gn:country_code":"UZ",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10975116,
+    "gn:latitude":40.4468,
+    "gn:longitude":71.69987,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Birinchi Eshonguzar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Birinchi Eshonguzar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10975116
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"93896acbb777521eda74af9a8b138615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343965737,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1343965737,
+    "wof:lastmodified":1537713461,
+    "wof:name":"Birinchi Eshonguzar",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.69986999999998,
+    40.4468,
+    71.69986999999998,
+    40.4468
+],
+  "geometry": {"coordinates":[71.69986999999998,40.4468],"type":"Point"}
+}

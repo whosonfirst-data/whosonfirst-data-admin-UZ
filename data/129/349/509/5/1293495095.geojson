@@ -1,0 +1,68 @@
+{
+  "id": 1293495095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.78685,40.48135,70.78685,40.48135",
+    "geom:latitude":40.48135,
+    "geom:longitude":70.78685,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chirkay",
+    "gn:country_code":"UZ",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514209,
+    "gn:latitude":40.48135,
+    "gn:longitude":70.78685,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Chirkay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Chirkay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514209
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"01a01dc91b95f3cbfcf5628ef676eee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293495095,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1293495095,
+    "wof:lastmodified":1537713352,
+    "wof:name":"Chirkay",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.78685,
+    40.48135,
+    70.78685,
+    40.48135
+],
+  "geometry": {"coordinates":[70.78685,40.48135],"type":"Point"}
+}

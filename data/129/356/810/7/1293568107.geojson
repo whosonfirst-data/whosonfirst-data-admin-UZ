@@ -1,0 +1,65 @@
+{
+  "id": 1293568107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.78333,41.53333,69.78333,41.53333",
+    "geom:latitude":41.53333,
+    "geom:longitude":69.78333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Alseid",
+    "gn:country_code":"UZ",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514617,
+    "gn:latitude":41.53333,
+    "gn:longitude":69.78333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Alseid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514617
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"3fcb3001e7fc9aa08ff273a1309b065b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293568107,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1293568107,
+    "wof:lastmodified":1536670882,
+    "wof:name":"Alseid",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.78333,
+    41.53333,
+    69.78333,
+    41.53333
+],
+  "geometry": {"coordinates":[69.78333000000001,41.53333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343377259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.07941,40.33224,69.07941,40.33224",
+    "geom:latitude":40.33224,
+    "geom:longitude":69.07941,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nikol'skoye",
+    "gn:country_code":"UZ",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513108,
+    "gn:latitude":40.33224,
+    "gn:longitude":69.07941,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Nikol\u2019skoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Nikol\u2019skoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513108
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"631593e27b99cdd77ec9a29ce1cc284c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343377259,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1343377259,
+    "wof:lastmodified":1537713319,
+    "wof:name":"Nikol'skoye",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.07941,
+    40.33224000000001,
+    69.07941,
+    40.33224000000001
+],
+  "geometry": {"coordinates":[69.07941,40.33224000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276885217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.10604,40.50716,72.10604,40.50716",
+    "geom:latitude":40.50716,
+    "geom:longitude":72.10604,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Uraboshi",
+    "gn:country_code":"UZ",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140532,
+    "gn:latitude":40.50716,
+    "gn:longitude":72.10604,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Uraboshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u0430\u0431\u0430\u0448\u0438"
+    ],
+    "name:und_x_variant":[
+        "Urabashi"
+    ],
+    "name:uzb_x_preferred":[
+        "Uraboshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140532
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d298df39bc0a7dcb10ad277ee111ae3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276885217,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1276885217,
+    "wof:lastmodified":1537713414,
+    "wof:name":"Uraboshi",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.10604000000002,
+    40.50716,
+    72.10604000000002,
+    40.50716
+],
+  "geometry": {"coordinates":[72.10604000000002,40.50716],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243285859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.90542,41.03502,70.90542,41.03502",
+    "geom:latitude":41.03502,
+    "geom:longitude":70.90542,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Chorkesar",
+    "gn:country_code":"UZ",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7577884,
+    "gn:latitude":41.03502,
+    "gn:longitude":70.90542,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chorkesar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chorkesar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577884
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2828561829ee4932d3575c0cf9ec6994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243285859,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1243285859,
+    "wof:lastmodified":1537713393,
+    "wof:name":"Chorkesar",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.90541999999998,
+    41.03502,
+    70.90541999999998,
+    41.03502
+],
+  "geometry": {"coordinates":[70.90541999999998,41.03502],"type":"Point"}
+}

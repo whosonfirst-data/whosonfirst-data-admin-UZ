@@ -1,0 +1,74 @@
+{
+  "id": 1293890973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.06121,40.51448,72.06121,40.51448",
+    "geom:latitude":40.51448,
+    "geom:longitude":72.06121,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qo`rg`oncha",
+    "gn:country_code":"UZ",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140526,
+    "gn:latitude":40.51448,
+    "gn:longitude":72.06121,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Qo\u2018rg\u2018oncha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0433\u0430\u043d\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kurgancha"
+    ],
+    "name:uzb_x_preferred":[
+        "Qo\u2018rg\u2018oncha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140526
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"778e464058fc26802b3a4aaeb8d74e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293890973,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1293890973,
+    "wof:lastmodified":1537713414,
+    "wof:name":"Qo`rg`oncha",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.06121,
+    40.51448,
+    72.06121,
+    40.51448
+],
+  "geometry": {"coordinates":[72.06121,40.51448],"type":"Point"}
+}

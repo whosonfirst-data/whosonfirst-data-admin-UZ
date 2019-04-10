@@ -1,0 +1,68 @@
+{
+  "id": 1276573823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.91232,40.79028,70.91232,40.79028",
+    "geom:latitude":40.79028,
+    "geom:longitude":70.91232,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tikkaariq",
+    "gn:country_code":"UZ",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7548001,
+    "gn:latitude":40.79028,
+    "gn:longitude":70.91232,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tikkaariq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tikkaariq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7548001
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f382a67063280786cb5f52b364c58da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276573823,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1276573823,
+    "wof:lastmodified":1537713390,
+    "wof:name":"Tikkaariq",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.91232,
+    40.79028,
+    70.91232,
+    40.79028
+],
+  "geometry": {"coordinates":[70.91231999999999,40.79028],"type":"Point"}
+}

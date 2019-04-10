@@ -1,0 +1,71 @@
+{
+  "id": 1310603065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.66682,40.50967,71.66682,40.50967",
+    "geom:latitude":40.50967,
+    "geom:longitude":71.66682,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qoraquchi",
+    "gn:country_code":"UZ",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10974862,
+    "gn:latitude":40.50967,
+    "gn:longitude":71.66682,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Qoraquchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karakuchi"
+    ],
+    "name:uzb_x_preferred":[
+        "Qoraquchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10974862
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"919be6588220f05313ae7889351e0beb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310603065,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1310603065,
+    "wof:lastmodified":1537713459,
+    "wof:name":"Qoraquchi",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.66682,
+    40.50967,
+    71.66682,
+    40.50967
+],
+  "geometry": {"coordinates":[71.66682,40.50967],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1225936415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.12456,41.05947,72.12456,41.05947",
+    "geom:latitude":41.05947,
+    "geom:longitude":72.12456,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Uchko`prik",
+    "gn:country_code":"UZ",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524771,
+    "gn:latitude":41.05947,
+    "gn:longitude":72.12456,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Uchko\u2018prik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Uchko\u2018prik"
+    ],
+    "name:und_x_variant":[
+        "Uchkuprik"
+    ],
+    "name:uzb_x_preferred":[
+        "Uchko\u2018prik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524771
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6ff7f71ec875b0e9f17ea83da9a8d880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1225936415,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1225936415,
+    "wof:lastmodified":1537713376,
+    "wof:name":"Uchko`prik",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.12456,
+    41.05947000000001,
+    72.12456,
+    41.05947000000001
+],
+  "geometry": {"coordinates":[72.12456,41.05947000000001],"type":"Point"}
+}

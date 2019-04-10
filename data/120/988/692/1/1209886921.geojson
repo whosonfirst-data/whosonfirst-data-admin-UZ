@@ -1,0 +1,63 @@
+{
+  "id": 1209886921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.995,41.21056,68.995,41.21056",
+    "geom:latitude":41.21056,
+    "geom:longitude":68.995,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Navoi",
+    "gn:country_code":"UZ",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537002,
+    "gn:latitude":41.21056,
+    "gn:longitude":68.995,
+    "gn:modification_date":"2013-03-30",
+    "gn:name":"Navoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537002
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"44b2375eab6ca0fbc1abeed7d2ac3a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209886921,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209886921,
+    "wof:lastmodified":1536392508,
+    "wof:name":"Navoi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.995,
+    41.21056,
+    68.995,
+    41.21056
+],
+  "geometry": {"coordinates":[68.995,41.21056],"type":"Point"}
+}

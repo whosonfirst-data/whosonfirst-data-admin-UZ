@@ -1,0 +1,65 @@
+{
+  "id": 1193108107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.05,40.71667,69.05,40.71667",
+    "geom:latitude":40.71667,
+    "geom:longitude":69.05,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Novo-Dmitriyevskiy",
+    "gn:country_code":"UZ",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513095,
+    "gn:latitude":40.71667,
+    "gn:longitude":69.05,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Novo-Dmitriyevskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513095
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"3fd2cc92843fa30f4ed035e237947687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1193108107,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1193108107,
+    "wof:lastmodified":1536376261,
+    "wof:name":"Novo-Dmitriyevskiy",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.05,
+    40.71667,
+    69.05,
+    40.71667
+],
+  "geometry": {"coordinates":[69.05,40.71667],"type":"Point"}
+}

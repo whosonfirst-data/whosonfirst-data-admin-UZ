@@ -1,0 +1,72 @@
+{
+  "id": 1343854185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.84596,43.05207,58.84596,43.05207",
+    "geom:latitude":43.05207,
+    "geom:longitude":58.84596,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Qo`ng`irot Shahri",
+    "gn:country_code":"UZ",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":829955,
+    "gn:latitude":43.05207,
+    "gn:longitude":58.84596,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Qo\u2018ng\u2018irot Shahri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorod Kungrad",
+        "Q\u016dnghirot Shahri"
+    ],
+    "name:uzb_x_preferred":[
+        "Qo\u2018ng\u2018irot Shahri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829955
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a1a928deaa75002a5c663b23de567717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343854185,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1343854185,
+    "wof:lastmodified":1537713232,
+    "wof:name":"Qo`ng`irot Shahri",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.84596,
+    43.05207,
+    58.84596,
+    43.05207
+],
+  "geometry": {"coordinates":[58.84596,43.05207],"type":"Point"}
+}

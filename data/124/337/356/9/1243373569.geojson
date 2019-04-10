@@ -1,0 +1,70 @@
+{
+  "id": 1243373569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.38333,41.93333,60.38333,41.93333",
+    "geom:latitude":41.93333,
+    "geom:longitude":60.38333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kommunizm",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513495,
+    "gn:latitude":41.93333,
+    "gn:longitude":60.38333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kommunizm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kungrad",
+        "Kommunizm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513495
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"dfa2dfd06f4411eea30f7a97699ed643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243373569,
+            "region_id":85680377
+        }
+    ],
+    "wof:id":1243373569,
+    "wof:lastmodified":1537713330,
+    "wof:name":"Kommunizm",
+    "wof:parent_id":85680377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.38333000000001,
+    41.93333,
+    60.38333000000001,
+    41.93333
+],
+  "geometry": {"coordinates":[60.38333000000001,41.93333],"type":"Point"}
+}

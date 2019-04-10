@@ -1,0 +1,70 @@
+{
+  "id": 1209115707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.14178,40.68212,72.14178,40.68212",
+    "geom:latitude":40.68212,
+    "geom:longitude":72.14178,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Poloson",
+    "gn:country_code":"UZ",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149760,
+    "gn:latitude":40.68212,
+    "gn:longitude":72.14178,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Poloson",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u0430\u0441\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Palasan"
+    ],
+    "name:uzb_x_preferred":[
+        "Poloson"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149760
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7690989200f113d683504826bb9832ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209115707
+        }
+    ],
+    "wof:id":1209115707,
+    "wof:lastmodified":1537713427,
+    "wof:name":"Poloson",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.14178000000003,
+    40.68212,
+    72.14178000000003,
+    40.68212
+],
+  "geometry": {"coordinates":[72.14178000000003,40.68212],"type":"Point"}
+}

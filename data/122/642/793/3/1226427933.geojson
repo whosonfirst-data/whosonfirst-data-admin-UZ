@@ -1,0 +1,68 @@
+{
+  "id": 1226427933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.81229,38.73407,65.81229,38.73407",
+    "geom:latitude":38.73407,
+    "geom:longitude":65.81229,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ribxoz",
+    "gn:country_code":"UZ",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7630323,
+    "gn:latitude":38.73407,
+    "gn:longitude":65.81229,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ribxoz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ribxoz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7630323
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ff19dc4466f3306f946ba0a26d8c4224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226427933,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1226427933,
+    "wof:lastmodified":1537713401,
+    "wof:name":"Ribxoz",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.81229,
+    38.73407,
+    65.81229,
+    38.73407
+],
+  "geometry": {"coordinates":[65.81229,38.73407],"type":"Point"}
+}

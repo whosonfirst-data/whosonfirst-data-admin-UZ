@@ -1,0 +1,65 @@
+{
+  "id": 1343653321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.63333,41.43333,65.63333,41.43333",
+    "geom:latitude":41.43333,
+    "geom:longitude":65.63333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Begodzhan",
+    "gn:country_code":"UZ",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525551,
+    "gn:latitude":41.43333,
+    "gn:longitude":65.63333,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Begodzhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525551
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"933d3cc835a1320f11764159f8b4be24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343653321,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1343653321,
+    "wof:lastmodified":1536965167,
+    "wof:name":"Begodzhan",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.63333,
+    41.43333,
+    65.63333,
+    41.43333
+],
+  "geometry": {"coordinates":[65.63333,41.43333],"type":"Point"}
+}

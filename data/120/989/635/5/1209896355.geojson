@@ -1,0 +1,68 @@
+{
+  "id": 1209896355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.99554,38.40709,67.99554,38.40709",
+    "geom:latitude":38.40709,
+    "geom:longitude":67.99554,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Tel'pak-Chinar",
+    "gn:country_code":"UZ",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215966,
+    "gn:latitude":38.40709,
+    "gn:longitude":67.99554,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Tel\u2019pak-Chinar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Tel\u2019pak-Chinar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215966
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2a48d9fe4e9771258648c523c48240b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209896355,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1209896355,
+    "wof:lastmodified":1537713240,
+    "wof:name":"Tel'pak-Chinar",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.99554,
+    38.40709,
+    67.99554,
+    38.40709
+],
+  "geometry": {"coordinates":[67.99554000000001,38.40709],"type":"Point"}
+}

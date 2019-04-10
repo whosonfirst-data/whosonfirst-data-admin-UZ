@@ -1,0 +1,74 @@
+{
+  "id": 1243438709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.01701,43.02207,60.01701,43.02207",
+    "geom:latitude":43.02207,
+    "geom:longitude":60.01701,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Qorao`zak",
+    "gn:country_code":"UZ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1513733,
+    "gn:latitude":43.02207,
+    "gn:longitude":60.01701,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Qorao\u2018zak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karauzak",
+        "Karauzyak",
+        "Qora\u016dzak"
+    ],
+    "name:uzb_x_preferred":[
+        "Qorao\u2018zak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513733,
+        "wk:page":"Qorao%E2%80%98zak"
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"dbe5bc6991ab5f472fe01b27d080896b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243438709,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1243438709,
+    "wof:lastmodified":1537713338,
+    "wof:name":"Qorao`zak",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.01701,
+    43.02207,
+    60.01701,
+    43.02207
+],
+  "geometry": {"coordinates":[60.01701,43.02207],"type":"Point"}
+}

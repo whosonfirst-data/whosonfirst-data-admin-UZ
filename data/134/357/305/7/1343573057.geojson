@@ -1,0 +1,71 @@
+{
+  "id": 1343573057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.70203,40.51204,71.70203,40.51204",
+    "geom:latitude":40.51204,
+    "geom:longitude":71.70203,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shahar",
+    "gn:country_code":"UZ",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10974865,
+    "gn:latitude":40.51204,
+    "gn:longitude":71.70203,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Shahar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shakhar"
+    ],
+    "name:uzb_x_preferred":[
+        "Shahar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10974865
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"728000507e010563481a554cb6e67f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343573057,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1343573057,
+    "wof:lastmodified":1537713459,
+    "wof:name":"Shahar",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.70203000000002,
+    40.51204,
+    71.70203000000002,
+    40.51204
+],
+  "geometry": {"coordinates":[71.70203000000002,40.51204],"type":"Point"}
+}

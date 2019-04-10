@@ -1,0 +1,74 @@
+{
+  "id": 1276338881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.10438,40.75434,72.10438,40.75434",
+    "geom:latitude":40.75434,
+    "geom:longitude":72.10438,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ganjiravon",
+    "gn:country_code":"UZ",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8152080,
+    "gn:latitude":40.75434,
+    "gn:longitude":72.10438,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Ganjiravon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043d\u0434\u0436\u0438\u0440\u0430\u0432\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Gandzhiravan"
+    ],
+    "name:uzb_x_preferred":[
+        "Ganjiravon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8152080
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5ed63ec17dc1ba7c1a6763ed0418065b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276338881,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1276338881,
+    "wof:lastmodified":1537713429,
+    "wof:name":"Ganjiravon",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.10438,
+    40.75434,
+    72.10438,
+    40.75434
+],
+  "geometry": {"coordinates":[72.10438000000001,40.75434],"type":"Point"}
+}

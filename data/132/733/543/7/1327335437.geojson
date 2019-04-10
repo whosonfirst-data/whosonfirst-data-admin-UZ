@@ -1,0 +1,69 @@
+{
+  "id": 1327335437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.0369,40.23626,71.0369,40.23626",
+    "geom:latitude":40.23626,
+    "geom:longitude":71.0369,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qalacha",
+    "gn:country_code":"UZ",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1542121,
+    "gn:latitude":40.23626,
+    "gn:longitude":71.0369,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Qalacha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalacha"
+    ],
+    "name:uzb_x_preferred":[
+        "Qalacha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1542121
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ae7e7e9fa05d852ab5c2606462dd797f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1327335437,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327335437,
+    "wof:lastmodified":1537713375,
+    "wof:name":"Qalacha",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.0369,
+    40.23626,
+    71.0369,
+    40.23626
+],
+  "geometry": {"coordinates":[71.0369,40.23626],"type":"Point"}
+}

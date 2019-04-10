@@ -1,0 +1,71 @@
+{
+  "id": 1343969701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07986,40.49179,71.07986,40.49179",
+    "geom:latitude":40.49179,
+    "geom:longitude":71.07986,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kichik-Qashg`ar",
+    "gn:country_code":"UZ",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11057359,
+    "gn:latitude":40.49179,
+    "gn:longitude":71.07986,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Kichik-Qashg\u2018ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kichik-Kashgar"
+    ],
+    "name:uzb_x_preferred":[
+        "Kichik-Qashg\u2018ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11057359
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"16cf3115cd836998810debab8aaf04a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343969701,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1343969701,
+    "wof:lastmodified":1537713471,
+    "wof:name":"Kichik-Qashg`ar",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07986,
+    40.49179,
+    71.07986,
+    40.49179
+],
+  "geometry": {"coordinates":[71.07986,40.49179],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1326934437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.5666,40.88551,72.5666,40.88551",
+    "geom:latitude":40.88551,
+    "geom:longitude":72.5666,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Teshiktash",
+    "gn:country_code":"UZ",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512594,
+    "gn:latitude":40.88551,
+    "gn:longitude":72.5666,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Teshiktash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tishik-Tash",
+        "Teshiktash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512594
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"40244da32f1c2252b4f9090609ba9c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326934437,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1326934437,
+    "wof:lastmodified":1537713307,
+    "wof:name":"Teshiktash",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.5666,
+    40.88551,
+    72.5666,
+    40.88551
+],
+  "geometry": {"coordinates":[72.56659999999999,40.88551],"type":"Point"}
+}

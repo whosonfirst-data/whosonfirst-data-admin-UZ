@@ -1,0 +1,68 @@
+{
+  "id": 1276733489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.19611,41.06861,69.19611,41.06861",
+    "geom:latitude":41.06861,
+    "geom:longitude":69.19611,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Novyy Put'",
+    "gn:country_code":"UZ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538063,
+    "gn:latitude":41.06861,
+    "gn:longitude":69.19611,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Novyy Put\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Novyy Put\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538063
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"612d634bae9c92fe772e2a5088059dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276733489,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1276733489,
+    "wof:lastmodified":1537713370,
+    "wof:name":"Novyy Put'",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.19611,
+    41.06861,
+    69.19611,
+    41.06861
+],
+  "geometry": {"coordinates":[69.19611,41.06861],"type":"Point"}
+}

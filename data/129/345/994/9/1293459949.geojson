@@ -1,0 +1,68 @@
+{
+  "id": 1293459949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.18506,40.67368,68.18506,40.67368",
+    "geom:latitude":40.67368,
+    "geom:longitude":68.18506,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Bog`bon",
+    "gn:country_code":"UZ",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241643,
+    "gn:latitude":40.67368,
+    "gn:longitude":68.18506,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Bog\u2018bon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Bog\u2018bon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241643
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e1fcb911ae0d39a1442ea0ba4797f33b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293459949,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1293459949,
+    "wof:lastmodified":1537713484,
+    "wof:name":"Bog`bon",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.18506,
+    40.67368,
+    68.18506,
+    40.67368
+],
+  "geometry": {"coordinates":[68.18505999999999,40.67368],"type":"Point"}
+}

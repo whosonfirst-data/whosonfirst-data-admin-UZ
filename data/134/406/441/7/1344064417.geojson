@@ -1,0 +1,71 @@
+{
+  "id": 1344064417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.82658,40.46968,70.82658,40.46968",
+    "geom:latitude":40.46968,
+    "geom:longitude":70.82658,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ayritam",
+    "gn:country_code":"UZ",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10651256,
+    "gn:latitude":40.46968,
+    "gn:longitude":70.82658,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Ayritam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Ayritam"
+    ],
+    "name:uzb_x_variant":[
+        "Airtom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10651256
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a4ba5c2e3644d4b2f40268b8a24f6f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344064417,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1344064417,
+    "wof:lastmodified":1537713446,
+    "wof:name":"Ayritam",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.82658,
+    40.46968,
+    70.82658,
+    40.46968
+],
+  "geometry": {"coordinates":[70.82658000000001,40.46968],"type":"Point"}
+}

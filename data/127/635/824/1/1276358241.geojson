@@ -1,0 +1,68 @@
+{
+  "id": 1276358241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.45007,41.13989,70.45007,41.13989",
+    "geom:latitude":41.13989,
+    "geom:longitude":70.45007,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kamchiq",
+    "gn:country_code":"UZ",
+    "gn:dem":1356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7577911,
+    "gn:latitude":41.13989,
+    "gn:longitude":70.45007,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Kamchiq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kamchiq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577911
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0a53ce1b17eeb11e46d1bf650a377f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276358241,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1276358241,
+    "wof:lastmodified":1537713393,
+    "wof:name":"Kamchiq",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.45007,
+    41.13989,
+    70.45007,
+    41.13989
+],
+  "geometry": {"coordinates":[70.45007,41.13989],"type":"Point"}
+}

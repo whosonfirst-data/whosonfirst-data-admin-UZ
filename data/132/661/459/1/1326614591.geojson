@@ -1,0 +1,65 @@
+{
+  "id": 1326614591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.45426,43.00953,60.45426,43.00953",
+    "geom:latitude":43.00953,
+    "geom:longitude":60.45426,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kendirli",
+    "gn:country_code":"UZ",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889072,
+    "gn:latitude":43.00953,
+    "gn:longitude":60.45426,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Kendirli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889072
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6c6a0e6c60571bc856529771b57f649b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326614591,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1326614591,
+    "wof:lastmodified":1536863984,
+    "wof:name":"Kendirli",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.45426,
+    43.00953,
+    60.45426,
+    43.00953
+],
+  "geometry": {"coordinates":[60.45426,43.00953],"type":"Point"}
+}

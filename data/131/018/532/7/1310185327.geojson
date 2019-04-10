@@ -1,0 +1,65 @@
+{
+  "id": 1310185327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.23556,37.43722,67.23556,37.43722",
+    "geom:latitude":37.43722,
+    "geom:longitude":67.23556,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kommunizm",
+    "gn:country_code":"UZ",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475007,
+    "gn:latitude":37.43722,
+    "gn:longitude":67.23556,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kommunizm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475007
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4e1acb39c6d9dcac269cfea9304d3bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310185327,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1310185327,
+    "wof:lastmodified":1536880715,
+    "wof:name":"Kommunizm",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.23555999999999,
+    37.43722,
+    67.23555999999999,
+    37.43722
+],
+  "geometry": {"coordinates":[67.23555999999999,37.43722],"type":"Point"}
+}

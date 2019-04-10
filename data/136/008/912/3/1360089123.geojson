@@ -1,0 +1,74 @@
+{
+  "id": 1360089123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.78461,40.79716,72.78461,40.79716",
+    "geom:latitude":40.79716,
+    "geom:longitude":72.78461,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Manas",
+    "gn:country_code":"UZ",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513192,
+    "gn:latitude":40.79716,
+    "gn:longitude":72.78461,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Manas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043a\u0443\u0440"
+    ],
+    "name:und_x_variant":[
+        "Mukur"
+    ],
+    "name:uzb_x_preferred":[
+        "Manas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513192
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"aef2b0f70b91dde1082f3b2eba4db07a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360089123,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1360089123,
+    "wof:lastmodified":1537713322,
+    "wof:name":"Manas",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.78461,
+    40.79716,
+    72.78461,
+    40.79716
+],
+  "geometry": {"coordinates":[72.78461,40.79716],"type":"Point"}
+}

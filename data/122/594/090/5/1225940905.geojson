@@ -1,0 +1,65 @@
+{
+  "id": 1225940905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.58437,43.18398,58.58437,43.18398",
+    "geom:latitude":43.18398,
+    "geom:longitude":58.58437,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ravshan",
+    "gn:country_code":"UZ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7888962,
+    "gn:latitude":43.18398,
+    "gn:longitude":58.58437,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Ravshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7888962
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ce2adbd25373189c082372567898863f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1225940905,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1225940905,
+    "wof:lastmodified":1536875469,
+    "wof:name":"Ravshan",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.58436999999999,
+    43.18398,
+    58.58436999999999,
+    43.18398
+],
+  "geometry": {"coordinates":[58.58436999999999,43.18398],"type":"Point"}
+}

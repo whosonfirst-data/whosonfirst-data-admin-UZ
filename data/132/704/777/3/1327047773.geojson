@@ -1,0 +1,66 @@
+{
+  "id": 1327047773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.37149,40.55114,72.37149,40.55114",
+    "geom:latitude":40.55114,
+    "geom:longitude":72.37149,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pansat",
+    "gn:country_code":"UZ",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140447,
+    "gn:latitude":40.55114,
+    "gn:longitude":72.37149,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pansat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043d\u0441\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140447
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ce39c5d50377be0c2d7a326110755ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1327047773,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327047773,
+    "wof:lastmodified":1537713412,
+    "wof:name":"Pansat",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.37149000000002,
+    40.55114,
+    72.37149000000002,
+    40.55114
+],
+  "geometry": {"coordinates":[72.37149000000002,40.55114],"type":"Point"}
+}

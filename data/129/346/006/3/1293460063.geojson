@@ -1,0 +1,73 @@
+{
+  "id": 1293460063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.78361,39.74194,67.78361,39.74194",
+    "geom:latitude":39.74194,
+    "geom:longitude":67.78361,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mug`ol",
+    "gn:country_code":"UZ",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216471,
+    "gn:latitude":39.74194,
+    "gn:longitude":67.78361,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Mug\u2018ol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mugul\u2019",
+        "Mogul",
+        "Mugal"
+    ],
+    "name:uzb_x_preferred":[
+        "Mug\u2018ol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216471
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0dadb6a3f7c4a7c8989dbfa65c19a649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293460063,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1293460063,
+    "wof:lastmodified":1537713253,
+    "wof:name":"Mug`ol",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.78361,
+    39.74194,
+    67.78361,
+    39.74194
+],
+  "geometry": {"coordinates":[67.78361,39.74194],"type":"Point"}
+}

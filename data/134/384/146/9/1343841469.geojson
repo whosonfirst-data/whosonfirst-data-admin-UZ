@@ -1,0 +1,68 @@
+{
+  "id": 1343841469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.77074,41.05586,68.77074,41.05586",
+    "geom:latitude":41.05586,
+    "geom:longitude":68.77074,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kanalobod",
+    "gn:country_code":"UZ",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241669,
+    "gn:latitude":41.05586,
+    "gn:longitude":68.77074,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Kanalobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Kanalobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241669
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"57a666efd261692dbe727fa82d4346fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343841469,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1343841469,
+    "wof:lastmodified":1537713484,
+    "wof:name":"Kanalobod",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.77074,
+    41.05586,
+    68.77074,
+    41.05586
+],
+  "geometry": {"coordinates":[68.77074,41.05586],"type":"Point"}
+}

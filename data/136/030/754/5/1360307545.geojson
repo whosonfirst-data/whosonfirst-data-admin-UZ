@@ -1,0 +1,68 @@
+{
+  "id": 1360307545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.17947,40.86147,71.17947,40.86147",
+    "geom:latitude":40.86147,
+    "geom:longitude":71.17947,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Chortoq",
+    "gn:country_code":"UZ",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7548026,
+    "gn:latitude":40.86147,
+    "gn:longitude":71.17947,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chortoq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chortoq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7548026
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"20d1440241008c29dd3af101d7d51d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360307545,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1360307545,
+    "wof:lastmodified":1537713390,
+    "wof:name":"Chortoq",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.17947,
+    40.86147,
+    71.17947,
+    40.86147
+],
+  "geometry": {"coordinates":[71.17946999999999,40.86147],"type":"Point"}
+}

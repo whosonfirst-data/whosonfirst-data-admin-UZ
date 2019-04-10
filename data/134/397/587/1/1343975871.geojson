@@ -1,0 +1,79 @@
+{
+  "id": 1343975871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.35741,40.72579,72.35741,40.72579",
+    "geom:latitude":40.72579,
+    "geom:longitude":72.35741,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Og`ullik",
+    "gn:country_code":"UZ",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538321,
+    "gn:latitude":40.72579,
+    "gn:longitude":72.35741,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Og\u2018ullik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0443\u043b\u043b\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Ravat",
+        "Agullik"
+    ],
+    "name:uzb_x_preferred":[
+        "Og\u2018ullik"
+    ],
+    "name:uzb_x_variant":[
+        "Xakan",
+        "Ogullik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538321
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"909fdf0e5f70964f07ab5e2acd8f0264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343975871,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1343975871,
+    "wof:lastmodified":1537713372,
+    "wof:name":"Og`ullik",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.35741,
+    40.72579,
+    72.35741,
+    40.72579
+],
+  "geometry": {"coordinates":[72.35741,40.72579],"type":"Point"}
+}

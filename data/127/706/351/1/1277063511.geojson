@@ -1,0 +1,68 @@
+{
+  "id": 1277063511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.37528,37.25694,67.37528,37.25694",
+    "geom:latitude":37.25694,
+    "geom:longitude":67.37528,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Charvador",
+    "gn:country_code":"UZ",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475054,
+    "gn:latitude":37.25694,
+    "gn:longitude":67.37528,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Charvador",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0440\u0432\u0430\u0434\u043e\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475054
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d3cea576c4b967e092932ca076a2364b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1277063511,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1277063511,
+    "wof:lastmodified":1537713296,
+    "wof:name":"Charvador",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.37528,
+    37.25694,
+    67.37528,
+    37.25694
+],
+  "geometry": {"coordinates":[67.37528,37.25694],"type":"Point"}
+}

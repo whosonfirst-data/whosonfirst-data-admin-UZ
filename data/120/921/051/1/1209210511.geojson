@@ -1,0 +1,64 @@
+{
+  "id": 1209210511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.9714,38.73137,64.9714,38.73137",
+    "geom:latitude":38.73137,
+    "geom:longitude":64.9714,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Qo`ltak",
+    "gn:country_code":"UZ",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7630293,
+    "gn:latitude":38.73137,
+    "gn:longitude":64.9714,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qo\u2018ltak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qo\u2018ltak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7630293
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d10c0082ef7850dc6acff3e8d7f20875",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209210511
+        }
+    ],
+    "wof:id":1209210511,
+    "wof:lastmodified":1537713401,
+    "wof:name":"Qo`ltak",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.9714,
+    38.73137,
+    64.9714,
+    38.73137
+],
+  "geometry": {"coordinates":[64.9714,38.73137],"type":"Point"}
+}

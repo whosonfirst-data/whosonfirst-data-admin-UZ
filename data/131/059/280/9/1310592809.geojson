@@ -1,0 +1,65 @@
+{
+  "id": 1310592809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.10554,40.42496,66.10554,40.42496",
+    "geom:latitude":40.42496,
+    "geom:longitude":66.10554,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chuya",
+    "gn:country_code":"UZ",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514187,
+    "gn:latitude":40.42496,
+    "gn:longitude":66.10554,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Chuya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514187
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5ecf90b54c5315a0013bfbb63373240a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310592809,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1310592809,
+    "wof:lastmodified":1536791407,
+    "wof:name":"Chuya",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.10554,
+    40.42496,
+    66.10554,
+    40.42496
+],
+  "geometry": {"coordinates":[66.10554,40.42496],"type":"Point"}
+}

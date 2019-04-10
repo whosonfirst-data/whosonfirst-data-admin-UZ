@@ -1,0 +1,71 @@
+{
+  "id": 1343959891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.1339,39.96236,71.1339,39.96236",
+    "geom:latitude":39.96236,
+    "geom:longitude":71.1339,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yangiariq",
+    "gn:country_code":"UZ",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1476409,
+    "gn:latitude":39.96236,
+    "gn:longitude":71.1339,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Yangiariq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yangiaryk"
+    ],
+    "name:uzb_x_preferred":[
+        "Yangiariq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476409
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"50785bea505dc067f4b11a7073ca8e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343959891,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1343959891,
+    "wof:lastmodified":1537713297,
+    "wof:name":"Yangiariq",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.1339,
+    39.96236,
+    71.1339,
+    39.96236
+],
+  "geometry": {"coordinates":[71.1339,39.96236],"type":"Point"}
+}

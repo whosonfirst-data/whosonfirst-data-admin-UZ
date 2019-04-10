@@ -1,0 +1,66 @@
+{
+  "id": 1326940501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.31667,40.3,69.31667,40.3",
+    "geom:latitude":40.3,
+    "geom:longitude":69.31667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Durt-Kul'",
+    "gn:country_code":"UZ",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514130,
+    "gn:latitude":40.3,
+    "gn:longitude":69.31667,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Durt-Kul\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Durt-Kul\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514130
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f77387026e348821fa432612d09bdd0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1326940501,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326940501,
+    "wof:lastmodified":1537713349,
+    "wof:name":"Durt-Kul'",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.31667,
+    40.3,
+    69.31667,
+    40.3
+],
+  "geometry": {"coordinates":[69.31667,40.3],"type":"Point"}
+}

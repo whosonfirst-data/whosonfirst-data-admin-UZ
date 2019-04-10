@@ -1,0 +1,66 @@
+{
+  "id": 1326715917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.91168,38.88073,65.91168,38.88073",
+    "geom:latitude":38.88073,
+    "geom:longitude":65.91168,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"Beshkent",
+    "gn:asciiname":"Kerait",
+    "gn:country_code":"UZ",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1464992,
+    "gn:latitude":38.88073,
+    "gn:longitude":65.91168,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kerait",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1464992
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"13daa887f5bbe9347575a9ac9370a6c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326715917,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1326715917,
+    "wof:lastmodified":1536719663,
+    "wof:name":"Kerait",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.91168,
+    38.88073,
+    65.91168,
+    38.88073
+],
+  "geometry": {"coordinates":[65.91168,38.88073],"type":"Point"}
+}

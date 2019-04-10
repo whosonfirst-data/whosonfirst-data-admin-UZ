@@ -1,0 +1,65 @@
+{
+  "id": 1326906847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.28333,41.38333,69.28333,41.38333",
+    "geom:latitude":41.38333,
+    "geom:longitude":69.28333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Yangi-Abad",
+    "gn:country_code":"UZ",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512370,
+    "gn:latitude":41.38333,
+    "gn:longitude":69.28333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Yangi-Abad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512370
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e85be0c23387fad9b67a304a4e40b72f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326906847,
+            "region_id":85680429
+        }
+    ],
+    "wof:id":1326906847,
+    "wof:lastmodified":1536941989,
+    "wof:name":"Yangi-Abad",
+    "wof:parent_id":85680429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.28333,
+    41.38333,
+    69.28333,
+    41.38333
+],
+  "geometry": {"coordinates":[69.28333000000001,41.38333],"type":"Point"}
+}

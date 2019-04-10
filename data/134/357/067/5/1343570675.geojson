@@ -1,0 +1,74 @@
+{
+  "id": 1343570675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.42899,40.85005,72.42899,40.85005",
+    "geom:latitude":40.85005,
+    "geom:longitude":72.42899,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bo`taqora",
+    "gn:country_code":"UZ",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514303,
+    "gn:latitude":40.85005,
+    "gn:longitude":72.42899,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Bo\u2018taqora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Oktyabr\u2019"
+    ],
+    "name:und_x_variant":[
+        "Butakara"
+    ],
+    "name:uzb_x_preferred":[
+        "Bo\u2018taqora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514303
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a2513ef2172e7d1883b9d5f78748eade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343570675,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1343570675,
+    "wof:lastmodified":1537713355,
+    "wof:name":"Bo`taqora",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.42899,
+    40.85005,
+    72.42899,
+    40.85005
+],
+  "geometry": {"coordinates":[72.42899,40.85005],"type":"Point"}
+}

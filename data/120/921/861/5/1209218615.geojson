@@ -1,0 +1,72 @@
+{
+  "id": 1209218615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.63506,40.81797,72.63506,40.81797",
+    "geom:latitude":40.81797,
+    "geom:longitude":72.63506,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qo`rtqi",
+    "gn:country_code":"UZ",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513353,
+    "gn:latitude":40.81797,
+    "gn:longitude":72.63506,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Qo\u2018rtqi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0443\u0442\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kurutka",
+        "Kuruke",
+        "Kurutki"
+    ],
+    "name:uzb_x_preferred":[
+        "Qo\u2018rtqi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513353
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d5ae6ce1c237c0b311bff6a06e76e8e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209218615
+        }
+    ],
+    "wof:id":1209218615,
+    "wof:lastmodified":1537713326,
+    "wof:name":"Qo`rtqi",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.63506,
+    40.81797,
+    72.63506,
+    40.81797
+],
+  "geometry": {"coordinates":[72.63506,40.81797],"type":"Point"}
+}

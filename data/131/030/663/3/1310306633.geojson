@@ -1,0 +1,68 @@
+{
+  "id": 1310306633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.84983,40.55395,70.84983,40.55395",
+    "geom:latitude":40.55395,
+    "geom:longitude":70.84983,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chamach",
+    "gn:country_code":"UZ",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10651829,
+    "gn:latitude":40.55395,
+    "gn:longitude":70.84983,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Chamach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Chamach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10651829
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9b536581f02c9909b6fe28c4b1bb59f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310306633,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1310306633,
+    "wof:lastmodified":1537713448,
+    "wof:name":"Chamach",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.84983000000003,
+    40.55395,
+    70.84983000000003,
+    40.55395
+],
+  "geometry": {"coordinates":[70.84983000000003,40.55395],"type":"Point"}
+}

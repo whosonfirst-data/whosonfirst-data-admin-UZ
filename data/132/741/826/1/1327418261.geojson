@@ -1,0 +1,65 @@
+{
+  "id": 1327418261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.56667,41.93333,60.56667,41.93333",
+    "geom:latitude":41.93333,
+    "geom:longitude":60.56667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Karakalpak",
+    "gn:country_code":"UZ",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513801,
+    "gn:latitude":41.93333,
+    "gn:longitude":60.56667,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Karakalpak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513801
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e2297207a7f359bd020e7379defbf982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327418261,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1327418261,
+    "wof:lastmodified":1536701485,
+    "wof:name":"Karakalpak",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.56667,
+    41.93333,
+    60.56667,
+    41.93333
+],
+  "geometry": {"coordinates":[60.56667,41.93333],"type":"Point"}
+}

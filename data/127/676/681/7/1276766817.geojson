@@ -1,0 +1,71 @@
+{
+  "id": 1276766817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.36995,40.81001,72.36995,40.81001",
+    "geom:latitude":40.81001,
+    "geom:longitude":72.36995,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ayrilish",
+    "gn:country_code":"UZ",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8060014,
+    "gn:latitude":40.81001,
+    "gn:longitude":72.36995,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ayrilish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0440\u043b\u0438\u0448"
+    ],
+    "name:und_x_variant":[
+        "\u0410\u0439\u0440\u043b\u0438\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8060014
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"740025c18d84618708dea83768f051de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276766817,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1276766817,
+    "wof:lastmodified":1537713405,
+    "wof:name":"Ayrilish",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.36995,
+    40.81001,
+    72.36995,
+    40.81001
+],
+  "geometry": {"coordinates":[72.36995,40.81001],"type":"Point"}
+}

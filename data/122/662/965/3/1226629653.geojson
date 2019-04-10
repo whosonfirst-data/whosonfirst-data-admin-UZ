@@ -1,0 +1,71 @@
+{
+  "id": 1226629653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.31444,41.40972,69.31444,41.40972",
+    "geom:latitude":41.40972,
+    "geom:longitude":69.31444,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Guliston",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513970,
+    "gn:latitude":41.40972,
+    "gn:longitude":69.31444,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Guliston",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gulistan",
+        "Kolkhoz Imeni Navoi",
+        "Guliston"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513970
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"580b43ddfd3bc5464cb647fb73160eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226629653,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1226629653,
+    "wof:lastmodified":1537713344,
+    "wof:name":"Guliston",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.31444,
+    41.40972,
+    69.31444,
+    41.40972
+],
+  "geometry": {"coordinates":[69.31444,41.40972],"type":"Point"}
+}

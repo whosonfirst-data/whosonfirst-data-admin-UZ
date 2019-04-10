@@ -1,0 +1,68 @@
+{
+  "id": 1327407653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.14957,40.38804,69.14957,40.38804",
+    "geom:latitude":40.38804,
+    "geom:longitude":69.14957,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Sirbo`yi",
+    "gn:country_code":"UZ",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242006,
+    "gn:latitude":40.38804,
+    "gn:longitude":69.14957,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Sirbo\u2018yi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Sirbo\u2018yi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242006
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"858544e038d18e11b8eae4875eaa00b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327407653,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1327407653,
+    "wof:lastmodified":1537713490,
+    "wof:name":"Sirbo`yi",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.14957,
+    40.38804,
+    69.14957,
+    40.38804
+],
+  "geometry": {"coordinates":[69.14957,40.38804],"type":"Point"}
+}

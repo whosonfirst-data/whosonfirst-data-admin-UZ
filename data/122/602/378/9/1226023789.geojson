@@ -1,0 +1,65 @@
+{
+  "id": 1226023789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.58333,41.48333,69.58333,41.48333",
+    "geom:latitude":41.48333,
+    "geom:longitude":69.58333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Sotsgorod",
+    "gn:country_code":"UZ",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512759,
+    "gn:latitude":41.48333,
+    "gn:longitude":69.58333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Sotsgorod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512759
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"bfad2625f76f36006fedf9b810f19c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226023789,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1226023789,
+    "wof:lastmodified":1536756987,
+    "wof:name":"Sotsgorod",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.58333,
+    41.48333,
+    69.58333,
+    41.48333
+],
+  "geometry": {"coordinates":[69.58333,41.48333],"type":"Point"}
+}

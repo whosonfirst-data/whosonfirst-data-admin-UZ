@@ -1,0 +1,67 @@
+{
+  "id": 1209507505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.71126,41.09014,70.71126,41.09014",
+    "geom:latitude":41.09014,
+    "geom:longitude":70.71126,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kandigon",
+    "gn:country_code":"UZ",
+    "gn:dem":1665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513836,
+    "gn:latitude":41.09014,
+    "gn:longitude":70.71126,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Kandigon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Kandagan"
+    ],
+    "name:uzb_x_variant":[
+        "Kandigon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513836
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7f73dff4e94bbbfa2d23e2e28791de47",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209507505
+        }
+    ],
+    "wof:id":1209507505,
+    "wof:lastmodified":1537713340,
+    "wof:name":"Kandigon",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.71126,
+    41.09014000000001,
+    70.71126,
+    41.09014000000001
+],
+  "geometry": {"coordinates":[70.71126,41.09014000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1225852513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.32671,40.41436,71.32671,40.41436",
+    "geom:latitude":40.41436,
+    "geom:longitude":71.32671,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cho`lguliston",
+    "gn:country_code":"UZ",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11056884,
+    "gn:latitude":40.41436,
+    "gn:longitude":71.32671,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Cho\u2018lguliston",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Chul\u2019gulistan"
+    ],
+    "name:und_x_variant":[
+        "Kommunizm"
+    ],
+    "name:uzb_x_preferred":[
+        "Cho\u2018lguliston"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056884
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6195ed58355c41fe3f69b2534390e72d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1225852513,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1225852513,
+    "wof:lastmodified":1537713464,
+    "wof:name":"Cho`lguliston",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.32670999999998,
+    40.41436,
+    71.32670999999998,
+    40.41436
+],
+  "geometry": {"coordinates":[71.32670999999998,40.41436],"type":"Point"}
+}

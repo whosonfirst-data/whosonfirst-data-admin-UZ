@@ -1,0 +1,71 @@
+{
+  "id": 1343568755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.71011,40.60174,71.71011,40.60174",
+    "geom:latitude":40.60174,
+    "geom:longitude":71.71011,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qatortol",
+    "gn:country_code":"UZ",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10973048,
+    "gn:latitude":40.60174,
+    "gn:longitude":71.71011,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Qatortol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karatal"
+    ],
+    "name:uzb_x_preferred":[
+        "Qatortol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10973048
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4530226006598587c27b87219784c0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343568755,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1343568755,
+    "wof:lastmodified":1537713454,
+    "wof:name":"Qatortol",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.71011,
+    40.60174,
+    71.71011,
+    40.60174
+],
+  "geometry": {"coordinates":[71.71011,40.60174],"type":"Point"}
+}

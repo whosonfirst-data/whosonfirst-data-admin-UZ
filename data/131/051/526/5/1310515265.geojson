@@ -1,0 +1,74 @@
+{
+  "id": 1310515265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.15463,40.59498,72.15463,40.59498",
+    "geom:latitude":40.59498,
+    "geom:longitude":72.15463,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qurama",
+    "gn:country_code":"UZ",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140430,
+    "gn:latitude":40.59498,
+    "gn:longitude":72.15463,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Qurama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0430\u043c\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kurama"
+    ],
+    "name:uzb_x_preferred":[
+        "Qurama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140430
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4df1856f86d58cfdc0e639b31dc4adaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310515265,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1310515265,
+    "wof:lastmodified":1537713411,
+    "wof:name":"Qurama",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.15463000000003,
+    40.59498,
+    72.15463000000003,
+    40.59498
+],
+  "geometry": {"coordinates":[72.15463000000003,40.59498],"type":"Point"}
+}

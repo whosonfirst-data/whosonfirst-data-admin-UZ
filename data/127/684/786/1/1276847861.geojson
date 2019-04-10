@@ -1,0 +1,65 @@
+{
+  "id": 1276847861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.0335,38.43947,68.0335,38.43947",
+    "geom:latitude":38.43947,
+    "geom:longitude":68.0335,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Karamany",
+    "gn:country_code":"UZ",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217070,
+    "gn:latitude":38.43947,
+    "gn:longitude":68.0335,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Karamany",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217070
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5a26ee1998bd573f80417f11ff3da074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276847861,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1276847861,
+    "wof:lastmodified":1537080892,
+    "wof:name":"Karamany",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.0335,
+    38.43947,
+    68.0335,
+    38.43947
+],
+  "geometry": {"coordinates":[68.0335,38.43947],"type":"Point"}
+}

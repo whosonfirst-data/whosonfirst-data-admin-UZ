@@ -1,0 +1,71 @@
+{
+  "id": 1276885219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.30032,40.33833,71.30032,40.33833",
+    "geom:latitude":40.33833,
+    "geom:longitude":71.30032,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kalaynov",
+    "gn:country_code":"UZ",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11056878,
+    "gn:latitude":40.33833,
+    "gn:longitude":71.30032,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Kalaynov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalaynav"
+    ],
+    "name:uzb_x_preferred":[
+        "Kalaynov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056878
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e42ed56761b7f3dddba1c34aeddc501f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276885219,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1276885219,
+    "wof:lastmodified":1537713464,
+    "wof:name":"Kalaynov",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.30032,
+    40.33833,
+    71.30032,
+    40.33833
+],
+  "geometry": {"coordinates":[71.30032,40.33833],"type":"Point"}
+}

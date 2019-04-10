@@ -1,0 +1,74 @@
+{
+  "id": 1343565115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.46863,40.64327,72.46863,40.64327",
+    "geom:latitude":40.64327,
+    "geom:longitude":72.46863,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chaqar",
+    "gn:country_code":"UZ",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140310,
+    "gn:latitude":40.64327,
+    "gn:longitude":72.46863,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Chaqar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043a\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Chakar"
+    ],
+    "name:uzb_x_preferred":[
+        "Chaqar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140310
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"3b4a0bfd094bbd469c6226259bc59af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343565115,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1343565115,
+    "wof:lastmodified":1537713408,
+    "wof:name":"Chaqar",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.46863,
+    40.64327,
+    72.46863,
+    40.64327
+],
+  "geometry": {"coordinates":[72.46863,40.64327],"type":"Point"}
+}

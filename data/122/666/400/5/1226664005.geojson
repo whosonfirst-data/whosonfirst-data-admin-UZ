@@ -1,0 +1,68 @@
+{
+  "id": 1226664005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.61663,40.69534,72.61663,40.69534",
+    "geom:latitude":40.69534,
+    "geom:longitude":72.61663,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Komintern",
+    "gn:country_code":"UZ",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163718,
+    "gn:latitude":40.69534,
+    "gn:longitude":72.61663,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Komintern",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0438\u043d\u0442\u0435\u0440\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163718
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"eb775cfb63cea54856f2b8232d724557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226664005,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1226664005,
+    "wof:lastmodified":1537713433,
+    "wof:name":"Komintern",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.61663,
+    40.69534,
+    72.61663,
+    40.69534
+],
+  "geometry": {"coordinates":[72.61663,40.69534],"type":"Point"}
+}

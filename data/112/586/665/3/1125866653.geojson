@@ -1,0 +1,82 @@
+{
+  "id": 1125866653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.33417,41.20972,69.33417,41.20972",
+    "geom:latitude":41.20972,
+    "geom:longitude":69.33417,
+    "gn:gn_country":"UZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":26380,
+    "gn:population":26380,
+    "iso:country":"UZ",
+    "lbl:latitude":41.20972,
+    "lbl:longitude":69.33417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043a\u0442\u0435\u043c\u0438\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Kolkhoz Imeni Akhunbabayeva"
+    ],
+    "qs_pg:aaroncc":"UZ",
+    "qs_pg:gn_country":"UZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1514396,
+    "qs_pg:gn_pop":26380,
+    "qs_pg:name":"Bektemir",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":133105,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514396,
+        "qs_pg:id":133105
+    },
+    "wof:country":"UZ",
+    "wof:created":1497294077,
+    "wof:geomhash":"ef17c8ff35f8f94fd82ec397439d8c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1125866653,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1125866653,
+    "wof:lastmodified":1509397028,
+    "wof:name":"Bektemir",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:population":26380,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.33417,
+    41.20972,
+    69.33417,
+    41.20972
+],
+  "geometry": {"coordinates":[69.33417,41.20972],"type":"Point"}
+}

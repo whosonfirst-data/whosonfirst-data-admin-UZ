@@ -1,0 +1,68 @@
+{
+  "id": 1293806107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.13376,40.82486,71.13376,40.82486",
+    "geom:latitude":40.82486,
+    "geom:longitude":71.13376,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Yakkatut",
+    "gn:country_code":"UZ",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512394,
+    "gn:latitude":40.82486,
+    "gn:longitude":71.13376,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Yakkatut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Yakkatut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512394
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0c264d21dbf33719898a0f6fa709a5d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293806107,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1293806107,
+    "wof:lastmodified":1537713302,
+    "wof:name":"Yakkatut",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.13376,
+    40.82486,
+    71.13376,
+    40.82486
+],
+  "geometry": {"coordinates":[71.13376,40.82486],"type":"Point"}
+}

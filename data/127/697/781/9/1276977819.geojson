@@ -1,0 +1,66 @@
+{
+  "id": 1276977819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.25,41.16667,71.25,41.16667",
+    "geom:latitude":41.16667,
+    "geom:longitude":71.25,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Leninyul'",
+    "gn:country_code":"UZ",
+    "gn:dem":1001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513268,
+    "gn:latitude":41.16667,
+    "gn:longitude":71.25,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Leninyul\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Leninyul\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513268
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"199670bfdda295d7ca02ab2f8ff45e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1276977819,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276977819,
+    "wof:lastmodified":1537713324,
+    "wof:name":"Leninyul'",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.25,
+    41.16667,
+    71.25,
+    41.16667
+],
+  "geometry": {"coordinates":[71.25,41.16667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1310604133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.6,39.68333,64.6,39.68333",
+    "geom:latitude":39.68333,
+    "geom:longitude":64.6,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Saray",
+    "gn:country_code":"UZ",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216253,
+    "gn:latitude":39.68333,
+    "gn:longitude":64.6,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Saray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216253
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d21b6bb366cfe8f9e06b4dff30865f5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310604133,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":1310604133,
+    "wof:lastmodified":1536775260,
+    "wof:name":"Saray",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.6,
+    39.68333,
+    64.6,
+    39.68333
+],
+  "geometry": {"coordinates":[64.59999999999999,39.68333],"type":"Point"}
+}

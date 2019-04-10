@@ -1,0 +1,65 @@
+{
+  "id": 1242868625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.10362,41.93722,60.10362,41.93722",
+    "geom:latitude":41.93722,
+    "geom:longitude":60.10362,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sultan-Bay",
+    "gn:country_code":"UZ",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512733,
+    "gn:latitude":41.93722,
+    "gn:longitude":60.10362,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Sultan-Bay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512733
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"595ffbd5af6212615fb7ce7668b314c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242868625,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1242868625,
+    "wof:lastmodified":1536643863,
+    "wof:name":"Sultan-Bay",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.10361999999999,
+    41.93722,
+    60.10361999999999,
+    41.93722
+],
+  "geometry": {"coordinates":[60.10361999999999,41.93722],"type":"Point"}
+}

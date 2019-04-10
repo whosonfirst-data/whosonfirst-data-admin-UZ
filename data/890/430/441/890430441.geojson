@@ -1,0 +1,67 @@
+{
+  "id": 890430441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.01667,41.55,61.01667,41.55",
+    "geom:latitude":41.55,
+    "geom:longitude":61.01667,
+    "gn:country":"UZ",
+    "gn:fcode":"PPL",
+    "gn:pop":48908,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Novyy Turtkul\u2019"
+    ],
+    "qs:name":"Novyy Turtkul\u2019",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513092,
+        "gp:id":2272647,
+        "qs:id":133081
+    },
+    "wof:country":"UZ",
+    "wof:created":1469051852,
+    "wof:geomhash":"776955906876ac035caa13cf9f0a6a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":890430441,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":890430441,
+    "wof:lastmodified":1505343518,
+    "wof:name":"Novyy Turtkul\u2019",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:population":48908,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.01667,
+    41.55,
+    61.01667,
+    41.55
+],
+  "geometry": {"coordinates":[61.01667,41.55],"type":"Point"}
+}

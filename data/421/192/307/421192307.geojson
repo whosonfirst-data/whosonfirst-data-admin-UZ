@@ -1,0 +1,125 @@
+{
+  "id": 421192307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.79361,39.50056,64.79361,39.50056",
+    "geom:latitude":39.50056,
+    "geom:longitude":64.79361,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0631\u0627\u0648\u0648\u0644 \u0628\u0627\u0632\u0627\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Karaulbazar"
+    ],
+    "name:eng_x_preferred":[
+        "Karaulbazar"
+    ],
+    "name:fre_x_preferred":[
+        "Karaulbazar"
+    ],
+    "name:ita_x_preferred":[
+        "Karaulbazar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e9\u30a6\u30fc\u30eb\u30d0\u30b6\u30fc\u30eb"
+    ],
+    "name:kik_x_preferred":[
+        "Qorovulbozor"
+    ],
+    "name:pol_x_preferred":[
+        "Qorovulbozor"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0443\u043b\u0431\u0430\u0437\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Karaulbazar"
+    ],
+    "name:tur_x_preferred":[
+        "Karaulpazar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0443\u043b\u0431\u0430\u0437\u0430\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Karaulbazar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0627\u0631\u0627\u0648\u0648\u0644 \u0628\u0627\u0632\u0627\u0631"
+    ],
+    "name:uzb_x_preferred":[
+        "Qorovulbozor"
+    ],
+    "qs:gn_country":"UZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1217035,
+    "qs:gn_pop":8618,
+    "qs:name":"Qorovulbozor",
+    "qs:name_adm0":"Uzbekistan",
+    "qs:name_adm1":"Bukhoro",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":79037,
+    "qs:woe_adm0":23424980,
+    "qs:woe_id":56122371,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217035,
+        "gp:id":56122371,
+        "qs:id":79037,
+        "wd:id":"Q867044",
+        "wk:page":"Qorovulbozor"
+    },
+    "wof:country":"UZ",
+    "wof:created":1459009732,
+    "wof:geomhash":"aa0dd504d3bbb6c7b9ab92d598c7641d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":421192307,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":421192307,
+    "wof:lastmodified":1527716107,
+    "wof:name":"Qorovulbozor",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:population":8618,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.79361,
+    39.50056,
+    64.79361,
+    39.50056
+],
+  "geometry": {"coordinates":[64.79361,39.50056],"type":"Point"}
+}

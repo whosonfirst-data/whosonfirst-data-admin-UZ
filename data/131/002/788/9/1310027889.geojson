@@ -1,0 +1,68 @@
+{
+  "id": 1310027889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.57525,41.02156,71.57525,41.02156",
+    "geom:latitude":41.02156,
+    "geom:longitude":71.57525,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Orzu",
+    "gn:country_code":"UZ",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7578683,
+    "gn:latitude":41.02156,
+    "gn:longitude":71.57525,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Orzu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Orzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7578683
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"35ba06355cb43f7930afbb1bd123ed1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310027889,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1310027889,
+    "wof:lastmodified":1537713394,
+    "wof:name":"Orzu",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.57525,
+    41.02156,
+    71.57525,
+    41.02156
+],
+  "geometry": {"coordinates":[71.57525,41.02156],"type":"Point"}
+}

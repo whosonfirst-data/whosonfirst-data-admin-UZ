@@ -1,0 +1,72 @@
+{
+  "id": 1209792939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.04833,37.40083,67.04833,37.40083",
+    "geom:latitude":37.40083,
+    "geom:longitude":67.04833,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Sho`rob",
+    "gn:country_code":"UZ",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216107,
+    "gn:latitude":37.40083,
+    "gn:longitude":67.04833,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Sho\u2018rob",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shur-Ob",
+        "Shurab"
+    ],
+    "name:uzb_x_preferred":[
+        "Sho\u2018rob"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216107
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"39192c68a93a8f5387320850fc6097eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209792939,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1209792939,
+    "wof:lastmodified":1537713244,
+    "wof:name":"Sho`rob",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.04833,
+    37.40083,
+    67.04833,
+    37.40083
+],
+  "geometry": {"coordinates":[67.04833000000001,37.40083],"type":"Point"}
+}

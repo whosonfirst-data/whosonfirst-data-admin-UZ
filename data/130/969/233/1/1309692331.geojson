@@ -1,0 +1,68 @@
+{
+  "id": 1309692331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.36167,37.24139,67.36167,37.24139",
+    "geom:latitude":37.24139,
+    "geom:longitude":67.36167,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Komendatura",
+    "gn:country_code":"UZ",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475051,
+    "gn:latitude":37.24139,
+    "gn:longitude":67.36167,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Komendatura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0435\u043d\u0434\u0430\u0442\u0443\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475051
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"381acfd5eda7aab2babbe79d0959d5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1309692331,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1309692331,
+    "wof:lastmodified":1537713296,
+    "wof:name":"Komendatura",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.36166999999999,
+    37.24139,
+    67.36166999999999,
+    37.24139
+],
+  "geometry": {"coordinates":[67.36166999999999,37.24139],"type":"Point"}
+}

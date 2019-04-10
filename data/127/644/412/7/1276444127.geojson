@@ -1,0 +1,74 @@
+{
+  "id": 1276444127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.9997,40.58178,71.9997,40.58178",
+    "geom:latitude":40.58178,
+    "geom:longitude":71.9997,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Soyguzar",
+    "gn:country_code":"UZ",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512859,
+    "gn:latitude":40.58178,
+    "gn:longitude":71.9997,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Soyguzar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0439\u0433\u0443\u0437\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Sayguzar"
+    ],
+    "name:uzb_x_preferred":[
+        "Soyguzar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512859
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"033b5c01e069a46343a884c47072b0f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276444127,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1276444127,
+    "wof:lastmodified":1537713313,
+    "wof:name":"Soyguzar",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.9997,
+    40.58178,
+    71.9997,
+    40.58178
+],
+  "geometry": {"coordinates":[71.9997,40.58178],"type":"Point"}
+}

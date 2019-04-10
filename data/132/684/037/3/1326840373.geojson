@@ -1,0 +1,70 @@
+{
+  "id": 1326840373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.21667,40.28333,66.21667,40.28333",
+    "geom:latitude":40.28333,
+    "geom:longitude":66.21667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tau-Chichkan",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512628,
+    "gn:latitude":40.28333,
+    "gn:longitude":66.21667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tau-Chichkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tau-Chigkan",
+        "Tau-Chichkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512628
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5550d26da4d89179a464cb0e68c0e72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326840373,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1326840373,
+    "wof:lastmodified":1537713308,
+    "wof:name":"Tau-Chichkan",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.21667,
+    40.28333,
+    66.21667,
+    40.28333
+],
+  "geometry": {"coordinates":[66.21666999999999,40.28333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1326950195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.48361,38.99556,66.48361,38.99556",
+    "geom:latitude":38.99556,
+    "geom:longitude":66.48361,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Aymak",
+    "gn:country_code":"UZ",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217812,
+    "gn:latitude":38.99556,
+    "gn:longitude":66.48361,
+    "gn:modification_date":"2001-02-19",
+    "gn:name":"Aymak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217812
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"fd326fb1ed1eaad5a200b8e0d0743ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326950195,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1326950195,
+    "wof:lastmodified":1536878187,
+    "wof:name":"Aymak",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.48361,
+    38.99556,
+    66.48361,
+    38.99556
+],
+  "geometry": {"coordinates":[66.48361,38.99556],"type":"Point"}
+}

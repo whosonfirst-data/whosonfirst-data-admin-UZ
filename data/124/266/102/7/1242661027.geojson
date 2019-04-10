@@ -1,0 +1,71 @@
+{
+  "id": 1242661027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.71056,40.94083,68.71056,40.94083",
+    "geom:latitude":40.94083,
+    "geom:longitude":68.71056,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Erkin",
+    "gn:country_code":"UZ",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535843,
+    "gn:latitude":40.94083,
+    "gn:longitude":68.71056,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Erkin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurkaba"
+    ],
+    "name:uzb_x_preferred":[
+        "Erkin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535843
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"fc352625bbb4f0c27bead9ca3ec2abee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242661027,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1242661027,
+    "wof:lastmodified":1537713368,
+    "wof:name":"Erkin",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.71056,
+    40.94083,
+    68.71056,
+    40.94083
+],
+  "geometry": {"coordinates":[68.71056,40.94083],"type":"Point"}
+}

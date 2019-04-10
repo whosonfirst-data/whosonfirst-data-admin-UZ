@@ -1,0 +1,68 @@
+{
+  "id": 1209988901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.27873,40.38894,68.27873,40.38894",
+    "geom:latitude":40.38894,
+    "geom:longitude":68.27873,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Hamid Olimjon",
+    "gn:country_code":"UZ",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242428,
+    "gn:latitude":40.38894,
+    "gn:longitude":68.27873,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Hamid Olimjon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Hamid Olimjon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242428
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5c28899f7196078f8f91e7dc123e8a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209988901,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1209988901,
+    "wof:lastmodified":1537713495,
+    "wof:name":"Hamid Olimjon",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.27873000000001,
+    40.38894000000001,
+    68.27873000000001,
+    40.38894000000001
+],
+  "geometry": {"coordinates":[68.27873000000001,40.38894000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360202539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.5156,40.68172,72.5156,40.68172",
+    "geom:latitude":40.68172,
+    "geom:longitude":72.5156,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mustahkam",
+    "gn:country_code":"UZ",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163754,
+    "gn:latitude":40.68172,
+    "gn:longitude":72.5156,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Mustahkam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0441\u0442\u0430\u0445\u043a\u0430\u043c"
+    ],
+    "name:und_x_variant":[
+        "Mustakhkam"
+    ],
+    "name:uzb_x_preferred":[
+        "Mustahkam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163754
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"46f4b60858a03b65d69e2c241bdf8150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360202539,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1360202539,
+    "wof:lastmodified":1537713435,
+    "wof:name":"Mustahkam",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.5156,
+    40.68172,
+    72.5156,
+    40.68172
+],
+  "geometry": {"coordinates":[72.51560000000001,40.68172],"type":"Point"}
+}

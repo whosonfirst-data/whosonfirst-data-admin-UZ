@@ -1,0 +1,68 @@
+{
+  "id": 1226319789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.35583,37.26472,67.35583,37.26472",
+    "geom:latitude":37.26472,
+    "geom:longitude":67.35583,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kyzylbay",
+    "gn:country_code":"UZ",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475057,
+    "gn:latitude":37.26472,
+    "gn:longitude":67.35583,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kyzylbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475057
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"635644dce1d530d39432e2eaeed102fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226319789,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1226319789,
+    "wof:lastmodified":1537713296,
+    "wof:name":"Kyzylbay",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.35583000000001,
+    37.26472,
+    67.35583000000001,
+    37.26472
+],
+  "geometry": {"coordinates":[67.35583000000001,37.26472],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1226757797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.90355,38.3996,67.90355,38.3996",
+    "geom:latitude":38.3996,
+    "geom:longitude":67.90355,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Argun",
+    "gn:country_code":"UZ",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217845,
+    "gn:latitude":38.3996,
+    "gn:longitude":67.90355,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Argun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217845
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"34cff53d07cd85b408f478e7bd5ec49f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226757797,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1226757797,
+    "wof:lastmodified":1536698366,
+    "wof:name":"Argun",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.90355,
+    38.3996,
+    67.90355,
+    38.3996
+],
+  "geometry": {"coordinates":[67.90355,38.3996],"type":"Point"}
+}

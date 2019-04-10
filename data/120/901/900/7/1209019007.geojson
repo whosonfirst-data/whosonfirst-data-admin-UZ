@@ -1,0 +1,67 @@
+{
+  "id": 1209019007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.60053,40.58596,72.60053,40.58596",
+    "geom:latitude":40.58596,
+    "geom:longitude":72.60053,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Uymaut",
+    "gn:country_code":"UZ",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140000,
+    "gn:latitude":40.58596,
+    "gn:longitude":72.60053,
+    "gn:modification_date":"2015-06-04",
+    "gn:name":"Uymaut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0423\u0439\u043c\u0430\u0443\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0439\u043c\u0430\u0443\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140000
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ea375a5622c49b1e067998fab89a24d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209019007
+        }
+    ],
+    "wof:id":1209019007,
+    "wof:lastmodified":1537713406,
+    "wof:name":"Uymaut",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.60053,
+    40.58596,
+    72.60053,
+    40.58596
+],
+  "geometry": {"coordinates":[72.60053000000001,40.58596],"type":"Point"}
+}

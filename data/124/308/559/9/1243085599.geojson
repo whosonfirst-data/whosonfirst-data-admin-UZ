@@ -1,0 +1,65 @@
+{
+  "id": 1243085599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.85,39.45,63.85,39.45",
+    "geom:latitude":39.45,
+    "geom:longitude":63.85,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bangi",
+    "gn:country_code":"UZ",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217762,
+    "gn:latitude":39.45,
+    "gn:longitude":63.85,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Bangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217762
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"188427e95675e2f31a75b09586ae0711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243085599,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":1243085599,
+    "wof:lastmodified":1536827724,
+    "wof:name":"Bangi",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.85,
+    39.45,
+    63.85,
+    39.45
+],
+  "geometry": {"coordinates":[63.85,39.45],"type":"Point"}
+}

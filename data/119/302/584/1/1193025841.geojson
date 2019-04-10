@@ -1,0 +1,65 @@
+{
+  "id": 1193025841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.55,40.13333,66.55,40.13333",
+    "geom:latitude":40.13333,
+    "geom:longitude":66.55,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"It-Burabay",
+    "gn:country_code":"UZ",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513893,
+    "gn:latitude":40.13333,
+    "gn:longitude":66.55,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"It-Burabay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513893
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"de14a5c152e5f4a175c2dd2ae82ce68f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1193025841,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1193025841,
+    "wof:lastmodified":1536367999,
+    "wof:name":"It-Burabay",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.55,
+    40.13333,
+    66.55,
+    40.13333
+],
+  "geometry": {"coordinates":[66.55,40.13333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243164611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.04509,40.98096,72.04509,40.98096",
+    "geom:latitude":40.98096,
+    "geom:longitude":72.04509,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Toshloq",
+    "gn:country_code":"UZ",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514279,
+    "gn:latitude":40.98096,
+    "gn:longitude":72.04509,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Toshloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chak-Kulak",
+        "Tashlak"
+    ],
+    "name:uzb_x_preferred":[
+        "Toshloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514279
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"267b84b78b148d593a279451c7e4e1f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243164611,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1243164611,
+    "wof:lastmodified":1537713354,
+    "wof:name":"Toshloq",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.04509,
+    40.98096,
+    72.04509,
+    40.98096
+],
+  "geometry": {"coordinates":[72.04509,40.98096],"type":"Point"}
+}

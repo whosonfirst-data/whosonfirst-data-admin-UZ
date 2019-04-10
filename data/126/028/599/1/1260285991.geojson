@@ -1,0 +1,71 @@
+{
+  "id": 1260285991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.03539,40.4651,71.03539,40.4651",
+    "geom:latitude":40.4651,
+    "geom:longitude":71.03539,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Michurin",
+    "gn:country_code":"UZ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11057356,
+    "gn:latitude":40.4651,
+    "gn:longitude":71.03539,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Michurin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Michurin"
+    ],
+    "name:uzb_x_variant":[
+        "Qo\u2018qonboy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11057356
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4e9645f87c87244f1fa80f75e30dbe49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260285991,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1260285991,
+    "wof:lastmodified":1537713471,
+    "wof:name":"Michurin",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.03539,
+    40.4651,
+    71.03539,
+    40.4651
+],
+  "geometry": {"coordinates":[71.03539000000001,40.4651],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360192055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.04305,40.54833,72.04305,40.54833",
+    "geom:latitude":40.54833,
+    "geom:longitude":72.04305,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pansod",
+    "gn:country_code":"UZ",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10975305,
+    "gn:latitude":40.54833,
+    "gn:longitude":72.04305,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Pansod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Pansod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10975305
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e96fe4d25d350797bf69ea440bc845c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360192055,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1360192055,
+    "wof:lastmodified":1537713461,
+    "wof:name":"Pansod",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.04305,
+    40.54833,
+    72.04305,
+    40.54833
+],
+  "geometry": {"coordinates":[72.04304999999999,40.54833],"type":"Point"}
+}

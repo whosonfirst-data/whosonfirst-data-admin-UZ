@@ -1,0 +1,70 @@
+{
+  "id": 1209903253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.09603,38.48476,68.09603,38.48476",
+    "geom:latitude":38.48476,
+    "geom:longitude":68.09603,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kichik-Sufiyon",
+    "gn:country_code":"UZ",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216071,
+    "gn:latitude":38.48476,
+    "gn:longitude":68.09603,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Kichik-S\u016dfiyon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kichik-Sufiyan",
+        "Sufion",
+        "Sufiyan",
+        "S\u016dfiyon",
+        "Kichik-S\u016dfiyon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216071
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"29cf1763ce400bc698799b1fe98227df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209903253,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209903253,
+    "wof:lastmodified":1537713243,
+    "wof:name":"Kichik-Sufiyon",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.09603,
+    38.48476,
+    68.09603,
+    38.48476
+],
+  "geometry": {"coordinates":[68.09603,38.48476],"type":"Point"}
+}

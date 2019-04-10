@@ -1,0 +1,71 @@
+{
+  "id": 1242670189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.63601,40.99364,70.63601,40.99364",
+    "geom:latitude":40.99364,
+    "geom:longitude":70.63601,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Rezak",
+    "gn:country_code":"UZ",
+    "gn:dem":1460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7567038,
+    "gn:latitude":40.99364,
+    "gn:longitude":70.63601,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rezak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rizak"
+    ],
+    "name:uzb_x_preferred":[
+        "Rezak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7567038
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9f48e145d74efe4610ea71634d495e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242670189,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1242670189,
+    "wof:lastmodified":1537713392,
+    "wof:name":"Rezak",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.63601,
+    40.99364,
+    70.63601,
+    40.99364
+],
+  "geometry": {"coordinates":[70.63601,40.99364],"type":"Point"}
+}

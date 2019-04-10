@@ -1,0 +1,68 @@
+{
+  "id": 1293083141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.76161,40.5519,68.76161,40.5519",
+    "geom:latitude":40.5519,
+    "geom:longitude":68.76161,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"H. Olimjon Nomli",
+    "gn:country_code":"UZ",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242323,
+    "gn:latitude":40.5519,
+    "gn:longitude":68.76161,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"H. Olimjon Nomli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "H. Olimjon Nomli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242323
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"475723fd111918c63e6f7c9ffb5b5957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293083141,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1293083141,
+    "wof:lastmodified":1537713492,
+    "wof:name":"H. Olimjon Nomli",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.76161,
+    40.5519,
+    68.76161,
+    40.5519
+],
+  "geometry": {"coordinates":[68.76161,40.5519],"type":"Point"}
+}

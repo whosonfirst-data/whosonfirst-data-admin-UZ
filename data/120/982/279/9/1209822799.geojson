@@ -1,0 +1,74 @@
+{
+  "id": 1209822799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.05739,40.54941,72.05739,40.54941",
+    "geom:latitude":40.54941,
+    "geom:longitude":72.05739,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yuqori-Xo`jaxasan",
+    "gn:country_code":"UZ",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140554,
+    "gn:latitude":40.54941,
+    "gn:longitude":72.05739,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Yuqori-Xo\u2018jaxasan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042e\u043a\u0430\u0440\u044b-\u0425\u043e\u0434\u0436\u0430\u0445\u0430\u0441\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Yukary-Khodzhakhasan"
+    ],
+    "name:uzb_x_preferred":[
+        "Yuqori-Xo\u2018jaxasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140554
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"cbd4039bdae9cd20f7ec5ca8dd640606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209822799,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1209822799,
+    "wof:lastmodified":1537713415,
+    "wof:name":"Yuqori-Xo`jaxasan",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.05739,
+    40.54941,
+    72.05739,
+    40.54941
+],
+  "geometry": {"coordinates":[72.05739,40.54941],"type":"Point"}
+}

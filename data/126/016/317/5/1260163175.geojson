@@ -1,0 +1,68 @@
+{
+  "id": 1260163175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.34336,40.26937,68.34336,40.26937",
+    "geom:latitude":40.26937,
+    "geom:longitude":68.34336,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Bahor",
+    "gn:country_code":"UZ",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242574,
+    "gn:latitude":40.26937,
+    "gn:longitude":68.34336,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Bahor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Bahor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242574
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b0609d72cd13ab7cf93d05fb6f5fbfd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260163175,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1260163175,
+    "wof:lastmodified":1537713496,
+    "wof:name":"Bahor",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.34336,
+    40.26937,
+    68.34336,
+    40.26937
+],
+  "geometry": {"coordinates":[68.34336,40.26937],"type":"Point"}
+}

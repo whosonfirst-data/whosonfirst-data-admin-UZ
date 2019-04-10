@@ -1,0 +1,68 @@
+{
+  "id": 1309689455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.38922,37.72572,67.38922,37.72572",
+    "geom:latitude":37.72572,
+    "geom:longitude":67.38922,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Dehqonobod",
+    "gn:country_code":"UZ",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244839,
+    "gn:latitude":37.72572,
+    "gn:longitude":67.38922,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Dehqonobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Dehqonobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244839
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"31e8390156164559ac1b72e7c481778d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1309689455,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1309689455,
+    "wof:lastmodified":1537713499,
+    "wof:name":"Dehqonobod",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.38922,
+    37.72572,
+    67.38922,
+    37.72572
+],
+  "geometry": {"coordinates":[67.38921999999999,37.72572],"type":"Point"}
+}

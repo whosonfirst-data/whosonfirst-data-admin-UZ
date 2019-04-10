@@ -1,0 +1,76 @@
+{
+  "id": 1276869661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.07281,41.0321,72.07281,41.0321",
+    "geom:latitude":41.0321,
+    "geom:longitude":72.07281,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kattamug`ul",
+    "gn:country_code":"UZ",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513699,
+    "gn:latitude":41.0321,
+    "gn:longitude":72.07281,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Kattamug\u2018ul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katta-Mogol",
+        "Kattamugul",
+        "Kattamug\u2018ul"
+    ],
+    "name:uzb_x_preferred":[
+        "Kattamug\u2018ul"
+    ],
+    "name:uzb_x_variant":[
+        "Kattamo\u2018g\u2018ol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513699
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"adf51b29b783c94e571517ebe158ade5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276869661,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1276869661,
+    "wof:lastmodified":1537713337,
+    "wof:name":"Kattamug`ul",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.07281,
+    41.0321,
+    72.07281,
+    41.0321
+],
+  "geometry": {"coordinates":[72.07281,41.0321],"type":"Point"}
+}

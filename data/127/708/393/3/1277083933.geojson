@@ -1,0 +1,74 @@
+{
+  "id": 1277083933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.60662,40.67809,72.60662,40.67809",
+    "geom:latitude":40.67809,
+    "geom:longitude":72.60662,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Do`ngqishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163729,
+    "gn:latitude":40.67809,
+    "gn:longitude":72.60662,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Do\u2018ngqishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043d\u0433\u043a\u0438\u0448\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Dungkishlak"
+    ],
+    "name:uzb_x_preferred":[
+        "Do\u2018ngqishloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163729
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d115506111aa7a0cadfb6d41682c4461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1277083933,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1277083933,
+    "wof:lastmodified":1537713434,
+    "wof:name":"Do`ngqishloq",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.60661999999998,
+    40.67809000000001,
+    72.60661999999998,
+    40.67809000000001
+],
+  "geometry": {"coordinates":[72.60661999999998,40.67809000000001],"type":"Point"}
+}

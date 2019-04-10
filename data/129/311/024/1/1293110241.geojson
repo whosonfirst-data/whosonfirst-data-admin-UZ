@@ -1,0 +1,65 @@
+{
+  "id": 1293110241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.02148,40.52831,72.02148,40.52831",
+    "geom:latitude":40.52831,
+    "geom:longitude":72.02148,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pandigan",
+    "gn:country_code":"UZ",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140529,
+    "gn:latitude":40.52831,
+    "gn:longitude":72.02148,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Pandigan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140529
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5ebf38b29bf8078d62d01196d9194271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293110241,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1293110241,
+    "wof:lastmodified":1536832892,
+    "wof:name":"Pandigan",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.02148000000003,
+    40.52831,
+    72.02148000000003,
+    40.52831
+],
+  "geometry": {"coordinates":[72.02148000000003,40.52831],"type":"Point"}
+}

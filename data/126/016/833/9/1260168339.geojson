@@ -1,0 +1,68 @@
+{
+  "id": 1260168339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.95514,37.47219,66.95514,37.47219",
+    "geom:latitude":37.47219,
+    "geom:longitude":66.95514,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Yolg`izbog`",
+    "gn:country_code":"UZ",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244892,
+    "gn:latitude":37.47219,
+    "gn:longitude":66.95514,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Yolg\u2018izbog\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Yolg\u2018izbog\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244892
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7aeb059b33b0f8fa61ae2ed09d7820ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260168339,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1260168339,
+    "wof:lastmodified":1537713499,
+    "wof:name":"Yolg`izbog`",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.95514,
+    37.47219000000001,
+    66.95514,
+    37.47219000000001
+],
+  "geometry": {"coordinates":[66.95514,37.47219000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225962077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.755,40.57694,72.755,40.57694",
+    "geom:latitude":40.57694,
+    "geom:longitude":72.755,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ko`rpa",
+    "gn:country_code":"UZ",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513896,
+    "gn:latitude":40.57694,
+    "gn:longitude":72.755,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ko\u2018rpa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iski-Kurpe",
+        "Iski-Kurpa",
+        "Kurpa"
+    ],
+    "name:uzb_x_preferred":[
+        "Ko\u2018rpa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513896
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a243c38af594d8d39cc18ada90fea596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1225962077,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225962077,
+    "wof:lastmodified":1537713342,
+    "wof:name":"Ko`rpa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.755,
+    40.57694,
+    72.755,
+    40.57694
+],
+  "geometry": {"coordinates":[72.755,40.57694],"type":"Point"}
+}

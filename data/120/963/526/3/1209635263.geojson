@@ -1,0 +1,64 @@
+{
+  "id": 1209635263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.28333,38.78333,67.28333,38.78333",
+    "geom:latitude":38.78333,
+    "geom:longitude":67.28333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Koshol'ma",
+    "gn:country_code":"UZ",
+    "gn:dem":1993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216739,
+    "gn:latitude":38.78333,
+    "gn:longitude":67.28333,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Koshol\u2019ma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Koshol\u2019ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216739
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2da6acd22446aa82da771daa7429b4f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209635263
+        }
+    ],
+    "wof:id":1209635263,
+    "wof:lastmodified":1537713260,
+    "wof:name":"Koshol'ma",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.28333,
+    38.78333,
+    67.28333,
+    38.78333
+],
+  "geometry": {"coordinates":[67.28333000000001,38.78333],"type":"Point"}
+}

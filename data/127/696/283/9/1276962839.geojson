@@ -1,0 +1,68 @@
+{
+  "id": 1276962839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.74727,39.66568,65.74727,39.66568",
+    "geom:latitude":39.66568,
+    "geom:longitude":65.74727,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Zartepa Qishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7630373,
+    "gn:latitude":39.66568,
+    "gn:longitude":65.74727,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zartepa Qishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zartepa Qishloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7630373
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5c058cc87782bb06b27f2048c8f7d64c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276962839,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1276962839,
+    "wof:lastmodified":1537713402,
+    "wof:name":"Zartepa Qishloq",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.74727,
+    39.66568,
+    65.74727,
+    39.66568
+],
+  "geometry": {"coordinates":[65.74727,39.66568],"type":"Point"}
+}

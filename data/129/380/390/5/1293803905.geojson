@@ -1,0 +1,65 @@
+{
+  "id": 1293803905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.95284,39.0065,66.95284,39.0065",
+    "geom:latitude":39.0065,
+    "geom:longitude":66.95284,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ustoy",
+    "gn:country_code":"UZ",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7788373,
+    "gn:latitude":39.0065,
+    "gn:longitude":66.95284,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Ustoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7788373
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b3c86cc5a987c967b919837d6372049b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293803905,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1293803905,
+    "wof:lastmodified":1536827115,
+    "wof:name":"Ustoy",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.95284000000001,
+    39.0065,
+    66.95284000000001,
+    39.0065
+],
+  "geometry": {"coordinates":[66.95284000000001,39.0065],"type":"Point"}
+}

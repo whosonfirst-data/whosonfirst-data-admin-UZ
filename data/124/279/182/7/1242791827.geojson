@@ -1,0 +1,68 @@
+{
+  "id": 1242791827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.97567,40.69595,71.97567,40.69595",
+    "geom:latitude":40.69595,
+    "geom:longitude":71.97567,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Farmonchek",
+    "gn:country_code":"UZ",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11105003,
+    "gn:latitude":40.69595,
+    "gn:longitude":71.97567,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Farmonchek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Farmonchek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11105003
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"66a13b29a9862f1f497d5697f76c9d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242791827,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1242791827,
+    "wof:lastmodified":1537713478,
+    "wof:name":"Farmonchek",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.97567,
+    40.69595,
+    71.97567,
+    40.69595
+],
+  "geometry": {"coordinates":[71.97566999999999,40.69595],"type":"Point"}
+}

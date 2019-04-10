@@ -1,0 +1,68 @@
+{
+  "id": 1209717473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.82272,40.52015,70.82272,40.52015",
+    "geom:latitude":40.52015,
+    "geom:longitude":70.82272,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shuxay",
+    "gn:country_code":"UZ",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10651248,
+    "gn:latitude":40.52015,
+    "gn:longitude":70.82272,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Shuxay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Shuxay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10651248
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2502f67abb4b41f7bfdf477e5e8cb272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209717473,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1209717473,
+    "wof:lastmodified":1537713446,
+    "wof:name":"Shuxay",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.82271999999998,
+    40.52015,
+    70.82271999999998,
+    40.52015
+],
+  "geometry": {"coordinates":[70.82271999999998,40.52015],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343456337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.18254,41.18896,71.18254,41.18896",
+    "geom:latitude":41.18896,
+    "geom:longitude":71.18254,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Oqtosh Qishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":1348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7577823,
+    "gn:latitude":41.18896,
+    "gn:longitude":71.18254,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Oqtosh Qishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oqtosh Qishloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577823
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"316f039756a7a683aa1da5bbba61fbf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1343456337,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343456337,
+    "wof:lastmodified":1537713393,
+    "wof:name":"Oqtosh Qishloq",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.18254,
+    41.18896,
+    71.18254,
+    41.18896
+],
+  "geometry": {"coordinates":[71.18254,41.18896],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1226121465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.25,41.11667,69.25,41.11667",
+    "geom:latitude":41.11667,
+    "geom:longitude":69.25,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Dzhunurun-Kala",
+    "gn:country_code":"UZ",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514054,
+    "gn:latitude":41.11667,
+    "gn:longitude":69.25,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Dzhunurun-Kala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514054
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5d5c271591b2c748182329f480366940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226121465,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1226121465,
+    "wof:lastmodified":1536613496,
+    "wof:name":"Dzhunurun-Kala",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.25,
+    41.11667,
+    69.25,
+    41.11667
+],
+  "geometry": {"coordinates":[69.25,41.11667],"type":"Point"}
+}

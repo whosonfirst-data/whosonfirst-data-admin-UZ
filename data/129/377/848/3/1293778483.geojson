@@ -1,0 +1,65 @@
+{
+  "id": 1293778483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.79439,43.09189,59.79439,43.09189",
+    "geom:latitude":43.09189,
+    "geom:longitude":59.79439,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Maylibolta",
+    "gn:country_code":"UZ",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889139,
+    "gn:latitude":43.09189,
+    "gn:longitude":59.79439,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Maylibolta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889139
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"826fd81cc01fb246812812a4fcf90230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293778483,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1293778483,
+    "wof:lastmodified":1536863283,
+    "wof:name":"Maylibolta",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.79439,
+    43.09189,
+    59.79439,
+    43.09189
+],
+  "geometry": {"coordinates":[59.79439,43.09189],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293095591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.96319,40.14429,64.96319,40.14429",
+    "geom:latitude":40.14429,
+    "geom:longitude":64.96319,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Toshrabot",
+    "gn:country_code":"UZ",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512641,
+    "gn:latitude":40.14429,
+    "gn:longitude":64.96319,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Toshrabot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tash-Rabat",
+        "Tashrabad",
+        "Toshrabot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512641
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"216bea4d05d2dd5f6dbb06c0ca5e6d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293095591,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1293095591,
+    "wof:lastmodified":1537713308,
+    "wof:name":"Toshrabot",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.96319,
+    40.14429000000001,
+    64.96319,
+    40.14429000000001
+],
+  "geometry": {"coordinates":[64.96319,40.14429000000001],"type":"Point"}
+}

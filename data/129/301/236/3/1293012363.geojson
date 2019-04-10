@@ -1,0 +1,71 @@
+{
+  "id": 1293012363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.79265,40.59864,71.79265,40.59864",
+    "geom:latitude":40.59864,
+    "geom:longitude":71.79265,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Budkachi",
+    "gn:country_code":"UZ",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10973179,
+    "gn:latitude":40.59864,
+    "gn:longitude":71.79265,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Budkachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Budkachi"
+    ],
+    "name:uzb_x_variant":[
+        "Bo\u2018tkachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10973179
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4d22f3dd875ca8c008513a17ed3840dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293012363,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1293012363,
+    "wof:lastmodified":1537713455,
+    "wof:name":"Budkachi",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.79265,
+    40.59864,
+    71.79265,
+    40.59864
+],
+  "geometry": {"coordinates":[71.79264999999999,40.59864],"type":"Point"}
+}

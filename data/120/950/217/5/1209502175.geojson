@@ -1,0 +1,64 @@
+{
+  "id": 1209502175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.2347,37.7535,67.2347,37.7535",
+    "geom:latitude":37.7535,
+    "geom:longitude":67.2347,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Navbur",
+    "gn:country_code":"UZ",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244841,
+    "gn:latitude":37.7535,
+    "gn:longitude":67.2347,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Navbur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Navbur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244841
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5588aead2c070bf4b65ad03fcd49201c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209502175
+        }
+    ],
+    "wof:id":1209502175,
+    "wof:lastmodified":1537713499,
+    "wof:name":"Navbur",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.2347,
+    37.7535,
+    67.2347,
+    37.7535
+],
+  "geometry": {"coordinates":[67.2347,37.7535],"type":"Point"}
+}

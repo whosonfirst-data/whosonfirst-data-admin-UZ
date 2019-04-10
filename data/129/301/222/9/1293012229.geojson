@@ -1,0 +1,65 @@
+{
+  "id": 1293012229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.71667,40.35,70.71667,40.35",
+    "geom:latitude":40.35,
+    "geom:longitude":70.71667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Begovat",
+    "gn:country_code":"UZ",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514405,
+    "gn:latitude":40.35,
+    "gn:longitude":70.71667,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Begovat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514405
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d196d37110114931fb25c0945f5cb827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293012229,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1293012229,
+    "wof:lastmodified":1536974641,
+    "wof:name":"Begovat",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.71667,
+    40.35,
+    70.71667,
+    40.35
+],
+  "geometry": {"coordinates":[70.71666999999999,40.35],"type":"Point"}
+}

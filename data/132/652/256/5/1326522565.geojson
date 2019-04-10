@@ -1,0 +1,77 @@
+{
+  "id": 1326522565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.95285,40.90853,71.95285,40.90853",
+    "geom:latitude":40.90853,
+    "geom:longitude":71.95285,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Xo`jantol",
+    "gn:country_code":"UZ",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7528110,
+    "gn:latitude":40.90853,
+    "gn:longitude":71.95285,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Xo\u2018jantol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Xo\u2018jantol"
+    ],
+    "name:kir_x_preferred":[
+        "Xo\u2018jantol"
+    ],
+    "name:rus_x_preferred":[
+        "Khodzhigul\u2019"
+    ],
+    "name:uzb_x_preferred":[
+        "Xojintol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7528110
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e94de952cc55735ddb1417bcfc72566c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326522565,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1326522565,
+    "wof:lastmodified":1537713377,
+    "wof:name":"Xo`jantol",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.95285,
+    40.90853,
+    71.95285,
+    40.90853
+],
+  "geometry": {"coordinates":[71.95285,40.90853],"type":"Point"}
+}

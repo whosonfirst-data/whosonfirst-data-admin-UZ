@@ -1,0 +1,65 @@
+{
+  "id": 1226039707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.68333,39.98333,64.68333,39.98333",
+    "geom:latitude":39.98333,
+    "geom:longitude":64.68333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Khanaka",
+    "gn:country_code":"UZ",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216928,
+    "gn:latitude":39.98333,
+    "gn:longitude":64.68333,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Khanaka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216928
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f070eba05a4e9175a9a7fafb00c52886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226039707,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1226039707,
+    "wof:lastmodified":1536734105,
+    "wof:name":"Khanaka",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.68333,
+    39.98333,
+    64.68333,
+    39.98333
+],
+  "geometry": {"coordinates":[64.68333,39.98333],"type":"Point"}
+}

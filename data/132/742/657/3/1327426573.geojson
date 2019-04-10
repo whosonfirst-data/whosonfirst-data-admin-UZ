@@ -1,0 +1,68 @@
+{
+  "id": 1327426573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.41511,40.92832,71.41511,40.92832",
+    "geom:latitude":40.92832,
+    "geom:longitude":71.41511,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Naymancha",
+    "gn:country_code":"UZ",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7540070,
+    "gn:latitude":40.92832,
+    "gn:longitude":71.41511,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Naymancha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Naymancha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7540070
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"06512eb3ecc884b20ecab3b45fbe44ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327426573,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1327426573,
+    "wof:lastmodified":1537713389,
+    "wof:name":"Naymancha",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.41511,
+    40.92832,
+    71.41511,
+    40.92832
+],
+  "geometry": {"coordinates":[71.41511,40.92832],"type":"Point"}
+}

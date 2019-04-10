@@ -1,0 +1,65 @@
+{
+  "id": 1226157829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.11667,39.98333,68.11667,39.98333",
+    "geom:latitude":39.98333,
+    "geom:longitude":68.11667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dzhapka-Tut",
+    "gn:country_code":"UZ",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217400,
+    "gn:latitude":39.98333,
+    "gn:longitude":68.11667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Dzhapka-Tut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217400
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e3c310e246526113c24c7d09b3104a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226157829,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1226157829,
+    "wof:lastmodified":1537057675,
+    "wof:name":"Dzhapka-Tut",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.11667,
+    39.98333,
+    68.11667,
+    39.98333
+],
+  "geometry": {"coordinates":[68.11667,39.98333],"type":"Point"}
+}

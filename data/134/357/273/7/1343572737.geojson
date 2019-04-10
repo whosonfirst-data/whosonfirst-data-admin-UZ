@@ -1,0 +1,68 @@
+{
+  "id": 1343572737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.86554,40.45719,70.86554,40.45719",
+    "geom:latitude":40.45719,
+    "geom:longitude":70.86554,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sochtepa",
+    "gn:country_code":"UZ",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10649181,
+    "gn:latitude":40.45719,
+    "gn:longitude":70.86554,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Sochtepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Sochtepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10649181
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0b3ee8122c803592519fd2c860fdad72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343572737,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1343572737,
+    "wof:lastmodified":1537713445,
+    "wof:name":"Sochtepa",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.86554,
+    40.45719,
+    70.86554,
+    40.45719
+],
+  "geometry": {"coordinates":[70.86554,40.45719],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310387583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.0075,40.58806,69.0075,40.58806",
+    "geom:latitude":40.58806,
+    "geom:longitude":69.0075,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Beshbuloq",
+    "gn:country_code":"UZ",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513160,
+    "gn:latitude":40.58806,
+    "gn:longitude":69.0075,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Beshbuloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nadezhdinskiy",
+        "Nadezhdinskoye",
+        "Krupskoy",
+        "Krupskoi",
+        "Imeni Krupskoy"
+    ],
+    "name:uzb_x_preferred":[
+        "Beshbuloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513160
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"eafa037b18f16b97ff02cbbe90b41d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310387583,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1310387583,
+    "wof:lastmodified":1537713321,
+    "wof:name":"Beshbuloq",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.0075,
+    40.58806,
+    69.0075,
+    40.58806
+],
+  "geometry": {"coordinates":[69.00749999999999,40.58806],"type":"Point"}
+}

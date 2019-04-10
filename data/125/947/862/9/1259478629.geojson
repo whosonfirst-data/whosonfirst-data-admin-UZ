@@ -1,0 +1,65 @@
+{
+  "id": 1259478629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.34195,39.28347,67.34195,39.28347",
+    "geom:latitude":39.28347,
+    "geom:longitude":67.34195,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sassiqchashma Buloq",
+    "gn:country_code":"UZ",
+    "gn:dem":1831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786167,
+    "gn:latitude":39.28347,
+    "gn:longitude":67.34195,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Sassiqchashma Buloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786167
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5eb223112871fc0f6c948bf19579bffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259478629,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1259478629,
+    "wof:lastmodified":1536864478,
+    "wof:name":"Sassiqchashma Buloq",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.34195,
+    39.28347,
+    67.34195,
+    39.28347
+],
+  "geometry": {"coordinates":[67.34195,39.28347],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343532259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.02118,40.99156,69.02118,40.99156",
+    "geom:latitude":40.99156,
+    "geom:longitude":69.02118,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Boytepa",
+    "gn:country_code":"UZ",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241806,
+    "gn:latitude":40.99156,
+    "gn:longitude":69.02118,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Boytepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Boytepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241806
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"37dff070e17c896df551815c37883677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343532259,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1343532259,
+    "wof:lastmodified":1537713485,
+    "wof:name":"Boytepa",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.02118,
+    40.99156,
+    69.02118,
+    40.99156
+],
+  "geometry": {"coordinates":[69.02118,40.99156],"type":"Point"}
+}

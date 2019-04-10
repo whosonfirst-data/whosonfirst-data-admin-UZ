@@ -1,0 +1,73 @@
+{
+  "id": 1276996225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.33333,41.2,61.33333,41.2",
+    "geom:latitude":41.2,
+    "geom:longitude":61.33333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pitnyak",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512994,
+    "gn:latitude":41.2,
+    "gn:longitude":61.33333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pitnyak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kichikangly",
+        "Putnyak",
+        "Kichik-Kangly",
+        "Pitryak",
+        "Pitnyak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512994
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e20e7ae40286a29edc6d5546fbaaf5a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276996225,
+            "region_id":85680377
+        }
+    ],
+    "wof:id":1276996225,
+    "wof:lastmodified":1537713316,
+    "wof:name":"Pitnyak",
+    "wof:parent_id":85680377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.33333,
+    41.2,
+    61.33333,
+    41.2
+],
+  "geometry": {"coordinates":[61.33333,41.2],"type":"Point"}
+}

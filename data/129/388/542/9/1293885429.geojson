@@ -1,0 +1,68 @@
+{
+  "id": 1293885429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.62455,40.46509,71.62455,40.46509",
+    "geom:latitude":40.46509,
+    "geom:longitude":71.62455,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qoraariq",
+    "gn:country_code":"UZ",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10975366,
+    "gn:latitude":40.46509,
+    "gn:longitude":71.62455,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Qoraariq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Qoraariq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10975366
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d139a4b1c9de56309ca69b8dd722289a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293885429,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1293885429,
+    "wof:lastmodified":1537713462,
+    "wof:name":"Qoraariq",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.62455,
+    40.46509,
+    71.62455,
+    40.46509
+],
+  "geometry": {"coordinates":[71.62455,40.46509],"type":"Point"}
+}

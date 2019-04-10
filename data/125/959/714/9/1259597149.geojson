@@ -1,0 +1,74 @@
+{
+  "id": 1259597149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.01682,40.66078,72.01682,40.66078",
+    "geom:latitude":40.66078,
+    "geom:longitude":72.01682,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bobochek",
+    "gn:country_code":"UZ",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140299,
+    "gn:latitude":40.66078,
+    "gn:longitude":72.01682,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Bobochek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431\u0430\u0447\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Babachek"
+    ],
+    "name:uzb_x_preferred":[
+        "Bobochek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140299
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"3c28f5f371ebf3bc7a9e64f308343b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259597149,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1259597149,
+    "wof:lastmodified":1537713407,
+    "wof:name":"Bobochek",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.01682,
+    40.66078,
+    72.01682,
+    40.66078
+],
+  "geometry": {"coordinates":[72.01682,40.66078],"type":"Point"}
+}

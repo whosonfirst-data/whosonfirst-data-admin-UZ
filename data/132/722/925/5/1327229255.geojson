@@ -1,0 +1,71 @@
+{
+  "id": 1327229255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.66786,41.39458,71.66786,41.39458",
+    "geom:latitude":41.39458,
+    "geom:longitude":71.66786,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Shilvi",
+    "gn:country_code":"UZ",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7579679,
+    "gn:latitude":41.39458,
+    "gn:longitude":71.66786,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Shilvi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shilba"
+    ],
+    "name:uzb_x_preferred":[
+        "Shilvi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7579679
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"cc02d44413bd77202ed4fe5182648d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327229255,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1327229255,
+    "wof:lastmodified":1537713394,
+    "wof:name":"Shilvi",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.66786,
+    41.39458,
+    71.66786,
+    41.39458
+],
+  "geometry": {"coordinates":[71.66786,41.39458],"type":"Point"}
+}

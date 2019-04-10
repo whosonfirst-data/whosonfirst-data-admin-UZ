@@ -1,0 +1,71 @@
+{
+  "id": 1259485175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.02839,40.36682,71.02839,40.36682",
+    "geom:latitude":40.36682,
+    "geom:longitude":71.02839,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sufi",
+    "gn:country_code":"UZ",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11057343,
+    "gn:latitude":40.36682,
+    "gn:longitude":71.02839,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Sufi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Sufi"
+    ],
+    "name:uzb_x_variant":[
+        "Supi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11057343
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"01e1bcb06cbfe87868185acc3e4d76cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259485175,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1259485175,
+    "wof:lastmodified":1537713470,
+    "wof:name":"Sufi",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.02839,
+    40.36682,
+    71.02839,
+    40.36682
+],
+  "geometry": {"coordinates":[71.02839,40.36682],"type":"Point"}
+}

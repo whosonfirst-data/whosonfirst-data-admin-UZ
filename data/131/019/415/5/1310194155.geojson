@@ -1,0 +1,67 @@
+{
+  "id": 1310194155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.15,41.1,68.15,41.1",
+    "geom:latitude":41.1,
+    "geom:longitude":68.15,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Inkamys",
+    "gn:country_code":"UZ",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1513917,
+    "gn:latitude":41.1,
+    "gn:longitude":68.15,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Inkamys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513917
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0f233c5a9845093154164076e5fb2b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785365,
+            "locality_id":1310194155,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1310194155,
+    "wof:lastmodified":1536867427,
+    "wof:name":"Inkamys",
+    "wof:parent_id":1108785365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.15,
+    41.1,
+    68.15,
+    41.1
+],
+  "geometry": {"coordinates":[68.15000000000001,41.1],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360194251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.1422,40.61812,72.1422,40.61812",
+    "geom:latitude":40.61812,
+    "geom:longitude":72.1422,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bozorboshi",
+    "gn:country_code":"UZ",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140427,
+    "gn:latitude":40.61812,
+    "gn:longitude":72.1422,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Bozorboshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0437\u0430\u0440\u0431\u0430\u0448\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bazarbashi"
+    ],
+    "name:uzb_x_preferred":[
+        "Bozorboshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140427
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0dbd20d3bc2e87aab3b2f81b25c26038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360194251,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1360194251,
+    "wof:lastmodified":1537713411,
+    "wof:name":"Bozorboshi",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.1422,
+    40.61812000000001,
+    72.1422,
+    40.61812000000001
+],
+  "geometry": {"coordinates":[72.1422,40.61812000000001],"type":"Point"}
+}

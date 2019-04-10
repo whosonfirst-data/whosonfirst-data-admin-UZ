@@ -1,0 +1,65 @@
+{
+  "id": 1293314007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.05,40.23333,66.05,40.23333",
+    "geom:latitude":40.23333,
+    "geom:longitude":66.05,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kuppai",
+    "gn:country_code":"UZ",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513382,
+    "gn:latitude":40.23333,
+    "gn:longitude":66.05,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kuppai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513382
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"fa2fb7fffd2f6c80d293b69db5f5206c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293314007,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1293314007,
+    "wof:lastmodified":1537035657,
+    "wof:name":"Kuppai",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.05,
+    40.23333,
+    66.05,
+    40.23333
+],
+  "geometry": {"coordinates":[66.05,40.23333],"type":"Point"}
+}

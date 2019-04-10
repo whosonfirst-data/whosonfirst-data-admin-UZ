@@ -1,0 +1,67 @@
+{
+  "id": 1259397263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.1,38.41667,68.1,38.41667",
+    "geom:latitude":38.41667,
+    "geom:longitude":68.1,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Novosay",
+    "gn:country_code":"UZ",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216391,
+    "gn:latitude":38.41667,
+    "gn:longitude":68.1,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Novosay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216391
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"3c3443bce60f05aa6b690c61a2cd686e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918055,
+            "locality_id":1259397263,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1259397263,
+    "wof:lastmodified":1536981713,
+    "wof:name":"Novosay",
+    "wof:parent_id":1091918055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.1,
+    38.41667,
+    68.1,
+    38.41667
+],
+  "geometry": {"coordinates":[68.09999999999999,38.41667],"type":"Point"}
+}

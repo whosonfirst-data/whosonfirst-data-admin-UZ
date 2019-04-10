@@ -1,0 +1,74 @@
+{
+  "id": 1293407583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.12943,40.88505,72.12943,40.88505",
+    "geom:latitude":40.88505,
+    "geom:longitude":72.12943,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qumariq",
+    "gn:country_code":"UZ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7528850,
+    "gn:latitude":40.88505,
+    "gn:longitude":72.12943,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qumariq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qumariq"
+    ],
+    "name:und_x_variant":[
+        "Kumaryk"
+    ],
+    "name:uzb_x_preferred":[
+        "Qumariq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7528850
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"3688b98770a321641ddab87a25146a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293407583,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1293407583,
+    "wof:lastmodified":1537713381,
+    "wof:name":"Qumariq",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.12943,
+    40.88505,
+    72.12943,
+    40.88505
+],
+  "geometry": {"coordinates":[72.12943,40.88505],"type":"Point"}
+}

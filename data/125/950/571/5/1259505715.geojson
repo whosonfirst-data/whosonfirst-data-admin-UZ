@@ -1,0 +1,68 @@
+{
+  "id": 1259505715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.54126,41.03659,71.54126,41.03659",
+    "geom:latitude":41.03659,
+    "geom:longitude":71.54126,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bo`stonobod",
+    "gn:country_code":"UZ",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580399,
+    "gn:latitude":41.03659,
+    "gn:longitude":71.54126,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bo\u2018stonobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bo\u2018stonobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580399
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6313040a178698094ad0a5096e8cf734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259505715,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1259505715,
+    "wof:lastmodified":1537713398,
+    "wof:name":"Bo`stonobod",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.54126,
+    41.03659,
+    71.54126,
+    41.03659
+],
+  "geometry": {"coordinates":[71.54125999999999,41.03659],"type":"Point"}
+}

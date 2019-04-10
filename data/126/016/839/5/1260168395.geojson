@@ -1,0 +1,72 @@
+{
+  "id": 1260168395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.25222,38.08861,67.25222,38.08861",
+    "geom:latitude":38.08861,
+    "geom:longitude":67.25222,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kofrun",
+    "gn:country_code":"UZ",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217185,
+    "gn:latitude":38.08861,
+    "gn:longitude":67.25222,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Kofrun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafran",
+        "Kafrun"
+    ],
+    "name:uzb_x_preferred":[
+        "Kofrun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217185
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2d00a0867a600632ab9508bef18823e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260168395,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1260168395,
+    "wof:lastmodified":1537713272,
+    "wof:name":"Kofrun",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.25222,
+    38.08861,
+    67.25222,
+    38.08861
+],
+  "geometry": {"coordinates":[67.25221999999999,38.08861],"type":"Point"}
+}

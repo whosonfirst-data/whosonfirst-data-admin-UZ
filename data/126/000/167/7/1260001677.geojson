@@ -1,0 +1,74 @@
+{
+  "id": 1260001677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.17291,40.97257,72.17291,40.97257",
+    "geom:latitude":40.97257,
+    "geom:longitude":72.17291,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Yangiobod",
+    "gn:country_code":"UZ",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148744,
+    "gn:latitude":40.97257,
+    "gn:longitude":72.17291,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Yangiobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u0433\u0438\u0430\u0431\u0430\u0434"
+    ],
+    "name:und_x_variant":[
+        "Yangiabad"
+    ],
+    "name:uzb_x_preferred":[
+        "Yangiobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148744
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"42cc2fddc39cddc69ce35fb92c81a212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260001677,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1260001677,
+    "wof:lastmodified":1537713416,
+    "wof:name":"Yangiobod",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.17291,
+    40.97257000000001,
+    72.17291,
+    40.97257000000001
+],
+  "geometry": {"coordinates":[72.17291,40.97257000000001],"type":"Point"}
+}

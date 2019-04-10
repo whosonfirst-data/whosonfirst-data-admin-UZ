@@ -1,0 +1,68 @@
+{
+  "id": 1243275445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.72716,40.4367,70.72716,40.4367",
+    "geom:latitude":40.4367,
+    "geom:longitude":70.72716,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Komilcho`l",
+    "gn:country_code":"UZ",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646176,
+    "gn:latitude":40.4367,
+    "gn:longitude":70.72716,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Komilcho\u2018l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Komilcho\u2018l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646176
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a1d8575d8a9378adba7c9d04e8808900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243275445,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1243275445,
+    "wof:lastmodified":1537713442,
+    "wof:name":"Komilcho`l",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.72716,
+    40.4367,
+    70.72716,
+    40.4367
+],
+  "geometry": {"coordinates":[70.72716,40.4367],"type":"Point"}
+}

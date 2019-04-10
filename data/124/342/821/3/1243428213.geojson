@@ -1,0 +1,68 @@
+{
+  "id": 1243428213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.09933,40.69338,69.09933,40.69338",
+    "geom:latitude":40.69338,
+    "geom:longitude":69.09933,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Jing`ilsoy",
+    "gn:country_code":"UZ",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241928,
+    "gn:latitude":40.69338,
+    "gn:longitude":69.09933,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Jing\u2018ilsoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Jing\u2018ilsoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241928
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"499bae6d4e20395c85054e92826a46c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243428213,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1243428213,
+    "wof:lastmodified":1537713489,
+    "wof:name":"Jing`ilsoy",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.09933000000001,
+    40.69338,
+    69.09933000000001,
+    40.69338
+],
+  "geometry": {"coordinates":[69.09933000000001,40.69338],"type":"Point"}
+}

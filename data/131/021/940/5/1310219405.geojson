@@ -1,0 +1,78 @@
+{
+  "id": 1310219405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.02663,40.83646,73.02663,40.83646",
+    "geom:latitude":40.83646,
+    "geom:longitude":73.02663,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Xodirsho",
+    "gn:country_code":"UZ",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527952,
+    "gn:latitude":40.83646,
+    "gn:longitude":73.02663,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Xodirsho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0434\u044b\u0440\u0448\u0430"
+    ],
+    "name:und_x_variant":[
+        "Khadyrsha"
+    ],
+    "name:uzb_x_preferred":[
+        "Xodirsho"
+    ],
+    "name:uzb_x_variant":[
+        "Xidirsho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527952,
+        "wk:page":"Khadyrsha"
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"51754f10cfc7d1aa675e016eeaae161c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310219405,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1310219405,
+    "wof:lastmodified":1537713367,
+    "wof:name":"Xodirsho",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.02663000000003,
+    40.83646,
+    73.02663000000003,
+    40.83646
+],
+  "geometry": {"coordinates":[73.02663000000003,40.83646],"type":"Point"}
+}

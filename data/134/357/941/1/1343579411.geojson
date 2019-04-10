@@ -1,0 +1,70 @@
+{
+  "id": 1343579411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.65,39.7,67.65,39.7",
+    "geom:latitude":39.7,
+    "geom:longitude":67.65,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Balankishlak",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":1429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217772,
+    "gn:latitude":39.7,
+    "gn:longitude":67.65,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Balankishlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zimovka Ballan",
+        "Balankishlak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217772
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"3c2610b554379e9acaab6d53d978794a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343579411,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1343579411,
+    "wof:lastmodified":1537713285,
+    "wof:name":"Balankishlak",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.65,
+    39.7,
+    67.65,
+    39.7
+],
+  "geometry": {"coordinates":[67.65000000000001,39.7],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260063689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.94291,40.83845,68.94291,40.83845",
+    "geom:latitude":40.83845,
+    "geom:longitude":68.94291,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Oytamg`ali",
+    "gn:country_code":"UZ",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241864,
+    "gn:latitude":40.83845,
+    "gn:longitude":68.94291,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Oytamg\u2018ali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Oytamg\u2018ali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241864
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"3a56c4a7ee1104ce7b87fdeae57b8dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260063689,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1260063689,
+    "wof:lastmodified":1537713487,
+    "wof:name":"Oytamg`ali",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.94291,
+    40.83845,
+    68.94291,
+    40.83845
+],
+  "geometry": {"coordinates":[68.94291,40.83845],"type":"Point"}
+}

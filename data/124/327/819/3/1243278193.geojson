@@ -1,0 +1,66 @@
+{
+  "id": 1243278193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.37605,40.53246,72.37605,40.53246",
+    "geom:latitude":40.53246,
+    "geom:longitude":72.37605,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chayanbash",
+    "gn:country_code":"UZ",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140464,
+    "gn:latitude":40.53246,
+    "gn:longitude":72.37605,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Chayanbash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u044f\u043d\u0431\u0430\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140464
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c9443d0c063937cada8500817acde39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1243278193,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243278193,
+    "wof:lastmodified":1537713413,
+    "wof:name":"Chayanbash",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.37605,
+    40.53246,
+    72.37605,
+    40.53246
+],
+  "geometry": {"coordinates":[72.37605000000001,40.53246],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343968149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.63333,39.96667,64.63333,39.96667",
+    "geom:latitude":39.96667,
+    "geom:longitude":64.63333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pushmon",
+    "gn:country_code":"UZ",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216315,
+    "gn:latitude":39.96667,
+    "gn:longitude":64.63333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Pushmon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216315
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b6a36a3943cfe8e9352bbf9311b0d0c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343968149,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1343968149,
+    "wof:lastmodified":1537008086,
+    "wof:name":"Pushmon",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.63333,
+    39.96667,
+    64.63333,
+    39.96667
+],
+  "geometry": {"coordinates":[64.63333,39.96667],"type":"Point"}
+}

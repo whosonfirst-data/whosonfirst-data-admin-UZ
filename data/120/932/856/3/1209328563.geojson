@@ -1,0 +1,61 @@
+{
+  "id": 1209328563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.36862,40.93576,72.36862,40.93576",
+    "geom:latitude":40.93576,
+    "geom:longitude":72.36862,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Beshmirza",
+    "gn:country_code":"UZ",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149498,
+    "gn:latitude":40.93576,
+    "gn:longitude":72.36862,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Beshmirza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149498
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"29769a571cce272ad7d5ef73101d933e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209328563
+        }
+    ],
+    "wof:id":1209328563,
+    "wof:lastmodified":1536290449,
+    "wof:name":"Beshmirza",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.36861999999998,
+    40.93576,
+    72.36861999999998,
+    40.93576
+],
+  "geometry": {"coordinates":[72.36861999999998,40.93576],"type":"Point"}
+}

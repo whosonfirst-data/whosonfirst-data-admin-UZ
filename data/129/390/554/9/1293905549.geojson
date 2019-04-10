@@ -1,0 +1,74 @@
+{
+  "id": 1293905549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.15481,41.13404,72.15481,41.13404",
+    "geom:latitude":41.13404,
+    "geom:longitude":72.15481,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Chorvador",
+    "gn:country_code":"UZ",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524747,
+    "gn:latitude":41.13404,
+    "gn:longitude":72.15481,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chorvador",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chorvador"
+    ],
+    "name:und_x_variant":[
+        "Charvadar"
+    ],
+    "name:uzb_x_preferred":[
+        "Chorvador"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524747
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f04288aa2f5d605ea18df36ad183d5cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293905549,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1293905549,
+    "wof:lastmodified":1537713375,
+    "wof:name":"Chorvador",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.15481,
+    41.13404,
+    72.15481,
+    41.13404
+],
+  "geometry": {"coordinates":[72.15481,41.13404],"type":"Point"}
+}

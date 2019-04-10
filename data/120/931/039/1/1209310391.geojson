@@ -1,0 +1,61 @@
+{
+  "id": 1209310391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.99086,43.08476,58.99086,43.08476",
+    "geom:latitude":43.08476,
+    "geom:longitude":58.99086,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bestom",
+    "gn:country_code":"UZ",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889053,
+    "gn:latitude":43.08476,
+    "gn:longitude":58.99086,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Bestom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889053
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1951d63a9815ae2e016c3cbec2c41f4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209310391
+        }
+    ],
+    "wof:id":1209310391,
+    "wof:lastmodified":1536291049,
+    "wof:name":"Bestom",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.99086,
+    43.08476,
+    58.99086,
+    43.08476
+],
+  "geometry": {"coordinates":[58.99086,43.08476],"type":"Point"}
+}

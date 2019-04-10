@@ -1,0 +1,68 @@
+{
+  "id": 1293093753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.65767,41.06325,71.65767,41.06325",
+    "geom:latitude":41.06325,
+    "geom:longitude":71.65767,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Duldi",
+    "gn:country_code":"UZ",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7578674,
+    "gn:latitude":41.06325,
+    "gn:longitude":71.65767,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Duldi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Duldi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7578674
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4d25943bee82dda169572655c5d0591f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293093753,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1293093753,
+    "wof:lastmodified":1537713393,
+    "wof:name":"Duldi",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.65767,
+    41.06325,
+    71.65767,
+    41.06325
+],
+  "geometry": {"coordinates":[71.65767,41.06325],"type":"Point"}
+}

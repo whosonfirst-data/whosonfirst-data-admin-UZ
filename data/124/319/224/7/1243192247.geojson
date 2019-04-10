@@ -1,0 +1,71 @@
+{
+  "id": 1243192247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.60827,38.72504,65.60827,38.72504",
+    "geom:latitude":38.72504,
+    "geom:longitude":65.60827,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Charog`il",
+    "gn:country_code":"UZ",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217604,
+    "gn:latitude":38.72504,
+    "gn:longitude":65.60827,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Charog\u2018il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kara-Kul\u2019",
+        "Chara-Kul\u2019",
+        "Charagyl",
+        "Charog\u2018il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217604
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0192e8a657bbcf4f9520bda83026dde2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243192247,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1243192247,
+    "wof:lastmodified":1537713282,
+    "wof:name":"Charog`il",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.60826999999999,
+    38.72504,
+    65.60826999999999,
+    38.72504
+],
+  "geometry": {"coordinates":[65.60826999999999,38.72504],"type":"Point"}
+}

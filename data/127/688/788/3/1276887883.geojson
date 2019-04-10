@@ -1,0 +1,68 @@
+{
+  "id": 1276887883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.58154,40.66546,72.58154,40.66546",
+    "geom:latitude":40.66546,
+    "geom:longitude":72.58154,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chek",
+    "gn:country_code":"UZ",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139958,
+    "gn:latitude":40.66546,
+    "gn:longitude":72.58154,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Chek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139958
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"243b4246b38da4473b3e0ff67d0ceac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276887883,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1276887883,
+    "wof:lastmodified":1537713406,
+    "wof:name":"Chek",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.58154,
+    40.66546,
+    72.58154,
+    40.66546
+],
+  "geometry": {"coordinates":[72.58154,40.66546],"type":"Point"}
+}

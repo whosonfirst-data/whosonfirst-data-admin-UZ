@@ -1,0 +1,72 @@
+{
+  "id": 1327138311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.97263,40.87677,71.97263,40.87677",
+    "geom:latitude":40.87677,
+    "geom:longitude":71.97263,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chinobod",
+    "gn:country_code":"UZ",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514219,
+    "gn:latitude":40.87677,
+    "gn:longitude":71.97263,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Chinobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chinovat",
+        "Tschinabad",
+        "Chinabad",
+        "Chinobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514219,
+        "wk:page":"Chinobod"
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"13ee988400b8f43b656d2a002f79b913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327138311,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1327138311,
+    "wof:lastmodified":1537713352,
+    "wof:name":"Chinobod",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.97263000000002,
+    40.87677,
+    71.97263000000002,
+    40.87677
+],
+  "geometry": {"coordinates":[71.97263000000002,40.87677],"type":"Point"}
+}

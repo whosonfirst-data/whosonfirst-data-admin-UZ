@@ -1,0 +1,65 @@
+{
+  "id": 1193037863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.54348,39.03279,66.54348,39.03279",
+    "geom:latitude":39.03279,
+    "geom:longitude":66.54348,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pakandi",
+    "gn:country_code":"UZ",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785313,
+    "gn:latitude":39.03279,
+    "gn:longitude":66.54348,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Pakandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785313
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2161c667446e8e8c6903738833a609c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1193037863,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1193037863,
+    "wof:lastmodified":1536379100,
+    "wof:name":"Pakandi",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.54348,
+    39.03279000000001,
+    66.54348,
+    39.03279000000001
+],
+  "geometry": {"coordinates":[66.54348,39.03279000000001],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310212697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.94393,40.2396,71.94393,40.2396",
+    "geom:latitude":40.2396,
+    "geom:longitude":71.94393,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gulmiyon",
+    "gn:country_code":"UZ",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376131,
+    "gn:latitude":40.2396,
+    "gn:longitude":71.94393,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Gulmiyon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Gul\u2019mion"
+    ],
+    "name:uzb_x_preferred":[
+        "Gulmiyon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376131
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"cdd8de6de5613415232589c5490964fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1310212697,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310212697,
+    "wof:lastmodified":1537713439,
+    "wof:name":"Gulmiyon",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.94393000000002,
+    40.2396,
+    71.94393000000002,
+    40.2396
+],
+  "geometry": {"coordinates":[71.94393000000002,40.2396],"type":"Point"}
+}

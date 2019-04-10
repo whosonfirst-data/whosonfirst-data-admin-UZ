@@ -1,0 +1,65 @@
+{
+  "id": 1326944863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.71667,37.88333,66.71667,37.88333",
+    "geom:latitude":37.88333,
+    "geom:longitude":66.71667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zara-Ut",
+    "gn:country_code":"UZ",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215677,
+    "gn:latitude":37.88333,
+    "gn:longitude":66.71667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Zara-Ut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215677
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"eaa611bbb0f59c65f46c7cb57e75d5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326944863,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1326944863,
+    "wof:lastmodified":1536886057,
+    "wof:name":"Zara-Ut",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.71667,
+    37.88333,
+    66.71667,
+    37.88333
+],
+  "geometry": {"coordinates":[66.71666999999999,37.88333],"type":"Point"}
+}

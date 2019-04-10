@@ -1,0 +1,68 @@
+{
+  "id": 1310610637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.32987,40.54369,72.32987,40.54369",
+    "geom:latitude":40.54369,
+    "geom:longitude":72.32987,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kukanlik",
+    "gn:country_code":"UZ",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140449,
+    "gn:latitude":40.54369,
+    "gn:longitude":72.32987,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kukanlik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043a\u0430\u043d\u043b\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140449
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c4654aed155196e9387b1246821597a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310610637,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1310610637,
+    "wof:lastmodified":1537713412,
+    "wof:name":"Kukanlik",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.32987,
+    40.54369000000001,
+    72.32987,
+    40.54369000000001
+],
+  "geometry": {"coordinates":[72.32987,40.54369000000001],"type":"Point"}
+}

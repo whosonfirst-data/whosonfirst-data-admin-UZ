@@ -1,0 +1,65 @@
+{
+  "id": 1226222295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.14028,37.38944,67.14028,37.38944",
+    "geom:latitude":37.38944,
+    "geom:longitude":67.14028,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kyzyl-Yulduz",
+    "gn:country_code":"UZ",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475150,
+    "gn:latitude":37.38944,
+    "gn:longitude":67.14028,
+    "gn:modification_date":"2002-07-05",
+    "gn:name":"Kyzyl-Yulduz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475150
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"13f4c29a245e7c1531c755e2b5daaf2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226222295,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1226222295,
+    "wof:lastmodified":1536967210,
+    "wof:name":"Kyzyl-Yulduz",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.14028,
+    37.38944,
+    67.14028,
+    37.38944
+],
+  "geometry": {"coordinates":[67.14028,37.38944],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242791689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.15467,40.9224,72.15467,40.9224",
+    "geom:latitude":40.9224,
+    "geom:longitude":72.15467,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Elatan",
+    "gn:country_code":"UZ",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7528845,
+    "gn:latitude":40.9224,
+    "gn:longitude":72.15467,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Elatan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Elaton"
+    ],
+    "name:uzb_x_preferred":[
+        "Elaton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7528845
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f2e7bf6199b131dd255961ccff4a8806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242791689,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1242791689,
+    "wof:lastmodified":1537713381,
+    "wof:name":"Elatan",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.15467,
+    40.9224,
+    72.15467,
+    40.9224
+],
+  "geometry": {"coordinates":[72.15467,40.9224],"type":"Point"}
+}

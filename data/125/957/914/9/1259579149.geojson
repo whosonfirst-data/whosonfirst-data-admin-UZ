@@ -1,0 +1,69 @@
+{
+  "id": 1259579149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.84667,39.67444,66.84667,39.67444",
+    "geom:latitude":39.67444,
+    "geom:longitude":66.84667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kim'yogarlar",
+    "gn:country_code":"UZ",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216057,
+    "gn:latitude":39.67444,
+    "gn:longitude":66.84667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kim\u2019yogarlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Superfosfatnyy",
+        "Kim\u2019yogarlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216057
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b9fb8c6b41dd7be94e26af26a0cb67d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259579149,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1259579149,
+    "wof:lastmodified":1537713243,
+    "wof:name":"Kim'yogarlar",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.84666999999999,
+    39.67444,
+    66.84666999999999,
+    39.67444
+],
+  "geometry": {"coordinates":[66.84666999999999,39.67444],"type":"Point"}
+}

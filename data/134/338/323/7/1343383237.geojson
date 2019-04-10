@@ -1,0 +1,77 @@
+{
+  "id": 1343383237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.08298,40.92747,72.08298,40.92747",
+    "geom:latitude":40.92747,
+    "geom:longitude":72.08298,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sirmak",
+    "gn:country_code":"UZ",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7528862,
+    "gn:latitude":40.92747,
+    "gn:longitude":72.08298,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Sirmak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sirmak"
+    ],
+    "name:und_x_variant":[
+        "Syrmak"
+    ],
+    "name:uzb_x_preferred":[
+        "Sirmak"
+    ],
+    "name:uzb_x_variant":[
+        "Sirmoq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7528862
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"cec86e4dca3554c53377b1d7574aec73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343383237,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1343383237,
+    "wof:lastmodified":1537713382,
+    "wof:name":"Sirmak",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.08298,
+    40.92747,
+    72.08298,
+    40.92747
+],
+  "geometry": {"coordinates":[72.08298000000001,40.92747],"type":"Point"}
+}

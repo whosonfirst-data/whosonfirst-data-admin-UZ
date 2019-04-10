@@ -1,0 +1,64 @@
+{
+  "id": 1209299923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.89909,38.90479,66.89909,38.90479",
+    "geom:latitude":38.90479,
+    "geom:longitude":66.89909,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yangiqishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217139,
+    "gn:latitude":38.90479,
+    "gn:longitude":66.89909,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yangiqishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kam-Kishlak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217139
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"59c7154ed5323012b45d00e581e03756",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209299923
+        }
+    ],
+    "wof:id":1209299923,
+    "wof:lastmodified":1537713270,
+    "wof:name":"Yangiqishloq",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.89909,
+    38.90479000000001,
+    66.89909,
+    38.90479000000001
+],
+  "geometry": {"coordinates":[66.89909,38.90479000000001],"type":"Point"}
+}

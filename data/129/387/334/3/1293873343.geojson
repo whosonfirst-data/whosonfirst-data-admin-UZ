@@ -1,0 +1,68 @@
+{
+  "id": 1293873343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.01667,42.73333,59.01667,42.73333",
+    "geom:latitude":42.73333,
+    "geom:longitude":59.01667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Imeni Engel'sa",
+    "gn:country_code":"UZ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601372,
+    "gn:latitude":42.73333,
+    "gn:longitude":59.01667,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Imeni Engel\u2019sa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Imeni Engel\u2019sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601372
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"44a91302a6b9a369ef757eeb75d64106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293873343,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1293873343,
+    "wof:lastmodified":1537713231,
+    "wof:name":"Imeni Engel'sa",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.01667,
+    42.73333,
+    59.01667,
+    42.73333
+],
+  "geometry": {"coordinates":[59.01667,42.73333],"type":"Point"}
+}

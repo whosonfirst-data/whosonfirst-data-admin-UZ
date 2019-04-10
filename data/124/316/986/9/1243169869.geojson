@@ -1,0 +1,71 @@
+{
+  "id": 1243169869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.83212,41.27189,71.83212,41.27189",
+    "geom:latitude":41.27189,
+    "geom:longitude":71.83212,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Arbag`ish",
+    "gn:country_code":"UZ",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7579767,
+    "gn:latitude":41.27189,
+    "gn:longitude":71.83212,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Arbag\u2018ish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ariqbog\u2018ish"
+    ],
+    "name:uzb_x_preferred":[
+        "Arbag\u2018ish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7579767
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f7feab547892332e66095a24f6b4a24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243169869,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1243169869,
+    "wof:lastmodified":1537713395,
+    "wof:name":"Arbag`ish",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.83211999999997,
+    41.27189,
+    71.83211999999997,
+    41.27189
+],
+  "geometry": {"coordinates":[71.83211999999997,41.27189],"type":"Point"}
+}

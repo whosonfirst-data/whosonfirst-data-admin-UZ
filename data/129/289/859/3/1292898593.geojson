@@ -1,0 +1,68 @@
+{
+  "id": 1292898593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.10145,40.96548,72.10145,40.96548",
+    "geom:latitude":40.96548,
+    "geom:longitude":72.10145,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kyrgyzaul",
+    "gn:country_code":"UZ",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148749,
+    "gn:latitude":40.96548,
+    "gn:longitude":72.10145,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kyrgyzaul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0440\u0433\u044b\u0437\u0430\u0443\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148749
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"92288023f0077534e8dc6800c226b579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1292898593,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1292898593,
+    "wof:lastmodified":1537713416,
+    "wof:name":"Kyrgyzaul",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.10145,
+    40.96548,
+    72.10145,
+    40.96548
+],
+  "geometry": {"coordinates":[72.10145,40.96548],"type":"Point"}
+}

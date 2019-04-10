@@ -1,0 +1,65 @@
+{
+  "id": 1276676421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.88333,41.06667,70.88333,41.06667",
+    "geom:latitude":41.06667,
+    "geom:longitude":70.88333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mazar",
+    "gn:country_code":"UZ",
+    "gn:dem":1499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513224,
+    "gn:latitude":41.06667,
+    "gn:longitude":70.88333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Mazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513224
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"8be8bc7da8629018d14ada2ff6dae3c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276676421,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1276676421,
+    "wof:lastmodified":1536815243,
+    "wof:name":"Mazar",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.88333,
+    41.06667,
+    70.88333,
+    41.06667
+],
+  "geometry": {"coordinates":[70.88333,41.06667],"type":"Point"}
+}

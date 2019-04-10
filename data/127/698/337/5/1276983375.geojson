@@ -1,0 +1,68 @@
+{
+  "id": 1276983375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.40205,39.18948,64.40205,39.18948",
+    "geom:latitude":39.18948,
+    "geom:longitude":64.40205,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hamzakarbog`",
+    "gn:country_code":"UZ",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7630169,
+    "gn:latitude":39.18948,
+    "gn:longitude":64.40205,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Hamzakarbog\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hamzakarbog\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7630169
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"fef8de805b3fd3f8f68c02f11ff8d8e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276983375,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":1276983375,
+    "wof:lastmodified":1537713400,
+    "wof:name":"Hamzakarbog`",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.40205,
+    39.18948,
+    64.40205,
+    39.18948
+],
+  "geometry": {"coordinates":[64.40205,39.18948],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276122233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.3195,40.75282,72.3195,40.75282",
+    "geom:latitude":40.75282,
+    "geom:longitude":72.3195,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yukarykhasil",
+    "gn:country_code":"UZ",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149407,
+    "gn:latitude":40.75282,
+    "gn:longitude":72.3195,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Yukarykhasil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042e\u043a\u0430\u0440\u044b\u0445\u0430\u0441\u0438\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149407
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5b6c5830dedffe9152ae54a1635ccb81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276122233,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1276122233,
+    "wof:lastmodified":1537713420,
+    "wof:name":"Yukarykhasil",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.3195,
+    40.75282,
+    72.3195,
+    40.75282
+],
+  "geometry": {"coordinates":[72.31950000000001,40.75282],"type":"Point"}
+}

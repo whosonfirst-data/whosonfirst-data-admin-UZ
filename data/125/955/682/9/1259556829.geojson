@@ -1,0 +1,64 @@
+{
+  "id": 1259556829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.86444,39.93722,68.86444,39.93722",
+    "geom:latitude":39.93722,
+    "geom:longitude":68.86444,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"Yangiobod",
+    "gn:asciiname":"Iskander",
+    "gn:country_code":"UZ",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217210,
+    "gn:latitude":39.93722,
+    "gn:longitude":68.86444,
+    "gn:modification_date":"2001-08-20",
+    "gn:name":"Iskander",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217210
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1f60ce896ed19abba2339f975fef3373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1259556829,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259556829,
+    "wof:lastmodified":1536753330,
+    "wof:name":"Iskander",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.86444,
+    39.93722,
+    68.86444,
+    39.93722
+],
+  "geometry": {"coordinates":[68.86444,39.93722],"type":"Point"}
+}

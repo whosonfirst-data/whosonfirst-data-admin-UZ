@@ -1,0 +1,71 @@
+{
+  "id": 1276842669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.6967,40.54368,68.6967,40.54368",
+    "geom:latitude":40.54368,
+    "geom:longitude":68.6967,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Dehqonobod",
+    "gn:country_code":"UZ",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513304,
+    "gn:latitude":40.54368,
+    "gn:longitude":68.6967,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Dehqonobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyzyldekhkan"
+    ],
+    "name:uzb_x_preferred":[
+        "Dehqonobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513304
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0920e6dd0614e9260a7efebe84b48b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276842669,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1276842669,
+    "wof:lastmodified":1537713325,
+    "wof:name":"Dehqonobod",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.6967,
+    40.54368,
+    68.6967,
+    40.54368
+],
+  "geometry": {"coordinates":[68.69670000000001,40.54368],"type":"Point"}
+}

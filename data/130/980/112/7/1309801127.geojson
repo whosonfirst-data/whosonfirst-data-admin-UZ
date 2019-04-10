@@ -1,0 +1,71 @@
+{
+  "id": 1309801127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.71958,41.25593,71.71958,41.25593",
+    "geom:latitude":41.25593,
+    "geom:longitude":71.71958,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Haqiqat",
+    "gn:country_code":"UZ",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580378,
+    "gn:latitude":41.25593,
+    "gn:longitude":71.71958,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Haqiqat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Xaqiqat"
+    ],
+    "name:uzb_x_preferred":[
+        "Haqiqat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580378
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"16595e57251ba84c156038ce22f9cd9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1309801127,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1309801127,
+    "wof:lastmodified":1537713398,
+    "wof:name":"Haqiqat",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.71958000000002,
+    41.25593,
+    71.71958000000002,
+    41.25593
+],
+  "geometry": {"coordinates":[71.71958000000002,41.25593],"type":"Point"}
+}

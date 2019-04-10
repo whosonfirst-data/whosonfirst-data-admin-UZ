@@ -1,0 +1,64 @@
+{
+  "id": 1209384637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.92612,40.32565,68.92612,40.32565",
+    "geom:latitude":40.32565,
+    "geom:longitude":68.92612,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Do`stlik",
+    "gn:country_code":"UZ",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242605,
+    "gn:latitude":40.32565,
+    "gn:longitude":68.92612,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Do\u2018stlik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Do\u2018stlik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242605
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"81b5cd8f23004c097bc16848efcfe4b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209384637
+        }
+    ],
+    "wof:id":1209384637,
+    "wof:lastmodified":1537713497,
+    "wof:name":"Do`stlik",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.92612,
+    40.32565,
+    68.92612,
+    40.32565
+],
+  "geometry": {"coordinates":[68.92612,40.32565],"type":"Point"}
+}

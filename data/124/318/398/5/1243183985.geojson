@@ -1,0 +1,71 @@
+{
+  "id": 1243183985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.09026,40.53287,71.09026,40.53287",
+    "geom:latitude":40.53287,
+    "geom:longitude":71.09026,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mash`at",
+    "gn:country_code":"UZ",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11057371,
+    "gn:latitude":40.53287,
+    "gn:longitude":71.09026,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Mash\u2018at",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Mash\u2018at"
+    ],
+    "name:uzb_x_variant":[
+        "Mashat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11057371
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1c79575ae08f26c36f0366562b4876d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243183985,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1243183985,
+    "wof:lastmodified":1537713472,
+    "wof:name":"Mash`at",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.09026,
+    40.53287,
+    71.09026,
+    40.53287
+],
+  "geometry": {"coordinates":[71.09026,40.53287],"type":"Point"}
+}

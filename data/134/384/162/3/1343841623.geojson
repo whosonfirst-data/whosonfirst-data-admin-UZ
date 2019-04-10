@@ -1,0 +1,65 @@
+{
+  "id": 1343841623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.93667,39.31083,66.93667,39.31083",
+    "geom:latitude":39.31083,
+    "geom:longitude":66.93667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Aman-Kutan",
+    "gn:country_code":"UZ",
+    "gn:dem":1465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217884,
+    "gn:latitude":39.31083,
+    "gn:longitude":66.93667,
+    "gn:modification_date":"2001-11-29",
+    "gn:name":"Aman-Kutan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217884
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"be36b4b200c9e9d38def6161da32e69f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343841623,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1343841623,
+    "wof:lastmodified":1536694010,
+    "wof:name":"Aman-Kutan",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.93666999999999,
+    39.31083,
+    66.93666999999999,
+    39.31083
+],
+  "geometry": {"coordinates":[66.93666999999999,39.31083],"type":"Point"}
+}

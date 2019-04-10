@@ -1,0 +1,68 @@
+{
+  "id": 1259352643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.1095,40.3261,68.1095,40.3261",
+    "geom:latitude":40.3261,
+    "geom:longitude":68.1095,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Gumbaz",
+    "gn:country_code":"UZ",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242426,
+    "gn:latitude":40.3261,
+    "gn:longitude":68.1095,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Gumbaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Gumbaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242426
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ef257f23b5f592416e0e7b65b9049086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259352643,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1259352643,
+    "wof:lastmodified":1537713495,
+    "wof:name":"Gumbaz",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.1095,
+    40.3261,
+    68.1095,
+    40.3261
+],
+  "geometry": {"coordinates":[68.1095,40.3261],"type":"Point"}
+}

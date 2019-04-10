@@ -1,0 +1,71 @@
+{
+  "id": 1242775491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.80752,41.02347,71.80752,41.02347",
+    "geom:latitude":41.02347,
+    "geom:longitude":71.80752,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Yorqatoy",
+    "gn:country_code":"UZ",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580407,
+    "gn:latitude":41.02347,
+    "gn:longitude":71.80752,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Yorqatoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yorqatoy"
+    ],
+    "name:uzb_x_preferred":[
+        "Yorkatay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580407
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"81f93b71fb43aa7b736b6c65259a35cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242775491,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1242775491,
+    "wof:lastmodified":1537713399,
+    "wof:name":"Yorqatoy",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.80752,
+    41.02347,
+    71.80752,
+    41.02347
+],
+  "geometry": {"coordinates":[71.80752,41.02347],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310300939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.36234,38.12445,66.36234,38.12445",
+    "geom:latitude":38.12445,
+    "geom:longitude":66.36234,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Osmondara",
+    "gn:country_code":"UZ",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463641,
+    "gn:latitude":38.12445,
+    "gn:longitude":66.36234,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Osmondara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asmandara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463641
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"129ec5fb706ab43ea50f18110e122c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310300939,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1310300939,
+    "wof:lastmodified":1537713294,
+    "wof:name":"Osmondara",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.36234,
+    38.12445,
+    66.36234,
+    38.12445
+],
+  "geometry": {"coordinates":[66.36234,38.12445],"type":"Point"}
+}

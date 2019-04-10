@@ -1,0 +1,65 @@
+{
+  "id": 1327330401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.1,40.26667,65.1,40.26667",
+    "geom:latitude":40.26667,
+    "geom:longitude":65.1,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Yalaul",
+    "gn:country_code":"UZ",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512388,
+    "gn:latitude":40.26667,
+    "gn:longitude":65.1,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Yalaul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512388
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1cc4c2a0efa59df169c5264dcae8c26c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327330401,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1327330401,
+    "wof:lastmodified":1536827195,
+    "wof:name":"Yalaul",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.1,
+    40.26667,
+    65.1,
+    40.26667
+],
+  "geometry": {"coordinates":[65.09999999999999,40.26667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293704561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.22508,40.56618,72.22508,40.56618",
+    "geom:latitude":40.56618,
+    "geom:longitude":72.22508,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Noraybo`ri",
+    "gn:country_code":"UZ",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229509,
+    "gn:latitude":40.56618,
+    "gn:longitude":72.22508,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Noraybo\u2018ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Noraybo\u2018ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229509
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ff22187d04c70af1582595441758ef2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293704561,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1293704561,
+    "wof:lastmodified":1537713480,
+    "wof:name":"Noraybo`ri",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.22508,
+    40.56618,
+    72.22508,
+    40.56618
+],
+  "geometry": {"coordinates":[72.22508000000001,40.56618],"type":"Point"}
+}

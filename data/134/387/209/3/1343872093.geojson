@@ -1,0 +1,74 @@
+{
+  "id": 1343872093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.24256,40.69158,72.24256,40.69158",
+    "geom:latitude":40.69158,
+    "geom:longitude":72.24256,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zangkon",
+    "gn:country_code":"UZ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149744,
+    "gn:latitude":40.69158,
+    "gn:longitude":72.24256,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Zangkon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043d\u043a\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Zankan"
+    ],
+    "name:uzb_x_preferred":[
+        "Zangkon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149744
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"fa12a953e274cfc857d3871423d41185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343872093,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1343872093,
+    "wof:lastmodified":1537713426,
+    "wof:name":"Zangkon",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.24256,
+    40.69158,
+    72.24256,
+    40.69158
+],
+  "geometry": {"coordinates":[72.24256,40.69158],"type":"Point"}
+}

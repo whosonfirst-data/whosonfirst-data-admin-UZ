@@ -1,0 +1,72 @@
+{
+  "id": 1310598839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.98633,40.79655,70.98633,40.79655",
+    "geom:latitude":40.79655,
+    "geom:longitude":70.98633,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kenagas",
+    "gn:country_code":"UZ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513672,
+    "gn:latitude":40.79655,
+    "gn:longitude":70.98633,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Kenagas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kenages",
+        "Keneges"
+    ],
+    "name:uzb_x_preferred":[
+        "Kenagas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513672
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"486c67f04a6b98e9b78027bdbf1291b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310598839,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1310598839,
+    "wof:lastmodified":1537713336,
+    "wof:name":"Kenagas",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.98633000000002,
+    40.79655,
+    70.98633000000002,
+    40.79655
+],
+  "geometry": {"coordinates":[70.98633000000002,40.79655],"type":"Point"}
+}

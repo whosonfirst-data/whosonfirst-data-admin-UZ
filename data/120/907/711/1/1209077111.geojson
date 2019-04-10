@@ -1,0 +1,61 @@
+{
+  "id": 1209077111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.35667,41.46361,69.35667,41.46361",
+    "geom:latitude":41.46361,
+    "geom:longitude":69.35667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Khyshkupryuk",
+    "gn:country_code":"UZ",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1536838,
+    "gn:latitude":41.46361,
+    "gn:longitude":69.35667,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Khyshkupryuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1536838
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"440a5b07781a212eaabed0e459eaa4de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209077111
+        }
+    ],
+    "wof:id":1209077111,
+    "wof:lastmodified":1536298458,
+    "wof:name":"Khyshkupryuk",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.35667,
+    41.46361,
+    69.35667,
+    41.46361
+],
+  "geometry": {"coordinates":[69.35666999999999,41.46361],"type":"Point"}
+}

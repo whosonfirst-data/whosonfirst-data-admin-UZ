@@ -1,0 +1,66 @@
+{
+  "id": 1225815747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.61028,39.94028,68.61028,39.94028",
+    "geom:latitude":39.94028,
+    "geom:longitude":68.61028,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"Zomin",
+    "gn:asciiname":"Kuchi",
+    "gn:country_code":"UZ",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216719,
+    "gn:latitude":39.94028,
+    "gn:longitude":68.61028,
+    "gn:modification_date":"2001-08-20",
+    "gn:name":"Kuchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216719
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"866d02bdb8854c750c78577ddb58e221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1225815747,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1225815747,
+    "wof:lastmodified":1537054690,
+    "wof:name":"Kuchi",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.61028,
+    39.94028,
+    68.61028,
+    39.94028
+],
+  "geometry": {"coordinates":[68.61028,39.94028],"type":"Point"}
+}

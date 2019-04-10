@@ -1,0 +1,68 @@
+{
+  "id": 1343855903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.79467,41.004,70.79467,41.004",
+    "geom:latitude":41.004,
+    "geom:longitude":70.79467,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kaptol Qishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":1531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7557425,
+    "gn:latitude":41.004,
+    "gn:longitude":70.79467,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Kaptol Qishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kaptol Qishloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7557425
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"be34b5e81460a6094d3fc55de45a5be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343855903,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1343855903,
+    "wof:lastmodified":1537713390,
+    "wof:name":"Kaptol Qishloq",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.79467,
+    41.004,
+    70.79467,
+    41.004
+],
+  "geometry": {"coordinates":[70.79467,41.004],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343366297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.84989,40.40473,70.84989,40.40473",
+    "geom:latitude":40.40473,
+    "geom:longitude":70.84989,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dashtcho`lpon",
+    "gn:country_code":"UZ",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10651237,
+    "gn:latitude":40.40473,
+    "gn:longitude":70.84989,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Dashtcho\u2018lpon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Dashtcho\u2018lpon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10651237
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b3f17b34f617dc6e6d74fa56593f95aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343366297,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1343366297,
+    "wof:lastmodified":1537713445,
+    "wof:name":"Dashtcho`lpon",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.84989,
+    40.40473,
+    70.84989,
+    40.40473
+],
+  "geometry": {"coordinates":[70.84989,40.40473],"type":"Point"}
+}

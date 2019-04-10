@@ -1,0 +1,68 @@
+{
+  "id": 1193110933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.10155,40.67649,69.10155,40.67649",
+    "geom:latitude":40.67649,
+    "geom:longitude":69.10155,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Bunyodkor",
+    "gn:country_code":"UZ",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241927,
+    "gn:latitude":40.67649,
+    "gn:longitude":69.10155,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Bunyodkor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Bunyodkor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241927
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9c1da1f24cab9dcbf6c8d706febc9555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1193110933,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1193110933,
+    "wof:lastmodified":1537713489,
+    "wof:name":"Bunyodkor",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.10155,
+    40.67649,
+    69.10155,
+    40.67649
+],
+  "geometry": {"coordinates":[69.10155,40.67649],"type":"Point"}
+}

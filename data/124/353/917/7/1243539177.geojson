@@ -1,0 +1,65 @@
+{
+  "id": 1243539177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.13313,42.95802,59.13313,42.95802",
+    "geom:latitude":42.95802,
+    "geom:longitude":59.13313,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Doshanovul",
+    "gn:country_code":"UZ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889488,
+    "gn:latitude":42.95802,
+    "gn:longitude":59.13313,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Doshanovul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889488
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2b9060c206bae41150f6564c04f42dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243539177,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1243539177,
+    "wof:lastmodified":1536671858,
+    "wof:name":"Doshanovul",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.13313,
+    42.95802,
+    59.13313,
+    42.95802
+],
+  "geometry": {"coordinates":[59.13313,42.95802],"type":"Point"}
+}

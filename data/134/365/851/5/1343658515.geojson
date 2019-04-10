@@ -1,0 +1,68 @@
+{
+  "id": 1343658515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.26168,41.37149,61.26168,41.37149",
+    "geom:latitude":41.37149,
+    "geom:longitude":61.26168,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Oqqamish",
+    "gn:country_code":"UZ",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514680,
+    "gn:latitude":41.37149,
+    "gn:longitude":61.26168,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Oqqamish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akkamysh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514680
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2ab777686c9ff669179fd0bb4c32feea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343658515,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1343658515,
+    "wof:lastmodified":1537713364,
+    "wof:name":"Oqqamish",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.26168000000001,
+    41.37149,
+    61.26168000000001,
+    41.37149
+],
+  "geometry": {"coordinates":[61.26168000000001,41.37149],"type":"Point"}
+}

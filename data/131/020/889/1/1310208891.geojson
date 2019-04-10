@@ -1,0 +1,68 @@
+{
+  "id": 1310208891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.47531,40.86732,72.47531,40.86732",
+    "geom:latitude":40.86732,
+    "geom:longitude":72.47531,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kommuna",
+    "gn:country_code":"UZ",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149589,
+    "gn:latitude":40.86732,
+    "gn:longitude":72.47531,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kommuna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u043c\u0443\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149589
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a6bdf2eaab0c8e3dbc5e9f11acedc1c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310208891,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1310208891,
+    "wof:lastmodified":1537713423,
+    "wof:name":"Kommuna",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.47531,
+    40.86732,
+    72.47531,
+    40.86732
+],
+  "geometry": {"coordinates":[72.47530999999999,40.86732],"type":"Point"}
+}

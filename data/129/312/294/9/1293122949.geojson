@@ -1,0 +1,68 @@
+{
+  "id": 1293122949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.82367,41.20284,71.82367,41.20284",
+    "geom:latitude":41.20284,
+    "geom:longitude":71.82367,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Saroy",
+    "gn:country_code":"UZ",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7579734,
+    "gn:latitude":41.20284,
+    "gn:longitude":71.82367,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Saroy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saroy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7579734
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e8b6576b24c6b362ad0777789d413da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293122949,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1293122949,
+    "wof:lastmodified":1537713395,
+    "wof:name":"Saroy",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.82366999999998,
+    41.20284,
+    71.82366999999998,
+    41.20284
+],
+  "geometry": {"coordinates":[71.82366999999998,41.20284],"type":"Point"}
+}

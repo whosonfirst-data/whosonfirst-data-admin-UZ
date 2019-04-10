@@ -1,0 +1,115 @@
+{
+  "id": 890415481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.44833,39.85778,64.44833,39.85778",
+    "geom:latitude":39.85778,
+    "geom:longitude":64.44833,
+    "gn:country":"UZ",
+    "gn:fcode":"PPL",
+    "gn:pop":15620,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u0622\u0633\u06cc\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u043b\u0430\u043e\u0441\u0438\u0439\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Galaasiya"
+    ],
+    "name:eng_x_preferred":[
+        "Galaasiya"
+    ],
+    "name:fre_x_preferred":[
+        "Galaasiya"
+    ],
+    "name:ita_x_preferred":[
+        "Galaasiya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30e9\u30fc\u30b7\u30e4"
+    ],
+    "name:kik_x_preferred":[
+        "Galaosiyo"
+    ],
+    "name:per_x_preferred":[
+        "\u0642\u0644\u0639\u0647\u200c\u0622\u0633\u06cc\u0627"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043b\u0430\u0430\u0441\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Galaosiye"
+    ],
+    "name:tur_x_preferred":[
+        "Galaasiya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0430\u043b\u0430\u0430\u0441\u0456\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Galaasiya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0644\u0639\u06c1 \u0622\u0633\u06cc\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Galaosiyo"
+    ],
+    "qs:name":"Galaosiyo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217340,
+        "gp:id":2272559,
+        "qs:id":130935,
+        "wd:id":"Q650352",
+        "wk:page":"Galaosiyo"
+    },
+    "wof:country":"UZ",
+    "wof:created":1469051090,
+    "wof:geomhash":"4c5766c9e0c23e81d7015a6707d6051b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":890415481,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":890415481,
+    "wof:lastmodified":1527727240,
+    "wof:name":"Galaosiyo",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:population":15620,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.44833,
+    39.85778,
+    64.44833,
+    39.85778
+],
+  "geometry": {"coordinates":[64.44833,39.85778],"type":"Point"}
+}

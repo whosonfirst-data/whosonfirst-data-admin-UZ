@@ -1,0 +1,68 @@
+{
+  "id": 1242895877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.46756,40.92482,71.46756,40.92482",
+    "geom:latitude":40.92482,
+    "geom:longitude":71.46756,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mozorko`hna",
+    "gn:country_code":"UZ",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7537254,
+    "gn:latitude":40.92482,
+    "gn:longitude":71.46756,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mozorko\u2018hna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mozorko\u2018hna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7537254
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"39f7cc3cab243997c344f1de54cbb3c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242895877,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1242895877,
+    "wof:lastmodified":1537713386,
+    "wof:name":"Mozorko`hna",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.46755999999998,
+    40.92482,
+    71.46755999999998,
+    40.92482
+],
+  "geometry": {"coordinates":[71.46755999999998,40.92482],"type":"Point"}
+}

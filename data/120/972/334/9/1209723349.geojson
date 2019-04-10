@@ -1,0 +1,71 @@
+{
+  "id": 1209723349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.91902,40.47123,70.91902,40.47123",
+    "geom:latitude":40.47123,
+    "geom:longitude":70.91902,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Elash",
+    "gn:country_code":"UZ",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513951,
+    "gn:latitude":40.47123,
+    "gn:longitude":70.91902,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Elash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ilyash"
+    ],
+    "name:uzb_x_preferred":[
+        "Elash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513951
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5ea5c05f000d86e6dcb1b554951c7e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209723349,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1209723349,
+    "wof:lastmodified":1537713343,
+    "wof:name":"Elash",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.91901999999997,
+    40.47123,
+    70.91901999999997,
+    40.47123
+],
+  "geometry": {"coordinates":[70.91901999999997,40.47123],"type":"Point"}
+}

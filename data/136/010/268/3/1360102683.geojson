@@ -1,0 +1,68 @@
+{
+  "id": 1360102683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.95322,40.7002,71.95322,40.7002",
+    "geom:latitude":40.7002,
+    "geom:longitude":71.95322,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zarbdor",
+    "gn:country_code":"UZ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11104922,
+    "gn:latitude":40.7002,
+    "gn:longitude":71.95322,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Zarbdor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Zarbdor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11104922
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"94322634b75dc8fbef37885ec15d1083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360102683,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1360102683,
+    "wof:lastmodified":1537713477,
+    "wof:name":"Zarbdor",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.95322,
+    40.7002,
+    71.95322,
+    40.7002
+],
+  "geometry": {"coordinates":[71.95322,40.7002],"type":"Point"}
+}

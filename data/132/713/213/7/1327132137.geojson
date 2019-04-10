@@ -1,0 +1,71 @@
+{
+  "id": 1327132137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.55516,40.88703,71.55516,40.88703",
+    "geom:latitude":40.88703,
+    "geom:longitude":71.55516,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Qirg`izqo`rg`on",
+    "gn:country_code":"UZ",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7536982,
+    "gn:latitude":40.88703,
+    "gn:longitude":71.55516,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Qirg\u2018izqo\u2018rg\u2018on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qirg\u2018izqo\u2018rg\u2018on"
+    ],
+    "name:und_x_variant":[
+        "Kirgizkurgan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7536982
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"929a00be68c62a3033b5a2714da5f7e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327132137,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1327132137,
+    "wof:lastmodified":1537713385,
+    "wof:name":"Qirg`izqo`rg`on",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.55516,
+    40.88703,
+    71.55516,
+    40.88703
+],
+  "geometry": {"coordinates":[71.55516,40.88703],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1260370403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.06204,38.58775,68.06204,38.58775",
+    "geom:latitude":38.58775,
+    "geom:longitude":68.06204,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Samarkand",
+    "gn:country_code":"UZ",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216267,
+    "gn:latitude":38.58775,
+    "gn:longitude":68.06204,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Samarkand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216267
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"bdf9ece04bccd7ed97ea15ce94bd0bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1260370403,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260370403,
+    "wof:lastmodified":1537089247,
+    "wof:name":"Samarkand",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.06204,
+    38.58775,
+    68.06204,
+    38.58775
+],
+  "geometry": {"coordinates":[68.06204,38.58775],"type":"Point"}
+}

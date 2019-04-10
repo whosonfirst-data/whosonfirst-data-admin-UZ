@@ -1,0 +1,77 @@
+{
+  "id": 1260308063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.78903,41.39465,71.78903,41.39465",
+    "geom:latitude":41.39465,
+    "geom:longitude":71.78903,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Hazratishoh",
+    "gn:country_code":"UZ",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513609,
+    "gn:latitude":41.39465,
+    "gn:longitude":71.78903,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Hazratishoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khazret-Sha",
+        "Khazratsho",
+        "Xazratisho"
+    ],
+    "name:uzb_x_preferred":[
+        "Hazratishoh"
+    ],
+    "name:uzb_x_variant":[
+        "Xazratishoh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513609,
+        "wk:page":"Khazratsho"
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"61dc3b3946ceb7769e54c9c3bd92b044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260308063,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1260308063,
+    "wof:lastmodified":1537713333,
+    "wof:name":"Hazratishoh",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.78903000000003,
+    41.39465,
+    71.78903000000003,
+    41.39465
+],
+  "geometry": {"coordinates":[71.78903000000003,41.39465],"type":"Point"}
+}

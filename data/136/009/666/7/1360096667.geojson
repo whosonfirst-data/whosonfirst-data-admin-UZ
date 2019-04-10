@@ -1,0 +1,68 @@
+{
+  "id": 1360096667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.8347,40.60209,70.8347,40.60209",
+    "geom:latitude":40.60209,
+    "geom:longitude":70.8347,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"G`alaba",
+    "gn:country_code":"UZ",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10651671,
+    "gn:latitude":40.60209,
+    "gn:longitude":70.8347,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"G\u2018alaba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "G\u2018alaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10651671
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5a74b3fe17e9a329319459db700f0d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360096667,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1360096667,
+    "wof:lastmodified":1537713447,
+    "wof:name":"G`alaba",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.8347,
+    40.60209,
+    70.8347,
+    40.60209
+],
+  "geometry": {"coordinates":[70.8347,40.60209],"type":"Point"}
+}

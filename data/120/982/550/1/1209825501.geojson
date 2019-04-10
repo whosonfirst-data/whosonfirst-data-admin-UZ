@@ -1,0 +1,65 @@
+{
+  "id": 1209825501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.2,40.01667,66.2,40.01667",
+    "geom:latitude":40.01667,
+    "geom:longitude":66.2,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tavaroy",
+    "gn:country_code":"UZ",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512625,
+    "gn:latitude":40.01667,
+    "gn:longitude":66.2,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Tavaroy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512625
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6f540a57f5dbbe3333d2f763ed9076d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209825501,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1209825501,
+    "wof:lastmodified":1536374127,
+    "wof:name":"Tavaroy",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.2,
+    40.01667,
+    66.2,
+    40.01667
+],
+  "geometry": {"coordinates":[66.2,40.01667],"type":"Point"}
+}

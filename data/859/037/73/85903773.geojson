@@ -1,0 +1,109 @@
+{
+  "id": 85903773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11395039.401038,
+    "geom:bbox":"69.213181,41.303011,69.213181,41.303011",
+    "geom:latitude":41.303011,
+    "geom:longitude":69.213181,
+    "gn:latitude":40.92278,
+    "gn:longitude":69.26611,
+    "iso:country":"UZ",
+    "lbl:latitude":41.303011,
+    "lbl:longitude":69.213181,
+    "mps:latitude":41.319075,
+    "mps:longitude":69.224409,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Aktepa"
+    ],
+    "name:eng_x_variant":[
+        "Ak-Tepe",
+        "Ak-Tepinski",
+        "Ak-Tyube"
+    ],
+    "name:unk_x_variant":[
+        "Aktepa"
+    ],
+    "qs:gn_adm0_cc":"UZ",
+    "qs:gn_id":0,
+    "qs:gn_local":1512569,
+    "qs:gn_nam_loc":"Tashkent, Toshkent, UZ",
+    "qs:gn_namadm1":"13",
+    "qs:id":0,
+    "qs:local_max":56,
+    "qs:local_sum":74,
+    "qs:localhoods":2,
+    "qs:name":"Aktepa",
+    "qs:name_adm0":"Uzbekistan",
+    "qs:name_adm1":"Toshkent",
+    "qs:name_local":"Tashkent",
+    "qs:photo_max":23,
+    "qs:photo_sum":56,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424980,
+    "qs:woe_adm1":2347670,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2272113,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0a11f7a4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1514643,
+        "gp:id":2269282
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"66e81f1f9ab854339171325772439198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":-1,
+            "neighbourhood_id":85903773,
+            "region_id":85680429
+        }
+    ],
+    "wof:id":85903773,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531936093,
+    "wof:name":"Aktepa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.213181,
+    41.303011,
+    69.213181,
+    41.303011
+],
+  "geometry": {"coordinates":[69.21318100000001,41.303011],"type":"Point"}
+}

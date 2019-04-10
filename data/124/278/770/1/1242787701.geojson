@@ -1,0 +1,65 @@
+{
+  "id": 1242787701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.36667,40.38333,62.36667,40.38333",
+    "geom:latitude":40.38333,
+    "geom:longitude":62.36667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gugurtli",
+    "gn:country_code":"UZ",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513975,
+    "gn:latitude":40.38333,
+    "gn:longitude":62.36667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Gugurtli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513975
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b68a5eb6b04ba73d58c61888f5d6a2b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242787701,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":1242787701,
+    "wof:lastmodified":1536761150,
+    "wof:name":"Gugurtli",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.36666999999999,
+    40.38333,
+    62.36666999999999,
+    40.38333
+],
+  "geometry": {"coordinates":[62.36666999999999,40.38333],"type":"Point"}
+}

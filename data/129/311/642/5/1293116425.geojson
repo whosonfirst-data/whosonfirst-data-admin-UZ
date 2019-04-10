@@ -1,0 +1,78 @@
+{
+  "id": 1293116425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.17314,40.61466,72.17314,40.61466",
+    "geom:latitude":40.61466,
+    "geom:longitude":72.17314,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qayrag`och",
+    "gn:country_code":"UZ",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513684,
+    "gn:latitude":40.61466,
+    "gn:longitude":72.17314,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Qayrag\u2018och",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0439\u0440\u0430\u0433\u0430\u0447\u0430\u0440\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kayragacharyk",
+        "Kayragach"
+    ],
+    "name:uzb_x_preferred":[
+        "Qayrag\u2018ochariq"
+    ],
+    "name:uzb_x_variant":[
+        "Qayrag\u2018och"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513684
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"65639fe66a86613abd17309c03e0a401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293116425,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1293116425,
+    "wof:lastmodified":1537713336,
+    "wof:name":"Qayrag`och",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.17314,
+    40.61466,
+    72.17314,
+    40.61466
+],
+  "geometry": {"coordinates":[72.17314,40.61466],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360192151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.65619,40.42856,70.65619,40.42856",
+    "geom:latitude":40.42856,
+    "geom:longitude":70.65619,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tol",
+    "gn:country_code":"UZ",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646165,
+    "gn:latitude":40.42856,
+    "gn:longitude":70.65619,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Tol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Tol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646165
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"cc05d6e4d6a83baf8694632a45cd32d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360192151,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1360192151,
+    "wof:lastmodified":1537713442,
+    "wof:name":"Tol",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.65619000000002,
+    40.42856,
+    70.65619000000002,
+    40.42856
+],
+  "geometry": {"coordinates":[70.65619000000002,40.42856],"type":"Point"}
+}

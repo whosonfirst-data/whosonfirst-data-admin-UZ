@@ -1,0 +1,65 @@
+{
+  "id": 1327318129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.09998,42.93426,60.09998,42.93426",
+    "geom:latitude":42.93426,
+    "geom:longitude":60.09998,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Qipchoqovul",
+    "gn:country_code":"UZ",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889086,
+    "gn:latitude":42.93426,
+    "gn:longitude":60.09998,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Qipchoqovul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889086
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c6b96b98f7e53d9ce32fe1487825207b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327318129,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1327318129,
+    "wof:lastmodified":1536844812,
+    "wof:name":"Qipchoqovul",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.09998,
+    42.93426,
+    60.09998,
+    42.93426
+],
+  "geometry": {"coordinates":[60.09998,42.93426],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276431825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.26667,39.0,67.26667,39.0",
+    "geom:latitude":39.0,
+    "geom:longitude":67.26667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gissarak",
+    "gn:country_code":"UZ",
+    "gn:dem":1370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217296,
+    "gn:latitude":39.0,
+    "gn:longitude":67.26667,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Gissarak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217296
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7671ecef526685266e43629639db5165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276431825,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1276431825,
+    "wof:lastmodified":1536646224,
+    "wof:name":"Gissarak",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.26666999999999,
+    39.0,
+    67.26666999999999,
+    39.0
+],
+  "geometry": {"coordinates":[67.26666999999999,39.0],"type":"Point"}
+}

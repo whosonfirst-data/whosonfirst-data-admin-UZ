@@ -1,0 +1,68 @@
+{
+  "id": 1360168295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.85389,41.12917,68.85389,41.12917",
+    "geom:latitude":41.12917,
+    "geom:longitude":68.85389,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Buzsuw",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537016,
+    "gn:latitude":41.12917,
+    "gn:longitude":68.85389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"B\u016dzsuw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bozsu",
+        "B\u016dzsuw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537016
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"796355e48bc4d88116e7b4c324a2db19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1360168295,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360168295,
+    "wof:lastmodified":1537713370,
+    "wof:name":"Buzsuw",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.85389,
+    41.12917,
+    68.85389,
+    41.12917
+],
+  "geometry": {"coordinates":[68.85389000000001,41.12917],"type":"Point"}
+}

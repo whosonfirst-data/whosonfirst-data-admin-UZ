@@ -1,0 +1,72 @@
+{
+  "id": 1327141995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.74841,40.20233,71.74841,40.20233",
+    "geom:latitude":40.20233,
+    "geom:longitude":71.74841,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mehnatobod",
+    "gn:country_code":"UZ",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376086,
+    "gn:latitude":40.20233,
+    "gn:longitude":71.74841,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Mehnatobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ferganskiy Plodopit Sovkhoz",
+        "Leskhoz"
+    ],
+    "name:uzb_x_preferred":[
+        "Mehnatobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376086
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7efb6f7f53ebf2849b1abc3346aae206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327141995,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1327141995,
+    "wof:lastmodified":1537713438,
+    "wof:name":"Mehnatobod",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.74840999999998,
+    40.20233,
+    71.74840999999998,
+    40.20233
+],
+  "geometry": {"coordinates":[71.74840999999998,40.20233],"type":"Point"}
+}

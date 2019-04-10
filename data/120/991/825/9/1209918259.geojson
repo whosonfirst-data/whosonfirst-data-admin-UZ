@@ -1,0 +1,71 @@
+{
+  "id": 1209918259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.69491,40.73437,72.69491,40.73437",
+    "geom:latitude":40.73437,
+    "geom:longitude":72.69491,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Beshkaram",
+    "gn:country_code":"UZ",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163713,
+    "gn:latitude":40.73437,
+    "gn:longitude":72.69491,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Beshkaram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0448\u043a\u0430\u0440\u0430\u043c"
+    ],
+    "name:uzb_x_preferred":[
+        "Beshkaram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163713
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5098213d080d87ce82642a8af32ff502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209918259,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1209918259,
+    "wof:lastmodified":1537713433,
+    "wof:name":"Beshkaram",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.69491,
+    40.73437,
+    72.69491,
+    40.73437
+],
+  "geometry": {"coordinates":[72.69490999999999,40.73437],"type":"Point"}
+}

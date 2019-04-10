@@ -1,0 +1,121 @@
+{
+  "id": 421193825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.51162,40.99984,71.51162,40.99984",
+    "geom:latitude":40.99984,
+    "geom:longitude":71.51162,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u062a\u0624\u0631\u0647 \u0642\u0648\u0631\u063a\u0627\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "To\u2018raqo\u2018rg\u2018on"
+    ],
+    "name:eng_x_preferred":[
+        "To\u2018raqo\u2018rg\u2018on"
+    ],
+    "name:ger_x_preferred":[
+        "To\u2018raqo\u2018rg\u2018on"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30e9\u30af\u30eb\u30ac\u30f3"
+    ],
+    "name:kik_x_preferred":[
+        "To\u2018raqo\u2018rg\u2018on"
+    ],
+    "name:pol_x_preferred":[
+        "To\u02bbraqo\u02bbrg\u02bbon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u0430\u043a\u0443\u0440\u0433\u0430\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "T\u00f6rakorgan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0440\u0430\u043a\u0443\u0440\u0433\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Tyurya-Kurgan"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0624\u0631\u06c1 \u0642\u0648\u0631\u063a\u0627\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "To\u02bbraqo\u02bbrg\u02bbon"
+    ],
+    "name:uzb_x_variant":[
+        "To\u2018rqao\u2018rg\u2018on"
+    ],
+    "qs:gn_country":"UZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1512549,
+    "qs:gn_pop":27862,
+    "qs:name":"Turakurgan",
+    "qs:name_adm0":"Uzbekistan",
+    "qs:name_adm1":"Namangan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":463124,
+    "qs:woe_adm0":23424980,
+    "qs:woe_id":2272138,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512549,
+        "gp:id":2272138,
+        "qs:id":463124,
+        "wd:id":"Q722993"
+    },
+    "wof:country":"UZ",
+    "wof:created":1459009784,
+    "wof:geomhash":"d85ecf498ed53bb0f662c42cae47c791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":421193825,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":421193825,
+    "wof:lastmodified":1527716149,
+    "wof:name":"Turakurgan",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:population":27862,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.51162,
+    40.99984,
+    71.51162,
+    40.99984
+],
+  "geometry": {"coordinates":[71.51161999999999,40.99984],"type":"Point"}
+}

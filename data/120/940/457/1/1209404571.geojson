@@ -1,0 +1,61 @@
+{
+  "id": 1209404571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.88333,42.85,58.88333,42.85",
+    "geom:latitude":42.85,
+    "geom:longitude":58.88333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bilimtu",
+    "gn:country_code":"UZ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601400,
+    "gn:latitude":42.85,
+    "gn:longitude":58.88333,
+    "gn:modification_date":"1997-07-14",
+    "gn:name":"Bilimtu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601400
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2606968e8fb74df493832a81932fb92d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209404571
+        }
+    ],
+    "wof:id":1209404571,
+    "wof:lastmodified":1536288037,
+    "wof:name":"Bilimtu",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.88333000000001,
+    42.85,
+    58.88333000000001,
+    42.85
+],
+  "geometry": {"coordinates":[58.88333000000001,42.85],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276137561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.33333,39.86667,67.33333,39.86667",
+    "geom:latitude":39.86667,
+    "geom:longitude":67.33333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ingichka",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217236,
+    "gn:latitude":39.86667,
+    "gn:longitude":67.33333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ingichka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0433\u0438\u0447\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Inichka",
+        "Ingichka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217236
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"bad4bd3cddd929deb547fc3f6b94c84b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276137561,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1276137561,
+    "wof:lastmodified":1537713273,
+    "wof:name":"Ingichka",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.33333,
+    39.86667,
+    67.33333,
+    39.86667
+],
+  "geometry": {"coordinates":[67.33333,39.86667],"type":"Point"}
+}

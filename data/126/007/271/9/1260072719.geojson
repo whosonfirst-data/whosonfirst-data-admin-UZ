@@ -1,0 +1,71 @@
+{
+  "id": 1260072719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.50683,41.15803,71.50683,41.15803",
+    "geom:latitude":41.15803,
+    "geom:longitude":71.50683,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tergachi",
+    "gn:country_code":"UZ",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512597,
+    "gn:latitude":41.15803,
+    "gn:longitude":71.50683,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Tergachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tergauchi"
+    ],
+    "name:uzb_x_preferred":[
+        "Tergachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512597
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4e09a777b70eb247b67633ea62e601e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260072719,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1260072719,
+    "wof:lastmodified":1537713307,
+    "wof:name":"Tergachi",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.50683000000002,
+    41.15803,
+    71.50683000000002,
+    41.15803
+],
+  "geometry": {"coordinates":[71.50683000000002,41.15803],"type":"Point"}
+}

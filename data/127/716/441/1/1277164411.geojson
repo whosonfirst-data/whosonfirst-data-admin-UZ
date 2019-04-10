@@ -1,0 +1,70 @@
+{
+  "id": 1277164411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.02607,38.39051,68.02607,38.39051",
+    "geom:latitude":38.39051,
+    "geom:longitude":68.02607,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Qorashiq",
+    "gn:country_code":"UZ",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217057,
+    "gn:latitude":38.39051,
+    "gn:longitude":68.02607,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Qorashiq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karashik",
+        "Karashin",
+        "Qorashiq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217057
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"17ad4bf835a5497a3a1c72096e301ee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1277164411,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1277164411,
+    "wof:lastmodified":1537713269,
+    "wof:name":"Qorashiq",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.02606999999999,
+    38.39051,
+    68.02606999999999,
+    38.39051
+],
+  "geometry": {"coordinates":[68.02606999999999,38.39051],"type":"Point"}
+}

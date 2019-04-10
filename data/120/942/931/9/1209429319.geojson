@@ -1,0 +1,67 @@
+{
+  "id": 1209429319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.91874,40.83588,71.91874,40.83588",
+    "geom:latitude":40.83588,
+    "geom:longitude":71.91874,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Muqim",
+    "gn:country_code":"UZ",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11104901,
+    "gn:latitude":40.83588,
+    "gn:longitude":71.91874,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Muqim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukum"
+    ],
+    "name:uzb_x_preferred":[
+        "Muqim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11104901
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4a54be7c3c224c192a535c897bc7f868",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209429319
+        }
+    ],
+    "wof:id":1209429319,
+    "wof:lastmodified":1537713476,
+    "wof:name":"Muqim",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.91874,
+    40.83588,
+    71.91874,
+    40.83588
+],
+  "geometry": {"coordinates":[71.91874,40.83588],"type":"Point"}
+}

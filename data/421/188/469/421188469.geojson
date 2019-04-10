@@ -1,0 +1,98 @@
+{
+  "id": 421188469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"69.18111,41.28194,69.18111,41.28194",
+    "geom:latitude":41.28194,
+    "geom:longitude":69.18111,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Tchilanzar"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0686\u0644\u0646\u0632\u0627\u0631"
+    ],
+    "name:por_x_preferred":[
+        "Chilonzor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043b\u0430\u043d\u0437\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u043b\u0430\u043d\u0437\u0430\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u0644\u0627\u0646\u0632\u0627\u0631"
+    ],
+    "name:uzb_x_preferred":[
+        "Chilonzor tumani"
+    ],
+    "qs:gn_country":"UZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":1514230,
+    "qs:gn_pop":0,
+    "qs:name":"Chilanzar",
+    "qs:name_adm0":"Uzbekistan",
+    "qs:name_adm1":"Toshkent",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1097014,
+    "qs:woe_adm0":23424980,
+    "qs:woe_id":2269787,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":141,
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514230,
+        "gp:id":2269787,
+        "qs:id":1097014,
+        "wd:id":"Q2637617",
+        "wk:page":"Chilanzar"
+    },
+    "wof:country":"UZ",
+    "wof:created":1459009559,
+    "wof:geomhash":"d6ab66ae3138f5daf3a361a3b18ca3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":-1,
+            "neighbourhood_id":421188469,
+            "region_id":85680429
+        }
+    ],
+    "wof:id":421188469,
+    "wof:lastmodified":1531858623,
+    "wof:name":"Chilanzar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.18111,
+    41.28194,
+    69.18111,
+    41.28194
+],
+  "geometry": {"coordinates":[69.18111,41.28194],"type":"Point"}
+}

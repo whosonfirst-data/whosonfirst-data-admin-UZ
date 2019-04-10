@@ -1,0 +1,65 @@
+{
+  "id": 1226257475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.71667,39.68333,66.71667,39.68333",
+    "geom:latitude":39.68333,
+    "geom:longitude":66.71667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zangibay",
+    "gn:country_code":"UZ",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215680,
+    "gn:latitude":39.68333,
+    "gn:longitude":66.71667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Zangibay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215680
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0f0ab8e671d4ba134e986288f32a7ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226257475,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1226257475,
+    "wof:lastmodified":1536917174,
+    "wof:name":"Zangibay",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.71667,
+    39.68333,
+    66.71667,
+    39.68333
+],
+  "geometry": {"coordinates":[66.71666999999999,39.68333],"type":"Point"}
+}

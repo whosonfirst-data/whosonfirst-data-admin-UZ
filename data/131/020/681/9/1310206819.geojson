@@ -1,0 +1,71 @@
+{
+  "id": 1310206819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.69105,40.43675,70.69105,40.43675",
+    "geom:latitude":40.43675,
+    "geom:longitude":70.69105,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qatog`on",
+    "gn:country_code":"UZ",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513708,
+    "gn:latitude":40.43675,
+    "gn:longitude":70.69105,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Qatog\u2018on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katagan"
+    ],
+    "name:uzb_x_preferred":[
+        "Qatog\u2018on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513708
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2d6f2cbcea4dd4218e393a97d4bc9158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310206819,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1310206819,
+    "wof:lastmodified":1537713337,
+    "wof:name":"Qatog`on",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.69105,
+    40.43675,
+    70.69105,
+    40.43675
+],
+  "geometry": {"coordinates":[70.69105,40.43675],"type":"Point"}
+}

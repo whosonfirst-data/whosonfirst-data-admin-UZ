@@ -1,0 +1,76 @@
+{
+  "id": 1259695417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.79972,40.28431,70.79972,40.28431",
+    "geom:latitude":40.28431,
+    "geom:longitude":70.79972,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sho`rsuv",
+    "gn:country_code":"UZ",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512792,
+    "gn:latitude":40.28431,
+    "gn:longitude":70.79972,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Sho\u2018rsuv",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Shor-Suu"
+    ],
+    "name:und_x_variant":[
+        "Sh\u016drsuw",
+        "Shorsu",
+        "Shorssu"
+    ],
+    "name:uzb_x_preferred":[
+        "Sho\u2018rsuv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512792
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4a8b5e03995bd3341e8fd36e22c325de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259695417,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1259695417,
+    "wof:lastmodified":1537713311,
+    "wof:name":"Sho`rsuv",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.79972,
+    40.28431,
+    70.79972,
+    40.28431
+],
+  "geometry": {"coordinates":[70.79971999999999,40.28431],"type":"Point"}
+}

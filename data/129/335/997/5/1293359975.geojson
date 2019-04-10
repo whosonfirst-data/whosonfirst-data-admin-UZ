@@ -1,0 +1,68 @@
+{
+  "id": 1293359975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.58974,40.50188,68.58974,40.50188",
+    "geom:latitude":40.50188,
+    "geom:longitude":68.58974,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Do`ngariq",
+    "gn:country_code":"UZ",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242349,
+    "gn:latitude":40.50188,
+    "gn:longitude":68.58974,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Do\u2018ngariq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Do\u2018ngariq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242349
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9f4a5cee4f9d746a21b2e4234d03bc02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293359975,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1293359975,
+    "wof:lastmodified":1537713493,
+    "wof:name":"Do`ngariq",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.58974,
+    40.50188,
+    68.58974,
+    40.50188
+],
+  "geometry": {"coordinates":[68.58974000000001,40.50188],"type":"Point"}
+}

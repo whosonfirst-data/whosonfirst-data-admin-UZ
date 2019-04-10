@@ -1,0 +1,71 @@
+{
+  "id": 1226668741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.81833,41.35028,60.81833,41.35028",
+    "geom:latitude":41.35028,
+    "geom:longitude":60.81833,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Boghot",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514486,
+    "gn:latitude":41.35028,
+    "gn:longitude":60.81833,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Boghot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagat",
+        "Boghot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514486,
+        "wk:page":"Bog%E2%80%98ot"
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"61baca66a33a73870cc3706b27e6808a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226668741,
+            "region_id":85680377
+        }
+    ],
+    "wof:id":1226668741,
+    "wof:lastmodified":1537713360,
+    "wof:name":"Boghot",
+    "wof:parent_id":85680377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.81833,
+    41.35028,
+    60.81833,
+    41.35028
+],
+  "geometry": {"coordinates":[60.81833,41.35028],"type":"Point"}
+}

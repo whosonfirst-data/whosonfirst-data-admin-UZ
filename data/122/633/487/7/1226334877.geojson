@@ -1,0 +1,68 @@
+{
+  "id": 1226334877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.10634,40.97827,72.10634,40.97827",
+    "geom:latitude":40.97827,
+    "geom:longitude":72.10634,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tegirmanbashi",
+    "gn:country_code":"UZ",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148747,
+    "gn:latitude":40.97827,
+    "gn:longitude":72.10634,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Tegirmanbashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0433\u0438\u0440\u043c\u0430\u043d\u0431\u0430\u0448\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148747
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"03ceba4c6e4e07a89d92a27b9903e48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226334877,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1226334877,
+    "wof:lastmodified":1537713416,
+    "wof:name":"Tegirmanbashi",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.10634,
+    40.97827,
+    72.10634,
+    40.97827
+],
+  "geometry": {"coordinates":[72.10634,40.97827],"type":"Point"}
+}

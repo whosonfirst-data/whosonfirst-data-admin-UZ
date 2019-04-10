@@ -1,0 +1,65 @@
+{
+  "id": 1225954203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.91667,37.93333,66.91667,37.93333",
+    "geom:latitude":37.93333,
+    "geom:longitude":66.91667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nagay",
+    "gn:country_code":"UZ",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216439,
+    "gn:latitude":37.93333,
+    "gn:longitude":66.91667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Nagay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216439
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ec78df44d8b9ebd943271e9a8a075d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1225954203,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1225954203,
+    "wof:lastmodified":1536855797,
+    "wof:name":"Nagay",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.91667,
+    37.93333,
+    66.91667,
+    37.93333
+],
+  "geometry": {"coordinates":[66.91667,37.93333],"type":"Point"}
+}

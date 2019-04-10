@@ -1,0 +1,68 @@
+{
+  "id": 1343369035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.88333,38.45,67.88333,38.45",
+    "geom:latitude":38.45,
+    "geom:longitude":67.88333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tyl'-Gran-Kichin",
+    "gn:country_code":"UZ",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215889,
+    "gn:latitude":38.45,
+    "gn:longitude":67.88333,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Tyl\u2019-Gran-Kichin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Tyl\u2019-Gran-Kichin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215889
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d75b2ebd199310038831cb9dea8c7445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343369035,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1343369035,
+    "wof:lastmodified":1537713238,
+    "wof:name":"Tyl'-Gran-Kichin",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.88333,
+    38.45,
+    67.88333,
+    38.45
+],
+  "geometry": {"coordinates":[67.88333,38.45],"type":"Point"}
+}

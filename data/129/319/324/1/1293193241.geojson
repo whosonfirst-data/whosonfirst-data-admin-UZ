@@ -1,0 +1,65 @@
+{
+  "id": 1293193241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.15,40.83333,71.15,40.83333",
+    "geom:latitude":40.83333,
+    "geom:longitude":71.15,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kara-Kalpak",
+    "gn:country_code":"UZ",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513803,
+    "gn:latitude":40.83333,
+    "gn:longitude":71.15,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Kara-Kalpak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513803
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"576a60e505dcb9505a34aefc91a8efbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293193241,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1293193241,
+    "wof:lastmodified":1536714611,
+    "wof:name":"Kara-Kalpak",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.15,
+    40.83333,
+    71.15,
+    40.83333
+],
+  "geometry": {"coordinates":[71.15000000000001,40.83333],"type":"Point"}
+}

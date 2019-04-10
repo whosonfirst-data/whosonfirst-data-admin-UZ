@@ -1,0 +1,68 @@
+{
+  "id": 1309924059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.81667,39.41667,63.81667,39.41667",
+    "geom:latitude":39.41667,
+    "geom:longitude":63.81667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khal'fa",
+    "gn:country_code":"UZ",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216937,
+    "gn:latitude":39.41667,
+    "gn:longitude":63.81667,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Khal\u2019fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Khal\u2019fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216937
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d4ced3d9a048d4810b90b5848ac10c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1309924059,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":1309924059,
+    "wof:lastmodified":1537713266,
+    "wof:name":"Khal'fa",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.81667,
+    39.41667,
+    63.81667,
+    39.41667
+],
+  "geometry": {"coordinates":[63.81667,39.41667],"type":"Point"}
+}

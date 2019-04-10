@@ -1,0 +1,65 @@
+{
+  "id": 1344028773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.47667,41.36194,69.47667,41.36194",
+    "geom:latitude":41.36194,
+    "geom:longitude":69.47667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kizyltu",
+    "gn:country_code":"UZ",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513528,
+    "gn:latitude":41.36194,
+    "gn:longitude":69.47667,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Kizyltu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513528
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"16b1df19e2fd3c3162994a4630b6aa61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344028773,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1344028773,
+    "wof:lastmodified":1536922109,
+    "wof:name":"Kizyltu",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.47667,
+    41.36194,
+    69.47667,
+    41.36194
+],
+  "geometry": {"coordinates":[69.47667,41.36194],"type":"Point"}
+}

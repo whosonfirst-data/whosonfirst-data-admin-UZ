@@ -1,0 +1,73 @@
+{
+  "id": 1327233623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.21222,40.46306,71.21222,40.46306",
+    "geom:latitude":40.46306,
+    "geom:longitude":71.21222,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bag`dod",
+    "gn:country_code":"UZ",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1514483,
+    "gn:latitude":40.46306,
+    "gn:longitude":71.21222,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Bag\u2018dod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Serovo",
+        "Baghdod",
+        "Bagdad"
+    ],
+    "name:uzb_x_preferred":[
+        "Bag\u2018dod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514483
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"700c700115bae56d2b63ff9b7e4ac374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327233623,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1327233623,
+    "wof:lastmodified":1537713360,
+    "wof:name":"Bag`dod",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.21222,
+    40.46306,
+    71.21222,
+    40.46306
+],
+  "geometry": {"coordinates":[71.21222,40.46306],"type":"Point"}
+}

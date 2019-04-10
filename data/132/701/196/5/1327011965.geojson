@@ -1,0 +1,68 @@
+{
+  "id": 1327011965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.91571,40.28676,68.91571,40.28676",
+    "geom:latitude":40.28676,
+    "geom:longitude":68.91571,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Chashma",
+    "gn:country_code":"UZ",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242604,
+    "gn:latitude":40.28676,
+    "gn:longitude":68.91571,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Chashma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Chashma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242604
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c52a9970ba0f52aec635c8b75f315c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327011965,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1327011965,
+    "wof:lastmodified":1537713497,
+    "wof:name":"Chashma",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.91571,
+    40.28676,
+    68.91571,
+    40.28676
+],
+  "geometry": {"coordinates":[68.91571,40.28676],"type":"Point"}
+}

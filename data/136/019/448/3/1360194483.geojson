@@ -1,0 +1,70 @@
+{
+  "id": 1360194483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.78333,39.55,63.78333,39.55",
+    "geom:latitude":39.55,
+    "geom:longitude":63.78333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ziarat",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215662,
+    "gn:latitude":39.55,
+    "gn:longitude":63.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ziarat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ziorat",
+        "Ziarat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215662
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9c3fba97394d1aea6a45aa9f20243c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360194483,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":1360194483,
+    "wof:lastmodified":1537713233,
+    "wof:name":"Ziarat",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.78333000000001,
+    39.55,
+    63.78333000000001,
+    39.55
+],
+  "geometry": {"coordinates":[63.78333000000001,39.55],"type":"Point"}
+}

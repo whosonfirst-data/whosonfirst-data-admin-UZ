@@ -1,0 +1,68 @@
+{
+  "id": 1310513019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.98404,40.49428,71.98404,40.49428",
+    "geom:latitude":40.49428,
+    "geom:longitude":71.98404,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yangicheq",
+    "gn:country_code":"UZ",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10975108,
+    "gn:latitude":40.49428,
+    "gn:longitude":71.98404,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Yangicheq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Yangicheq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10975108
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0ff5c39bb5506a4da0fd813d86c4275e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310513019,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1310513019,
+    "wof:lastmodified":1537713460,
+    "wof:name":"Yangicheq",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.98404000000002,
+    40.49428,
+    71.98404000000002,
+    40.49428
+],
+  "geometry": {"coordinates":[71.98404000000002,40.49428],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209096025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.76234,42.97916,58.76234,42.97916",
+    "geom:latitude":42.97916,
+    "geom:longitude":58.76234,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Yangilak",
+    "gn:country_code":"UZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601381,
+    "gn:latitude":42.97916,
+    "gn:longitude":58.76234,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yangilak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhanalyk",
+        "Dzhangalyk",
+        "Yangilak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601381
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e3bcde854d351c4408b5cc2e30561ffb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209096025
+        }
+    ],
+    "wof:id":1209096025,
+    "wof:lastmodified":1537713231,
+    "wof:name":"Yangilak",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.76234,
+    42.97916,
+    58.76234,
+    42.97916
+],
+  "geometry": {"coordinates":[58.76234,42.97916],"type":"Point"}
+}

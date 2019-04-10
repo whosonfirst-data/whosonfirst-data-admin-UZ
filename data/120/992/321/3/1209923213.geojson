@@ -1,0 +1,71 @@
+{
+  "id": 1209923213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.81142,39.50308,64.81142,39.50308",
+    "geom:latitude":39.50308,
+    "geom:longitude":64.81142,
+    "gn:admin1_code":"02",
+    "gn:admin3_code":"1346442.0",
+    "gn:asciiname":"Qorovulbozor Shahri",
+    "gn:country_code":"UZ",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1346442,
+    "gn:latitude":39.50308,
+    "gn:longitude":64.81142,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qorovulbozor Shahri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qorowulbozor Shahri",
+        "Gorod Karaulbazar",
+        "Qorovulbozor Shahri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346442
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"135f518f6e2fc75f1b2739b489c59846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209923213,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":1209923213,
+    "wof:lastmodified":1537713291,
+    "wof:name":"Qorovulbozor Shahri",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.81142,
+    39.50308,
+    64.81142,
+    39.50308
+],
+  "geometry": {"coordinates":[64.81142,39.50308],"type":"Point"}
+}

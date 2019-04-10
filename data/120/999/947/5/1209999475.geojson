@@ -1,0 +1,65 @@
+{
+  "id": 1209999475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.49472,39.94,68.49472,39.94",
+    "geom:latitude":39.94,
+    "geom:longitude":68.49472,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Turkmen",
+    "gn:country_code":"UZ",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215907,
+    "gn:latitude":39.94,
+    "gn:longitude":68.49472,
+    "gn:modification_date":"2001-11-29",
+    "gn:name":"Turkmen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215907
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0a64dbbce60d95291c4e5228a59e8041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209999475,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1209999475,
+    "wof:lastmodified":1536380274,
+    "wof:name":"Turkmen",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.49472,
+    39.94,
+    68.49472,
+    39.94
+],
+  "geometry": {"coordinates":[68.49472,39.94],"type":"Point"}
+}

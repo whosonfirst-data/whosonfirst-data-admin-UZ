@@ -1,0 +1,71 @@
+{
+  "id": 1259475855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.80171,41.06955,71.80171,41.06955",
+    "geom:latitude":41.06955,
+    "geom:longitude":71.80171,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Oyqiron",
+    "gn:country_code":"UZ",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514507,
+    "gn:latitude":41.06955,
+    "gn:longitude":71.80171,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Oyqiron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aikyran",
+        "Aykaran",
+        "Oyqiron",
+        "Aykiran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514507
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ced46e88af76c3703e29fcdf2c4eeb82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259475855,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1259475855,
+    "wof:lastmodified":1537713360,
+    "wof:name":"Oyqiron",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.80171,
+    41.06955,
+    71.80171,
+    41.06955
+],
+  "geometry": {"coordinates":[71.80171,41.06955],"type":"Point"}
+}

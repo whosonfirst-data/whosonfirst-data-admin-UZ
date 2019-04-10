@@ -1,0 +1,71 @@
+{
+  "id": 1209727091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.92544,40.25931,71.92544,40.25931",
+    "geom:latitude":40.25931,
+    "geom:longitude":71.92544,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hamza-Hakimzoda",
+    "gn:country_code":"UZ",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376130,
+    "gn:latitude":40.25931,
+    "gn:longitude":71.92544,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Hamza-Hakimzoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalacha"
+    ],
+    "name:uzb_x_preferred":[
+        "Hamza-Hakimzoda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376130
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f9892d014727b06e42eb0811aac58c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209727091,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1209727091,
+    "wof:lastmodified":1537713439,
+    "wof:name":"Hamza-Hakimzoda",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.92544000000002,
+    40.25931,
+    71.92544000000002,
+    40.25931
+],
+  "geometry": {"coordinates":[71.92544000000002,40.25931],"type":"Point"}
+}

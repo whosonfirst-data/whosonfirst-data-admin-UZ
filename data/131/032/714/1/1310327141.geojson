@@ -1,0 +1,68 @@
+{
+  "id": 1310327141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.22716,40.89183,71.22716,40.89183",
+    "geom:latitude":40.89183,
+    "geom:longitude":71.22716,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Yuqorishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539728,
+    "gn:latitude":40.89183,
+    "gn:longitude":71.22716,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Yuqorishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yuqorishloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539728
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"61fd121989892cbd5d8b534089b5fe8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310327141,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1310327141,
+    "wof:lastmodified":1537713389,
+    "wof:name":"Yuqorishloq",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.22716,
+    40.89183,
+    71.22716,
+    40.89183
+],
+  "geometry": {"coordinates":[71.22716,40.89183],"type":"Point"}
+}

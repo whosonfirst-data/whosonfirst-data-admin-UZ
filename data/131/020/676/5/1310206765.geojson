@@ -1,0 +1,70 @@
+{
+  "id": 1310206765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.09973,40.06632,71.09973,40.06632",
+    "geom:latitude":40.06632,
+    "geom:longitude":71.09973,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Limbur",
+    "gn:country_code":"UZ",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527683,
+    "gn:latitude":40.06632,
+    "gn:longitude":71.09973,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Limbur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lembur",
+        "Limbur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527683,
+        "wk:page":"Limbur"
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f59ec95d22cc34520439fa95bf396848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310206765,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1310206765,
+    "wof:lastmodified":1537713366,
+    "wof:name":"Limbur",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.09973000000002,
+    40.06632000000001,
+    71.09973000000002,
+    40.06632000000001
+],
+  "geometry": {"coordinates":[71.09973000000002,40.06632000000001],"type":"Point"}
+}

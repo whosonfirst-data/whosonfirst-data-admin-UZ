@@ -1,0 +1,71 @@
+{
+  "id": 1309787963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.72222,40.81333,68.72222,40.81333",
+    "geom:latitude":40.81333,
+    "geom:longitude":68.72222,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Nomozovul",
+    "gn:country_code":"UZ",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535863,
+    "gn:latitude":40.81333,
+    "gn:longitude":68.72222,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Nomozovul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namazaul"
+    ],
+    "name:uzb_x_preferred":[
+        "Nomozovul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535863
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e506b30bf7512649f47890ecfd035177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1309787963,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1309787963,
+    "wof:lastmodified":1537713368,
+    "wof:name":"Nomozovul",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.72222,
+    40.81333,
+    68.72222,
+    40.81333
+],
+  "geometry": {"coordinates":[68.72221999999999,40.81333],"type":"Point"}
+}

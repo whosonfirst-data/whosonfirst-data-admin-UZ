@@ -1,0 +1,68 @@
+{
+  "id": 1293100737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.95684,40.60614,70.95684,40.60614",
+    "geom:latitude":40.60614,
+    "geom:longitude":70.95684,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kayrag`och",
+    "gn:country_code":"UZ",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10651782,
+    "gn:latitude":40.60614,
+    "gn:longitude":70.95684,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Kayrag\u2018och",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Kayrag\u2018och"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10651782
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e025501aed2e9581175cc77673ea2d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293100737,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1293100737,
+    "wof:lastmodified":1537713448,
+    "wof:name":"Kayrag`och",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.95684,
+    40.60614,
+    70.95684,
+    40.60614
+],
+  "geometry": {"coordinates":[70.95684,40.60614],"type":"Point"}
+}

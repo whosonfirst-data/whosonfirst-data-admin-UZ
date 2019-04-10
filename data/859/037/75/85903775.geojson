@@ -1,0 +1,103 @@
+{
+  "id": 85903775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2896166.085585,
+    "geom:bbox":"69.222107,41.378868,69.222107,41.378868",
+    "geom:latitude":41.378868,
+    "geom:longitude":69.222107,
+    "iso:country":"UZ",
+    "lbl:latitude":41.378868,
+    "lbl:longitude":69.222107,
+    "mps:latitude":41.378869,
+    "mps:longitude":69.222107,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Qoraqamish"
+    ],
+    "name:eng_x_variant":[
+        "Karakamysh"
+    ],
+    "name:unk_x_variant":[
+        "Qoraqamish"
+    ],
+    "qs:gn_adm0_cc":"UZ",
+    "qs:gn_id":0,
+    "qs:gn_local":1512569,
+    "qs:gn_nam_loc":"Tashkent, Toshkent, UZ",
+    "qs:gn_namadm1":"13",
+    "qs:id":0,
+    "qs:local_max":56,
+    "qs:local_sum":74,
+    "qs:localhoods":2,
+    "qs:name":"Qoraqamish",
+    "qs:name_adm0":"Uzbekistan",
+    "qs:name_adm1":"Toshkent",
+    "qs:name_local":"Tashkent",
+    "qs:photo_max":18,
+    "qs:photo_sum":18,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424980,
+    "qs:woe_adm1":2347670,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2272113,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2271575
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"433c6156e9276408813a6ee362044df8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":-1,
+            "neighbourhood_id":85903775,
+            "region_id":85680429
+        }
+    ],
+    "wof:id":85903775,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531936093,
+    "wof:name":"Qoraqamish",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.222107,
+    41.378868,
+    69.222107,
+    41.378868
+],
+  "geometry": {"coordinates":[69.22210699999999,41.378868],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259768921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.06565,39.316,65.06565,39.316",
+    "geom:latitude":39.316,
+    "geom:longitude":65.06565,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Shirinbuloq",
+    "gn:country_code":"UZ",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7630252,
+    "gn:latitude":39.316,
+    "gn:longitude":65.06565,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shirinbuloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shirinbuloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7630252
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"de45dd95736d9a8d8471f55303005c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259768921,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1259768921,
+    "wof:lastmodified":1537713400,
+    "wof:name":"Shirinbuloq",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.06565,
+    39.316,
+    65.06565,
+    39.316
+],
+  "geometry": {"coordinates":[65.06565000000001,39.316],"type":"Point"}
+}

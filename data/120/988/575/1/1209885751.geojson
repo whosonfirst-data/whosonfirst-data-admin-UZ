@@ -1,0 +1,75 @@
+{
+  "id": 1209885751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.84296,40.70629,68.84296,40.70629",
+    "geom:latitude":40.70629,
+    "geom:longitude":68.84296,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Sayxun",
+    "gn:country_code":"UZ",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512407,
+    "gn:latitude":40.70629,
+    "gn:longitude":68.84296,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Sayxun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Verkhne-Volynskiy",
+        "Verkhniy-Volynskiy",
+        "Sayhun",
+        "Verkhnevolynskoye",
+        "Saykhun"
+    ],
+    "name:uzb_x_preferred":[
+        "Sayxun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512407
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4412b060ce10099761a0ca436bacabdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209885751,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1209885751,
+    "wof:lastmodified":1537713303,
+    "wof:name":"Sayxun",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.84295999999999,
+    40.70629,
+    68.84295999999999,
+    40.70629
+],
+  "geometry": {"coordinates":[68.84295999999999,40.70629],"type":"Point"}
+}

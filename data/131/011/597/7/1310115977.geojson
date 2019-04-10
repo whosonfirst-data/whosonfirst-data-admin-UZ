@@ -1,0 +1,65 @@
+{
+  "id": 1310115977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.1,39.98333,66.1,39.98333",
+    "geom:latitude":39.98333,
+    "geom:longitude":66.1,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kipchak",
+    "gn:country_code":"UZ",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216794,
+    "gn:latitude":39.98333,
+    "gn:longitude":66.1,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Kipchak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216794
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0df78f43d3e4dbd514e61102b9ebb6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310115977,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1310115977,
+    "wof:lastmodified":1536980605,
+    "wof:name":"Kipchak",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.1,
+    39.98333,
+    66.1,
+    39.98333
+],
+  "geometry": {"coordinates":[66.09999999999999,39.98333],"type":"Point"}
+}

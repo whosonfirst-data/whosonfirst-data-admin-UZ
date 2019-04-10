@@ -1,0 +1,71 @@
+{
+  "id": 1309821279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.0381,40.77182,73.0381,40.77182",
+    "geom:latitude":40.77182,
+    "geom:longitude":73.0381,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Topolino",
+    "gn:country_code":"UZ",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8172758,
+    "gn:latitude":40.77182,
+    "gn:longitude":73.0381,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Topolino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u0438\u043d\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Topolino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8172758
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2d8b7c452ca0a2170f0f47bb59555500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1309821279,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1309821279,
+    "wof:lastmodified":1537713438,
+    "wof:name":"Topolino",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.0381,
+    40.77182,
+    73.0381,
+    40.77182
+],
+  "geometry": {"coordinates":[73.0381,40.77182],"type":"Point"}
+}

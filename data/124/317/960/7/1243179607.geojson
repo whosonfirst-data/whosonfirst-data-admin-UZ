@@ -1,0 +1,68 @@
+{
+  "id": 1243179607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.11732,40.47414,71.11732,40.47414",
+    "geom:latitude":40.47414,
+    "geom:longitude":71.11732,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sartuz",
+    "gn:country_code":"UZ",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11056928,
+    "gn:latitude":40.47414,
+    "gn:longitude":71.11732,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Sartuz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Sartuz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056928
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7466f50ef2757c91d19c0b57d6f764ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243179607,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1243179607,
+    "wof:lastmodified":1537713466,
+    "wof:name":"Sartuz",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.11731999999998,
+    40.47414000000001,
+    71.11731999999998,
+    40.47414000000001
+],
+  "geometry": {"coordinates":[71.11731999999998,40.47414000000001],"type":"Point"}
+}

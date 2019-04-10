@@ -1,0 +1,65 @@
+{
+  "id": 1293880467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.24644,41.17556,64.24644,41.17556",
+    "geom:latitude":41.17556,
+    "geom:longitude":64.24644,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dovgistov",
+    "gn:country_code":"UZ",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857129,
+    "gn:latitude":41.17556,
+    "gn:longitude":64.24644,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Dovgistov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857129
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"77a7cb919f083489c3563f2e904f307c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293880467,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1293880467,
+    "wof:lastmodified":1536718096,
+    "wof:name":"Dovgistov",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.24644,
+    41.17556,
+    64.24644,
+    41.17556
+],
+  "geometry": {"coordinates":[64.24644000000001,41.17556],"type":"Point"}
+}

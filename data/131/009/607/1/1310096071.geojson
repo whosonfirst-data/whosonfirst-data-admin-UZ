@@ -1,0 +1,68 @@
+{
+  "id": 1310096071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.44043,38.3061,66.44043,38.3061",
+    "geom:latitude":38.3061,
+    "geom:longitude":66.44043,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chuchukquduq",
+    "gn:country_code":"UZ",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463643,
+    "gn:latitude":38.3061,
+    "gn:longitude":66.44043,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chuchukquduq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chuchukuduk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463643
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"63938d550d0264a99a235ffcaa8f1d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310096071,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1310096071,
+    "wof:lastmodified":1537713294,
+    "wof:name":"Chuchukquduq",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.44043,
+    38.3061,
+    66.44043,
+    38.3061
+],
+  "geometry": {"coordinates":[66.44043000000001,38.3061],"type":"Point"}
+}

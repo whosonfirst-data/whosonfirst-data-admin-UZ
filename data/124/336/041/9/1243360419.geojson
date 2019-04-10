@@ -1,0 +1,68 @@
+{
+  "id": 1243360419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.54543,39.20819,66.54543,39.20819",
+    "geom:latitude":39.20819,
+    "geom:longitude":66.54543,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Qizilchorva",
+    "gn:country_code":"UZ",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216598,
+    "gn:latitude":39.20819,
+    "gn:longitude":66.54543,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Qizilchorva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyzyl-Chaura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216598
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1d8071c5905cd898a719498f138cd875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243360419,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1243360419,
+    "wof:lastmodified":1537713257,
+    "wof:name":"Qizilchorva",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.54543000000001,
+    39.20819,
+    66.54543000000001,
+    39.20819
+],
+  "geometry": {"coordinates":[66.54543000000001,39.20819],"type":"Point"}
+}

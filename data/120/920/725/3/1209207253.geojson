@@ -1,0 +1,64 @@
+{
+  "id": 1209207253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.08897,40.89384,71.08897,40.89384",
+    "geom:latitude":40.89384,
+    "geom:longitude":71.08897,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Solma",
+    "gn:country_code":"UZ",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539644,
+    "gn:latitude":40.89384,
+    "gn:longitude":71.08897,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Solma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Solma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539644
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0450b4354289dac03ef7cbaff1213fbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209207253
+        }
+    ],
+    "wof:id":1209207253,
+    "wof:lastmodified":1537713389,
+    "wof:name":"Solma",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.08896999999997,
+    40.89384,
+    71.08896999999997,
+    40.89384
+],
+  "geometry": {"coordinates":[71.08896999999997,40.89384],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327245667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.46667,40.58816,72.46667,40.58816",
+    "geom:latitude":40.58816,
+    "geom:longitude":72.46667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Shirmonbuloq",
+    "gn:country_code":"UZ",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140308,
+    "gn:latitude":40.58816,
+    "gn:longitude":72.46667,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Shirmonbuloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0440\u043c\u0430\u043d\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Shirmanbulak"
+    ],
+    "name:uzb_x_preferred":[
+        "Shirmonbuloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140308
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ac39e9c8afe1795c1d4fb628ff89a948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327245667,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1327245667,
+    "wof:lastmodified":1537713408,
+    "wof:name":"Shirmonbuloq",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.46667,
+    40.58816,
+    72.46667,
+    40.58816
+],
+  "geometry": {"coordinates":[72.46666999999999,40.58816],"type":"Point"}
+}

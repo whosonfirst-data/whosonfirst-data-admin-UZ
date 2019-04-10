@@ -1,0 +1,68 @@
+{
+  "id": 1327156291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.84552,41.07529,71.84552,41.07529",
+    "geom:latitude":41.07529,
+    "geom:longitude":71.84552,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Damko`cha",
+    "gn:country_code":"UZ",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7579806,
+    "gn:latitude":41.07529,
+    "gn:longitude":71.84552,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Damko\u2018cha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Damko\u2018cha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7579806
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d61c760ed182a88cb64a7ff6a330b071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327156291,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1327156291,
+    "wof:lastmodified":1537713396,
+    "wof:name":"Damko`cha",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.84552,
+    41.07529,
+    71.84552,
+    41.07529
+],
+  "geometry": {"coordinates":[71.84551999999999,41.07529],"type":"Point"}
+}

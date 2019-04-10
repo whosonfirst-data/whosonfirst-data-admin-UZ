@@ -1,0 +1,68 @@
+{
+  "id": 1242672115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.68333,43.23333,58.68333,43.23333",
+    "geom:latitude":43.23333,
+    "geom:longitude":58.68333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Imeni Vos'mogo Marta",
+    "gn:country_code":"UZ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601366,
+    "gn:latitude":43.23333,
+    "gn:longitude":58.68333,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Imeni Vos\u2019mogo Marta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Imeni Vos\u2019mogo Marta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601366
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"cd32f0bb6932f88f9377e6b76177e23f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242672115,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1242672115,
+    "wof:lastmodified":1537713231,
+    "wof:name":"Imeni Vos'mogo Marta",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.68333000000001,
+    43.23333,
+    58.68333000000001,
+    43.23333
+],
+  "geometry": {"coordinates":[58.68333000000001,43.23333],"type":"Point"}
+}

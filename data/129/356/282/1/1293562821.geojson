@@ -1,0 +1,70 @@
+{
+  "id": 1293562821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.75278,41.12556,69.75278,41.12556",
+    "geom:latitude":41.12556,
+    "geom:longitude":69.75278,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chavlisay",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":1252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514246,
+    "gn:latitude":41.12556,
+    "gn:longitude":69.75278,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chavlisay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chauli-Say",
+        "Chavlisay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514246
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f43d2c7f42f90795b27c12c75d70db86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293562821,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1293562821,
+    "wof:lastmodified":1537713353,
+    "wof:name":"Chavlisay",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.75278,
+    41.12556,
+    69.75278,
+    41.12556
+],
+  "geometry": {"coordinates":[69.75278,41.12556],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1243355429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.39331,40.21129,65.39331,40.21129",
+    "geom:latitude":40.21129,
+    "geom:longitude":65.39331,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Toshrabot",
+    "gn:country_code":"UZ",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7858632,
+    "gn:latitude":40.21129,
+    "gn:longitude":65.39331,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Toshrabot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7858632
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"875c051453ea6fda846a85c2e85f5941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243355429,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1243355429,
+    "wof:lastmodified":1536937579,
+    "wof:name":"Toshrabot",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.39331,
+    40.21129000000001,
+    65.39331,
+    40.21129000000001
+],
+  "geometry": {"coordinates":[65.39331,40.21129000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193040283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.85605,41.0222,71.85605,41.0222",
+    "geom:latitude":41.0222,
+    "geom:longitude":71.85605,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ravot",
+    "gn:country_code":"UZ",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580414,
+    "gn:latitude":41.0222,
+    "gn:longitude":71.85605,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Ravot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ravot"
+    ],
+    "name:und_x_variant":[
+        "Kolkhoz Imeni Zhdanova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580414
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"8ddcbe7d9659c6e6c4b11f76ce24d28a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1193040283,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1193040283,
+    "wof:lastmodified":1537713399,
+    "wof:name":"Ravot",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.85605,
+    41.0222,
+    71.85605,
+    41.0222
+],
+  "geometry": {"coordinates":[71.85605,41.0222],"type":"Point"}
+}

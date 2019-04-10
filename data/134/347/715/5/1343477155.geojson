@@ -1,0 +1,67 @@
+{
+  "id": 1343477155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.31667,40.5,69.31667,40.5",
+    "geom:latitude":40.5,
+    "geom:longitude":69.31667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Karavan-Saray",
+    "gn:country_code":"UZ",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513731,
+    "gn:latitude":40.5,
+    "gn:longitude":69.31667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Karavan-Saray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091917221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513731
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ad88a9124265998c849d79add1c22a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917221,
+            "locality_id":1343477155,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1343477155,
+    "wof:lastmodified":1536722385,
+    "wof:name":"Karavan-Saray",
+    "wof:parent_id":1091917221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.31667,
+    40.5,
+    69.31667,
+    40.5
+],
+  "geometry": {"coordinates":[69.31667,40.5],"type":"Point"}
+}

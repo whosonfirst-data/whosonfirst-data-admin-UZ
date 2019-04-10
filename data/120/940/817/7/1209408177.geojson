@@ -1,0 +1,69 @@
+{
+  "id": 1209408177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.68867,38.97664,66.68867,38.97664",
+    "geom:latitude":38.97664,
+    "geom:longitude":66.68867,
+    "gn:admin1_code":"08",
+    "gn:admin3_code":"1346492.0",
+    "gn:asciiname":"Yakkabog` Shahri",
+    "gn:country_code":"UZ",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1346492,
+    "gn:latitude":38.97664,
+    "gn:longitude":66.68867,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Yakkabog\u2018 Shahri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yakkabogh Shahri",
+        "Gorod Yakkabag"
+    ],
+    "name:uzb_x_preferred":[
+        "Yakkabog\u2018 Shahri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346492
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c8fc75f1b142726cf5564e0a5baa6862",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209408177
+        }
+    ],
+    "wof:id":1209408177,
+    "wof:lastmodified":1537713292,
+    "wof:name":"Yakkabog` Shahri",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.68867,
+    38.97664,
+    66.68867,
+    38.97664
+],
+  "geometry": {"coordinates":[66.68867,38.97664],"type":"Point"}
+}

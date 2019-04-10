@@ -1,0 +1,68 @@
+{
+  "id": 1226668333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.47557,41.18717,71.47557,41.18717",
+    "geom:latitude":41.18717,
+    "geom:longitude":71.47557,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ravot",
+    "gn:country_code":"UZ",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580278,
+    "gn:latitude":41.18717,
+    "gn:longitude":71.47557,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Ravot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ravot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580278
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9dabc6ff1d8be3ce270e735fd9a7abb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226668333,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1226668333,
+    "wof:lastmodified":1537713396,
+    "wof:name":"Ravot",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.47556999999998,
+    41.18717,
+    71.47556999999998,
+    41.18717
+],
+  "geometry": {"coordinates":[71.47556999999998,41.18717],"type":"Point"}
+}

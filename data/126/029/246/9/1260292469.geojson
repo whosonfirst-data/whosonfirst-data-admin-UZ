@@ -1,0 +1,68 @@
+{
+  "id": 1260292469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.78335,40.54137,71.78335,40.54137",
+    "geom:latitude":40.54137,
+    "geom:longitude":71.78335,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bekto`pi",
+    "gn:country_code":"UZ",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10974495,
+    "gn:latitude":40.54137,
+    "gn:longitude":71.78335,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Bekto\u2018pi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Bekto\u2018pi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10974495
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0d9e674da3a5d354ac0893671104e8b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260292469,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1260292469,
+    "wof:lastmodified":1537713457,
+    "wof:name":"Bekto`pi",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.78335,
+    40.54137,
+    71.78335,
+    40.54137
+],
+  "geometry": {"coordinates":[71.78335,40.54137],"type":"Point"}
+}

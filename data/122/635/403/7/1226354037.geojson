@@ -1,0 +1,68 @@
+{
+  "id": 1226354037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.09862,40.53976,72.09862,40.53976",
+    "geom:latitude":40.53976,
+    "geom:longitude":72.09862,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qayirma",
+    "gn:country_code":"UZ",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10975308,
+    "gn:latitude":40.53976,
+    "gn:longitude":72.09862,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Qayirma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Qayirma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10975308
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"69151e7d879e05915f2f4f430368cedf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226354037,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1226354037,
+    "wof:lastmodified":1537713461,
+    "wof:name":"Qayirma",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.09862,
+    40.53976,
+    72.09862,
+    40.53976
+],
+  "geometry": {"coordinates":[72.09862,40.53976],"type":"Point"}
+}

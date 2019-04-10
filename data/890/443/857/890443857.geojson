@@ -1,0 +1,103 @@
+{
+  "id": 890443857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.97444,40.30222,71.97444,40.30222",
+    "geom:latitude":40.30222,
+    "geom:longitude":71.97444,
+    "gn:country":"UZ",
+    "gn:fcode":"PPL",
+    "gn:pop":32024,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Quvasoy"
+    ],
+    "name:eng_x_preferred":[
+        "Quvasoy"
+    ],
+    "name:ger_x_preferred":[
+        "Quvasoy"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30f4\u30a1\u30b5\u30a4"
+    ],
+    "name:kik_x_preferred":[
+        "Quvasoy"
+    ],
+    "name:lit_x_preferred":[
+        "Kuvasajus"
+    ],
+    "name:pol_x_preferred":[
+        "Quvasoy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0432\u0430\u0441\u0430\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Kuvasay"
+    ],
+    "name:unk_x_variant":[
+        "Kuwassai"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0648\u0648\u0627\u0633\u0648\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Quvasoy"
+    ],
+    "qs:name":"Quvasoy",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513331,
+        "gp:id":1969935,
+        "qs:id":1031563,
+        "wd:id":"Q650660",
+        "wk:page":"Quvasoy"
+    },
+    "wof:country":"UZ",
+    "wof:created":1469052441,
+    "wof:geomhash":"5d265ce17c003546b4be85110daf49cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "locality_id":890443857,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":890443857,
+    "wof:lastmodified":1527787060,
+    "wof:name":"Quvasoy",
+    "wof:parent_id":85673005,
+    "wof:placetype":"locality",
+    "wof:population":32024,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.97444,
+    40.30222,
+    71.97444,
+    40.30222
+],
+  "geometry": {"coordinates":[71.97444,40.30222],"type":"Point"}
+}

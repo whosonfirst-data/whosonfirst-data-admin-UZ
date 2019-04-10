@@ -1,0 +1,72 @@
+{
+  "id": 1326809703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.29111,41.20556,69.29111,41.20556",
+    "geom:latitude":41.20556,
+    "geom:longitude":69.29111,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Khodzha Pervyy",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513601,
+    "gn:latitude":41.20556,
+    "gn:longitude":69.29111,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khodzha Pervyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khodzha",
+        "Khodzha 1 (Pervyy)",
+        "Kazanakty",
+        "Khodzha Pervyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513601
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"36c1278264b20af38e919ac8c9e17d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326809703,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1326809703,
+    "wof:lastmodified":1537713333,
+    "wof:name":"Khodzha Pervyy",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.29111,
+    41.20556,
+    69.29111,
+    41.20556
+],
+  "geometry": {"coordinates":[69.29111,41.20556],"type":"Point"}
+}

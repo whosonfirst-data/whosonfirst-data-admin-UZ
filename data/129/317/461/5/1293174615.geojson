@@ -1,0 +1,68 @@
+{
+  "id": 1293174615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.79314,40.85099,68.79314,40.85099",
+    "geom:latitude":40.85099,
+    "geom:longitude":68.79314,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gul",
+    "gn:country_code":"UZ",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241857,
+    "gn:latitude":40.85099,
+    "gn:longitude":68.79314,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Gul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Gul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241857
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"bf26d9169a7b57dcc3f99d1c59597071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293174615,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1293174615,
+    "wof:lastmodified":1537713487,
+    "wof:name":"Gul",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.79314000000001,
+    40.85099,
+    68.79314000000001,
+    40.85099
+],
+  "geometry": {"coordinates":[68.79314000000001,40.85099],"type":"Point"}
+}

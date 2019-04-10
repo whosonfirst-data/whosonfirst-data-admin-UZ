@@ -1,0 +1,71 @@
+{
+  "id": 1193027601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.12915,40.50735,71.12915,40.50735",
+    "geom:latitude":40.50735,
+    "geom:longitude":71.12915,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dehkon",
+    "gn:country_code":"UZ",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11056969,
+    "gn:latitude":40.50735,
+    "gn:longitude":71.12915,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Dehkon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dekhkan"
+    ],
+    "name:uzb_x_preferred":[
+        "Dehkon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056969
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2187342bd5eac3411a814112f126f925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1193027601,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1193027601,
+    "wof:lastmodified":1537713468,
+    "wof:name":"Dehkon",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.12915,
+    40.50735,
+    71.12915,
+    40.50735
+],
+  "geometry": {"coordinates":[71.12915,40.50735],"type":"Point"}
+}

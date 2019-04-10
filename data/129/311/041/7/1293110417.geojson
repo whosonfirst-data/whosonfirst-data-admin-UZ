@@ -1,0 +1,71 @@
+{
+  "id": 1293110417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.98813,40.4775,70.98813,40.4775",
+    "geom:latitude":40.4775,
+    "geom:longitude":70.98813,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Muqimy",
+    "gn:country_code":"UZ",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1542758,
+    "gn:latitude":40.4775,
+    "gn:longitude":70.98813,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Muqimy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukimi"
+    ],
+    "name:uzb_x_preferred":[
+        "Muqimy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1542758
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"fdda5a765f60168f5badf72673df94c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293110417,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1293110417,
+    "wof:lastmodified":1537713375,
+    "wof:name":"Muqimy",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.98813,
+    40.4775,
+    70.98813,
+    40.4775
+],
+  "geometry": {"coordinates":[70.98813,40.4775],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310079315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.79673,40.94324,68.79673,40.94324",
+    "geom:latitude":40.94324,
+    "geom:longitude":68.79673,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yo`ltushgan",
+    "gn:country_code":"UZ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241783,
+    "gn:latitude":40.94324,
+    "gn:longitude":68.79673,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Yo\u2018ltushgan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Yo\u2018ltushgan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241783
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1d95142cf8274f9f6f7b50d2b0af72fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310079315,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1310079315,
+    "wof:lastmodified":1537713485,
+    "wof:name":"Yo`ltushgan",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.79673000000001,
+    40.94324,
+    68.79673000000001,
+    40.94324
+],
+  "geometry": {"coordinates":[68.79673000000001,40.94324],"type":"Point"}
+}

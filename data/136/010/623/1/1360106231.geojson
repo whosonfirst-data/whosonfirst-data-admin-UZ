@@ -1,0 +1,65 @@
+{
+  "id": 1360106231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.76673,39.90247,64.76673,39.90247",
+    "geom:latitude":39.90247,
+    "geom:longitude":64.76673,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"To`dako`l",
+    "gn:country_code":"UZ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7885222,
+    "gn:latitude":39.90247,
+    "gn:longitude":64.76673,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"To\u2018dako\u2018l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7885222
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"eac18148cac95519e5ea5b94d4c6270c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360106231,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1360106231,
+    "wof:lastmodified":1536915642,
+    "wof:name":"To`dako`l",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.76673000000001,
+    39.90247,
+    64.76673000000001,
+    39.90247
+],
+  "geometry": {"coordinates":[64.76673000000001,39.90247],"type":"Point"}
+}

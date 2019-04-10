@@ -1,0 +1,78 @@
+{
+  "id": 1343462737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.39973,40.89841,72.39973,40.89841",
+    "geom:latitude":40.89841,
+    "geom:longitude":72.39973,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Boykechik",
+    "gn:country_code":"UZ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514427,
+    "gn:latitude":40.89841,
+    "gn:longitude":72.39973,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Boykechik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u043a\u0438\u0447\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Baykichik",
+        "Bay-Kuchuk"
+    ],
+    "name:uzb_x_preferred":[
+        "Boykechik"
+    ],
+    "name:uzb_x_variant":[
+        "Boykichik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514427
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"67b9983120bbb14bc948a4e84a048a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343462737,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1343462737,
+    "wof:lastmodified":1537713358,
+    "wof:name":"Boykechik",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.39973,
+    40.89841,
+    72.39973,
+    40.89841
+],
+  "geometry": {"coordinates":[72.39973000000001,40.89841],"type":"Point"}
+}

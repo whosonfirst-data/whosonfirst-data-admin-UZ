@@ -1,0 +1,65 @@
+{
+  "id": 1310298393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.45452,38.57826,66.45452,38.57826",
+    "geom:latitude":38.57826,
+    "geom:longitude":66.45452,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Otar",
+    "gn:country_code":"UZ",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783756,
+    "gn:latitude":38.57826,
+    "gn:longitude":66.45452,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Otar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783756
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"3dc03aebfb92541fd226a8fc2fd27a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310298393,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1310298393,
+    "wof:lastmodified":1536718547,
+    "wof:name":"Otar",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.45452,
+    38.57826,
+    66.45452,
+    38.57826
+],
+  "geometry": {"coordinates":[66.45452,38.57826],"type":"Point"}
+}

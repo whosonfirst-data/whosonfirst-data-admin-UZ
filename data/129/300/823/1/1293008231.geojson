@@ -1,0 +1,68 @@
+{
+  "id": 1293008231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.10209,40.56073,71.10209,40.56073",
+    "geom:latitude":40.56073,
+    "geom:longitude":71.10209,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Puchugay",
+    "gn:country_code":"UZ",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11057366,
+    "gn:latitude":40.56073,
+    "gn:longitude":71.10209,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Puchugay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Puchugay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11057366
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"deb57744ce05a5e8ad3ef8b7221a37de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293008231,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1293008231,
+    "wof:lastmodified":1537713472,
+    "wof:name":"Puchugay",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.10209,
+    40.56073,
+    71.10209,
+    40.56073
+],
+  "geometry": {"coordinates":[71.10209,40.56073],"type":"Point"}
+}

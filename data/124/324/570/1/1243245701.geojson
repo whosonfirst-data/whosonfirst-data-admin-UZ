@@ -1,0 +1,68 @@
+{
+  "id": 1243245701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.85176,40.38417,68.85176,40.38417",
+    "geom:latitude":40.38417,
+    "geom:longitude":68.85176,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Yangiovul",
+    "gn:country_code":"UZ",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242495,
+    "gn:latitude":40.38417,
+    "gn:longitude":68.85176,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Yangiovul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Yangiovul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242495
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"70a39ae161a11796d85d2b7a2b1e58b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243245701,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1243245701,
+    "wof:lastmodified":1537713496,
+    "wof:name":"Yangiovul",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.85176,
+    40.38417000000001,
+    68.85176,
+    40.38417000000001
+],
+  "geometry": {"coordinates":[68.85176,40.38417000000001],"type":"Point"}
+}

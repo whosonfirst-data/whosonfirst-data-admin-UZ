@@ -1,0 +1,70 @@
+{
+  "id": 1293192419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.57694,40.66889,66.57694,40.66889",
+    "geom:latitude":40.66889,
+    "geom:longitude":66.57694,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kattaich",
+    "gn:country_code":"UZ",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513694,
+    "gn:latitude":40.66889,
+    "gn:longitude":66.57694,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kattaich",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Simbulak",
+        "Kattauch",
+        "Kattaich"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513694
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f22fe6b2896b70b7bc05d97e0060ce08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293192419,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1293192419,
+    "wof:lastmodified":1537713336,
+    "wof:name":"Kattaich",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.57694000000001,
+    40.66889000000001,
+    66.57694000000001,
+    40.66889000000001
+],
+  "geometry": {"coordinates":[66.57694000000001,40.66889000000001],"type":"Point"}
+}

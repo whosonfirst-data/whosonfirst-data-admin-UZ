@@ -1,0 +1,65 @@
+{
+  "id": 1326926337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.45434,38.41693,66.45434,38.41693",
+    "geom:latitude":38.41693,
+    "geom:longitude":66.45434,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ko`kjar",
+    "gn:country_code":"UZ",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783752,
+    "gn:latitude":38.41693,
+    "gn:longitude":66.45434,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Ko\u2018kjar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783752
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"512b0d272fabe70ad42c5323631d8ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326926337,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1326926337,
+    "wof:lastmodified":1536913746,
+    "wof:name":"Ko`kjar",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.45434,
+    38.41693,
+    66.45434,
+    38.41693
+],
+  "geometry": {"coordinates":[66.45434,38.41693],"type":"Point"}
+}

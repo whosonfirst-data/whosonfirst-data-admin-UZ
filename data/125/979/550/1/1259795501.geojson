@@ -1,0 +1,71 @@
+{
+  "id": 1259795501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.22479,40.51832,71.22479,40.51832",
+    "geom:latitude":40.51832,
+    "geom:longitude":71.22479,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qorovultepa",
+    "gn:country_code":"UZ",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11056953,
+    "gn:latitude":40.51832,
+    "gn:longitude":71.22479,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Qorovultepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karaultepa"
+    ],
+    "name:uzb_x_preferred":[
+        "Qorovultepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056953
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5624d0ea6102074e5f4d3b01878c83b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259795501,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1259795501,
+    "wof:lastmodified":1537713467,
+    "wof:name":"Qorovultepa",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.22479,
+    40.51832,
+    71.22479,
+    40.51832
+],
+  "geometry": {"coordinates":[71.22479,40.51832],"type":"Point"}
+}

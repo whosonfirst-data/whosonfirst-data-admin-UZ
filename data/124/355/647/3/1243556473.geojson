@@ -1,0 +1,75 @@
+{
+  "id": 1243556473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.8287,40.55443,71.8287,40.55443",
+    "geom:latitude":40.55443,
+    "geom:longitude":71.8287,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Xo`jaqishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10974506,
+    "gn:latitude":40.55443,
+    "gn:longitude":71.8287,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Xo\u2018jaqishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yukhary"
+    ],
+    "name:uzb_x_preferred":[
+        "Xo\u2018jaqishloq"
+    ],
+    "name:uzb_x_variant":[
+        "Yuqori-Xo\u2018jaqishloq",
+        "Qumariq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10974506
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2266f1e77f76db44834580aa7cb57d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243556473,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1243556473,
+    "wof:lastmodified":1537713457,
+    "wof:name":"Xo`jaqishloq",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.8287,
+    40.55443,
+    71.8287,
+    40.55443
+],
+  "geometry": {"coordinates":[71.8287,40.55443],"type":"Point"}
+}

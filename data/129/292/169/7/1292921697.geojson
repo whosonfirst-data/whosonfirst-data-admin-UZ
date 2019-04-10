@@ -1,0 +1,65 @@
+{
+  "id": 1292921697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.15,39.75,67.15,39.75",
+    "geom:latitude":39.75,
+    "geom:longitude":67.15,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Karakisak",
+    "gn:country_code":"UZ",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217094,
+    "gn:latitude":39.75,
+    "gn:longitude":67.15,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Karakisak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217094
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c5ab27322e494ba28c8c681faf793fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1292921697,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1292921697,
+    "wof:lastmodified":1536605630,
+    "wof:name":"Karakisak",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.15,
+    39.75,
+    67.15,
+    39.75
+],
+  "geometry": {"coordinates":[67.15000000000001,39.75],"type":"Point"}
+}

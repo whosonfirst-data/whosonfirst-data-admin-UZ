@@ -1,0 +1,65 @@
+{
+  "id": 1209932695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.4,37.4,67.4,37.4",
+    "geom:latitude":37.4,
+    "geom:longitude":67.4,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Shaman",
+    "gn:country_code":"UZ",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216180,
+    "gn:latitude":37.4,
+    "gn:longitude":67.4,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Shaman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216180
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"27d2fc246fef37ff7e7c7537df086274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209932695,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1209932695,
+    "wof:lastmodified":1536392023,
+    "wof:name":"Shaman",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.4,
+    37.4,
+    67.4,
+    37.4
+],
+  "geometry": {"coordinates":[67.40000000000001,37.4],"type":"Point"}
+}

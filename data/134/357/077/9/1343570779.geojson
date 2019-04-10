@@ -1,0 +1,74 @@
+{
+  "id": 1343570779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.33699,40.89993,72.33699,40.89993",
+    "geom:latitude":40.89993,
+    "geom:longitude":72.33699,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Eskiqishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149460,
+    "gn:latitude":40.89993,
+    "gn:longitude":72.33699,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Eskiqishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u043a\u0438\u043a\u0438\u0448\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Eskikishlak"
+    ],
+    "name:uzb_x_preferred":[
+        "Eskiqishloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149460
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e87399ff8737ebd632defe72bb164b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343570779,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1343570779,
+    "wof:lastmodified":1537713421,
+    "wof:name":"Eskiqishloq",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.33699,
+    40.89993,
+    72.33699,
+    40.89993
+],
+  "geometry": {"coordinates":[72.33699,40.89993],"type":"Point"}
+}

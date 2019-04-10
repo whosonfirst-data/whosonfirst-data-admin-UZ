@@ -1,0 +1,70 @@
+{
+  "id": 1259593109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.96667,40.05,66.96667,40.05",
+    "geom:latitude":40.05,
+    "geom:longitude":66.96667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sart-Bulak",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512897,
+    "gn:latitude":40.05,
+    "gn:longitude":66.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sart-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sar-Bulak",
+        "Sart-Bulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512897
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"459cbc46cdee72313bc3807950b62d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259593109,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1259593109,
+    "wof:lastmodified":1537713314,
+    "wof:name":"Sart-Bulak",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.96667,
+    40.05,
+    66.96667,
+    40.05
+],
+  "geometry": {"coordinates":[66.96666999999999,40.05],"type":"Point"}
+}

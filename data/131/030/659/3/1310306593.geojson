@@ -1,0 +1,71 @@
+{
+  "id": 1310306593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.65415,40.50682,71.65415,40.50682",
+    "geom:latitude":40.50682,
+    "geom:longitude":71.65415,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qalmoqlar",
+    "gn:country_code":"UZ",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10974668,
+    "gn:latitude":40.50682,
+    "gn:longitude":71.65415,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Qalmoqlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalmaklar"
+    ],
+    "name:uzb_x_preferred":[
+        "Qalmoqlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10974668
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"346947dfee206195ec05489da1928f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310306593,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1310306593,
+    "wof:lastmodified":1537713459,
+    "wof:name":"Qalmoqlar",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.65415,
+    40.50682000000001,
+    71.65415,
+    40.50682000000001
+],
+  "geometry": {"coordinates":[71.65415,40.50682000000001],"type":"Point"}
+}

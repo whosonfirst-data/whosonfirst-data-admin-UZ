@@ -1,0 +1,67 @@
+{
+  "id": 1209008323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.32423,40.51961,72.32423,40.51961",
+    "geom:latitude":40.51961,
+    "geom:longitude":72.32423,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Shamat",
+    "gn:country_code":"UZ",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140473,
+    "gn:latitude":40.51961,
+    "gn:longitude":72.32423,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Shamat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043c\u0430\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Shamat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140473
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"de9da149e768958dfd51b1729b582007",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209008323
+        }
+    ],
+    "wof:id":1209008323,
+    "wof:lastmodified":1537713413,
+    "wof:name":"Shamat",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.32423,
+    40.51961,
+    72.32423,
+    40.51961
+],
+  "geometry": {"coordinates":[72.32423,40.51961],"type":"Point"}
+}

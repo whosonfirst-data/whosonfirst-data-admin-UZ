@@ -1,0 +1,65 @@
+{
+  "id": 1310114575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.55,39.96833,64.55,39.96833",
+    "geom:latitude":39.96833,
+    "geom:longitude":64.55,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sulindikan",
+    "gn:country_code":"UZ",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216064,
+    "gn:latitude":39.96833,
+    "gn:longitude":64.55,
+    "gn:modification_date":"2001-11-23",
+    "gn:name":"Sulindikan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216064
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a02c20a07468cc4f5a7c114bf206a9b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310114575,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":1310114575,
+    "wof:lastmodified":1536982586,
+    "wof:name":"Sulindikan",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.55,
+    39.96833,
+    64.55,
+    39.96833
+],
+  "geometry": {"coordinates":[64.55,39.96833],"type":"Point"}
+}

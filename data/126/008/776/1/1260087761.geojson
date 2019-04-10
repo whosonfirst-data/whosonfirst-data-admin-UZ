@@ -1,0 +1,74 @@
+{
+  "id": 1260087761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.66293,40.69178,71.66293,40.69178",
+    "geom:latitude":40.69178,
+    "geom:longitude":71.66293,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Birinchi Tekelik",
+    "gn:country_code":"UZ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10972995,
+    "gn:latitude":40.69178,
+    "gn:longitude":71.66293,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Birinchi Tekelik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tekelik Pervyy"
+    ],
+    "name:uzb_x_preferred":[
+        "Birinchi Tekelik"
+    ],
+    "name:uzb_x_variant":[
+        "Takalik Bir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10972995
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"58e2230b9a53010a79f2ba0ca20c9e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260087761,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1260087761,
+    "wof:lastmodified":1537713454,
+    "wof:name":"Birinchi Tekelik",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.66293,
+    40.69178,
+    71.66293,
+    40.69178
+],
+  "geometry": {"coordinates":[71.66293,40.69178],"type":"Point"}
+}

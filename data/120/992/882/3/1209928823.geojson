@@ -1,0 +1,65 @@
+{
+  "id": 1209928823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.3,39.45,67.3,39.45",
+    "geom:latitude":39.45,
+    "geom:longitude":67.3,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Besh-Kapa",
+    "gn:country_code":"UZ",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217708,
+    "gn:latitude":39.45,
+    "gn:longitude":67.3,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Besh-Kapa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217708
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"38ea1863ed790bdc8b1cb2f8b426b1d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209928823,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1209928823,
+    "wof:lastmodified":1536393659,
+    "wof:name":"Besh-Kapa",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.3,
+    39.45,
+    67.3,
+    39.45
+],
+  "geometry": {"coordinates":[67.3,39.45],"type":"Point"}
+}

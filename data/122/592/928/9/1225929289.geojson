@@ -1,0 +1,68 @@
+{
+  "id": 1225929289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.89048,38.74442,65.89048,38.74442",
+    "geom:latitude":38.74442,
+    "geom:longitude":65.89048,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tojikqishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7630325,
+    "gn:latitude":38.74442,
+    "gn:longitude":65.89048,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tojikqishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tojikqishloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7630325
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9444517ae8c7e3c6881f735f06efa53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1225929289,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1225929289,
+    "wof:lastmodified":1537713401,
+    "wof:name":"Tojikqishloq",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.89048000000001,
+    38.74442,
+    65.89048000000001,
+    38.74442
+],
+  "geometry": {"coordinates":[65.89048000000001,38.74442],"type":"Point"}
+}

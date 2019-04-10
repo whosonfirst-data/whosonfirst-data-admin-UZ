@@ -1,0 +1,109 @@
+{
+  "id": 421180861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.23694,40.00778,66.23694,40.00778",
+    "geom:latitude":40.00778,
+    "geom:longitude":66.23694,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u067e\u06cc\u0634\u0646\u0628\u0647"
+    ],
+    "name:dut_x_preferred":[
+        "Paishanba"
+    ],
+    "name:eng_x_preferred":[
+        "Paishanba"
+    ],
+    "name:kik_x_preferred":[
+        "Payshanba"
+    ],
+    "name:pol_x_preferred":[
+        "Payshanba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0439\u0448\u0430\u043d\u0431\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Per\u015fembe"
+    ],
+    "name:unk_x_variant":[
+        "Payshmba"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0634\u0646\u0628\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "Payshanba"
+    ],
+    "qs:gn_country":"UZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1513011,
+    "qs:gn_pop":24772,
+    "qs:name":"Payshanba",
+    "qs:name_adm0":"Uzbekistan",
+    "qs:name_adm1":"Samarqand",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":463109,
+    "qs:woe_adm0":23424980,
+    "qs:woe_id":2271533,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513011,
+        "gp:id":2271533,
+        "qs:id":463109,
+        "wd:id":"Q12829870"
+    },
+    "wof:country":"UZ",
+    "wof:created":1459009273,
+    "wof:geomhash":"648af8fa28ec4c8332f4bbf2aca692a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":421180861,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":421180861,
+    "wof:lastmodified":1527716235,
+    "wof:name":"Payshanba",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:population":24772,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.23694,
+    40.00778,
+    66.23694,
+    40.00778
+],
+  "geometry": {"coordinates":[66.23694,40.00778],"type":"Point"}
+}

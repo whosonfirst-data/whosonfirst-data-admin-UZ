@@ -1,0 +1,65 @@
+{
+  "id": 1260299987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.91667,40.4,66.91667,40.4",
+    "geom:latitude":40.4,
+    "geom:longitude":66.91667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mikhayam",
+    "gn:country_code":"UZ",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513214,
+    "gn:latitude":40.4,
+    "gn:longitude":66.91667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Mikhayam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513214
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e595d79dc61f911c877c83caa3b83f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260299987,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1260299987,
+    "wof:lastmodified":1536689808,
+    "wof:name":"Mikhayam",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.91667,
+    40.4,
+    66.91667,
+    40.4
+],
+  "geometry": {"coordinates":[66.91667,40.4],"type":"Point"}
+}

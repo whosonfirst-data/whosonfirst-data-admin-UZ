@@ -1,0 +1,64 @@
+{
+  "id": 1209401979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.53919,37.87407,67.53919,37.87407",
+    "geom:latitude":37.87407,
+    "geom:longitude":67.53919,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Bocharo",
+    "gn:country_code":"UZ",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11246964,
+    "gn:latitude":37.87407,
+    "gn:longitude":67.53919,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Bocharo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Bocharo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11246964
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2854b30f7796a0a6161cdc4cd11f1c22",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209401979
+        }
+    ],
+    "wof:id":1209401979,
+    "wof:lastmodified":1537713502,
+    "wof:name":"Bocharo",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.53919,
+    37.87407,
+    67.53919,
+    37.87407
+],
+  "geometry": {"coordinates":[67.53919,37.87407],"type":"Point"}
+}

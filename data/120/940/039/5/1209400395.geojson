@@ -1,0 +1,61 @@
+{
+  "id": 1209400395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.28058,38.3717,66.28058,38.3717",
+    "geom:latitude":38.3717,
+    "geom:longitude":66.28058,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Jarquduq",
+    "gn:country_code":"UZ",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783747,
+    "gn:latitude":38.3717,
+    "gn:longitude":66.28058,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Jarquduq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783747
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b2a2a3ee0d097b6227c9a60f3ff55f60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209400395
+        }
+    ],
+    "wof:id":1209400395,
+    "wof:lastmodified":1536288167,
+    "wof:name":"Jarquduq",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.28058,
+    38.3717,
+    66.28058,
+    38.3717
+],
+  "geometry": {"coordinates":[66.28058,38.3717],"type":"Point"}
+}

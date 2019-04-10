@@ -1,0 +1,64 @@
+{
+  "id": 1209499601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.46869,42.43332,59.46869,42.43332",
+    "geom:latitude":42.43332,
+    "geom:longitude":59.46869,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Qo`lob",
+    "gn:country_code":"UZ",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7893437,
+    "gn:latitude":42.43332,
+    "gn:longitude":59.46869,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Qo\u2018lob",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Qo\u2018lob"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7893437
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"45439752abd9c05d045f0d05daa51cd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209499601
+        }
+    ],
+    "wof:id":1209499601,
+    "wof:lastmodified":1537713404,
+    "wof:name":"Qo`lob",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.46869,
+    42.43332,
+    59.46869,
+    42.43332
+],
+  "geometry": {"coordinates":[59.46869,42.43332],"type":"Point"}
+}

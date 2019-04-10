@@ -1,0 +1,74 @@
+{
+  "id": 1310017435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.80741,40.64538,71.80741,40.64538",
+    "geom:latitude":40.64538,
+    "geom:longitude":71.80741,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sh. Rashidov",
+    "gn:country_code":"UZ",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10973180,
+    "gn:latitude":40.64538,
+    "gn:longitude":71.80741,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Sh. Rashidov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imeni Michurina"
+    ],
+    "name:uzb_x_preferred":[
+        "Sh. Rashidov"
+    ],
+    "name:uzb_x_variant":[
+        "Rashidov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10973180
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"71f331124d1327173ea021a8026e369e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310017435,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1310017435,
+    "wof:lastmodified":1537713455,
+    "wof:name":"Sh. Rashidov",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.80741,
+    40.64538,
+    71.80741,
+    40.64538
+],
+  "geometry": {"coordinates":[71.80741,40.64538],"type":"Point"}
+}

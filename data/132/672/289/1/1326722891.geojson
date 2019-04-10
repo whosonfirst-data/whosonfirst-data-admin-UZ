@@ -1,0 +1,78 @@
+{
+  "id": 1326722891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.20698,41.0563,72.20698,41.0563",
+    "geom:latitude":41.0563,
+    "geom:longitude":72.20698,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Qirg`izqo`rg`on",
+    "gn:country_code":"UZ",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524768,
+    "gn:latitude":41.0563,
+    "gn:longitude":72.20698,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Qirg\u2018izqo\u2018rg\u2018on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qirg\u2018izqo\u2018rg\u2018on"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041d\u043e\u043c\u0435\u0440 \u0427\u0435\u0442\u044b\u0440\u0435 \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u0418\u043c\u0435\u043d\u0438 \u041b\u0435\u043d\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Otdeleniye Nomer Chetyre Sovkhoza Imeni Lenina"
+    ],
+    "name:uzb_x_preferred":[
+        "Qirg\u2018izqo\u2018rg\u2018on"
+    ],
+    "name:uzb_x_variant":[
+        "Qo\u2018rg\u2018oncha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524768
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"afb479b258c2a4ce52bff7b91ca3a21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1326722891,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326722891,
+    "wof:lastmodified":1537713376,
+    "wof:name":"Qirg`izqo`rg`on",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.20698,
+    41.0563,
+    72.20698,
+    41.0563
+],
+  "geometry": {"coordinates":[72.20698,41.0563],"type":"Point"}
+}

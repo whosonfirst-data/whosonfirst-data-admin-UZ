@@ -1,0 +1,68 @@
+{
+  "id": 1276128101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.504,40.64147,72.504,40.64147",
+    "geom:latitude":40.64147,
+    "geom:longitude":72.504,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Oybuloq",
+    "gn:country_code":"UZ",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229832,
+    "gn:latitude":40.64147,
+    "gn:longitude":72.504,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Oybuloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Oybuloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229832
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ee58caff70f7b65c110db03ef202cba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276128101,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1276128101,
+    "wof:lastmodified":1537713482,
+    "wof:name":"Oybuloq",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.50399999999998,
+    40.64147,
+    72.50399999999998,
+    40.64147
+],
+  "geometry": {"coordinates":[72.50399999999998,40.64147],"type":"Point"}
+}

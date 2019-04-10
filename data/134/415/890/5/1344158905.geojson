@@ -1,0 +1,68 @@
+{
+  "id": 1344158905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.05757,40.56912,71.05757,40.56912",
+    "geom:latitude":40.56912,
+    "geom:longitude":71.05757,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chaka",
+    "gn:country_code":"UZ",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11057383,
+    "gn:latitude":40.56912,
+    "gn:longitude":71.05757,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Chaka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Chaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11057383
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"deb25fc1e188b722d03f31764dad3622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344158905,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1344158905,
+    "wof:lastmodified":1537713472,
+    "wof:name":"Chaka",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.05757,
+    40.56912,
+    71.05757,
+    40.56912
+],
+  "geometry": {"coordinates":[71.05757,40.56912],"type":"Point"}
+}

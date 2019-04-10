@@ -1,0 +1,61 @@
+{
+  "id": 1209502111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.89243,38.17394,67.89243,38.17394",
+    "geom:latitude":38.17394,
+    "geom:longitude":67.89243,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Khayrabad",
+    "gn:country_code":"UZ",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463555,
+    "gn:latitude":38.17394,
+    "gn:longitude":67.89243,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Khayrabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463555
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"3c1180e45ad2c21d9d42707e28fff6b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209502111
+        }
+    ],
+    "wof:id":1209502111,
+    "wof:lastmodified":1536285149,
+    "wof:name":"Khayrabad",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.89243,
+    38.17394,
+    67.89243,
+    38.17394
+],
+  "geometry": {"coordinates":[67.89243,38.17394],"type":"Point"}
+}

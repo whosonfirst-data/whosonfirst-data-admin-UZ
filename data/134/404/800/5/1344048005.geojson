@@ -1,0 +1,74 @@
+{
+  "id": 1344048005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.62087,38.12396,66.62087,38.12396",
+    "geom:latitude":38.12396,
+    "geom:longitude":66.62087,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Torqopchig`ay",
+    "gn:country_code":"UZ",
+    "gn:dem":1326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463593,
+    "gn:latitude":38.12396,
+    "gn:longitude":66.62087,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Torqopchig\u2018ay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Targapchigay",
+        "Targon-Chagay",
+        "Torqop-Chigay",
+        "Torqopchig\u2018ay"
+    ],
+    "name:uzb_x_preferred":[
+        "Torqapchig\u2018ay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463593
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"80e72be632aa007d7457acd85e161b42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344048005,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1344048005,
+    "wof:lastmodified":1537713294,
+    "wof:name":"Torqopchig`ay",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.62087,
+    38.12396,
+    66.62087,
+    38.12396
+],
+  "geometry": {"coordinates":[66.62087,38.12396],"type":"Point"}
+}

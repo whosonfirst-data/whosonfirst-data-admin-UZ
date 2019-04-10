@@ -1,0 +1,70 @@
+{
+  "id": 1343373473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.9,41.43333,60.9,41.43333",
+    "geom:latitude":41.43333,
+    "geom:longitude":60.9,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tama",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512681,
+    "gn:latitude":41.43333,
+    "gn:longitude":60.9,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamaturvadyk",
+        "Tama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512681
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"718e720497cb0e15e264c61a2a7513ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343373473,
+            "region_id":85680377
+        }
+    ],
+    "wof:id":1343373473,
+    "wof:lastmodified":1537713309,
+    "wof:name":"Tama",
+    "wof:parent_id":85680377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.9,
+    41.43333,
+    60.9,
+    41.43333
+],
+  "geometry": {"coordinates":[60.9,41.43333],"type":"Point"}
+}

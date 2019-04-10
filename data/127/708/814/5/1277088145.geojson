@@ -1,0 +1,74 @@
+{
+  "id": 1277088145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.76833,40.76663,72.76833,40.76663",
+    "geom:latitude":40.76663,
+    "geom:longitude":72.76833,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bo`ston",
+    "gn:country_code":"UZ",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163765,
+    "gn:latitude":40.76663,
+    "gn:longitude":72.76833,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Bo\u2018ston",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0441\u0442\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Bustan"
+    ],
+    "name:uzb_x_preferred":[
+        "Bo\u2018ston"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163765
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"cb20873497bc26cd1da1dcfe00083cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1277088145,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1277088145,
+    "wof:lastmodified":1537713436,
+    "wof:name":"Bo`ston",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.76833,
+    40.76663,
+    72.76833,
+    40.76663
+],
+  "geometry": {"coordinates":[72.76833000000001,40.76663],"type":"Point"}
+}

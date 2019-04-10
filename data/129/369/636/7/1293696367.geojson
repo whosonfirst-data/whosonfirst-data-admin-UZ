@@ -1,0 +1,77 @@
+{
+  "id": 1293696367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.15468,40.73751,72.15468,40.73751",
+    "geom:latitude":40.73751,
+    "geom:longitude":72.15468,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qum",
+    "gn:country_code":"UZ",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149754,
+    "gn:latitude":40.73751,
+    "gn:longitude":72.15468,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Qum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043c\u043a\u0438\u0448\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kumkishlak"
+    ],
+    "name:uzb_x_preferred":[
+        "Qumqishloq"
+    ],
+    "name:uzb_x_variant":[
+        "Qum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149754
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"05470e08622122d06aa42896f92e2e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293696367,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1293696367,
+    "wof:lastmodified":1537713426,
+    "wof:name":"Qum",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.15468,
+    40.73751,
+    72.15468,
+    40.73751
+],
+  "geometry": {"coordinates":[72.15468,40.73751],"type":"Point"}
+}

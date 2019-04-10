@@ -1,0 +1,68 @@
+{
+  "id": 1209723359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.64603,40.3456,70.64603,40.3456",
+    "geom:latitude":40.3456,
+    "geom:longitude":70.64603,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yuqori",
+    "gn:country_code":"UZ",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646204,
+    "gn:latitude":40.3456,
+    "gn:longitude":70.64603,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Yuqori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Yuqori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646204
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"237866915d8d47df579bc5f99dcbd967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209723359,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1209723359,
+    "wof:lastmodified":1537713443,
+    "wof:name":"Yuqori",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.64603000000002,
+    40.3456,
+    70.64603000000002,
+    40.3456
+],
+  "geometry": {"coordinates":[70.64603000000002,40.3456],"type":"Point"}
+}

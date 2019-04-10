@@ -1,0 +1,65 @@
+{
+  "id": 1225822413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.30778,38.32361,67.30778,38.32361",
+    "geom:latitude":38.32361,
+    "geom:longitude":67.30778,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Alachapan",
+    "gn:country_code":"UZ",
+    "gn:dem":1674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463561,
+    "gn:latitude":38.32361,
+    "gn:longitude":67.30778,
+    "gn:modification_date":"2001-02-19",
+    "gn:name":"Alachapan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463561
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f7a3772033e3669d2af7c84ee0395756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1225822413,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1225822413,
+    "wof:lastmodified":1537045492,
+    "wof:name":"Alachapan",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.30778000000001,
+    38.32361,
+    67.30778000000001,
+    38.32361
+],
+  "geometry": {"coordinates":[67.30778000000001,38.32361],"type":"Point"}
+}

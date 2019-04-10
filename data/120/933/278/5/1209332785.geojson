@@ -1,0 +1,61 @@
+{
+  "id": 1209332785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.05,37.83333,67.05,37.83333",
+    "geom:latitude":37.83333,
+    "geom:longitude":67.05,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lyaylyakan",
+    "gn:country_code":"UZ",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216550,
+    "gn:latitude":37.83333,
+    "gn:longitude":67.05,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Lyaylyakan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216550
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"00d682f8dbe4471ff19dd2e226cc6823",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209332785
+        }
+    ],
+    "wof:id":1209332785,
+    "wof:lastmodified":1536290321,
+    "wof:name":"Lyaylyakan",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.05,
+    37.83333,
+    67.05,
+    37.83333
+],
+  "geometry": {"coordinates":[67.05,37.83333],"type":"Point"}
+}

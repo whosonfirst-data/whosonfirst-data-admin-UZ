@@ -1,0 +1,68 @@
+{
+  "id": 1242646883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.66088,40.56298,68.66088,40.56298",
+    "geom:latitude":40.56298,
+    "geom:longitude":68.66088,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"T. Ahmedov",
+    "gn:country_code":"UZ",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242314,
+    "gn:latitude":40.56298,
+    "gn:longitude":68.66088,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"T. Ahmedov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "T. Ahmedov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242314
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e056dcf53cda23c55baa1612fa0583f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242646883,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1242646883,
+    "wof:lastmodified":1537713492,
+    "wof:name":"T. Ahmedov",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.66088,
+    40.56298,
+    68.66088,
+    40.56298
+],
+  "geometry": {"coordinates":[68.66088000000001,40.56298],"type":"Point"}
+}

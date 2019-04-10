@@ -1,0 +1,68 @@
+{
+  "id": 1343945049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.49375,37.6528,67.49375,37.6528",
+    "geom:latitude":37.6528,
+    "geom:longitude":67.49375,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Baymoqli",
+    "gn:country_code":"UZ",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11246942,
+    "gn:latitude":37.6528,
+    "gn:longitude":67.49375,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Baymoqli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Baymoqli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11246942
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ba15f958172ac5570a987cd4d87a05cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343945049,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1343945049,
+    "wof:lastmodified":1537713501,
+    "wof:name":"Baymoqli",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.49375,
+    37.6528,
+    67.49375,
+    37.6528
+],
+  "geometry": {"coordinates":[67.49375000000001,37.6528],"type":"Point"}
+}

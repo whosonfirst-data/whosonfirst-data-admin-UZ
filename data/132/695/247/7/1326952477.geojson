@@ -1,0 +1,68 @@
+{
+  "id": 1326952477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.04088,39.18103,67.04088,39.18103",
+    "geom:latitude":39.18103,
+    "geom:longitude":67.04088,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Vatkana",
+    "gn:country_code":"UZ",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215778,
+    "gn:latitude":39.18103,
+    "gn:longitude":67.04088,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vatkana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vodkana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215778
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"23bfa55d587f32bd4693784d4d62a1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326952477,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1326952477,
+    "wof:lastmodified":1537713236,
+    "wof:name":"Vatkana",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.04088,
+    39.18103,
+    67.04088,
+    39.18103
+],
+  "geometry": {"coordinates":[67.04088,39.18103],"type":"Point"}
+}

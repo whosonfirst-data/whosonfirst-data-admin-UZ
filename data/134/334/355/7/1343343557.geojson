@@ -1,0 +1,68 @@
+{
+  "id": 1343343557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.90761,40.53675,68.90761,40.53675",
+    "geom:latitude":40.53675,
+    "geom:longitude":68.90761,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Islomobod",
+    "gn:country_code":"UZ",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242329,
+    "gn:latitude":40.53675,
+    "gn:longitude":68.90761,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Islomobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Islomobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242329
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"20c4f13867dd7328c00f7401a2d5d8d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343343557,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1343343557,
+    "wof:lastmodified":1537713492,
+    "wof:name":"Islomobod",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.90760999999999,
+    40.53675,
+    68.90760999999999,
+    40.53675
+],
+  "geometry": {"coordinates":[68.90760999999999,40.53675],"type":"Point"}
+}

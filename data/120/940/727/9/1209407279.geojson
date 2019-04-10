@@ -1,0 +1,64 @@
+{
+  "id": 1209407279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.87397,40.93294,71.87397,40.93294",
+    "geom:latitude":40.93294,
+    "geom:longitude":71.87397,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Uchtepa",
+    "gn:country_code":"UZ",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7527347,
+    "gn:latitude":40.93294,
+    "gn:longitude":71.87397,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Uchtepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Uchtepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7527347
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"65753592c5a2b52187547390e5b7cdaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209407279
+        }
+    ],
+    "wof:id":1209407279,
+    "wof:lastmodified":1537713377,
+    "wof:name":"Uchtepa",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.87397,
+    40.93294,
+    71.87397,
+    40.93294
+],
+  "geometry": {"coordinates":[71.87397,40.93294],"type":"Point"}
+}

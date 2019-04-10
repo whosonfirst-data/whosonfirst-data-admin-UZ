@@ -1,0 +1,68 @@
+{
+  "id": 1259765373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.67226,40.19625,68.67226,40.19625",
+    "geom:latitude":40.19625,
+    "geom:longitude":68.67226,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Oqchangal",
+    "gn:country_code":"UZ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242623,
+    "gn:latitude":40.19625,
+    "gn:longitude":68.67226,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Oqchangal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Oqchangal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242623
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"edd5f4f55665cb209300da0daec13cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259765373,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":1259765373,
+    "wof:lastmodified":1537713498,
+    "wof:name":"Oqchangal",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.67226,
+    40.19625,
+    68.67226,
+    40.19625
+],
+  "geometry": {"coordinates":[68.67225999999999,40.19625],"type":"Point"}
+}

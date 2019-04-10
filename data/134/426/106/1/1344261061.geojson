@@ -1,0 +1,68 @@
+{
+  "id": 1344261061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.20123,40.72846,72.20123,40.72846",
+    "geom:latitude":40.72846,
+    "geom:longitude":72.20123,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Beshgul",
+    "gn:country_code":"UZ",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229503,
+    "gn:latitude":40.72846,
+    "gn:longitude":72.20123,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Beshgul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Beshgul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229503
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"264eb7f21e1b96f0032f4e9142bda5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344261061,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1344261061,
+    "wof:lastmodified":1537713480,
+    "wof:name":"Beshgul",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.20123000000002,
+    40.72846,
+    72.20123000000002,
+    40.72846
+],
+  "geometry": {"coordinates":[72.20123000000002,40.72846],"type":"Point"}
+}

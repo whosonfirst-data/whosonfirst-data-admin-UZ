@@ -1,0 +1,67 @@
+{
+  "id": 1209207101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.37967,40.86158,71.37967,40.86158",
+    "geom:latitude":40.86158,
+    "geom:longitude":71.37967,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Momoxon",
+    "gn:country_code":"UZ",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7537284,
+    "gn:latitude":40.86158,
+    "gn:longitude":71.37967,
+    "gn:modification_date":"2017-08-03",
+    "gn:name":"Momoxon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mamaxon"
+    ],
+    "name:uzb_x_preferred":[
+        "Momoxon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7537284
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"8776c9db7dd67b37651cfddd968d0a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209207101
+        }
+    ],
+    "wof:id":1209207101,
+    "wof:lastmodified":1537713387,
+    "wof:name":"Momoxon",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.37966999999998,
+    40.86158,
+    71.37966999999998,
+    40.86158
+],
+  "geometry": {"coordinates":[71.37966999999998,40.86158],"type":"Point"}
+}

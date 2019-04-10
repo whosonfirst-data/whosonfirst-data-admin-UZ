@@ -1,0 +1,66 @@
+{
+  "id": 1209211787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.77198,42.4913,63.77198,42.4913",
+    "geom:latitude":42.4913,
+    "geom:longitude":63.77198,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Yuzquduq",
+    "gn:country_code":"UZ",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512291,
+    "gn:latitude":42.4913,
+    "gn:longitude":63.77198,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yuzquduq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhyuzkuduk",
+        "Yuzkuduk",
+        "Yuzquduq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512291
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f216434f92c291dbd77523de0ae38abb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209211787
+        }
+    ],
+    "wof:id":1209211787,
+    "wof:lastmodified":1537713299,
+    "wof:name":"Yuzquduq",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.77198000000001,
+    42.4913,
+    63.77198000000001,
+    42.4913
+],
+  "geometry": {"coordinates":[63.77198000000001,42.4913],"type":"Point"}
+}

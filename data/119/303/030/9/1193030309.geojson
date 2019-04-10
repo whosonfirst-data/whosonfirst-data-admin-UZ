@@ -1,0 +1,75 @@
+{
+  "id": 1193030309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.32272,40.88705,72.32272,40.88705",
+    "geom:latitude":40.88705,
+    "geom:longitude":72.32272,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Urganji",
+    "gn:country_code":"UZ",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512470,
+    "gn:latitude":40.88705,
+    "gn:longitude":72.32272,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Urganji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u0433\u0430\u043d\u0434\u0436\u0438"
+    ],
+    "name:und_x_variant":[
+        "Urgandzhi",
+        "Urganchi"
+    ],
+    "name:uzb_x_preferred":[
+        "Urganji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512470
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"de46ee301d4e5b00d76cb9885103a966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1193030309,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1193030309,
+    "wof:lastmodified":1537713305,
+    "wof:name":"Urganji",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.32271999999998,
+    40.88705,
+    72.32271999999998,
+    40.88705
+],
+  "geometry": {"coordinates":[72.32271999999998,40.88705],"type":"Point"}
+}

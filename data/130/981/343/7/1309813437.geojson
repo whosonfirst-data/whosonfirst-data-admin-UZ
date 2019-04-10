@@ -1,0 +1,68 @@
+{
+  "id": 1309813437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.58333,40.31667,62.58333,40.31667",
+    "geom:latitude":40.31667,
+    "geom:longitude":62.58333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dzhingil'dy",
+    "gn:country_code":"UZ",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514073,
+    "gn:latitude":40.31667,
+    "gn:longitude":62.58333,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Dzhingil\u2019dy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Dzhingil\u2019dy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514073
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"2edd666088b99d8413619290d1c60f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1309813437,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":1309813437,
+    "wof:lastmodified":1537713347,
+    "wof:name":"Dzhingil'dy",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.58333,
+    40.31667,
+    62.58333,
+    40.31667
+],
+  "geometry": {"coordinates":[62.58333,40.31667],"type":"Point"}
+}

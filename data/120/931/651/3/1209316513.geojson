@@ -1,0 +1,67 @@
+{
+  "id": 1209316513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.59457,40.24538,71.59457,40.24538",
+    "geom:latitude":40.24538,
+    "geom:longitude":71.59457,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Soybo`yi",
+    "gn:country_code":"UZ",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376077,
+    "gn:latitude":40.24538,
+    "gn:longitude":71.59457,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Soybo\u2018yi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leningrad"
+    ],
+    "name:uzb_x_preferred":[
+        "Soybo\u2018yi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376077
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"235de0ae3272e940f90cccb3c206adef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209316513
+        }
+    ],
+    "wof:id":1209316513,
+    "wof:lastmodified":1537713438,
+    "wof:name":"Soybo`yi",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.59456999999998,
+    40.24538,
+    71.59456999999998,
+    40.24538
+],
+  "geometry": {"coordinates":[71.59456999999998,40.24538],"type":"Point"}
+}

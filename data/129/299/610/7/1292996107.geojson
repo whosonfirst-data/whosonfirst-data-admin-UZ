@@ -1,0 +1,65 @@
+{
+  "id": 1292996107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.28868,39.09237,67.28868,39.09237",
+    "geom:latitude":39.09237,
+    "geom:longitude":67.28868,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mingquchar",
+    "gn:country_code":"UZ",
+    "gn:dem":1868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786164,
+    "gn:latitude":39.09237,
+    "gn:longitude":67.28868,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Mingquchar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786164
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"8cf59cc6a4cfbe3dfad718fb381b9cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1292996107,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1292996107,
+    "wof:lastmodified":1536997717,
+    "wof:name":"Mingquchar",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.28868,
+    39.09237,
+    67.28868,
+    39.09237
+],
+  "geometry": {"coordinates":[67.28868,39.09237],"type":"Point"}
+}

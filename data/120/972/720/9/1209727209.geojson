@@ -1,0 +1,76 @@
+{
+  "id": 1209727209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.77093,40.48104,70.77093,40.48104",
+    "geom:latitude":40.48104,
+    "geom:longitude":70.77093,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Navbahor",
+    "gn:country_code":"UZ",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1513132,
+    "gn:latitude":40.48104,
+    "gn:longitude":70.77093,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Navbahor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorskiy",
+        "Nawbahor",
+        "Chirkay",
+        "Navbakhor",
+        "Gorskoye"
+    ],
+    "name:uzb_x_preferred":[
+        "Navbahor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513132,
+        "wk:page":"Navbakhor"
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"dee9a5e572058ac8dbcdf565141639fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209727209,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1209727209,
+    "wof:lastmodified":1537713320,
+    "wof:name":"Navbahor",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.77093,
+    40.48104,
+    70.77093,
+    40.48104
+],
+  "geometry": {"coordinates":[70.77093000000001,40.48104],"type":"Point"}
+}

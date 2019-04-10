@@ -1,0 +1,65 @@
+{
+  "id": 1226023757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.20622,41.06692,70.20622,41.06692",
+    "geom:latitude":41.06692,
+    "geom:longitude":70.20622,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chinar",
+    "gn:country_code":"UZ",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247387,
+    "gn:latitude":41.06692,
+    "gn:longitude":70.20622,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Chinar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247387
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6565d99605d442e48d03d799b926cdce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226023757,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1226023757,
+    "wof:lastmodified":1536757033,
+    "wof:name":"Chinar",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.20622,
+    41.06692,
+    70.20622,
+    41.06692
+],
+  "geometry": {"coordinates":[70.20622,41.06692],"type":"Point"}
+}

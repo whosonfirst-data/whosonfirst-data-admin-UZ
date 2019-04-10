@@ -1,0 +1,67 @@
+{
+  "id": 1209117891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.70224,40.66884,71.70224,40.66884",
+    "geom:latitude":40.66884,
+    "geom:longitude":71.70224,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shapkullik",
+    "gn:country_code":"UZ",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10972998,
+    "gn:latitude":40.66884,
+    "gn:longitude":71.70224,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Shapkullik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Shapkullik"
+    ],
+    "name:uzb_x_variant":[
+        "Chopqilik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10972998
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"97e62519b01dda3dbaf1181cdb9fc31d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209117891
+        }
+    ],
+    "wof:id":1209117891,
+    "wof:lastmodified":1537713454,
+    "wof:name":"Shapkullik",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.70224,
+    40.66884,
+    71.70224,
+    40.66884
+],
+  "geometry": {"coordinates":[71.70224,40.66884],"type":"Point"}
+}

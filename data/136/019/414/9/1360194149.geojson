@@ -1,0 +1,74 @@
+{
+  "id": 1360194149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.03811,40.67217,72.03811,40.67217",
+    "geom:latitude":40.67217,
+    "geom:longitude":72.03811,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tojikarab",
+    "gn:country_code":"UZ",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8153467,
+    "gn:latitude":40.67217,
+    "gn:longitude":72.03811,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Tojikarab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0434\u0436\u0438\u043a\u0430\u0440\u0430\u0431"
+    ],
+    "name:und_x_variant":[
+        "Tadzhikarab"
+    ],
+    "name:uzb_x_preferred":[
+        "Tojikarab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8153467
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"02f5cd0a916fd04def4a41d66d94a349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360194149,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1360194149,
+    "wof:lastmodified":1537713431,
+    "wof:name":"Tojikarab",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.03811,
+    40.67217,
+    72.03811,
+    40.67217
+],
+  "geometry": {"coordinates":[72.03811,40.67217],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1326822799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.70147,41.49957,71.70147,41.49957",
+    "geom:latitude":41.49957,
+    "geom:longitude":71.70147,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Komitern",
+    "gn:country_code":"UZ",
+    "gn:dem":1332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11598696,
+    "gn:latitude":41.49957,
+    "gn:longitude":71.70147,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Komitern",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Komitern"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11598696
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c6e78dfea4a8d5f3bd0137ef0362cd26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1326822799,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326822799,
+    "wof:lastmodified":1537713504,
+    "wof:name":"Komitern",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.70147,
+    41.49957,
+    71.70147,
+    41.49957
+],
+  "geometry": {"coordinates":[71.70147,41.49957],"type":"Point"}
+}

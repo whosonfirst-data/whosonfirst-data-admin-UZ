@@ -1,0 +1,65 @@
+{
+  "id": 1310580055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.28869,41.02635,69.28869,41.02635",
+    "geom:latitude":41.02635,
+    "geom:longitude":69.28869,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yaryk",
+    "gn:country_code":"UZ",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247654,
+    "gn:latitude":41.02635,
+    "gn:longitude":69.28869,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Yaryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247654
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e2a8775718fcf15ad868caba47e188f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310580055,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1310580055,
+    "wof:lastmodified":1536809051,
+    "wof:name":"Yaryk",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.28869,
+    41.02635,
+    69.28869,
+    41.02635
+],
+  "geometry": {"coordinates":[69.28869,41.02635],"type":"Point"}
+}

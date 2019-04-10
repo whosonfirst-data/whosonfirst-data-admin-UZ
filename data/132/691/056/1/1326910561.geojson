@@ -1,0 +1,72 @@
+{
+  "id": 1326910561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.71145,38.73778,67.71145,38.73778",
+    "geom:latitude":38.73778,
+    "geom:longitude":67.71145,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Xabro",
+    "gn:country_code":"UZ",
+    "gn:dem":1547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215846,
+    "gn:latitude":38.73778,
+    "gn:longitude":67.71145,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Xabro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ura",
+        "Urakh"
+    ],
+    "name:uzb_x_preferred":[
+        "Xabro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215846
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0374c243097916afd69f7af115c1c5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326910561,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1326910561,
+    "wof:lastmodified":1537713237,
+    "wof:name":"Xabro",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.71145,
+    38.73778,
+    67.71145,
+    38.73778
+],
+  "geometry": {"coordinates":[67.71145,38.73778],"type":"Point"}
+}

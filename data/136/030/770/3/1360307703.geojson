@@ -1,0 +1,71 @@
+{
+  "id": 1360307703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.81725,40.95345,71.81725,40.95345",
+    "geom:latitude":40.95345,
+    "geom:longitude":71.81725,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Jiydakapa",
+    "gn:country_code":"UZ",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514076,
+    "gn:latitude":40.95345,
+    "gn:longitude":71.81725,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Jiydakapa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhidalik",
+        "Dzhidalik",
+        "Dzhidakapa",
+        "Jiydakapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514076
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"cd92e5a0cac7fc3f388c1bfb67c874a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360307703,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1360307703,
+    "wof:lastmodified":1537713348,
+    "wof:name":"Jiydakapa",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.81725,
+    40.95345,
+    71.81725,
+    40.95345
+],
+  "geometry": {"coordinates":[71.81725,40.95345],"type":"Point"}
+}

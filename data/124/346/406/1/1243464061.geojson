@@ -1,0 +1,74 @@
+{
+  "id": 1243464061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.06745,40.8486,72.06745,40.8486",
+    "geom:latitude":40.8486,
+    "geom:longitude":72.06745,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yangiqishloq",
+    "gn:country_code":"UZ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149284,
+    "gn:latitude":40.8486,
+    "gn:longitude":72.06745,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Yangiqishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u0433\u0438\u043a\u0438\u0448\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Yangikishlak"
+    ],
+    "name:uzb_x_preferred":[
+        "Yangiqishloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149284
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"49fa197f2162f514f0480e3c43602cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243464061,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1243464061,
+    "wof:lastmodified":1537713417,
+    "wof:name":"Yangiqishloq",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.06745,
+    40.8486,
+    72.06745,
+    40.8486
+],
+  "geometry": {"coordinates":[72.06744999999999,40.8486],"type":"Point"}
+}

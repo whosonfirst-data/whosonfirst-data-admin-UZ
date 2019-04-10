@@ -1,0 +1,66 @@
+{
+  "id": 1293277911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.75096,38.84429,65.75096,38.84429",
+    "geom:latitude":38.84429,
+    "geom:longitude":65.75096,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"Beshkent",
+    "gn:asciiname":"Kurgancha",
+    "gn:country_code":"UZ",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465025,
+    "gn:latitude":38.84429,
+    "gn:longitude":65.75096,
+    "gn:modification_date":"2001-10-24",
+    "gn:name":"Kurgancha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465025
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"13478b020c0b36433641357ab7a21960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293277911,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1293277911,
+    "wof:lastmodified":1537086007,
+    "wof:name":"Kurgancha",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.75095999999999,
+    38.84429,
+    65.75095999999999,
+    38.84429
+],
+  "geometry": {"coordinates":[65.75095999999999,38.84429],"type":"Point"}
+}

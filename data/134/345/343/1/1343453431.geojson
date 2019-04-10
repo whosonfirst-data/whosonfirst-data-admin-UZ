@@ -1,0 +1,71 @@
+{
+  "id": 1343453431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.58831,40.92379,71.58831,40.92379",
+    "geom:latitude":40.92379,
+    "geom:longitude":71.58831,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Katta-Toshbuloq",
+    "gn:country_code":"UZ",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534620,
+    "gn:latitude":40.92379,
+    "gn:longitude":71.58831,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Katta-Toshbuloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Katta-Toshbuloq"
+    ],
+    "name:und_x_variant":[
+        "Kattatashbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534620
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b47cf68976c3c3e58e570421d45eec9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343453431,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1343453431,
+    "wof:lastmodified":1537713440,
+    "wof:name":"Katta-Toshbuloq",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.58830999999998,
+    40.92379,
+    71.58830999999998,
+    40.92379
+],
+  "geometry": {"coordinates":[71.58830999999998,40.92379],"type":"Point"}
+}

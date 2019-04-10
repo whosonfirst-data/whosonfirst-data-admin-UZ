@@ -1,0 +1,75 @@
+{
+  "id": 1343872661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.37698,40.62959,72.37698,40.62959",
+    "geom:latitude":40.62959,
+    "geom:longitude":72.37698,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kulla",
+    "gn:country_code":"UZ",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513408,
+    "gn:latitude":40.62959,
+    "gn:longitude":72.37698,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Kulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kulya",
+        "Kullya"
+    ],
+    "name:uzb_x_preferred":[
+        "Kulla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513408
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"12fa70663582016244f08056bc254fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343872661,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1343872661,
+    "wof:lastmodified":1537713327,
+    "wof:name":"Kulla",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.37698,
+    40.62959,
+    72.37698,
+    40.62959
+],
+  "geometry": {"coordinates":[72.37698,40.62959],"type":"Point"}
+}

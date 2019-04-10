@@ -1,0 +1,71 @@
+{
+  "id": 421169887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"59.0249915,43.788957,59.0249915,43.788957",
+    "geom:latitude":43.788957,
+    "geom:longitude":59.024991,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Muinak",
+    "qs:name_adm0":"Uzbekistan",
+    "qs:name_adm1":"Qoraqalpoghiston",
+    "qs:photos":320,
+    "qs:photos_1k":65,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":320,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1211539,
+    "qs:woe_adm0":23424980,
+    "qs:woe_id":2271329,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2271329,
+        "qs:id":1211539
+    },
+    "wof:country":"UZ",
+    "wof:created":1459008828,
+    "wof:geomhash":"9caeb7a8fbafba33534903e9f1298ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":421169887,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":421169887,
+    "wof:lastmodified":1466635830,
+    "wof:name":"Muinak",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.0249915,
+    43.788957,
+    59.0249915,
+    43.788957
+],
+  "geometry": {"coordinates":[59.0249915,43.788957],"type":"Point"}
+}

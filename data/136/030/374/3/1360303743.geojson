@@ -1,0 +1,71 @@
+{
+  "id": 1360303743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.41667,40.13333,64.41667,40.13333",
+    "geom:latitude":40.13333,
+    "geom:longitude":64.41667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dzhoynau",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514065,
+    "gn:latitude":40.13333,
+    "gn:longitude":64.41667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dzhoynau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhuy-Nau",
+        "Dzhuinau",
+        "Dzhoynau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514065
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"901423f974f37a6889848e863faede0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360303743,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":1360303743,
+    "wof:lastmodified":1537713347,
+    "wof:name":"Dzhoynau",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.41667,
+    40.13333,
+    64.41667,
+    40.13333
+],
+  "geometry": {"coordinates":[64.41667,40.13333],"type":"Point"}
+}

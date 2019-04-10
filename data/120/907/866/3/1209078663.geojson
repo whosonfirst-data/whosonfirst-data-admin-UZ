@@ -1,0 +1,65 @@
+{
+  "id": 1209078663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.9,40.61667,68.9,40.61667",
+    "geom:latitude":40.61667,
+    "geom:longitude":68.9,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Obetovannyy",
+    "gn:country_code":"UZ",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513074,
+    "gn:latitude":40.61667,
+    "gn:longitude":68.9,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Obetovannyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obetovanni",
+        "Obetovannyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513074
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ab9eb0e62c43a8716db27879eedc31cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209078663
+        }
+    ],
+    "wof:id":1209078663,
+    "wof:lastmodified":1537713319,
+    "wof:name":"Obetovannyy",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.9,
+    40.61667,
+    68.9,
+    40.61667
+],
+  "geometry": {"coordinates":[68.90000000000001,40.61667],"type":"Point"}
+}

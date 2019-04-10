@@ -1,0 +1,68 @@
+{
+  "id": 1242670169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.40487,40.85926,71.40487,40.85926",
+    "geom:latitude":40.85926,
+    "geom:longitude":71.40487,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Qirqchek",
+    "gn:country_code":"UZ",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513313,
+    "gn:latitude":40.85926,
+    "gn:longitude":71.40487,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Qirqchek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyrkchek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513313
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"fa6fde96363084da5503118f12b42bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242670169,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1242670169,
+    "wof:lastmodified":1537713325,
+    "wof:name":"Qirqchek",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.40486999999997,
+    40.85926,
+    71.40486999999997,
+    40.85926
+],
+  "geometry": {"coordinates":[71.40486999999997,40.85926],"type":"Point"}
+}

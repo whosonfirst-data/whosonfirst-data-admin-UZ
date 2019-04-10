@@ -1,0 +1,74 @@
+{
+  "id": 1293885415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.0419,40.52198,72.0419,40.52198",
+    "geom:latitude":40.52198,
+    "geom:longitude":72.0419,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qo`shkechik",
+    "gn:country_code":"UZ",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140530,
+    "gn:latitude":40.52198,
+    "gn:longitude":72.0419,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Qo\u2018shkechik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0448\u043a\u0435\u0447\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Koshkechik"
+    ],
+    "name:uzb_x_preferred":[
+        "Qo\u2018shkechik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140530
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5b7f861bff644f30feff76e77c3ddd9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293885415,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1293885415,
+    "wof:lastmodified":1537713414,
+    "wof:name":"Qo`shkechik",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.0419,
+    40.52198,
+    72.0419,
+    40.52198
+],
+  "geometry": {"coordinates":[72.0419,40.52198],"type":"Point"}
+}

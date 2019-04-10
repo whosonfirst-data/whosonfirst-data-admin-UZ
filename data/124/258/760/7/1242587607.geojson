@@ -1,0 +1,65 @@
+{
+  "id": 1242587607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.16667,39.88333,67.16667,39.88333",
+    "geom:latitude":39.88333,
+    "geom:longitude":67.16667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Karakasmak",
+    "gn:country_code":"UZ",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217098,
+    "gn:latitude":39.88333,
+    "gn:longitude":67.16667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Karakasmak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217098
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ab63aa87762a204d65029b656844a46f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242587607,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1242587607,
+    "wof:lastmodified":1537047145,
+    "wof:name":"Karakasmak",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.16667,
+    39.88333,
+    67.16667,
+    39.88333
+],
+  "geometry": {"coordinates":[67.16667,39.88333],"type":"Point"}
+}

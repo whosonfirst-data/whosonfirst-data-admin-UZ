@@ -1,0 +1,70 @@
+{
+  "id": 1293307517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.48333,39.66667,66.48333,39.66667",
+    "geom:latitude":39.66667,
+    "geom:longitude":66.48333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kok-Say",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216761,
+    "gn:latitude":39.66667,
+    "gn:longitude":66.48333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kok-Say",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kak-Say",
+        "Kok-Say"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216761
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"662edfbd2b818cac7b3d9eb364ded405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293307517,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1293307517,
+    "wof:lastmodified":1537713260,
+    "wof:name":"Kok-Say",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.48333000000001,
+    39.66667,
+    66.48333000000001,
+    39.66667
+],
+  "geometry": {"coordinates":[66.48333000000001,39.66667],"type":"Point"}
+}

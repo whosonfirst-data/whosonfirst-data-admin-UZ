@@ -1,0 +1,64 @@
+{
+  "id": 1209236443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.80251,41.30775,71.80251,41.30775",
+    "geom:latitude":41.30775,
+    "geom:longitude":71.80251,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Pirat",
+    "gn:country_code":"UZ",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7579761,
+    "gn:latitude":41.30775,
+    "gn:longitude":71.80251,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Pirat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pirat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7579761
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"3b1fc5e6f661b936b94e3ab78963b297",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209236443
+        }
+    ],
+    "wof:id":1209236443,
+    "wof:lastmodified":1537713395,
+    "wof:name":"Pirat",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.80251,
+    41.30775,
+    71.80251,
+    41.30775
+],
+  "geometry": {"coordinates":[71.80251,41.30775],"type":"Point"}
+}

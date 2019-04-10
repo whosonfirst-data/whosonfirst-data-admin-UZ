@@ -1,0 +1,68 @@
+{
+  "id": 1293193201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.4453,41.16289,70.4453,41.16289",
+    "geom:latitude":41.16289,
+    "geom:longitude":70.4453,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Saridala",
+    "gn:country_code":"UZ",
+    "gn:dem":1398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512889,
+    "gn:latitude":41.16289,
+    "gn:longitude":70.4453,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Saridala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarydala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512889
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"3f289c6eb2db7084ca705acdb1bc1bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293193201,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1293193201,
+    "wof:lastmodified":1537713313,
+    "wof:name":"Saridala",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.4453,
+    41.16289,
+    70.4453,
+    41.16289
+],
+  "geometry": {"coordinates":[70.4453,41.16289],"type":"Point"}
+}

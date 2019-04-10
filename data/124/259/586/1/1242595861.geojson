@@ -1,0 +1,65 @@
+{
+  "id": 1242595861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.98333,39.66667,66.98333,39.66667",
+    "geom:latitude":39.66667,
+    "geom:longitude":66.98333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Koshbakaly",
+    "gn:country_code":"UZ",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216752,
+    "gn:latitude":39.66667,
+    "gn:longitude":66.98333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Koshbakaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216752
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ee473df603e8e0e8fa75359e2c141b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1242595861,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1242595861,
+    "wof:lastmodified":1537035778,
+    "wof:name":"Koshbakaly",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.98333000000001,
+    39.66667,
+    66.98333000000001,
+    39.66667
+],
+  "geometry": {"coordinates":[66.98333000000001,39.66667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1259577779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.83333,40.11667,64.83333,40.11667",
+    "geom:latitude":40.11667,
+    "geom:longitude":64.83333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chakdary",
+    "gn:country_code":"UZ",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514280,
+    "gn:latitude":40.11667,
+    "gn:longitude":64.83333,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Chakdary",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514280
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a8939fc8d4948bfa412d61b6db120c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259577779,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1259577779,
+    "wof:lastmodified":1536723445,
+    "wof:name":"Chakdary",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.83333,
+    40.11667,
+    64.83333,
+    40.11667
+],
+  "geometry": {"coordinates":[64.83333,40.11667],"type":"Point"}
+}

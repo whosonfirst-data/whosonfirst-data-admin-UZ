@@ -1,0 +1,70 @@
+{
+  "id": 1326926345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.47764,38.9285,65.47764,38.9285",
+    "geom:latitude":38.9285,
+    "geom:longitude":65.47764,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Shakarjay",
+    "gn:country_code":"UZ",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216131,
+    "gn:latitude":38.9285,
+    "gn:longitude":65.47764,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shakarjay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shkir-Dzhuy",
+        "Shukurdzhoy",
+        "Shakarjay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216131
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d08706d67fe118313cfdf1cd4213bb2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326926345,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1326926345,
+    "wof:lastmodified":1537713245,
+    "wof:name":"Shakarjay",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.47764000000001,
+    38.9285,
+    65.47764000000001,
+    38.9285
+],
+  "geometry": {"coordinates":[65.47764000000001,38.9285],"type":"Point"}
+}

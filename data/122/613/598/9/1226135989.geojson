@@ -1,0 +1,74 @@
+{
+  "id": 1226135989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.13095,40.93819,72.13095,40.93819",
+    "geom:latitude":40.93819,
+    "geom:longitude":72.13095,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Oqtovlik",
+    "gn:country_code":"UZ",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7528860,
+    "gn:latitude":40.93819,
+    "gn:longitude":72.13095,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Oqtovlik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oqtovlik"
+    ],
+    "name:und_x_variant":[
+        "Aktavlik"
+    ],
+    "name:uzb_x_preferred":[
+        "Oqtovlik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7528860
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f2f1bb310fcde9d69d0a458906a4e005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226135989,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1226135989,
+    "wof:lastmodified":1537713382,
+    "wof:name":"Oqtovlik",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.13095,
+    40.93819000000001,
+    72.13095,
+    40.93819000000001
+],
+  "geometry": {"coordinates":[72.13095,40.93819000000001],"type":"Point"}
+}

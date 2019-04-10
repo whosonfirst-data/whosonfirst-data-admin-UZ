@@ -1,0 +1,68 @@
+{
+  "id": 1326537537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.71453,40.63127,70.71453,40.63127",
+    "geom:latitude":40.63127,
+    "geom:longitude":70.71453,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Boydovul",
+    "gn:country_code":"UZ",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646089,
+    "gn:latitude":40.63127,
+    "gn:longitude":70.71453,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Boydovul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Boydovul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646089
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"485b137478ea8c46bb40dafe12dfed15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326537537,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1326537537,
+    "wof:lastmodified":1537713440,
+    "wof:name":"Boydovul",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.71453000000002,
+    40.63127,
+    70.71453000000002,
+    40.63127
+],
+  "geometry": {"coordinates":[70.71453000000002,40.63127],"type":"Point"}
+}

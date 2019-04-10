@@ -1,0 +1,68 @@
+{
+  "id": 1277046539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.12671,40.27392,69.12671,40.27392",
+    "geom:latitude":40.27392,
+    "geom:longitude":69.12671,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Pastki Qo`shtamg`ali",
+    "gn:country_code":"UZ",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242031,
+    "gn:latitude":40.27392,
+    "gn:longitude":69.12671,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Pastki Qo\u2018shtamg\u2018ali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Pastki Qo\u2018shtamg\u2018ali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242031
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ebc1ded3bdbcacf71092926512e36669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1277046539,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1277046539,
+    "wof:lastmodified":1537713490,
+    "wof:name":"Pastki Qo`shtamg`ali",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.12671,
+    40.27392,
+    69.12671,
+    40.27392
+],
+  "geometry": {"coordinates":[69.12671,40.27392],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226557523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.00501,40.77931,72.00501,40.77931",
+    "geom:latitude":40.77931,
+    "geom:longitude":72.00501,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"O`rmonzor",
+    "gn:country_code":"UZ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11104913,
+    "gn:latitude":40.77931,
+    "gn:longitude":72.00501,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"O\u2018rmonzor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "O\u2018rmonzor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11104913
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e1dd87b7c3bc0af6c651f14be81a02ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226557523,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1226557523,
+    "wof:lastmodified":1537713476,
+    "wof:name":"O`rmonzor",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.00501,
+    40.77931,
+    72.00501,
+    40.77931
+],
+  "geometry": {"coordinates":[72.00501,40.77931],"type":"Point"}
+}

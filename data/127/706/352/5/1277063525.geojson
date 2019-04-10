@@ -1,0 +1,68 @@
+{
+  "id": 1277063525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.39507,37.30973,67.39507,37.30973",
+    "geom:latitude":37.30973,
+    "geom:longitude":67.39507,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Karakhon",
+    "gn:country_code":"UZ",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475015,
+    "gn:latitude":37.30973,
+    "gn:longitude":67.39507,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Karakhon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0445\u043e\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475015
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0a6ddd69d2c336ca24dc5d6837052348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1277063525,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1277063525,
+    "wof:lastmodified":1537713296,
+    "wof:name":"Karakhon",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.39506999999999,
+    37.30973,
+    67.39506999999999,
+    37.30973
+],
+  "geometry": {"coordinates":[67.39506999999999,37.30973],"type":"Point"}
+}

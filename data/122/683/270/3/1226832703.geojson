@@ -1,0 +1,72 @@
+{
+  "id": 1226832703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.02722,41.03667,69.02722,41.03667",
+    "geom:latitude":41.03667,
+    "geom:longitude":69.02722,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Nowomikhaylowka",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513094,
+    "gn:latitude":41.03667,
+    "gn:longitude":69.02722,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nowomikhaylowka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Novomikhaylovskiy",
+        "Novo-Mikhaylovskoye",
+        "Novomikhaylovka",
+        "Nowomikhaylowka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513094
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a9ab35a974f0407fa2c32719134c3f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226832703,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1226832703,
+    "wof:lastmodified":1537713319,
+    "wof:name":"Nowomikhaylowka",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.02722,
+    41.03667,
+    69.02722,
+    41.03667
+],
+  "geometry": {"coordinates":[69.02722,41.03667],"type":"Point"}
+}

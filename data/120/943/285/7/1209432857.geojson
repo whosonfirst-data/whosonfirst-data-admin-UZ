@@ -1,0 +1,61 @@
+{
+  "id": 1209432857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.1,39.91667,67.1,39.91667",
+    "geom:latitude":39.91667,
+    "geom:longitude":67.1,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kara-Tash",
+    "gn:country_code":"UZ",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217045,
+    "gn:latitude":39.91667,
+    "gn:longitude":67.1,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Kara-Tash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217045
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b898712f4f415d4190d7be20656d8134",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209432857
+        }
+    ],
+    "wof:id":1209432857,
+    "wof:lastmodified":1536287188,
+    "wof:name":"Kara-Tash",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.1,
+    39.91667,
+    67.1,
+    39.91667
+],
+  "geometry": {"coordinates":[67.09999999999999,39.91667],"type":"Point"}
+}

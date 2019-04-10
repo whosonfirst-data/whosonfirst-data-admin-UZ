@@ -1,0 +1,65 @@
+{
+  "id": 1292918075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.76667,39.73333,66.76667,39.73333",
+    "geom:latitude":39.73333,
+    "geom:longitude":66.76667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Leninskiy",
+    "gn:country_code":"UZ",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216572,
+    "gn:latitude":39.73333,
+    "gn:longitude":66.76667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Leninskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216572
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1061a0db5753adf324d3ee9fca17ecb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1292918075,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1292918075,
+    "wof:lastmodified":1536611212,
+    "wof:name":"Leninskiy",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.76666999999999,
+    39.73333,
+    66.76666999999999,
+    39.73333
+],
+  "geometry": {"coordinates":[66.76666999999999,39.73333],"type":"Point"}
+}

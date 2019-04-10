@@ -1,0 +1,72 @@
+{
+  "id": 1360096691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.81182,40.53043,70.81182,40.53043",
+    "geom:latitude":40.53043,
+    "geom:longitude":70.81182,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chekchuvaldoq",
+    "gn:country_code":"UZ",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514241,
+    "gn:latitude":40.53043,
+    "gn:longitude":70.81182,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Chekchuvaldoq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chekchuvaldak",
+        "Chekchuwaldak"
+    ],
+    "name:uzb_x_preferred":[
+        "Chekchuvaldoq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514241
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a94916d1719d72d26190e9ab32413da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360096691,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1360096691,
+    "wof:lastmodified":1537713353,
+    "wof:name":"Chekchuvaldoq",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.81182,
+    40.53043,
+    70.81182,
+    40.53043
+],
+  "geometry": {"coordinates":[70.81182,40.53043],"type":"Point"}
+}

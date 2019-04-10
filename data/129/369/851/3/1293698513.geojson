@@ -1,0 +1,65 @@
+{
+  "id": 1293698513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.86085,40.31802,71.86085,40.31802",
+    "geom:latitude":40.31802,
+    "geom:longitude":71.86085,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kakyr",
+    "gn:country_code":"UZ",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10912561,
+    "gn:latitude":40.31802,
+    "gn:longitude":71.86085,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Kakyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10912561
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a4c74ab5e1ae2433f3c2b99f82dc6461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1293698513,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":1293698513,
+    "wof:lastmodified":1536979454,
+    "wof:name":"Kakyr",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.86085,
+    40.31802,
+    71.86085,
+    40.31802
+],
+  "geometry": {"coordinates":[71.86085,40.31802],"type":"Point"}
+}

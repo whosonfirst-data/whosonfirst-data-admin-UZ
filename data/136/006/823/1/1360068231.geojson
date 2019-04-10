@@ -1,0 +1,65 @@
+{
+  "id": 1360068231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.90444,41.11056,67.90444,41.11056",
+    "geom:latitude":41.11056,
+    "geom:longitude":67.90444,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Telman",
+    "gn:country_code":"UZ",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1531898,
+    "gn:latitude":41.11056,
+    "gn:longitude":67.90444,
+    "gn:modification_date":"1997-08-08",
+    "gn:name":"Telman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1531898
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"db2f2ab8dfd61fd4d6f32e3ec96fffe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1360068231,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1360068231,
+    "wof:lastmodified":1536969709,
+    "wof:name":"Telman",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.90444000000001,
+    41.11056,
+    67.90444000000001,
+    41.11056
+],
+  "geometry": {"coordinates":[67.90444000000001,41.11056],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276350069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.37453,40.57297,72.37453,40.57297",
+    "geom:latitude":40.57297,
+    "geom:longitude":72.37453,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qiziloyoq",
+    "gn:country_code":"UZ",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140444,
+    "gn:latitude":40.57297,
+    "gn:longitude":72.37453,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Qiziloyoq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0430\u044f\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kyzylayak"
+    ],
+    "name:uzb_x_preferred":[
+        "Qiziloyoq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140444
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"76bd2c06d781fc6278999322d8c77570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1276350069,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276350069,
+    "wof:lastmodified":1537713412,
+    "wof:name":"Qiziloyoq",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.37453000000002,
+    40.57297,
+    72.37453000000002,
+    40.57297
+],
+  "geometry": {"coordinates":[72.37453000000002,40.57297],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343783157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.23333,40.18333,65.23333,40.18333",
+    "geom:latitude":40.18333,
+    "geom:longitude":65.23333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Yangikurgan",
+    "gn:country_code":"UZ",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512352,
+    "gn:latitude":40.18333,
+    "gn:longitude":65.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yangikurgan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yany-Kurgan",
+        "Yangikurgan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512352
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"6cebf3893b6b47c0c0c2e79577bdb74d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343783157,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":1343783157,
+    "wof:lastmodified":1537713301,
+    "wof:name":"Yangikurgan",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.23333000000001,
+    40.18333,
+    65.23333000000001,
+    40.18333
+],
+  "geometry": {"coordinates":[65.23333000000001,40.18333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326448813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.05,39.33333,66.05,39.33333",
+    "geom:latitude":39.33333,
+    "geom:longitude":66.05,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bagryn'",
+    "gn:country_code":"UZ",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217782,
+    "gn:latitude":39.33333,
+    "gn:longitude":66.05,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Bagryn\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bagryn\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217782
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0583c39d8dc484461c620af2a8464b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326448813,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1326448813,
+    "wof:lastmodified":1537713286,
+    "wof:name":"Bagryn'",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.05,
+    39.33333,
+    66.05,
+    39.33333
+],
+  "geometry": {"coordinates":[66.05,39.33333],"type":"Point"}
+}

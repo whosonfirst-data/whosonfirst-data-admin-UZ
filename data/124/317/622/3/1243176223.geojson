@@ -1,0 +1,78 @@
+{
+  "id": 1243176223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.26351,40.78621,72.26351,40.78621",
+    "geom:latitude":40.78621,
+    "geom:longitude":72.26351,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ko`makay",
+    "gn:country_code":"UZ",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513850,
+    "gn:latitude":40.78621,
+    "gn:longitude":72.26351,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ko\u2018makay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043c\u0430\u043a\u0430\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kumakai",
+        "Kamakay"
+    ],
+    "name:uzb_x_preferred":[
+        "Ko\u2018makay"
+    ],
+    "name:uzb_x_variant":[
+        "Kumakay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513850
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"46168d48078a1d99de2ed2b56cfa35db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1243176223,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1243176223,
+    "wof:lastmodified":1537713340,
+    "wof:name":"Ko`makay",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.26351,
+    40.78621,
+    72.26351,
+    40.78621
+],
+  "geometry": {"coordinates":[72.26351,40.78621],"type":"Point"}
+}

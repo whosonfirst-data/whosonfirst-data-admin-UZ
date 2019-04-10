@@ -1,0 +1,71 @@
+{
+  "id": 1209806209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.28273,38.93124,66.28273,38.93124",
+    "geom:latitude":38.93124,
+    "geom:longitude":66.28273,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"To`qboy",
+    "gn:country_code":"UZ",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215927,
+    "gn:latitude":38.93124,
+    "gn:longitude":66.28273,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"To\u2018qboy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tokbay",
+        "Takbay",
+        "Tukbay",
+        "To\u2018qboy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215927
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"04449ee213ab657cfcb265702f4f5865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1209806209,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1209806209,
+    "wof:lastmodified":1537713239,
+    "wof:name":"To`qboy",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.28273,
+    38.93124,
+    66.28273,
+    38.93124
+],
+  "geometry": {"coordinates":[66.28273,38.93124],"type":"Point"}
+}

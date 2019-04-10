@@ -1,0 +1,64 @@
+{
+  "id": 1209284115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.88928,40.30333,68.88928,40.30333",
+    "geom:latitude":40.30333,
+    "geom:longitude":68.88928,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Tamirli",
+    "gn:country_code":"UZ",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242603,
+    "gn:latitude":40.30333,
+    "gn:longitude":68.88928,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Tamirli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Tamirli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242603
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0dd9d65ddceb50549d29301bea58c3f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209284115
+        }
+    ],
+    "wof:id":1209284115,
+    "wof:lastmodified":1537713497,
+    "wof:name":"Tamirli",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.88928,
+    40.30333,
+    68.88928,
+    40.30333
+],
+  "geometry": {"coordinates":[68.88928,40.30333],"type":"Point"}
+}

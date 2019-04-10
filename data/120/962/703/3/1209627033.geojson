@@ -1,0 +1,70 @@
+{
+  "id": 1209627033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.03886,40.6638,71.03886,40.6638",
+    "geom:latitude":40.6638,
+    "geom:longitude":71.03886,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Turuk",
+    "gn:country_code":"UZ",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7564609,
+    "gn:latitude":40.6638,
+    "gn:longitude":71.03886,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Turuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "To\u2018riq"
+    ],
+    "name:uzb_x_preferred":[
+        "Turuk"
+    ],
+    "name:uzb_x_variant":[
+        "Turq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7564609
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"79d029a5a8aa6e692a65697e006f6cb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209627033
+        }
+    ],
+    "wof:id":1209627033,
+    "wof:lastmodified":1537713392,
+    "wof:name":"Turuk",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.03886,
+    40.6638,
+    71.03886,
+    40.6638
+],
+  "geometry": {"coordinates":[71.03886,40.6638],"type":"Point"}
+}

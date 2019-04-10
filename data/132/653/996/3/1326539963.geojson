@@ -1,0 +1,65 @@
+{
+  "id": 1326539963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.95,39.4,66.95,39.4",
+    "geom:latitude":39.4,
+    "geom:longitude":66.95,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kuzychi",
+    "gn:country_code":"UZ",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216618,
+    "gn:latitude":39.4,
+    "gn:longitude":66.95,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Kuzychi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216618
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"091bae4ee48be01d229e496e8703dc46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326539963,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1326539963,
+    "wof:lastmodified":1536972390,
+    "wof:name":"Kuzychi",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.95,
+    39.4,
+    66.95,
+    39.4
+],
+  "geometry": {"coordinates":[66.95,39.4],"type":"Point"}
+}

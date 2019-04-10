@@ -1,0 +1,65 @@
+{
+  "id": 1327424627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.25,38.86667,66.25,38.86667",
+    "geom:latitude":38.86667,
+    "geom:longitude":66.25,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Niyazy",
+    "gn:country_code":"UZ",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216395,
+    "gn:latitude":38.86667,
+    "gn:longitude":66.25,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Niyazy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216395
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7b2388da221e847a5ad61f34f61da7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1327424627,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":1327424627,
+    "wof:lastmodified":1536692240,
+    "wof:name":"Niyazy",
+    "wof:parent_id":85680395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.25,
+    38.86667,
+    66.25,
+    38.86667
+],
+  "geometry": {"coordinates":[66.25,38.86667],"type":"Point"}
+}

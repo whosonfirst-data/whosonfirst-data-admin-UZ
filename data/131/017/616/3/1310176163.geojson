@@ -1,0 +1,70 @@
+{
+  "id": 1310176163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.61972,41.51,69.61972,41.51",
+    "geom:latitude":41.51,
+    "geom:longitude":69.61972,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Verkhniy Komsomol'skiy",
+    "gn:country_code":"UZ",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512408,
+    "gn:latitude":41.51,
+    "gn:longitude":69.61972,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Verkhniy Komsomol\u2019skiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komsomol\u2019skiy",
+        "Verkhne-Komsomol\u2019skiy",
+        "Verkhniy Komsomol\u2019skiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512408
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ed087b5a804687d58ef2ddc245eefb1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1310176163,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1310176163,
+    "wof:lastmodified":1537713303,
+    "wof:name":"Verkhniy Komsomol'skiy",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.61972,
+    41.51,
+    69.61972,
+    41.51
+],
+  "geometry": {"coordinates":[69.61972,41.51],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326544841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.48333,39.86667,67.48333,39.86667",
+    "geom:latitude":39.86667,
+    "geom:longitude":67.48333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tumshuk-Bazar",
+    "gn:cc2":"UZ",
+    "gn:country_code":"UZ",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215921,
+    "gn:latitude":39.86667,
+    "gn:longitude":67.48333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tumshuk-Bazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saraylyk",
+        "Tumshuk-Bazar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215921
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5a4d28912fdb6318304f3246eb7bbc06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1326544841,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1326544841,
+    "wof:lastmodified":1537713239,
+    "wof:name":"Tumshuk-Bazar",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.48333000000001,
+    39.86667,
+    67.48333000000001,
+    39.86667
+],
+  "geometry": {"coordinates":[67.48333000000001,39.86667],"type":"Point"}
+}

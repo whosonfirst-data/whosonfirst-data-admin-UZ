@@ -1,0 +1,71 @@
+{
+  "id": 1344174791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.2173,40.94089,72.2173,40.94089",
+    "geom:latitude":40.94089,
+    "geom:longitude":72.2173,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bo`z",
+    "gn:country_code":"UZ",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7528847,
+    "gn:latitude":40.94089,
+    "gn:longitude":72.2173,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bo\u2018z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bo\u2018z"
+    ],
+    "name:kir_x_preferred":[
+        "Bo\u2018z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7528847
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"543734f02668f92baef2002d5eb1c551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1344174791,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1344174791,
+    "wof:lastmodified":1537713381,
+    "wof:name":"Bo`z",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.2173,
+    40.94089,
+    72.2173,
+    40.94089
+],
+  "geometry": {"coordinates":[72.21729999999999,40.94089],"type":"Point"}
+}

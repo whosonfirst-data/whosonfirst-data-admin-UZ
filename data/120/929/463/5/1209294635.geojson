@@ -1,0 +1,65 @@
+{
+  "id": 1209294635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.70944,38.8925,67.70944,38.8925",
+    "geom:latitude":38.8925,
+    "geom:longitude":67.70944,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Tamshush",
+    "gn:country_code":"UZ",
+    "gn:dem":1807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1216014,
+    "gn:latitude":38.8925,
+    "gn:longitude":67.70944,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Tamshush",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamshosh",
+        "Tomshush"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1216014
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a4cf2892ca45e8d05048e9c6350cdf71",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209294635
+        }
+    ],
+    "wof:id":1209294635,
+    "wof:lastmodified":1537713241,
+    "wof:name":"Tamshush",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.70944,
+    38.8925,
+    67.70944,
+    38.8925
+],
+  "geometry": {"coordinates":[67.70944,38.8925],"type":"Point"}
+}

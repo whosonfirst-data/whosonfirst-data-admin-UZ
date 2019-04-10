@@ -1,0 +1,72 @@
+{
+  "id": 1277065679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.10167,39.46306,66.10167,39.46306",
+    "geom:latitude":39.46306,
+    "geom:longitude":66.10167,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"O`rtabo`z",
+    "gn:country_code":"UZ",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215832,
+    "gn:latitude":39.46306,
+    "gn:longitude":66.10167,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"O\u2018rtabo\u2018z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urtabus",
+        "Urtabuz"
+    ],
+    "name:uzb_x_preferred":[
+        "O\u2018rtabo\u2018z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215832
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f19f83b2990e9811ba52ec469d05a57c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1277065679,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1277065679,
+    "wof:lastmodified":1537713237,
+    "wof:name":"O`rtabo`z",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.10167,
+    39.46306,
+    66.10167,
+    39.46306
+],
+  "geometry": {"coordinates":[66.10167,39.46306],"type":"Point"}
+}

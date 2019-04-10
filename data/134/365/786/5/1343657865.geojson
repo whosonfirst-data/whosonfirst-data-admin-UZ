@@ -1,0 +1,65 @@
+{
+  "id": 1343657865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.04694,39.92139,66.04694,39.92139",
+    "geom:latitude":39.92139,
+    "geom:longitude":66.04694,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Arabkhana",
+    "gn:country_code":"UZ",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217859,
+    "gn:latitude":39.92139,
+    "gn:longitude":66.04694,
+    "gn:modification_date":"2001-11-29",
+    "gn:name":"Arabkhana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217859
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"976cf2e361558e87e1935873f15e35df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1343657865,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":1343657865,
+    "wof:lastmodified":1536958772,
+    "wof:name":"Arabkhana",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.04694,
+    39.92139,
+    66.04694,
+    39.92139
+],
+  "geometry": {"coordinates":[66.04694000000001,39.92139],"type":"Point"}
+}

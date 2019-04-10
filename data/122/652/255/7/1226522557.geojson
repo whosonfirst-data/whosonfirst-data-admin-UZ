@@ -1,0 +1,74 @@
+{
+  "id": 1226522557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.75394,37.76595,66.75394,37.76595",
+    "geom:latitude":37.76595,
+    "geom:longitude":66.75394,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Zarabog`",
+    "gn:country_code":"UZ",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1215678,
+    "gn:latitude":37.76595,
+    "gn:longitude":66.75394,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Zarabog\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zarabak",
+        "Zara-bek",
+        "Zarabag",
+        "Zarabog"
+    ],
+    "name:uzb_x_preferred":[
+        "Zarabog\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1215678
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"33e40722fe4847e56f63f8a743373761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226522557,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1226522557,
+    "wof:lastmodified":1537713233,
+    "wof:name":"Zarabog`",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.75394,
+    37.76595,
+    66.75394,
+    37.76595
+],
+  "geometry": {"coordinates":[66.75394,37.76595],"type":"Point"}
+}

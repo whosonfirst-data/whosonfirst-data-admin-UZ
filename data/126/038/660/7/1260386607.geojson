@@ -1,0 +1,68 @@
+{
+  "id": 1260386607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.88234,41.11594,71.88234,41.11594",
+    "geom:latitude":41.11594,
+    "geom:longitude":71.88234,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Farg`ona",
+    "gn:country_code":"UZ",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7579801,
+    "gn:latitude":41.11594,
+    "gn:longitude":71.88234,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Farg\u2018ona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Farg\u2018ona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7579801
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5803323ad8e9487f217da4d9cbacac00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1260386607,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":1260386607,
+    "wof:lastmodified":1537713396,
+    "wof:name":"Farg`ona",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.88234,
+    41.11594,
+    71.88234,
+    41.11594
+],
+  "geometry": {"coordinates":[71.88234,41.11594],"type":"Point"}
+}

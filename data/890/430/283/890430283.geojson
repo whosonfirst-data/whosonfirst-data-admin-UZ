@@ -1,0 +1,72 @@
+{
+  "id": 890430283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.01667,41.56667,70.01667,41.56667",
+    "geom:latitude":41.56667,
+    "geom:longitude":70.01667,
+    "gn:country":"UZ",
+    "gn:fcode":"PPL",
+    "gn:pop":3000,
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043c\u0433\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Shimgan"
+    ],
+    "qs:name":"Kyzyldzhar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514225,
+        "gp:id":2272544,
+        "qs:id":133101,
+        "wk:page":"Kyzyldzhar"
+    },
+    "wof:country":"UZ",
+    "wof:created":1469051846,
+    "wof:geomhash":"170082f556c1282f512d6a77e19b4caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":890430283,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":890430283,
+    "wof:lastmodified":1527729740,
+    "wof:name":"Kyzyldzhar",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:population":3000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.01667,
+    41.56667,
+    70.01667,
+    41.56667
+],
+  "geometry": {"coordinates":[70.01667,41.56667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276748065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.52333,42.82975,59.52333,42.82975",
+    "geom:latitude":42.82975,
+    "geom:longitude":59.52333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Abat",
+    "gn:country_code":"UZ",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7893000,
+    "gn:latitude":42.82975,
+    "gn:longitude":59.52333,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Abat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7893000
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0fdd477f50cd65f9760c624a1d01d7cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1276748065,
+            "region_id":85680381
+        }
+    ],
+    "wof:id":1276748065,
+    "wof:lastmodified":1536720558,
+    "wof:name":"Abat",
+    "wof:parent_id":85680381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.52333,
+    42.82975,
+    59.52333,
+    42.82975
+],
+  "geometry": {"coordinates":[59.52333,42.82975],"type":"Point"}
+}

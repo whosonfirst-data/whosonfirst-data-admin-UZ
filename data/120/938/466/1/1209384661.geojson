@@ -1,0 +1,67 @@
+{
+  "id": 1209384661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.01566,40.3169,69.01566,40.3169",
+    "geom:latitude":40.3169,
+    "geom:longitude":69.01566,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Olmazor",
+    "gn:country_code":"UZ",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514619,
+    "gn:latitude":40.3169,
+    "gn:longitude":69.01566,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Olmazor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Almazar"
+    ],
+    "name:uzb_x_preferred":[
+        "Olmazor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514619
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"c44dbd25e33048967998447ef58434cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209384661
+        }
+    ],
+    "wof:id":1209384661,
+    "wof:lastmodified":1537713362,
+    "wof:name":"Olmazor",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.01566,
+    40.3169,
+    69.01566,
+    40.3169
+],
+  "geometry": {"coordinates":[69.01566,40.3169],"type":"Point"}
+}

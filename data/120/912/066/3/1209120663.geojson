@@ -1,0 +1,61 @@
+{
+  "id": 1209120663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.05,41.01667,69.05,41.01667",
+    "geom:latitude":41.01667,
+    "geom:longitude":69.05,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Rozhdestvenskiy",
+    "gn:country_code":"UZ",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512953,
+    "gn:latitude":41.01667,
+    "gn:longitude":69.05,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Rozhdestvenskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512953
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"aa317b61e03b7449a2d5772a2b6ae191",
+    "wof:hierarchy":[
+        {
+            "country_id":85632645,
+            "locality_id":1209120663
+        }
+    ],
+    "wof:id":1209120663,
+    "wof:lastmodified":1536297110,
+    "wof:name":"Rozhdestvenskiy",
+    "wof:parent_id":85632645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.05,
+    41.01667,
+    69.05,
+    41.01667
+],
+  "geometry": {"coordinates":[69.05,41.01667],"type":"Point"}
+}

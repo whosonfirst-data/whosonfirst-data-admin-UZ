@@ -1,0 +1,71 @@
+{
+  "id": 1259763271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.06199,37.64283,67.06199,37.64283",
+    "geom:latitude":37.64283,
+    "geom:longitude":67.06199,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Qishloqbozor",
+    "gn:country_code":"UZ",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1217731,
+    "gn:latitude":37.64283,
+    "gn:longitude":67.06199,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Qishloqbozor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Samarkand",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bazar"
+    ],
+    "name:uzb_x_preferred":[
+        "Qishloqbozor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1217731
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5afd52e0da843def242e4802b3577eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1259763271,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1259763271,
+    "wof:lastmodified":1537713285,
+    "wof:name":"Qishloqbozor",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.06199000000001,
+    37.64283,
+    67.06199000000001,
+    37.64283
+],
+  "geometry": {"coordinates":[67.06199000000001,37.64283],"type":"Point"}
+}

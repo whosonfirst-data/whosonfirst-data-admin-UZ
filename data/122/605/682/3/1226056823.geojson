@@ -1,0 +1,77 @@
+{
+  "id": 1226056823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.85242,40.67932,71.85242,40.67932",
+    "geom:latitude":40.67932,
+    "geom:longitude":71.85242,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Paxtakor",
+    "gn:country_code":"UZ",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513036,
+    "gn:latitude":40.67932,
+    "gn:longitude":71.85242,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Paxtakor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"UZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kolkhoz Imeni Dvadtsatyy Part\u201dsyezda"
+    ],
+    "name:rus_x_variant":[
+        "Kolkhoz Imeni XX Part\u201dsyezda"
+    ],
+    "name:und_x_variant":[
+        "Pakhtakor"
+    ],
+    "name:uzb_x_preferred":[
+        "Paxtakor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513036
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"59ba1c529ea794e157378f5a64de4f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226056823,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":1226056823,
+    "wof:lastmodified":1537713317,
+    "wof:name":"Paxtakor",
+    "wof:parent_id":85680401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.85242,
+    40.67932,
+    71.85242,
+    40.67932
+],
+  "geometry": {"coordinates":[71.85242,40.67932],"type":"Point"}
+}
