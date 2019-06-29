@@ -13,17 +13,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Buhara"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u062e\u0627\u0631\u0649"
     ],
     "name:arg_x_preferred":[
         "Bukhara"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0582\u056d\u0561\u0580\u0561"
     ],
     "name:ava_x_preferred":[
         "\u0411\u0443\u0445\u0430\u0440\u0430"
@@ -36,9 +30,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0411\u043e\u0445\u0430\u0440\u0430"
-    ],
-    "name:baq_x_preferred":[
-        "Bukhara"
     ],
     "name:bel_x_preferred":[
         "\u0411\u0443\u0445\u0430\u0440\u0430"
@@ -55,23 +46,23 @@
     "name:cat_x_preferred":[
         "Bukhar\u00e0"
     ],
+    "name:ces_x_preferred":[
+        "Buchara"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0443\u0445\u0430\u0440\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u5e03\u54c8\u62c9"
     ],
     "name:ckb_x_preferred":[
         "\u0628\u0648\u062e\u0627\u0631\u0627"
     ],
-    "name:cze_x_preferred":[
-        "Buchara"
-    ],
     "name:dan_x_preferred":[
         "Bukhara"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Buchara"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03c7\u03ac\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bukhara"
@@ -82,23 +73,20 @@
     "name:est_x_preferred":[
         "Buxoro"
     ],
+    "name:eus_x_preferred":[
+        "Bukhara"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0627\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Buhara"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Boukhara"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e3\u10ee\u10d0\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Buchara"
     ],
     "name:glg_x_preferred":[
         "Bukhara"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03c7\u03ac\u03c1\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Buchara"
@@ -118,6 +106,9 @@
     "name:hun_x_preferred":[
         "Buhara"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u056d\u0561\u0580\u0561"
+    ],
     "name:ind_x_preferred":[
         "Bukhara"
     ],
@@ -132,6 +123,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0cc1\u0c96\u0cbe\u0cb0\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10ee\u10d0\u10e0\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u04b1\u0445\u0430\u0440\u0430"
@@ -154,9 +148,6 @@
     "name:lit_x_preferred":[
         "Buchara"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0443\u0445\u0430\u0440\u0430"
-    ],
     "name:mai_x_preferred":[
         "\u092c\u0941\u0916\u0930\u093e"
     ],
@@ -166,23 +157,29 @@
     "name:mar_x_preferred":[
         "\u092c\u0941\u0916\u093e\u0930\u093e"
     ],
-    "name:may_x_preferred":[
-        "Bukhara"
-    ],
     "name:mhr_x_preferred":[
         "\u0411\u0443\u0445\u0430\u0440\u0430"
     ],
     "name:min_x_preferred":[
         "Bukhara"
     ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0443\u0445\u0430\u0440\u0430"
+    ],
     "name:mon_x_preferred":[
         "\u0411\u0443\u0445\u0430\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Bukhara"
     ],
     "name:mzn_x_preferred":[
         "\u0628\u062e\u0627\u0631\u0627"
     ],
     "name:nep_x_preferred":[
         "\u092c\u0941\u0916\u0930\u093e\u0915\u094b \u090f\u0924\u093f\u0939\u093e\u0938\u093f\u0915 \u0915\u0947\u0928\u094d\u0926\u094d\u0930"
+    ],
+    "name:nld_x_preferred":[
+        "Buchara"
     ],
     "name:nob_x_preferred":[
         "Bukhara"
@@ -192,9 +189,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a41\u0a16\u0a3e\u0a30\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u062e\u0627\u0631\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u062e\u0627\u0631\u0627"
@@ -208,7 +202,7 @@
     "name:pus_x_preferred":[
         "\u0628\u062e\u0627\u0631\u0627"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Buhara"
     ],
     "name:rus_x_preferred":[
@@ -220,7 +214,7 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dd4\u0d9a\u0dcf\u0dbb\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Buchara"
     ],
     "name:slv_x_preferred":[
@@ -234,6 +228,9 @@
     ],
     "name:spa_x_preferred":[
         "Bujar\u00e1"
+    ],
+    "name:sqi_x_preferred":[
+        "Buhara"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0443\u0445\u0430\u0440\u0430"
@@ -289,6 +286,9 @@
     "name:yue_x_preferred":[
         "\u5e03\u54c8\u62c9"
     ],
+    "name:zho_x_preferred":[
+        "\u5e03\u54c8\u62c9"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -337,7 +337,7 @@
         }
     ],
     "wof:id":421200017,
-    "wof:lastmodified":1527716428,
+    "wof:lastmodified":1561792258,
     "wof:name":"Bukhara",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

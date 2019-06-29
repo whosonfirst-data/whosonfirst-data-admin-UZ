@@ -16,26 +16,14 @@
     "name:azb_x_preferred":[
         "\u062a\u0648\u06cc \u062a\u067e\u0647"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u4f0a\u6377\u5e15"
-    ],
     "name:deu_x_preferred":[
         "To\u02bbytepa"
-    ],
-    "name:dut_x_preferred":[
-        "Toytepa"
     ],
     "name:eng_x_preferred":[
         "Toytepa"
     ],
     "name:fra_x_preferred":[
         "Toytepa"
-    ],
-    "name:fre_x_preferred":[
-        "Toytepa"
-    ],
-    "name:ger_x_preferred":[
-        "To\u02bbytepa"
     ],
     "name:ita_x_preferred":[
         "Toytepa"
@@ -47,6 +35,9 @@
         "Toytepa"
     ],
     "name:lit_x_preferred":[
+        "Toytepa"
+    ],
+    "name:nld_x_preferred":[
         "Toytepa"
     ],
     "name:pnb_x_preferred":[
@@ -124,7 +115,7 @@
         }
     ],
     "wof:id":421167877,
-    "wof:lastmodified":1527716159,
+    "wof:lastmodified":1561792257,
     "wof:name":"Toytepa",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

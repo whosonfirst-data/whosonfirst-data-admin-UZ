@@ -17,14 +17,8 @@
     "name:ara_x_preferred":[
         "\u0634\u0647\u0631\u0633\u0628\u0632"
     ],
-    "name:arm_x_preferred":[
-        "\u0547\u0561\u0570\u0580\u056b\u057d\u0561\u0562\u0566"
-    ],
     "name:azb_x_preferred":[
         "\u0634\u0647\u0631\u06cc\u200c\u0633\u0628\u0632"
-    ],
-    "name:baq_x_preferred":[
-        "Shahrisabz"
     ],
     "name:bel_x_preferred":[
         "\u0428\u0430\u0445\u0440\u044b\u0441\u0430\u0431\u0437"
@@ -41,17 +35,8 @@
     "name:ces_x_preferred":[
         "\u0160achrizabz"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u8d6b\u91cc\u85a9\u5e03\u8332"
-    ],
-    "name:cze_x_preferred":[
-        "\u0160achrizabz"
-    ],
     "name:deu_x_preferred":[
         "Shahrisabz"
-    ],
-    "name:dut_x_preferred":[
-        "Sachrisabz"
     ],
     "name:eng_x_preferred":[
         "Shahrisabz"
@@ -68,15 +53,6 @@
     "name:fra_x_preferred":[
         "Chakhrisabz"
     ],
-    "name:fre_x_preferred":[
-        "Chakhrisabz"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d0\u10f0\u10e0\u10d8\u10e1\u10d0\u10d1\u10d6\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Shahrisabz"
-    ],
     "name:hbs_x_preferred":[
         "\u0160ahrisabz"
     ],
@@ -85,6 +61,9 @@
     ],
     "name:hrv_x_preferred":[
         "\u0160ahrisabz"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0570\u0580\u056b\u057d\u0561\u0562\u0566"
     ],
     "name:ita_x_preferred":[
         "Shahrisabz"
@@ -122,9 +101,6 @@
     "name:pan_x_preferred":[
         "\u0a38\u0a3c\u0a3e\u0a39\u0a30\u0a40\u0a38\u0a2c\u0a1c\u0a3c"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u0628\u0632"
-    ],
     "name:pol_x_preferred":[
         "Shahrisabz"
     ],
@@ -135,9 +111,6 @@
         "Shahrisabz"
     ],
     "name:slk_x_preferred":[
-        "Shahrisabz"
-    ],
-    "name:slo_x_preferred":[
         "Shahrisabz"
     ],
     "name:slv_x_preferred":[
@@ -320,7 +293,7 @@
         }
     ],
     "wof:id":421197977,
-    "wof:lastmodified":1527716402,
+    "wof:lastmodified":1561792258,
     "wof:name":"Shakhrisabz",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

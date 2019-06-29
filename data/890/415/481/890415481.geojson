@@ -21,13 +21,13 @@
     "name:bul_x_preferred":[
         "\u0413\u0430\u043b\u0430\u043e\u0441\u0438\u0439\u043e"
     ],
-    "name:dut_x_preferred":[
-        "Galaasiya"
-    ],
     "name:eng_x_preferred":[
         "Galaasiya"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647\u200c\u0622\u0633\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
         "Galaasiya"
     ],
     "name:ita_x_preferred":[
@@ -39,8 +39,8 @@
     "name:kik_x_preferred":[
         "Galaosiyo"
     ],
-    "name:per_x_preferred":[
-        "\u0642\u0644\u0639\u0647\u200c\u0622\u0633\u06cc\u0627"
+    "name:nld_x_preferred":[
+        "Galaasiya"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u043b\u0430\u0430\u0441\u0438\u044f"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":890415481,
-    "wof:lastmodified":1527727240,
+    "wof:lastmodified":1561792259,
     "wof:name":"Galaosiyo",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

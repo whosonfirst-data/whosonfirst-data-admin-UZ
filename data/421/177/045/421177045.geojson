@@ -25,16 +25,10 @@
     "name:deu_x_preferred":[
         "Beruniy"
     ],
-    "name:dut_x_preferred":[
-        "Beruniy"
-    ],
     "name:eng_x_preferred":[
         "Beruniy"
     ],
-    "name:fre_x_preferred":[
-        "Beruniy"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Beruniy"
     ],
     "name:hun_x_preferred":[
@@ -54,6 +48,9 @@
     ],
     "name:lit_x_preferred":[
         "Berunis"
+    ],
+    "name:nld_x_preferred":[
+        "Beruniy"
     ],
     "name:pol_x_preferred":[
         "Beruniy"
@@ -133,7 +130,7 @@
         }
     ],
     "wof:id":421177045,
-    "wof:lastmodified":1527716483,
+    "wof:lastmodified":1561792259,
     "wof:name":"Beruni",
     "wof:parent_id":85680381,
     "wof:placetype":"locality",

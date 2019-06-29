@@ -21,19 +21,19 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0433\u0445\u0438\u0442"
     ],
-    "name:dut_x_preferred":[
-        "Mang\u2018it"
-    ],
     "name:eng_x_preferred":[
         "Mang\u2018it"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Manguit"
     ],
     "name:kaa_x_preferred":[
         "Mang'it"
     ],
     "name:kik_x_preferred":[
+        "Mang\u2018it"
+    ],
+    "name:nld_x_preferred":[
         "Mang\u2018it"
     ],
     "name:pol_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":890430443,
-    "wof:lastmodified":1553816394,
+    "wof:lastmodified":1561792259,
     "wof:name":"Manghit",
     "wof:parent_id":85680381,
     "wof:placetype":"locality",

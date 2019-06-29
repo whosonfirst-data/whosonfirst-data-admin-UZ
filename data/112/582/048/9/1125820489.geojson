@@ -25,14 +25,14 @@
     "name:bul_x_preferred":[
         "\u042f\u043d\u0433\u0438\u0440\u0430\u0431\u043e\u0442"
     ],
-    "name:dut_x_preferred":[
-        "Yangirabad"
-    ],
     "name:eng_x_preferred":[
         "Yangirabad"
     ],
     "name:kik_x_preferred":[
         "Yangirabot"
+    ],
+    "name:nld_x_preferred":[
+        "Yangirabad"
     ],
     "name:pol_x_preferred":[
         "Yangirabot"
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1125820489,
-    "wof:lastmodified":1514502125,
+    "wof:lastmodified":1561792261,
     "wof:name":"Yangirabot",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

@@ -16,14 +16,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:alb_x_preferred":[
-        "Termez"
-    ],
     "name:ara_x_preferred":[
         "\u062a\u0631\u0645\u0630"
-    ],
-    "name:arm_x_preferred":[
-        "\u0539\u0565\u0580\u0574\u0565\u0566"
     ],
     "name:arz_x_preferred":[
         "\u062a\u0631\u0645\u0630"
@@ -32,9 +26,6 @@
         "\u062a\u0626\u0631\u0645\u06cc\u0632"
     ],
     "name:aze_x_preferred":[
-        "Termez"
-    ],
-    "name:baq_x_preferred":[
         "Termez"
     ],
     "name:bel_x_preferred":[
@@ -49,17 +40,14 @@
     "name:cat_x_preferred":[
         "Termez"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u5c14\u6885\u5179"
-    ],
     "name:dan_x_preferred":[
         "Termez"
     ],
     "name:deu_x_preferred":[
         "Termiz"
     ],
-    "name:dut_x_preferred":[
-        "Termiz"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03c1\u03bc\u03ad\u03b6"
     ],
     "name:eng_x_preferred":[
         "Termez"
@@ -70,6 +58,9 @@
     "name:est_x_preferred":[
         "Termiz"
     ],
+    "name:eus_x_preferred":[
+        "Termez"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0631\u0645\u0630"
     ],
@@ -79,15 +70,6 @@
     "name:fra_x_preferred":[
         "Termez"
     ],
-    "name:fre_x_preferred":[
-        "Termez"
-    ],
-    "name:ger_x_preferred":[
-        "Termiz"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03c1\u03bc\u03ad\u03b6"
-    ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0ab0\u0acd\u0aae\u0ac7\u0a9d"
     ],
@@ -96,6 +78,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0924\u093f\u0930\u092e\u093f\u091c\u093c"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0565\u0580\u0574\u0565\u0566"
     ],
     "name:ind_x_preferred":[
         "Termez"
@@ -130,17 +115,17 @@
     "name:mar_x_preferred":[
         "\u091f\u0947\u0930\u092e\u0947\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Termez"
+    ],
+    "name:nld_x_preferred":[
+        "Termiz"
     ],
     "name:nob_x_preferred":[
         "Termez"
     ],
     "name:pan_x_preferred":[
         "\u0a24\u0a3f\u0a30\u0a2e\u0a3f\u0a1c\u0a3c"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u0645\u0630"
     ],
     "name:pnb_x_preferred":[
         "\u062a\u0631\u0645\u0630"
@@ -151,7 +136,7 @@
     "name:por_x_preferred":[
         "Termez"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Termez"
     ],
     "name:rus_x_preferred":[
@@ -164,6 +149,9 @@
         "\u0da7\u0dbb\u0dca\u0db8\u0dc3\u0dca"
     ],
     "name:spa_x_preferred":[
+        "Termez"
+    ],
+    "name:sqi_x_preferred":[
         "Termez"
     ],
     "name:swe_x_preferred":[
@@ -201,6 +189,9 @@
     ],
     "name:war_x_preferred":[
         "Termez"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u5c14\u6885\u5179"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uzbekistan",
@@ -328,7 +319,7 @@
         }
     ],
     "wof:id":890415469,
-    "wof:lastmodified":1527727241,
+    "wof:lastmodified":1561792259,
     "wof:name":"Tirmiz",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

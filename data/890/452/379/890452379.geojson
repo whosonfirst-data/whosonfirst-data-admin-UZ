@@ -18,9 +18,6 @@
     "name:azb_x_preferred":[
         "\u0631\u0627\u0645\u06cc\u062a\u0646"
     ],
-    "name:dut_x_preferred":[
-        "Romitan"
-    ],
     "name:eng_x_preferred":[
         "Romitan"
     ],
@@ -28,6 +25,9 @@
         "\u30ed\u30df\u30bf\u30f3"
     ],
     "name:kik_x_preferred":[
+        "Romitan"
+    ],
+    "name:nld_x_preferred":[
         "Romitan"
     ],
     "name:rus_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":890452379,
-    "wof:lastmodified":1514502108,
+    "wof:lastmodified":1561792260,
     "wof:name":"Romiton",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

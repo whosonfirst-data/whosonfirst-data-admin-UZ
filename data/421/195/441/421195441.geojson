@@ -14,25 +14,16 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0531\u0576\u0563\u0580\u0565\u0576"
-    ],
     "name:aze_x_preferred":[
         "Anqren"
     ],
     "name:cat_x_preferred":[
         "Angren"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u683c\u9023"
-    ],
     "name:ckb_x_preferred":[
         "\u0626\u0627\u0646\u06af\u0631\u06ce\u0646"
     ],
     "name:deu_x_preferred":[
-        "Angren"
-    ],
-    "name:dut_x_preferred":[
         "Angren"
     ],
     "name:eng_x_preferred":[
@@ -47,11 +38,8 @@
     "name:fra_x_preferred":[
         "Angren"
     ],
-    "name:fre_x_preferred":[
-        "Angren"
-    ],
-    "name:ger_x_preferred":[
-        "Angren"
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u0563\u0580\u0565\u0576"
     ],
     "name:ita_x_preferred":[
         "Angren"
@@ -68,8 +56,8 @@
     "name:lit_x_preferred":[
         "Angrenas"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0646\u06af\u0631\u0646\u060c \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Angren"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0646\u06af\u0631\u06cc\u0646"
@@ -255,7 +243,7 @@
         }
     ],
     "wof:id":421195441,
-    "wof:lastmodified":1527716119,
+    "wof:lastmodified":1561792256,
     "wof:name":"Angren",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

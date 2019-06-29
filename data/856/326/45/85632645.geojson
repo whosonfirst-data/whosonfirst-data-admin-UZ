@@ -161,9 +161,6 @@
     "name:cym_x_variant":[
         "Uzbekistan"
     ],
-    "name:cze_x_preferred":[
-        "Uzbekist\u00e1n"
-    ],
     "name:dan_x_preferred":[
         "Usbekistan"
     ],
@@ -805,7 +802,6 @@
         "\u4e4c\u5179\u522b\u514b\u65af\u5766"
     ],
     "name:zho_x_variant":[
-        "\u4e4c\u5179\u522b\u514b\u65af\u5766",
         "\u70cf\u8332\u5225\u514b"
     ],
     "name:zho_yue_x_preferred":[
@@ -959,7 +955,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1544059281,
+    "wof:lastmodified":1561792200,
     "wof:name":"Uzbekistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

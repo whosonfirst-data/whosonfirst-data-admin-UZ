@@ -13,14 +13,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "\u0136\u00fcrgontepa"
+    "name:deu_x_preferred":[
+        "Qo\u02bbrg\u02bbontepa"
     ],
     "name:eng_x_preferred":[
         "\u0136\u00fcrgontepa"
-    ],
-    "name:ger_x_preferred":[
-        "Qo\u02bbrg\u02bbontepa"
     ],
     "name:ita_x_preferred":[
         "Kurgontepa"
@@ -36,6 +33,9 @@
     ],
     "name:lit_x_preferred":[
         "Kurgantepa"
+    ],
+    "name:nld_x_preferred":[
+        "\u0136\u00fcrgontepa"
     ],
     "name:pol_x_preferred":[
         "Qo\u02bbrg\u02bbontepa"
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":421197403,
-    "wof:lastmodified":1514502096,
+    "wof:lastmodified":1561792258,
     "wof:name":"Kurgantepa",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

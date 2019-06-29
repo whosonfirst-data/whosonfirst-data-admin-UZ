@@ -14,17 +14,11 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5361\u5854\u5eab\u723e\u5e72"
-    ],
     "name:ckb_x_preferred":[
         "\u06a9\u06d5\u062a\u06d5\u0642\u0648\u06ce\u0631\u063a\u0627\u0646"
     ],
     "name:deu_x_preferred":[
         "Kattaqo\u02bbrg\u02bbon"
-    ],
-    "name:dut_x_preferred":[
-        "Katta-Kurgan"
     ],
     "name:eng_x_preferred":[
         "Katta-Kurgan"
@@ -32,14 +26,11 @@
     "name:fas_x_preferred":[
         "\u06a9\u062a\u0647\u200c\u0642\u0648\u0631\u063a\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u062a\u0647\u200c\u0642\u0648\u0631\u063a\u0627\u0646\u060c \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "Kattakourgan"
-    ],
-    "name:fre_x_preferred":[
-        "Kattakourgan"
-    ],
-    "name:ger_x_preferred":[
-        "Kattaqo\u02bbrg\u02bbon"
     ],
     "name:ita_x_preferred":[
         "Kattaqo'rg'on"
@@ -56,8 +47,8 @@
     "name:nds_x_preferred":[
         "Kattaqo\u02bbrg\u02bbon"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u062a\u0647\u200c\u0642\u0648\u0631\u063a\u0627\u0646\u060c \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Katta-Kurgan"
     ],
     "name:pol_x_preferred":[
         "Kattaqo\u02bbrg\u02bbon"
@@ -236,7 +227,7 @@
         }
     ],
     "wof:id":421184965,
-    "wof:lastmodified":1527716443,
+    "wof:lastmodified":1561792258,
     "wof:name":"Kattaqtrghon",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

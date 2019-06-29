@@ -21,16 +21,10 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0439\u0441\u0443\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u67cf\u4f0a\u68ee"
-    ],
-    "name:dut_x_preferred":[
-        "Boysun"
-    ],
     "name:eng_x_preferred":[
         "Boysun"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Boysun"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +38,9 @@
     ],
     "name:lit_x_preferred":[
         "Baisunas"
+    ],
+    "name:nld_x_preferred":[
+        "Boysun"
     ],
     "name:pol_x_preferred":[
         "Boysun"
@@ -68,6 +65,9 @@
     ],
     "name:uzb_x_preferred":[
         "Boysun"
+    ],
+    "name:zho_x_preferred":[
+        "\u67cf\u4f0a\u68ee"
     ],
     "qs:name":"Boysun",
     "qs:photos_9r":0,
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":890433655,
-    "wof:lastmodified":1527792957,
+    "wof:lastmodified":1561792260,
     "wof:name":"Boysun",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

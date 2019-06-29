@@ -16,9 +16,6 @@
     "name:azb_x_preferred":[
         "\u0628\u0648\u0644\u0648\u0646\u063a\u0648\u0631"
     ],
-    "name:dut_x_preferred":[
-        "Bulungur"
-    ],
     "name:eng_x_preferred":[
         "Bulungur"
     ],
@@ -27,6 +24,9 @@
     ],
     "name:kik_x_preferred":[
         "Bulung\u02bbur"
+    ],
+    "name:nld_x_preferred":[
+        "Bulungur"
     ],
     "name:pol_x_preferred":[
         "Bulung\u02bbur"
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":421199267,
-    "wof:lastmodified":1527716412,
+    "wof:lastmodified":1561792258,
     "wof:name":"Bulungur",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",
