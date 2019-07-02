@@ -31,9 +31,6 @@
     "name:aze_x_preferred":[
         "F\u0259rqan\u0259 vilay\u0259ti"
     ],
-    "name:baq_x_preferred":[
-        "Fergana probintzia"
-    ],
     "name:bel_x_preferred":[
         "\u0424\u0435\u0440\u0433\u0430\u043d\u0441\u043a\u0456 \u0432\u0456\u043b\u0430\u0435\u0442"
     ],
@@ -43,14 +40,14 @@
     "name:bul_x_preferred":[
         "\u0424\u0435\u0440\u0433\u0430\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u8cbb\u723e\u5e72\u7d0d\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Fergana Region"
     ],
-    "name:dut_x_preferred":[
-        "Farg\u02bbona"
+    "name:deu_x_preferred":[
+        "Provinz Farg\u02bbona"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03b5\u03c1\u03b3\u03ba\u03ac\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Farghona"
@@ -66,20 +63,20 @@
     "name:est_x_preferred":[
         "Farg\u2018ona vilajett"
     ],
+    "name:eus_x_preferred":[
+        "Fergana probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0641\u0631\u063a\u0627\u0646\u0647"
+    ],
     "name:fin_x_preferred":[
         "Ferganan alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Ferghana"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Farg\u02bbona"
     ],
     "name:glg_x_preferred":[
         "Provincia de Fergana"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03b5\u03c1\u03b3\u03ba\u03ac\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac7\u0ab0\u0a97\u0aa8\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -120,20 +117,20 @@
     "name:lit_x_preferred":[
         "Ferganos vilajetas"
     ],
-    "name:mac_x_preferred":[
-        "\u0424\u0435\u0440\u0433\u0430\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u092b\u0930\u094d\u0917\u094b\u0928\u093e \u0935\u093f\u0932\u093e\u092f\u0924\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0424\u0435\u0440\u0433\u0430\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah Fergana"
+    ],
+    "name:nld_x_preferred":[
+        "Farg\u02bbona"
     ],
     "name:nob_x_preferred":[
         "Fergana region"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0641\u0631\u063a\u0627\u0646\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0641\u0631\u063a\u0627\u0646\u06c1"
@@ -144,7 +141,7 @@
     "name:por_x_preferred":[
         "Fergana"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Fergana"
     ],
     "name:rus_x_preferred":[
@@ -200,6 +197,9 @@
     ],
     "name:war_x_preferred":[
         "Fergana"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cbb\u723e\u5e72\u7d0d\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UZB",
@@ -319,7 +319,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1553550567,
+    "wof:lastmodified":1561792197,
     "wof:name":"Ferghana",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

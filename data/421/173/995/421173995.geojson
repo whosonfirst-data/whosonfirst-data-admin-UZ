@@ -13,13 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Sirdaryo"
-    ],
     "name:eng_x_preferred":[
         "Sirdaryo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sirdaryo"
     ],
     "name:ita_x_preferred":[
@@ -29,6 +26,9 @@
         "\u30b7\u30eb\u30c0\u30ea\u30e4"
     ],
     "name:kik_x_preferred":[
+        "Sirdaryo"
+    ],
+    "name:nld_x_preferred":[
         "Sirdaryo"
     ],
     "name:nob_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":421173995,
-    "wof:lastmodified":1527716257,
+    "wof:lastmodified":1561792258,
     "wof:name":"Sirdaryo",
     "wof:parent_id":85680419,
     "wof:placetype":"locality",

@@ -19,17 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gazli"
     ],
     "name:eng_x_preferred":[
         "Gazli"
     ],
-    "name:ger_x_preferred":[
-        "Gazli"
-    ],
     "name:jpn_x_preferred":[
         "\u30ac\u30ba\u30ea"
+    ],
+    "name:nld_x_preferred":[
+        "Gazli"
     ],
     "name:pol_x_preferred":[
         "Gazli"
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1125938575,
-    "wof:lastmodified":1514502085,
+    "wof:lastmodified":1561792261,
     "wof:name":"Gazli",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

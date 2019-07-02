@@ -16,17 +16,14 @@
     "name:azb_x_preferred":[
         "\u0686\u06cc\u0631\u0627\u0642\u0686\u06cc"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u010cirak\u010di"
     ],
-    "name:dut_x_preferred":[
-        "Chirakchi"
+    "name:deu_x_preferred":[
+        "Tschiraktschi"
     ],
     "name:eng_x_preferred":[
         "Chirakchi"
-    ],
-    "name:ger_x_preferred":[
-        "Tschiraktschi"
     ],
     "name:ita_x_preferred":[
         "Chiroqchi"
@@ -36,6 +33,9 @@
     ],
     "name:kik_x_preferred":[
         "Chiroqchi"
+    ],
+    "name:nld_x_preferred":[
+        "Chirakchi"
     ],
     "name:pol_x_preferred":[
         "Chiroqchi"
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":421196523,
-    "wof:lastmodified":1527716369,
+    "wof:lastmodified":1561792258,
     "wof:name":"Chirakchi",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

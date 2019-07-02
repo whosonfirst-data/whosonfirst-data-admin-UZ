@@ -23,16 +23,10 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u0440\u0447\u0438\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u723e\u5947\u514b"
-    ],
     "name:ckb_x_preferred":[
         "\u0686\u06cc\u0631\u0686\u06cc\u0642"
     ],
     "name:deu_x_preferred":[
-        "Chirchiq"
-    ],
-    "name:dut_x_preferred":[
         "Chirchiq"
     ],
     "name:eng_x_preferred":[
@@ -46,12 +40,6 @@
     ],
     "name:fra_x_preferred":[
         "Tchirtchik"
-    ],
-    "name:fre_x_preferred":[
-        "Tchirtchik"
-    ],
-    "name:ger_x_preferred":[
-        "Chirchiq"
     ],
     "name:ita_x_preferred":[
         "Chirchiq"
@@ -71,16 +59,13 @@
     "name:nds_x_preferred":[
         "Chirchiq"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u06cc\u0631\u0686\u06cc\u0642\u060c \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Chirchiq"
     ],
     "name:pol_x_preferred":[
         "Chirchiq"
     ],
     "name:ron_x_preferred":[
-        "Circik"
-    ],
-    "name:rum_x_preferred":[
         "Circik"
     ],
     "name:rus_x_preferred":[
@@ -259,7 +244,7 @@
         }
     ],
     "wof:id":421198751,
-    "wof:lastmodified":1527716354,
+    "wof:lastmodified":1561792258,
     "wof:name":"Chirchik",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

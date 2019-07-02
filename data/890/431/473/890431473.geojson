@@ -15,20 +15,17 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5409\u65e5\u675c\u842c"
-    ],
-    "name:dut_x_preferred":[
-        "Gijduvan"
+    "name:deu_x_preferred":[
+        "G\u02bbijduvon"
     ],
     "name:eng_x_preferred":[
         "Gijduvan"
     ],
-    "name:fre_x_preferred":[
-        "Gijduvan"
+    "name:fas_x_preferred":[
+        "\u063a\u062c\u062f\u0648\u0627\u0646"
     ],
-    "name:ger_x_preferred":[
-        "G\u02bbijduvon"
+    "name:fra_x_preferred":[
+        "Gijduvan"
     ],
     "name:ita_x_preferred":[
         "Gijduvon"
@@ -45,11 +42,11 @@
     "name:lit_x_preferred":[
         "Gi\u017eduvanas"
     ],
+    "name:nld_x_preferred":[
+        "Gijduvan"
+    ],
     "name:pan_x_preferred":[
         "\u0a17\u0a1c\u0a3c\u0a26\u0a35\u0a3e\u0a28"
-    ],
-    "name:per_x_preferred":[
-        "\u063a\u062c\u062f\u0648\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u063a\u062c\u062f\u0648\u0627\u0646"
@@ -81,6 +78,9 @@
     "name:uzb_x_preferred":[
         "G\u02bbijduvon"
     ],
+    "name:zho_x_preferred":[
+        "\u5409\u65e5\u675c\u842c"
+    ],
     "qs:name":"Ghijduwon",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":890431473,
-    "wof:lastmodified":1514502085,
+    "wof:lastmodified":1561792260,
     "wof:name":"Ghijduwon",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

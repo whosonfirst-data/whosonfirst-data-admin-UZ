@@ -17,9 +17,6 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u0632\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u054b\u056b\u0566\u0561\u056f"
-    ],
     "name:arz_x_preferred":[
         "\u062c\u064a\u0632\u0627\u062e"
     ],
@@ -38,14 +35,14 @@
     "name:cat_x_preferred":[
         "Djizak"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u624e\u514b"
-    ],
     "name:dan_x_preferred":[
         "Jizzakh"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jizzax"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b9\u03b6\u03ac\u03ba"
     ],
     "name:eng_x_preferred":[
         "Jizzakh"
@@ -65,18 +62,6 @@
     "name:fra_x_preferred":[
         "Djizak"
     ],
-    "name:fre_x_preferred":[
-        "Djizak"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ef\u10d8\u10d6\u10d0\u10ee\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Jizzax"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03b9\u03b6\u03ac\u03ba"
-    ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac0\u0a9d\u0abe\u0a96"
     ],
@@ -85,6 +70,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091c\u0940\u091c\u093c\u093e\u0915"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u056b\u0566\u0561\u056f"
     ],
     "name:ina_x_preferred":[
         "Jizzax"
@@ -103,6 +91,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c9c\u0cbf\u0c9d\u0cbe\u0c96\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d8\u10d6\u10d0\u10ee\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0416\u044b\u0437\u0430\u049b"
@@ -125,8 +116,11 @@
     "name:mar_x_preferred":[
         "\u091c\u093f\u091d\u0916"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Jizzakh"
+    ],
+    "name:nld_x_preferred":[
+        "Jizzax"
     ],
     "name:nob_x_preferred":[
         "Jizzakh"
@@ -134,16 +128,13 @@
     "name:pan_x_preferred":[
         "\u0a1c\u0a3f\u0a1c\u0a3c\u0a3e\u0a16"
     ],
-    "name:per_x_preferred":[
-        "\u062c\u06cc\u0632\u06a9"
-    ],
     "name:pnb_x_preferred":[
         "\u062c\u06cc\u0632\u06a9"
     ],
     "name:pol_x_preferred":[
         "D\u017cyzak"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Jizak"
     ],
     "name:rus_x_preferred":[
@@ -336,7 +327,7 @@
         }
     ],
     "wof:id":421168863,
-    "wof:lastmodified":1527716099,
+    "wof:lastmodified":1561792256,
     "wof:name":"Jizzakh",
     "wof:parent_id":85680415,
     "wof:placetype":"locality",

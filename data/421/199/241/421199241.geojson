@@ -19,26 +19,23 @@
     "name:ckb_x_preferred":[
         "\u067e\u06d5\u062e\u062a\u06d5\u06a9\u0627\u0631"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Paxtakor"
     ],
     "name:eng_x_preferred":[
         "Paxtakor"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u062e\u062a\u0647\u200c\u06a9\u0627\u0631"
+    ],
     "name:fra_x_preferred":[
         "Pakhtakor"
-    ],
-    "name:fre_x_preferred":[
-        "Pakhtakor"
-    ],
-    "name:ger_x_preferred":[
-        "Paxtakor"
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30d5\u30bf\u30b3\u30fc\u30eb"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u062e\u062a\u0647\u200c\u06a9\u0627\u0631"
+    "name:nld_x_preferred":[
+        "Paxtakor"
     ],
     "name:pol_x_preferred":[
         "Paxtakor"
@@ -110,7 +107,7 @@
         }
     ],
     "wof:id":421199241,
-    "wof:lastmodified":1527716416,
+    "wof:lastmodified":1561792258,
     "wof:name":"Pakhtakor",
     "wof:parent_id":85680415,
     "wof:placetype":"locality",

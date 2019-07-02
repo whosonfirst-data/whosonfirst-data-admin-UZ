@@ -19,13 +19,10 @@
     "name:bul_x_preferred":[
         "\u0413\u0443\u0440\u043b\u0430\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Gurlan"
-    ],
     "name:eng_x_preferred":[
         "Gurlan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gurlan"
     ],
     "name:hun_x_preferred":[
@@ -39,6 +36,9 @@
     ],
     "name:kik_x_preferred":[
         "Gurlen"
+    ],
+    "name:nld_x_preferred":[
+        "Gurlan"
     ],
     "name:pol_x_preferred":[
         "Gurlan"
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":421167989,
-    "wof:lastmodified":1527716162,
+    "wof:lastmodified":1561792257,
     "wof:name":"Gurlan",
     "wof:parent_id":85680377,
     "wof:placetype":"locality",

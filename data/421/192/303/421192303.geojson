@@ -19,9 +19,6 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u0431\u043e\u0440\u0430\u043a"
     ],
-    "name:dut_x_preferred":[
-        "Muborak"
-    ],
     "name:eng_x_preferred":[
         "Muborak"
     ],
@@ -40,8 +37,8 @@
     "name:lit_x_preferred":[
         "Mubarekas"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0628\u0627\u0631\u06a9"
+    "name:nld_x_preferred":[
+        "Muborak"
     ],
     "name:pol_x_preferred":[
         "Muborak"
@@ -116,7 +113,7 @@
         }
     ],
     "wof:id":421192303,
-    "wof:lastmodified":1553816380,
+    "wof:lastmodified":1561792256,
     "wof:name":"Muborak",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

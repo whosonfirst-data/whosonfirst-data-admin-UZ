@@ -19,16 +19,10 @@
     "name:bul_x_preferred":[
         "\u042f\u043d\u0433\u0438\u0439\u0435\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u63da\u5409\u8036\u723e"
-    ],
     "name:ckb_x_preferred":[
         "\u06cc\u06d5\u0646\u06af\u06cc\u06ce\u0631"
     ],
     "name:deu_x_preferred":[
-        "Yangiyer"
-    ],
-    "name:dut_x_preferred":[
         "Yangiyer"
     ],
     "name:eng_x_preferred":[
@@ -37,10 +31,7 @@
     "name:fas_x_preferred":[
         "\u06cc\u0627\u0646\u06af\u06cc\u0626\u0631\u060c \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
     ],
-    "name:fre_x_preferred":[
-        "Yangiyer"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Yangiyer"
     ],
     "name:hin_x_preferred":[
@@ -52,8 +43,8 @@
     "name:kik_x_preferred":[
         "Yangiyer"
     ],
-    "name:per_x_preferred":[
-        "\u06cc\u0627\u0646\u06af\u06cc\u0626\u0631\u060c \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Yangiyer"
     ],
     "name:pol_x_preferred":[
         "Yangiyer"
@@ -133,7 +124,7 @@
         }
     ],
     "wof:id":421196527,
-    "wof:lastmodified":1527716364,
+    "wof:lastmodified":1561792258,
     "wof:name":"Yangiyer",
     "wof:parent_id":85680419,
     "wof:placetype":"locality",

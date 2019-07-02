@@ -22,19 +22,13 @@
     "name:cat_x_preferred":[
         "Hazarasp"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u624e\u62c9\u65af\u666e"
-    ],
-    "name:dut_x_preferred":[
-        "Hazorasp"
-    ],
     "name:eng_x_preferred":[
         "Hazorasp"
     ],
     "name:fas_x_preferred":[
         "\u0647\u0632\u0627\u0631\u0627\u0633\u067e"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hazorasp"
     ],
     "name:ita_x_preferred":[
@@ -46,8 +40,8 @@
     "name:kik_x_preferred":[
         "Xazorasp"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0632\u0627\u0631\u0627\u0633\u067e"
+    "name:nld_x_preferred":[
+        "Hazorasp"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u0437\u0430\u0440\u0430\u0441\u043f"
@@ -63,6 +57,9 @@
     ],
     "name:uzb_x_preferred":[
         "Hazorasp"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u624e\u62c9\u65af\u666e"
     ],
     "qs:gn_country":"UZ",
     "qs:gn_fcode":"PPL",
@@ -112,7 +109,7 @@
         }
     ],
     "wof:id":421178635,
-    "wof:lastmodified":1527717721,
+    "wof:lastmodified":1561792259,
     "wof:name":"Hazorasp",
     "wof:parent_id":85680377,
     "wof:placetype":"locality",

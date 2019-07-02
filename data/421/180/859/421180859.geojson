@@ -16,17 +16,14 @@
     "name:azb_x_preferred":[
         "\u0628\u0648\u06a9\u0647"
     ],
-    "name:dut_x_preferred":[
-        "Buka"
+    "name:deu_x_preferred":[
+        "Bo\u02bbka"
     ],
     "name:eng_x_preferred":[
         "Buka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Buka"
-    ],
-    "name:ger_x_preferred":[
-        "Bo\u02bbka"
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30ab"
@@ -110,7 +107,7 @@
         }
     ],
     "wof:id":421180859,
-    "wof:lastmodified":1553816369,
+    "wof:lastmodified":1561792257,
     "wof:name":"Buka",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

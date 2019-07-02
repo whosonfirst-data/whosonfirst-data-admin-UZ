@@ -18,9 +18,6 @@
     "name:azb_x_preferred":[
         "\u0642\u06cc\u0632\u06cc\u0644\u200c\u062a\u067e\u0647"
     ],
-    "name:dut_x_preferred":[
-        "Kyzyltepa"
-    ],
     "name:eng_x_preferred":[
         "Kyzyltepa"
     ],
@@ -35,6 +32,9 @@
     ],
     "name:kik_x_preferred":[
         "Qiziltepa"
+    ],
+    "name:nld_x_preferred":[
+        "Kyzyltepa"
     ],
     "name:pol_x_preferred":[
         "Qiziltepa"
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":890443855,
-    "wof:lastmodified":1527787070,
+    "wof:lastmodified":1561792260,
     "wof:name":"Qiziltepa",
     "wof:parent_id":85680385,
     "wof:placetype":"locality",

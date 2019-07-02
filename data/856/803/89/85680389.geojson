@@ -30,9 +30,6 @@
     "name:aze_x_preferred":[
         "S\u0259m\u0259rq\u0259nd vilay\u0259ti"
     ],
-    "name:baq_x_preferred":[
-        "Samarkanda probintzia"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0440\u043a\u0430\u043d\u0434\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
     ],
@@ -45,14 +42,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Samarcanda"
     ],
-    "name:chi_x_preferred":[
-        "\u6492\u99ac\u723e\u7f55\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Samarqand Region"
     ],
-    "name:dut_x_preferred":[
-        "Samarkand"
+    "name:deu_x_preferred":[
+        "Provinz Samarqand"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bc\u03b1\u03c1\u03ba\u03ac\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Samarqand"
@@ -63,20 +60,20 @@
     "name:est_x_preferred":[
         "Samarqandi vilajett"
     ],
+    "name:eus_x_preferred":[
+        "Samarkanda probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0645\u0631\u0642\u0646\u062f"
+    ],
     "name:fin_x_preferred":[
         "Samarkandin alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Samarcande"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Samarqand"
     ],
     "name:glg_x_preferred":[
         "Provincia de Samarcanda"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bc\u03b1\u03c1\u03ba\u03ac\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0aae\u0ab0\u0a95\u0a82\u0aa6 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -114,23 +111,23 @@
     "name:lit_x_preferred":[
         "Samarkando vilajetas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u043c\u0430\u0440\u043a\u0430\u043d\u0434\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u092e\u0930\u0915\u0902\u0926 \u0935\u093f\u0932\u093e\u092f\u0924\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043c\u0430\u0440\u043a\u0430\u043d\u0434\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah Samarqand"
+    ],
+    "name:nld_x_preferred":[
+        "Samarkand"
     ],
     "name:nob_x_preferred":[
         "Samarqand region"
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a2e\u0a30\u0a15\u0a70\u0a26 \u0a35\u0a3f\u0a32\u0a4b\u0a07\u0a24\u0a40"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0645\u0631\u0642\u0646\u062f"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u0645\u0631\u0642\u0646\u062f"
@@ -141,7 +138,7 @@
     "name:por_x_preferred":[
         "Samarcanda"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Samarkand"
     ],
     "name:rus_x_preferred":[
@@ -197,6 +194,9 @@
     ],
     "name:war_x_preferred":[
         "Samarqand"
+    ],
+    "name:zho_x_preferred":[
+        "\u6492\u99ac\u723e\u7f55\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UZB",
@@ -319,7 +319,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1553550571,
+    "wof:lastmodified":1561792199,
     "wof:name":"Samarkand",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

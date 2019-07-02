@@ -32,9 +32,6 @@
     "name:aze_x_preferred":[
         "Da\u015fk\u0259nd vilay\u0259ti"
     ],
-    "name:baq_x_preferred":[
-        "Toshkent probintzia"
-    ],
     "name:bel_x_preferred":[
         "\u0422\u0430\u0448\u043a\u0435\u043d\u0446\u043a\u0456 \u0432\u0456\u043b\u0430\u0435\u0442"
     ],
@@ -44,14 +41,14 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0448\u043a\u0435\u043d\u0442\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u4ec0\u5e72\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Tashkent Region"
     ],
-    "name:dut_x_preferred":[
-        "Tasjkent"
+    "name:deu_x_preferred":[
+        "Provinz Taschkent"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03c3\u03ba\u03ad\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Toshkent"
@@ -67,20 +64,20 @@
     "name:est_x_preferred":[
         "Toshkendi vilajett"
     ],
+    "name:eus_x_preferred":[
+        "Toshkent probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0627\u0634\u06a9\u0646\u062f"
+    ],
     "name:fin_x_preferred":[
         "Ta\u0161kentin alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Tachkent"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Taschkent"
     ],
     "name:glg_x_preferred":[
         "Provincia de Tashkent"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03c3\u03ba\u03ad\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0ab6\u0acd\u0a95\u0ac7\u0a82\u0a9f \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -121,23 +118,23 @@
     "name:lit_x_preferred":[
         "Ta\u0161kento vilajetas"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0430\u0448\u043a\u0435\u043d\u0442\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u0924\u094b\u0936\u094d\u0915\u0947\u0902\u0924 \u0935\u093f\u0932\u093e\u092f\u0924\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0422\u0430\u0448\u043a\u0435\u043d\u0442\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah Toshkent"
+    ],
+    "name:nld_x_preferred":[
+        "Tasjkent"
     ],
     "name:nob_x_preferred":[
         "Tashkent region"
     ],
     "name:pan_x_preferred":[
         "\u0a24\u0a3e\u0a38\u0a3c\u0a15\u0a47\u0a02\u0a24 \u0a38\u0a42\u0a2c\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0627\u0634\u06a9\u0646\u062f"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062a\u0627\u0634\u0642\u0646\u062f"
@@ -148,7 +145,7 @@
     "name:por_x_preferred":[
         "Tashkent"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Ta\u0219kent"
     ],
     "name:rus_x_preferred":[
@@ -201,6 +198,9 @@
     ],
     "name:war_x_preferred":[
         "Tashkent"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u4ec0\u5e72\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UZB",
@@ -326,7 +326,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1553550568,
+    "wof:lastmodified":1561792197,
     "wof:name":"Tashkent",
     "wof:parent_id":85632645,
     "wof:placetype":"region",
