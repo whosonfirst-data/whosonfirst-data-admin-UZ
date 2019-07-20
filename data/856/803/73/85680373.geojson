@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0628\u062e\u0627\u0631\u0649"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u062e\u0627\u0631\u0627 \u0648\u06cc\u0644\u0627\u06cc\u062a"
+    ],
     "name:aze_x_preferred":[
         "Buxara vilay\u0259ti"
     ],
@@ -37,14 +40,23 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0445\u0430\u0440\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Bukhara Province"
+    ],
     "name:chv_x_preferred":[
         "\u0411\u0443\u0445\u0430\u0440\u0430 \u043e\u0431\u043b\u0430\u00e7\u0115"
+    ],
+    "name:crh_x_preferred":[
+        "Buhara vil\u00e2yeti"
     ],
     "name:dan_x_preferred":[
         "Bukhara Region"
     ],
     "name:deu_x_preferred":[
         "Provinz Buxoro"
+    ],
+    "name:deu_x_variant":[
+        "Provinz Buchara"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03c5\u03c7\u03ac\u03c1\u03b1"
@@ -75,6 +87,9 @@
     "name:fra_x_preferred":[
         "province de Boukhara"
     ],
+    "name:fra_x_variant":[
+        "Boukhara"
+    ],
     "name:glg_x_preferred":[
         "Provincia de Buxoro"
     ],
@@ -84,6 +99,9 @@
     "name:hin_x_preferred":[
         "\u092c\u0941\u0916\u093c\u093e\u0930\u093e \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u056d\u0561\u0580\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
+    ],
     "name:ina_x_preferred":[
         "Region Buxoro"
     ],
@@ -92,6 +110,9 @@
     ],
     "name:ita_x_preferred":[
         "Regione di Bukhara"
+    ],
+    "name:jav_x_preferred":[
+        "Buxoro"
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30cf\u30e9\u5dde"
@@ -110,6 +131,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubd80\ud558\ub77c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubd80\ud558\ub77c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Buh\u0101ras vilojats"
@@ -191,6 +215,9 @@
     ],
     "name:uzb_x_preferred":[
         "Buxoro Viloyati"
+    ],
+    "name:uzb_x_variant":[
+        "Buxoro viloyati"
     ],
     "name:vie_x_preferred":[
         "Buxoro"
@@ -321,7 +348,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1561792199,
+    "wof:lastmodified":1563582256,
     "wof:name":"Bukhoro",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

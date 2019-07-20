@@ -18,11 +18,17 @@
     "name:azb_x_preferred":[
         "\u062e\u0627\u06a9\u06a9\u0648\u0644 \u0622\u0628\u0627\u062f"
     ],
+    "name:ceb_x_preferred":[
+        "Haqqulobod"
+    ],
     "name:deu_x_preferred":[
         "Haqqulobod"
     ],
     "name:eng_x_preferred":[
         "Haqqulobod"
+    ],
+    "name:hsb_x_preferred":[
+        "Xaqqulobod"
     ],
     "name:kik_x_preferred":[
         "Haqqulobod"
@@ -35,6 +41,9 @@
     ],
     "name:spa_x_preferred":[
         "Hakkulobod"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u04d9\u043a\u043a\u0443\u043b\u044c\u0430\u0431\u0430\u0434"
     ],
     "name:tur_x_preferred":[
         "Hakkulabad"
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":890431471,
-    "wof:lastmodified":1561792260,
+    "wof:lastmodified":1563582894,
     "wof:name":"Haqqulobod",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

@@ -20,16 +20,25 @@
     "name:azb_x_preferred":[
         "\u0642\u0631\u0634\u06cc"
     ],
+    "name:bak_x_preferred":[
+        "\u04a0\u0430\u0440\u0448\u044b"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0430\u0440\u0448\u044b"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09af\u09bc\u09be\u09b0\u09b6\u09bf"
     ],
+    "name:bos_x_preferred":[
+        "Qarshi"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0448\u0438"
     ],
     "name:cat_x_preferred":[
+        "Qarshi"
+    ],
+    "name:ceb_x_preferred":[
         "Qarshi"
     ],
     "name:che_x_preferred":[
@@ -68,6 +77,12 @@
     "name:hin_x_preferred":[
         "\u0915\u093e\u0930\u094d\u0936\u0940"
     ],
+    "name:hsb_x_preferred":[
+        "Qarshi"
+    ],
+    "name:hun_x_preferred":[
+        "Qarshi"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u0580\u0577\u056b"
     ],
@@ -88,6 +103,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u049a\u0430\u0440\u0441\u044b"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0430\u0440\u0448\u0438"
     ],
     "name:kik_x_preferred":[
         "Qarshi"
@@ -331,7 +349,7 @@
         }
     ],
     "wof:id":421177861,
-    "wof:lastmodified":1561792259,
+    "wof:lastmodified":1563582881,
     "wof:name":"Qarshi",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

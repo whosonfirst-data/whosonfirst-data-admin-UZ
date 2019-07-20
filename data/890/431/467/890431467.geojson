@@ -18,7 +18,16 @@
     "name:bul_x_preferred":[
         "\u0414\u0430\u0449\u043e\u0431\u043e\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Dashtobod"
+    ],
     "name:eng_x_preferred":[
+        "Dashtobod"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0634\u062a\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:hsb_x_preferred":[
         "Dashtobod"
     ],
     "name:kik_x_preferred":[
@@ -35,6 +44,12 @@
     ],
     "name:spa_x_preferred":[
         "Ulyanovo"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u04d9\u0448\u0442\u0430\u0431\u0430\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u0448\u0442\u0430\u0431\u0430\u0434"
     ],
     "name:unk_x_variant":[
         "Ul\u2019yanovo"
@@ -76,7 +91,7 @@
         }
     ],
     "wof:id":890431467,
-    "wof:lastmodified":1561792260,
+    "wof:lastmodified":1563582895,
     "wof:name":"Dashtobod",
     "wof:parent_id":85680415,
     "wof:placetype":"locality",

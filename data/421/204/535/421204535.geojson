@@ -31,8 +31,14 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b0\u09cd\u099c\u09bf\u09b2\u09be\u09a8"
     ],
+    "name:bos_x_preferred":[
+        "Margilan"
+    ],
     "name:cat_x_preferred":[
         "Margilan"
+    ],
+    "name:ceb_x_preferred":[
+        "Marg\u2018ilon"
     ],
     "name:che_x_preferred":[
         "\u041c\u0430\u0440\u0433\u0438\u043b\u0430\u043d"
@@ -70,6 +76,9 @@
     "name:hin_x_preferred":[
         "\u092e\u0930\u0917\u093f\u0932\u093e\u0928"
     ],
+    "name:hsb_x_preferred":[
+        "Marg\u2018ilon"
+    ],
     "name:ind_x_preferred":[
         "Margilan"
     ],
@@ -99,6 +108,9 @@
     ],
     "name:lit_x_preferred":[
         "Margilanas"
+    ],
+    "name:ltz_x_preferred":[
+        "Margilan"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0930\u094d\u0917\u0940\u0932\u0902"
@@ -136,6 +148,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba9\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u04d9\u0440\u0433\u044b\u043b\u0430\u043d"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c30\u0c4d\u0c1c\u0c40\u0c32\u0c3e\u0c28\u0c4d"
     ],
@@ -147,6 +162,9 @@
     ],
     "name:tur_x_preferred":[
         "Margilan"
+    ],
+    "name:tur_x_variant":[
+        "Margilon"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0433\u0456\u043b\u0430\u043d"
@@ -175,6 +193,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u723e\u5409\u862d"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u5c14\u5409\u5170"
     ],
     "qs:gn_country":"UZ",
     "qs:gn_fcode":"PPL",
@@ -224,7 +245,7 @@
         }
     ],
     "wof:id":421204535,
-    "wof:lastmodified":1561792257,
+    "wof:lastmodified":1563582855,
     "wof:name":"Marghilon",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

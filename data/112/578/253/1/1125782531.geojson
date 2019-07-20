@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Nukus"
+    ],
     "name:ara_x_preferred":[
         "\u0646\u0643\u0648\u0635"
     ],
@@ -34,13 +37,22 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u0443\u043a\u0443\u0441"
     ],
+    "name:bel_x_variant":[
+        "\u041d\u0443\u043a\u0443\u0441"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09c1\u0995\u09c1\u099a"
+    ],
+    "name:bos_x_preferred":[
+        "Nukus"
     ],
     "name:bul_x_preferred":[
         "\u041d\u0443\u043a\u0443\u0441"
     ],
     "name:cat_x_preferred":[
+        "Nukus"
+    ],
+    "name:ceb_x_preferred":[
         "Nukus"
     ],
     "name:ces_x_preferred":[
@@ -88,6 +100,12 @@
     "name:hin_x_preferred":[
         "\u0928\u0942\u0915\u0938"
     ],
+    "name:hsb_x_preferred":[
+        "Nukus"
+    ],
+    "name:hun_x_preferred":[
+        "No\u02bbkis"
+    ],
     "name:hye_x_preferred":[
         "\u0546\u0578\u0582\u056f\u0578\u0582\u057d"
     ],
@@ -102,6 +120,9 @@
     ],
     "name:kaa_x_preferred":[
         "Nokis"
+    ],
+    "name:kaa_x_variant":[
+        "No'kis"
     ],
     "name:kan_x_preferred":[
         "\u0ca8\u0cc1\u0c95\u0cc1\u0cb8\u0ccd"
@@ -172,11 +193,17 @@
     "name:tam_x_preferred":[
         "\u0ba9\u0bc1\u0b95\u0bc2\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041d\u04e9\u043a\u0435\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c28\u0c42\u0c15\u0c41\u0c38\u0c4d"
     ],
     "name:tgk_x_preferred":[
         "\u041d\u0443\u043a\u0443\u0441"
+    ],
+    "name:tgl_x_preferred":[
+        "Nukus"
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e39\u0e01\u0e38\u0e2a"
@@ -251,7 +278,7 @@
         }
     ],
     "wof:id":1125782531,
-    "wof:lastmodified":1561792261,
+    "wof:lastmodified":1563582907,
     "wof:name":"Nukus",
     "wof:parent_id":85680381,
     "wof:placetype":"locality",

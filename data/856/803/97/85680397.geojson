@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0635\u0631\u062e\u0646\u062f\u0627\u0631\u064a\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0631\u062e\u0627\u0646\u200c\u062f\u0631\u06cc\u0627 \u0648\u06cc\u0644\u0627\u06cc\u062a"
+    ],
     "name:aze_x_preferred":[
         "Surxand\u0259rya vilay\u0259ti"
     ],
@@ -43,8 +46,14 @@
     "name:cat_x_preferred":[
         "Surjandarin"
     ],
+    "name:ceb_x_preferred":[
+        "Surxondaryo Viloyati"
+    ],
     "name:ces_x_preferred":[
         "Surchandarijsk\u00fd kraj"
+    ],
+    "name:crh_x_preferred":[
+        "Surhanderya vil\u00e2yeti"
     ],
     "name:dan_x_preferred":[
         "Surxondaryo Region"
@@ -57,6 +66,9 @@
     ],
     "name:eng_x_preferred":[
         "Surkhondaryo"
+    ],
+    "name:eng_x_variant":[
+        "Surxondaryo Region"
     ],
     "name:epo_x_preferred":[
         "Provinco Sur\u0125andarjo"
@@ -72,6 +84,9 @@
     ],
     "name:fra_x_preferred":[
         "province de Sourkhan-Daria"
+    ],
+    "name:fra_x_variant":[
+        "Sourkhan-Daria"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ab0\u0acd\u0a95\u0ab8\u0acb\u0a82\u0aa1\u0ab0\u0aaf\u0acb \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -108,6 +123,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc218\ub974\ud55c\ub2e4\ub9ac\uc57c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc218\ub974\ud55c\ub2e4\ub9ac\uc57c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Surhondarjas vilojats"
@@ -323,7 +341,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1561792199,
+    "wof:lastmodified":1563582257,
     "wof:name":"Surkhandarya",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

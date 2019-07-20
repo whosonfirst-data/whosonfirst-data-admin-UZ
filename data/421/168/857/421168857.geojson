@@ -17,11 +17,20 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0627\u0648\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Navoi"
+    ],
     "name:azb_x_preferred":[
         "\u0646\u0648\u0627\u06cc\u06cc"
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09ad\u09af\u09bc"
+    ],
+    "name:ceb_x_preferred":[
+        "Navoiy"
+    ],
+    "name:ces_x_preferred":[
+        "Navoiy"
     ],
     "name:ckb_x_preferred":[
         "\u0646\u06d5\u06a4\u0627\u06cc\u06cc"
@@ -44,6 +53,9 @@
     "name:fas_x_preferred":[
         "\u0646\u0648\u0627\u06cc\u06cc\u060c \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0646\u0648\u0627\u06cc\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Navoi"
     ],
@@ -55,6 +67,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0928\u0935\u094b\u0908"
+    ],
+    "name:hsb_x_preferred":[
+        "Navoiy"
     ],
     "name:hye_x_preferred":[
         "\u0546\u0561\u057e\u0578\u056b"
@@ -70,6 +85,9 @@
     ],
     "name:kaa_x_preferred":[
         "Naway\u0131"
+    ],
+    "name:kaa_x_variant":[
+        "Nawayi"
     ],
     "name:kan_x_preferred":[
         "\u0ca8\u0cb5\u0ccb\u0caf\u0cbf"
@@ -128,6 +146,9 @@
     "name:tam_x_preferred":[
         "\u0ba8\u0bbe\u0bb5\u0bca\u0baf\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041d\u04d9\u0432\u0430\u0438"
+    ],
     "name:tel_x_preferred":[
         "\u0c28\u0c35\u0c4b\u0c2f\u0c4d"
     ],
@@ -139,6 +160,9 @@
     ],
     "name:tur_x_preferred":[
         "Nevai"
+    ],
+    "name:tur_x_variant":[
+        "Navoiy"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0432\u043e\u0457"
@@ -301,7 +325,7 @@
         }
     ],
     "wof:id":421168857,
-    "wof:lastmodified":1561792255,
+    "wof:lastmodified":1563582844,
     "wof:name":"Navoi",
     "wof:parent_id":85680385,
     "wof:placetype":"locality",

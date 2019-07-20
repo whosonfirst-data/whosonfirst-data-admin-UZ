@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u062c\u064a\u0632\u0643"
     ],
+    "name:azb_x_preferred":[
+        "\u062c\u06cc\u0632\u06a9 \u0648\u06cc\u0644\u0627\u06cc\u062a"
+    ],
     "name:aze_x_preferred":[
         "Cizz\u0259x vilay\u0259ti"
     ],
@@ -40,6 +43,12 @@
     "name:bul_x_preferred":[
         "\u0414\u0436\u0438\u0437\u0430\u043a\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Jizzakh Province"
+    ],
+    "name:crh_x_preferred":[
+        "Cizah vil\u00e2yeti"
+    ],
     "name:dan_x_preferred":[
         "Jizzakh Region"
     ],
@@ -51,6 +60,9 @@
     ],
     "name:eng_x_preferred":[
         "Jizzakh"
+    ],
+    "name:eng_x_variant":[
+        "Jizzakh Region"
     ],
     "name:epo_x_preferred":[
         "Provinco \u011ciza\u0125o"
@@ -66,6 +78,9 @@
     ],
     "name:fra_x_preferred":[
         "province de Djizak"
+    ],
+    "name:fra_x_variant":[
+        "Djizak"
     ],
     "name:glg_x_preferred":[
         "Provincia de Jizzax"
@@ -99,6 +114,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc9c0\uc790\ud750 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc9c0\uc790\ud750\uc8fc"
     ],
     "name:lav_x_preferred":[
         "D\u017eizahas vilojats"
@@ -136,6 +154,9 @@
     "name:rus_x_preferred":[
         "\u0416\u0438\u0437\u0437\u0430\u0445\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
+    "name:rus_x_variant":[
+        "\u0414\u0436\u0438\u0437\u0430\u043a\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
     "name:sco_x_preferred":[
         "Jizzax Province"
     ],
@@ -153,6 +174,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0496\u0438\u0437\u0437\u0430\u0445 \u04e9\u043b\u043a\u04d9\u0441\u0435"
+    ],
+    "name:tat_x_variant":[
+        "\u0496\u0438\u0437\u0437\u04d9\u0445 \u04e9\u043b\u043a\u04d9\u0441\u0435"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c3f\u0c1c\u0c15\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -308,7 +332,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1561792199,
+    "wof:lastmodified":1563582251,
     "wof:name":"Jizzakh",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

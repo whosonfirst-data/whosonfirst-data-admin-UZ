@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0628\u0642\u0646\u062f"
+    ],
     "name:azb_x_preferred":[
         "\u0648\u0627\u0628\u06a9\u0646\u062f"
     ],
     "name:bul_x_preferred":[
         "\u0412\u0430\u0431\u043a\u0435\u043d\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Wobkent"
     ],
     "name:deu_x_preferred":[
         "Vobkent"
@@ -31,7 +37,13 @@
     "name:eng_x_preferred":[
         "Vabkent"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0628\u06a9\u0646\u062a"
+    ],
     "name:fra_x_preferred":[
+        "Vobkent"
+    ],
+    "name:hsb_x_preferred":[
         "Vobkent"
     ],
     "name:hun_x_preferred":[
@@ -60,6 +72,9 @@
     ],
     "name:spa_x_preferred":[
         "Vobkent"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u0431\u043a\u04d9\u043d\u0442"
     ],
     "name:tur_x_preferred":[
         "Vabkent"
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":1125820499,
-    "wof:lastmodified":1561792261,
+    "wof:lastmodified":1563582904,
     "wof:name":"Wobkent",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

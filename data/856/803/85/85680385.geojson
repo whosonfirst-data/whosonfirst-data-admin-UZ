@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0646\u0648\u0627\u0648\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0627\u06cc\u06cc \u0648\u06cc\u0644\u0627\u06cc\u062a"
+    ],
     "name:aze_x_preferred":[
         "N\u0259vai vilay\u0259ti"
     ],
@@ -43,6 +46,12 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Navoiy"
     ],
+    "name:ceb_x_preferred":[
+        "Navoiy Province"
+    ],
+    "name:crh_x_preferred":[
+        "Navoiy vil\u00e2yeti"
+    ],
     "name:dan_x_preferred":[
         "Navoiy Region"
     ],
@@ -54,6 +63,9 @@
     ],
     "name:eng_x_preferred":[
         "Nawoiy"
+    ],
+    "name:eng_x_variant":[
+        "Navoiy Region"
     ],
     "name:epo_x_preferred":[
         "Provinco Navojo"
@@ -69,6 +81,9 @@
     ],
     "name:fra_x_preferred":[
         "province de Navo\u00ef"
+    ],
+    "name:fra_x_variant":[
+        "Navo\u00ef"
     ],
     "name:glg_x_preferred":[
         "Provincia de Navoiy"
@@ -105,6 +120,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub098\ubcf4\uc774 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub098\ubcf4\uc774\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Navoji vilojats"
@@ -159,6 +177,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041d\u04d9\u0432\u0430\u0439\u0438 \u04e9\u043b\u043a\u04d9\u0441\u0435"
+    ],
+    "name:tat_x_variant":[
+        "\u041d\u04d9\u0432\u0430\u0438 \u04e9\u043b\u043a\u04d9\u0441\u0435"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c35\u0c4b\u0c2f\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -316,7 +337,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1561792200,
+    "wof:lastmodified":1563582259,
     "wof:name":"Navoi",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

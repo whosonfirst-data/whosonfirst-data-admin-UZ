@@ -16,11 +16,20 @@
     "name:azb_x_preferred":[
         "\u0686\u06cc\u0646\u0627\u0632"
     ],
+    "name:bul_x_preferred":[
+        "\u0427\u0438\u043d\u043e\u0437"
+    ],
+    "name:ceb_x_preferred":[
+        "Chinoz"
+    ],
     "name:eng_x_preferred":[
         "Chinaz"
     ],
     "name:fra_x_preferred":[
         "Chinaz"
+    ],
+    "name:hsb_x_preferred":[
+        "Chinoz"
     ],
     "name:ita_x_preferred":[
         "Chinaz"
@@ -48,6 +57,9 @@
     ],
     "name:spa_x_preferred":[
         "Chinoz"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u044b\u043d\u0430\u0437"
     ],
     "name:tur_x_preferred":[
         "\u00c7inaz"
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":421198747,
-    "wof:lastmodified":1561792258,
+    "wof:lastmodified":1563582869,
     "wof:name":"Chinaz",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

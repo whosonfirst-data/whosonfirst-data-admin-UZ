@@ -16,11 +16,17 @@
     "name:azb_x_preferred":[
         "\u0642\u0627\u0631\u0627\u0648\u0648\u0644 \u0628\u0627\u0632\u0627\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Qorovulbozor"
+    ],
     "name:eng_x_preferred":[
         "Karaulbazar"
     ],
     "name:fra_x_preferred":[
         "Karaulbazar"
+    ],
+    "name:hsb_x_preferred":[
+        "Qorovulbozor"
     ],
     "name:ita_x_preferred":[
         "Karaulbazar"
@@ -42,6 +48,9 @@
     ],
     "name:spa_x_preferred":[
         "Karaulbazar"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0432\u044b\u043b\u0431\u0430\u0437\u0430\u0440"
     ],
     "name:tur_x_preferred":[
         "Karaulpazar"
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":421192307,
-    "wof:lastmodified":1561792256,
+    "wof:lastmodified":1563582849,
     "wof:name":"Qorovulbozor",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

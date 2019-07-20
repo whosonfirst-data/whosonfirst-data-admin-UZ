@@ -16,8 +16,17 @@
     "name:afr_x_preferred":[
         "Chust"
     ],
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u0633\u062a"
+    ],
     "name:azb_x_preferred":[
         "\u0686\u0648\u0633\u062a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0427\u0443\u0441\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Chust Shahri"
     ],
     "name:ckb_x_preferred":[
         "\u0686\u0648\u0633\u062a"
@@ -37,10 +46,16 @@
     "name:fas_x_preferred":[
         "\u0686\u0648\u0633\u062a\u060c \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0686\u0648\u0633\u062a"
+    ],
     "name:fra_x_preferred":[
         "Tchoust"
     ],
     "name:fra_x_variant":[
+        "Chust"
+    ],
+    "name:hsb_x_preferred":[
         "Chust"
     ],
     "name:hye_x_preferred":[
@@ -67,6 +82,12 @@
     "name:nob_x_preferred":[
         "Chust"
     ],
+    "name:pan_x_preferred":[
+        "\u0a1a\u0a41\u0a38\u0a24"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0686\u064f\u0633\u062a"
+    ],
     "name:pol_x_preferred":[
         "Chust"
     ],
@@ -79,8 +100,14 @@
     "name:swe_x_preferred":[
         "Chust"
     ],
+    "name:tat_x_preferred":[
+        "\u0427\u0443\u0441\u0442"
+    ],
     "name:tgk_x_preferred":[
         "\u0427\u0443\u0441\u0442"
+    ],
+    "name:tgl_x_preferred":[
+        "Chust"
     ],
     "name:tur_x_preferred":[
         "\u00c7ust"
@@ -91,8 +118,14 @@
     "name:urd_x_preferred":[
         "\u0686\u0648\u0633\u062a\u060c \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u0686\u0648\u0633\u062a"
+    ],
     "name:uzb_x_preferred":[
         "Chust"
+    ],
+    "name:uzb_x_variant":[
+        "Chust shahri"
     ],
     "qs:gn_country":"UZ",
     "qs:gn_fcode":"PPL",
@@ -140,7 +173,7 @@
         }
     ],
     "wof:id":421205289,
-    "wof:lastmodified":1561792257,
+    "wof:lastmodified":1563582860,
     "wof:name":"Chust",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

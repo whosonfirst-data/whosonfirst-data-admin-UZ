@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Beshkent"
     ],
+    "name:hsb_x_preferred":[
+        "Beshkent"
+    ],
     "name:jpn_x_preferred":[
         "\u30d9\u30b7\u30e5\u30b1\u30f3\u30c8"
     ],
@@ -34,14 +37,23 @@
     "name:rus_x_preferred":[
         "\u0411\u0435\u0448\u043a\u0435\u043d\u0442"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0438\u0448\u043a\u04d9\u043d\u0442"
+    ],
     "name:tur_x_preferred":[
         "Be\u015fkent"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0448\u043a\u0435\u043d\u0442"
     ],
     "name:unk_x_variant":[
         "Bish-Kent"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0626\u0634\u0642\u0646\u062f\u060c \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u0626\u0634\u0642\u0646\u062f"
     ],
     "name:uzb_x_preferred":[
         "Beshkent"
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":421173671,
-    "wof:lastmodified":1561792258,
+    "wof:lastmodified":1563582868,
     "wof:name":"Beshkent",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

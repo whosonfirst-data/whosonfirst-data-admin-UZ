@@ -15,6 +15,9 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0427\u0430\u0440\u0445\u0456\u043d"
+    ],
     "name:eng_x_preferred":[
         "Charkhin"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890433653,
-    "wof:lastmodified":1561792260,
+    "wof:lastmodified":1563582899,
     "wof:name":"Charxin",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",
