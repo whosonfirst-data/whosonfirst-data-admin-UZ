@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0646\u0645\u0646\u063a\u0627\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0645\u0646\u0642\u0627\u0646 \u0648\u06cc\u0644\u0627\u06cc\u062a"
+    ],
     "name:aze_x_preferred":[
         "Namangan Vilay\u0259ti"
     ],
@@ -43,6 +46,12 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Namangan"
     ],
+    "name:ceb_x_preferred":[
+        "Namangan Province"
+    ],
+    "name:crh_x_preferred":[
+        "Namangan vil\u00e2yeti"
+    ],
     "name:dan_x_preferred":[
         "Namangan Region"
     ],
@@ -54,6 +63,9 @@
     ],
     "name:eng_x_preferred":[
         "Namangan"
+    ],
+    "name:eng_x_variant":[
+        "Namangan Region"
     ],
     "name:epo_x_preferred":[
         "Provinco Namangano"
@@ -69,6 +81,9 @@
     ],
     "name:fra_x_preferred":[
         "province de Namangan"
+    ],
+    "name:fra_x_variant":[
+        "Namangan"
     ],
     "name:glg_x_preferred":[
         "Provincia de Namangan"
@@ -102,6 +117,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub098\ub9dd\uac04 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub098\ub9dd\uac04\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Namanganas vilojats"
@@ -156,6 +174,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bbe\u0bae\u0b99\u0bcd\u0b95\u0ba9\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u04d9\u043c\u04d9\u043d\u0433\u04d9\u043d \u04e9\u043b\u043a\u04d9\u0441\u0435"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c2e\u0c02\u0c17\u0c3e\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -314,7 +335,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1561792197,
+    "wof:lastmodified":1563582245,
     "wof:name":"Namangan",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

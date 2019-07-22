@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Dustlik"
     ],
+    "name:hsb_x_preferred":[
+        "Do\u2018stlik"
+    ],
     "name:jpn_x_preferred":[
         "\u30c9\u30a5\u30b9\u30c8\u30ea\u30af"
     ],
@@ -39,8 +42,14 @@
     "name:spa_x_preferred":[
         "Dustlik"
     ],
+    "name:tat_x_preferred":[
+        "\u0414\u0443\u0441\u043b\u044b\u043a"
+    ],
     "name:tur_x_preferred":[
         "Dostluk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0441\u0442\u043b\u0456\u043a"
     ],
     "name:unk_x_variant":[
         "Dustlik"
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":890433739,
-    "wof:lastmodified":1561792260,
+    "wof:lastmodified":1563582898,
     "wof:name":"D\u016dstlik",
     "wof:parent_id":85680415,
     "wof:placetype":"locality",

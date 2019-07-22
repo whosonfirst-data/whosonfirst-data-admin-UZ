@@ -32,8 +32,14 @@
     "name:cat_x_preferred":[
         "Xahrisabz"
     ],
+    "name:ceb_x_preferred":[
+        "Shahrisabz"
+    ],
     "name:ces_x_preferred":[
         "\u0160achrizabz"
+    ],
+    "name:dan_x_preferred":[
+        "Shahrisabz"
     ],
     "name:deu_x_preferred":[
         "Shahrisabz"
@@ -59,11 +65,23 @@
     "name:heb_x_preferred":[
         "\u05e9\u05d0\u05d7\u05e8\u05d9\u05e1\u05d0\u05d1\u05d6"
     ],
+    "name:hin_x_preferred":[
+        "\u0936\u093c\u093e\u0939\u0940\u0930\u093f\u0938\u092c\u094d\u091c\u093c"
+    ],
     "name:hrv_x_preferred":[
         "\u0160ahrisabz"
     ],
+    "name:hsb_x_preferred":[
+        "Shahrisabz"
+    ],
+    "name:hun_x_preferred":[
+        "Shahrisabz"
+    ],
     "name:hye_x_preferred":[
         "\u0547\u0561\u0570\u0580\u056b\u057d\u0561\u0562\u0566"
+    ],
+    "name:ind_x_preferred":[
+        "Shahrisabz"
     ],
     "name:ita_x_preferred":[
         "Shahrisabz"
@@ -293,7 +311,7 @@
         }
     ],
     "wof:id":421197977,
-    "wof:lastmodified":1561792258,
+    "wof:lastmodified":1563582874,
     "wof:name":"Shakhrisabz",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

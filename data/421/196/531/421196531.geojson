@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0423\u0439\u0447\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Uychi"
+    ],
     "name:deu_x_preferred":[
         "Uychi"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421196531,
-    "wof:lastmodified":1561792258,
+    "wof:lastmodified":1563582871,
     "wof:name":"Uychi",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

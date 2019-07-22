@@ -24,6 +24,9 @@
     "name:fra_x_preferred":[
         "Chourtchi"
     ],
+    "name:hsb_x_preferred":[
+        "Sho\u2018rchi"
+    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e5\u30eb\u30c1"
     ],
@@ -42,6 +45,9 @@
     "name:spa_x_preferred":[
         "Sho`rchi"
     ],
+    "name:tat_x_preferred":[
+        "\u0428\u04af\u0440\u0447\u0435"
+    ],
     "name:tur_x_preferred":[
         "\u015eor\u00e7\u0131"
     ],
@@ -53,6 +59,9 @@
     ],
     "name:uzb_x_preferred":[
         "Sho\u2018rchi"
+    ],
+    "name:uzb_x_variant":[
+        "Sho\u02bbrchi"
     ],
     "qs:name":"Sho\u2019rchi",
     "qs:photos_9r":0,
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":890452373,
-    "wof:lastmodified":1561792260,
+    "wof:lastmodified":1563582892,
     "wof:name":"Sho\u2019rchi",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

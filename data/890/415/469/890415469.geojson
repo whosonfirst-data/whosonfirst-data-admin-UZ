@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Termez"
     ],
+    "name:ceb_x_preferred":[
+        "Tirmiz"
+    ],
     "name:dan_x_preferred":[
         "Termez"
     ],
@@ -76,8 +79,14 @@
     "name:heb_x_preferred":[
         "\u05d8\u05e8\u05de\u05d6"
     ],
+    "name:heb_x_variant":[
+        "\u05ea\u05e8\u05de\u05d6"
+    ],
     "name:hin_x_preferred":[
         "\u0924\u093f\u0930\u092e\u093f\u091c\u093c"
+    ],
+    "name:hsb_x_preferred":[
+        "Termiz"
     ],
     "name:hye_x_preferred":[
         "\u0539\u0565\u0580\u0574\u0565\u0566"
@@ -160,6 +169,9 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bc6\u0bb0\u0bcd\u0bae\u0bc6\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0438\u0440\u043c\u0435\u0437"
+    ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c46\u0c30\u0c4d\u0c2e\u0c40\u0c1c\u0c4d"
     ],
@@ -183,6 +195,9 @@
     ],
     "name:uzb_x_preferred":[
         "Tirmiz"
+    ],
+    "name:uzb_x_variant":[
+        "Termiz"
     ],
     "name:vie_x_preferred":[
         "Termez"
@@ -319,7 +334,7 @@
         }
     ],
     "wof:id":890415469,
-    "wof:lastmodified":1561792259,
+    "wof:lastmodified":1563582890,
     "wof:name":"Tirmiz",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

@@ -29,14 +29,29 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u062e\u0648\u0627\u0631\u0632\u0645"
     ],
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u0627\u0631\u0632\u0645 \u0648\u06cc\u0644\u0627\u06cc\u062a"
+    ],
     "name:aze_x_preferred":[
         "Xar\u0259zm vilay\u0259ti"
+    ],
+    "name:bak_x_preferred":[
+        "\u0425\u04d9\u0440\u04d9\u0437\u0435\u043c \u04e9\u043b\u043a\u04d9\u04bb\u0435"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u0440\u044d\u0437\u043c\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
     ],
     "name:ben_x_preferred":[
         "\u099c\u09cb\u09b0\u09be\u09ae \u0985\u099e\u09cd\u099a\u09b2"
     ],
     "name:bul_x_preferred":[
         "\u0425\u043e\u0440\u0435\u0437\u044a\u043c\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Xorazm Viloyati"
+    ],
+    "name:crh_x_preferred":[
+        "Horezm vil\u00e2yeti"
     ],
     "name:dan_x_preferred":[
         "Xorazm Region"
@@ -49,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Khorazm"
+    ],
+    "name:eng_x_variant":[
+        "Xorazm Region"
     ],
     "name:epo_x_preferred":[
         "Provinco \u0124orazmo"
@@ -64,6 +82,9 @@
     ],
     "name:fra_x_preferred":[
         "province de Khorezm"
+    ],
+    "name:fra_x_variant":[
+        "Khorezm"
     ],
     "name:glg_x_preferred":[
         "Provincia de Corasmia"
@@ -100,6 +121,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud638\ub808\uc998 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud638\ub808\uc998\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Horezmas vilojats"
@@ -310,7 +334,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1561792199,
+    "wof:lastmodified":1563582258,
     "wof:name":"Khorezm",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

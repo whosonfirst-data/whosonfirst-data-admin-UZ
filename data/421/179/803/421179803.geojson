@@ -16,10 +16,22 @@
     "name:azb_x_preferred":[
         "\u063a\u0648\u0632\u0627\u0631"
     ],
+    "name:bak_x_preferred":[
+        "\u0413\u0443\u0437\u0430\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "G'uzor"
+    ],
     "name:eng_x_preferred":[
         "G\u2018uzor"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u200c\u0627\u0648\u0632\u0631"
+    ],
     "name:fra_x_preferred":[
+        "G\u2018uzor"
+    ],
+    "name:hsb_x_preferred":[
         "G\u2018uzor"
     ],
     "name:ita_x_preferred":[
@@ -33,6 +45,9 @@
     ],
     "name:kor_x_preferred":[
         "\uad6c\uc790\ub974"
+    ],
+    "name:lit_x_preferred":[
+        "Guzaras"
     ],
     "name:nld_x_preferred":[
         "G\u2018uzor"
@@ -49,6 +64,9 @@
     "name:spa_x_preferred":[
         "G'uzor"
     ],
+    "name:tat_x_preferred":[
+        "\u0413\u04e9\u0437\u0430\u0440"
+    ],
     "name:tur_x_preferred":[
         "G\u00fczar"
     ],
@@ -61,8 +79,14 @@
     "name:urd_x_preferred":[
         "\u063a\u0648\u0632\u0627\u0631"
     ],
+    "name:urd_x_variant":[
+        "\u06af\u0630\u0627\u0631"
+    ],
     "name:uzb_x_preferred":[
         "G\u2018uzor"
+    ],
+    "name:uzb_x_variant":[
+        "G\u02bbuzor"
     ],
     "name:zho_x_preferred":[
         "\u53e4\u4f50\u723e"
@@ -112,7 +136,7 @@
         }
     ],
     "wof:id":421179803,
-    "wof:lastmodified":1561792259,
+    "wof:lastmodified":1563582882,
     "wof:name":"Guzar",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

@@ -21,11 +21,17 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0433\u0445\u0438\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Manghit"
+    ],
     "name:eng_x_preferred":[
         "Mang\u2018it"
     ],
     "name:fra_x_preferred":[
         "Manguit"
+    ],
+    "name:hsb_x_preferred":[
+        "Mang\u2018it"
     ],
     "name:kaa_x_preferred":[
         "Mang'it"
@@ -44,6 +50,9 @@
     ],
     "name:spa_x_preferred":[
         "Mang\u2018it"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u04a3\u0433\u044b\u0442"
     ],
     "name:tuk_x_preferred":[
         "M\u00e4ngit"
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":890430443,
-    "wof:lastmodified":1561792259,
+    "wof:lastmodified":1563582891,
     "wof:name":"Manghit",
     "wof:parent_id":85680381,
     "wof:placetype":"locality",

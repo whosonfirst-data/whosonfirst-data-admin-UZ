@@ -18,8 +18,14 @@
     "name:azb_x_preferred":[
         "\u0642\u06cc\u0632\u06cc\u0644\u200c\u062a\u067e\u0647"
     ],
+    "name:ceb_x_preferred":[
+        "Qiziltepa"
+    ],
     "name:eng_x_preferred":[
         "Kyzyltepa"
+    ],
+    "name:hsb_x_preferred":[
+        "Qiziltepa"
     ],
     "name:hun_x_preferred":[
         "Kiziltepa"
@@ -44,6 +50,9 @@
     ],
     "name:spa_x_preferred":[
         "Qiziltepa"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0442\u04af\u0431\u04d9"
     ],
     "name:tur_x_preferred":[
         "K\u0131z\u0131ltepe"
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":890443855,
-    "wof:lastmodified":1561792260,
+    "wof:lastmodified":1563582897,
     "wof:name":"Qiziltepa",
     "wof:parent_id":85680385,
     "wof:placetype":"locality",

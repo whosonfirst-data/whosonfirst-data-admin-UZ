@@ -18,6 +18,9 @@
     "name:azb_x_preferred":[
         "\u0642\u0648\u0634 \u06a9\u0624\u067e\u06cc\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Q\u016dshk\u016dpir"
+    ],
     "name:eng_x_preferred":[
         "Qo\u2018shko\u2018pir"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":890433737,
-    "wof:lastmodified":1561792260,
+    "wof:lastmodified":1563582898,
     "wof:name":"Q\u016dshk\u016dpir",
     "wof:parent_id":85680377,
     "wof:placetype":"locality",

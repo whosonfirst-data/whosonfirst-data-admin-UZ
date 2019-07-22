@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Yangi-Nishon"
     ],
+    "name:hsb_x_preferred":[
+        "Yangi Nishon"
+    ],
     "name:ita_x_preferred":[
         "Yangi-Nishon"
     ],
@@ -40,6 +43,9 @@
     "name:spa_x_preferred":[
         "Yangi-Nishon"
     ],
+    "name:tat_x_preferred":[
+        "\u042f\u04a3\u0430 \u041d\u0438\u0448\u0430\u043d"
+    ],
     "name:tur_x_preferred":[
         "Yeni Ni\u015fan"
     ],
@@ -51,6 +57,9 @@
     ],
     "name:uzb_x_preferred":[
         "Yangi Nishon"
+    ],
+    "name:uzb_x_variant":[
+        "Yangi nishon"
     ],
     "qs:gn_country":"UZ",
     "qs:gn_fcode":"PPL",
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":421192301,
-    "wof:lastmodified":1561792256,
+    "wof:lastmodified":1563582849,
     "wof:name":"Yangi Nishon",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

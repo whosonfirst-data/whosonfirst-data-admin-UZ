@@ -25,8 +25,14 @@
     "name:bul_x_preferred":[
         "\u042f\u043d\u0433\u0438\u0440\u0430\u0431\u043e\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Yangirabot"
+    ],
     "name:eng_x_preferred":[
         "Yangirabad"
+    ],
+    "name:hsb_x_preferred":[
+        "Yangirabod"
     ],
     "name:kik_x_preferred":[
         "Yangirabot"
@@ -40,8 +46,14 @@
     "name:rus_x_preferred":[
         "\u042f\u043d\u0433\u0438\u0440\u0430\u0431\u0430\u0442"
     ],
+    "name:snd_x_preferred":[
+        "\u064a\u0626\u0646\u06af\u064a \u0631\u0628\u0627\u0637"
+    ],
     "name:spa_x_preferred":[
         "Yanirobod"
+    ],
+    "name:tat_x_preferred":[
+        "\u042f\u04a3\u0430\u0440\u04d9\u0431\u0430\u0442"
     ],
     "name:tur_x_preferred":[
         "Yenirabat"
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":1125820489,
-    "wof:lastmodified":1561792261,
+    "wof:lastmodified":1563582903,
     "wof:name":"Yangirabot",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

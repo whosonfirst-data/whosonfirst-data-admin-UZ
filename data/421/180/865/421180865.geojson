@@ -19,10 +19,19 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0445\u0430\u043c\u0430\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Marhamat"
+    ],
     "name:deu_x_preferred":[
         "Marhamat"
     ],
     "name:eng_x_preferred":[
+        "Marhamat"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u062d\u0645\u062a"
+    ],
+    "name:hsb_x_preferred":[
         "Marhamat"
     ],
     "name:ita_x_preferred":[
@@ -54,6 +63,9 @@
     ],
     "name:spa_x_preferred":[
         "Marhamat"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u04d9\u0440\u0445\u04d9\u043c\u04d9\u0442"
     ],
     "name:tur_x_preferred":[
         "Merhamet"
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":421180865,
-    "wof:lastmodified":1561792257,
+    "wof:lastmodified":1563582865,
     "wof:name":"Marhamat",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u042f\u0439\u043f\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Yaypan"
+    ],
     "name:deu_x_preferred":[
         "Yaypan"
     ],
@@ -26,6 +32,9 @@
         "Yaypan"
     ],
     "name:fra_x_preferred":[
+        "Yaypan"
+    ],
+    "name:hsb_x_preferred":[
         "Yaypan"
     ],
     "name:kik_x_preferred":[
@@ -42,6 +51,9 @@
     ],
     "name:spa_x_preferred":[
         "Yaypan"
+    ],
+    "name:tat_x_preferred":[
+        "\u042f\u0439\u043f\u0430\u043d"
     ],
     "name:tur_x_preferred":[
         "Yaypan"
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1125820481,
-    "wof:lastmodified":1561792261,
+    "wof:lastmodified":1563582904,
     "wof:name":"Yaypan",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

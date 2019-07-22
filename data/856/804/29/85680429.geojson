@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0637\u0634\u0642\u0646\u062f"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0634\u06a9\u0646\u062f \u0648\u06cc\u0644\u0627\u06cc\u062a"
+    ],
     "name:aze_x_preferred":[
         "Da\u015fk\u0259nd vilay\u0259ti"
     ],
@@ -41,8 +44,17 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0448\u043a\u0435\u043d\u0442\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Toshkent Viloyati"
+    ],
+    "name:crh_x_preferred":[
+        "Ta\u015fkent vil\u00e2yeti"
+    ],
     "name:dan_x_preferred":[
         "Tashkent Region"
+    ],
+    "name:dan_x_variant":[
+        "Tashkent-regionen"
     ],
     "name:deu_x_preferred":[
         "Provinz Taschkent"
@@ -75,6 +87,9 @@
     ],
     "name:fra_x_preferred":[
         "province de Tachkent"
+    ],
+    "name:fra_x_variant":[
+        "Tachkent"
     ],
     "name:glg_x_preferred":[
         "Provincia de Tashkent"
@@ -111,6 +126,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud0c0\uc288\ucf04\ud2b8 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud0c0\uc288\ucf04\ud2b8\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Ta\u0161kentas vilojats"
@@ -165,6 +183,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bbe\u0bb7\u0bcd\u0b95\u0ba3\u0bcd\u0b9f\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0448\u043a\u04d9\u043d\u0442 \u04e9\u043b\u043a\u04d9\u0441\u0435"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c3e\u0c37\u0c4d\u0c15\u0c46\u0c02\u0c1f\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -326,7 +347,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1561792197,
+    "wof:lastmodified":1563582248,
     "wof:name":"Tashkent",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

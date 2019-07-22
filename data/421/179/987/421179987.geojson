@@ -14,11 +14,20 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u043b\u044b\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Olmaliq"
+    ],
     "name:ckb_x_preferred":[
         "\u0626\u0627\u0644\u0645\u0627\u0644\u06cc\u0642"
     ],
     "name:deu_x_preferred":[
         "Olmaliq"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03bc\u03b1\u03bb\u03af\u03ba"
     ],
     "name:eng_x_preferred":[
         "Olmaliq"
@@ -29,8 +38,20 @@
     "name:fas_x_preferred":[
         "\u0622\u0644\u0645\u0627\u0644\u06cc\u0642\u060c \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0622\u0644\u0645\u0627\u0644\u06cc\u0642"
+    ],
     "name:fra_x_preferred":[
         "Almalyk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05de\u05d0\u05dc\u05d9\u05e7"
+    ],
+    "name:hsb_x_preferred":[
+        "Olmaliq"
+    ],
+    "name:hun_x_preferred":[
+        "Olmalik"
     ],
     "name:hye_x_preferred":[
         "\u0531\u056c\u0574\u0561\u056c\u056b\u056f"
@@ -76,6 +97,9 @@
     ],
     "name:swe_x_preferred":[
         "Almalyk"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u043b\u044b\u043a"
     ],
     "name:tgk_x_preferred":[
         "\u041e\u043b\u043c\u0430\u043b\u0438\u049b"
@@ -246,7 +270,7 @@
         }
     ],
     "wof:id":421179987,
-    "wof:lastmodified":1561792259,
+    "wof:lastmodified":1563582883,
     "wof:name":"Olmaliq",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

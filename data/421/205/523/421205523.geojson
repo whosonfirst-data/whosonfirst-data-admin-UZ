@@ -16,13 +16,25 @@
     "name:azb_x_preferred":[
         "\u062c\u0648\u0645\u0647"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u0436\u0443\u043c\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Juma"
+    ],
     "name:eng_x_preferred":[
         "Juma"
     ],
     "name:fas_x_preferred":[
         "\u062c\u0645\u0639\u0647\u060c \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u062c\u0645\u0639\u0647"
+    ],
     "name:fra_x_preferred":[
+        "Juma"
+    ],
+    "name:hsb_x_preferred":[
         "Juma"
     ],
     "name:ita_x_preferred":[
@@ -30,6 +42,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e5\u30de"
+    ],
+    "name:lit_x_preferred":[
+        "D\u017euma"
     ],
     "name:nld_x_preferred":[
         "Juma"
@@ -40,8 +55,14 @@
     "name:rus_x_preferred":[
         "\u0414\u0436\u0443\u043c\u0430"
     ],
+    "name:tat_x_preferred":[
+        "\u0496\u043e\u043c\u0430"
+    ],
     "name:tur_x_preferred":[
         "Cuma"
+    ],
+    "name:tur_x_variant":[
+        "Juma"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0443\u043c\u0430"
@@ -51,6 +72,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0648\u0645\u06c1\u060c \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u062c\u0648\u0645\u06c1"
     ],
     "name:uzb_x_preferred":[
         "Juma"
@@ -106,7 +130,7 @@
         }
     ],
     "wof:id":421205523,
-    "wof:lastmodified":1561792257,
+    "wof:lastmodified":1563582862,
     "wof:name":"Dzhuma",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

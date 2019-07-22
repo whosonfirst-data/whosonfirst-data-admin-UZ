@@ -22,6 +22,9 @@
     "name:azb_x_preferred":[
         "\u06a9\u0626\u06af\u0626\u06cc\u0644\u06cc"
     ],
+    "name:ceb_x_preferred":[
+        "Kegeyli Shahar"
+    ],
     "name:eng_x_preferred":[
         "Kegeyli"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125785315,
-    "wof:lastmodified":1561792261,
+    "wof:lastmodified":1563582906,
     "wof:name":"Kegeyli Shahar",
     "wof:parent_id":85680381,
     "wof:placetype":"locality",

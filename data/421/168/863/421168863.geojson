@@ -35,6 +35,9 @@
     "name:cat_x_preferred":[
         "Djizak"
     ],
+    "name:ceb_x_preferred":[
+        "Jizzax"
+    ],
     "name:dan_x_preferred":[
         "Jizzakh"
     ],
@@ -68,8 +71,14 @@
     "name:heb_x_preferred":[
         "\u05d3\u05d6\u05d9\u05d6\u05e7"
     ],
+    "name:heb_x_variant":[
+        "\u05d3\u05d6'\u05d9\u05d6\u05e7"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u0940\u091c\u093c\u093e\u0915"
+    ],
+    "name:hsb_x_preferred":[
+        "Jizzax"
     ],
     "name:hye_x_preferred":[
         "\u054b\u056b\u0566\u0561\u056f"
@@ -154,6 +163,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0496\u0438\u0437\u0437\u0430\u0445"
+    ],
+    "name:tat_x_variant":[
+        "\u0496\u0438\u0437\u0437\u04d9\u0445"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c40\u0c1c\u0c4d\u0c06\u0c16\u0c4d"
@@ -327,7 +339,7 @@
         }
     ],
     "wof:id":421168863,
-    "wof:lastmodified":1561792256,
+    "wof:lastmodified":1563582848,
     "wof:name":"Jizzakh",
     "wof:parent_id":85680415,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "name:bul_x_preferred":[
         "\u0428\u043e\u0444\u0438\u0440\u043a\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Shofirkon"
+    ],
     "name:eng_x_preferred":[
         "Shafirkan"
+    ],
+    "name:hsb_x_preferred":[
+        "Shofirkon"
     ],
     "name:ita_x_preferred":[
         "Shofirkon"
@@ -45,6 +51,12 @@
     ],
     "name:spa_x_preferred":[
         "Shafirkan"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0430\u0444\u0438\u0440\u043a\u04d9\u043d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0428\u043e\u0444\u0438\u0440\u043a\u043e\u043c"
     ],
     "name:tur_x_preferred":[
         "\u015eafirkan"
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":1125820523,
-    "wof:lastmodified":1561792261,
+    "wof:lastmodified":1563582905,
     "wof:name":"Shofirkon",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

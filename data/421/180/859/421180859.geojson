@@ -25,6 +25,9 @@
     "name:fra_x_preferred":[
         "Buka"
     ],
+    "name:hsb_x_preferred":[
+        "Bo\u2018ka"
+    ],
     "name:jpn_x_preferred":[
         "\u30d6\u30ab"
     ],
@@ -43,8 +46,14 @@
     "name:pol_x_preferred":[
         "Buka"
     ],
+    "name:pol_x_variant":[
+        "Bo\u02bbka"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u043a\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u04af\u043a\u04d9"
     ],
     "name:tur_x_preferred":[
         "Buka"
@@ -54,6 +63,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u06a9\u06c1\u060c \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u0648\u06a9\u06c1"
     ],
     "name:uzb_x_preferred":[
         "Bo\u2018ka"
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":421180859,
-    "wof:lastmodified":1561792257,
+    "wof:lastmodified":1563582863,
     "wof:name":"Buka",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",
