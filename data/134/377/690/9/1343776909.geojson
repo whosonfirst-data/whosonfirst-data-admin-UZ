@@ -26,12 +26,18 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Yangikishlak"
+    ],
     "name:rus_x_preferred":[
         "\u042f\u043d\u0433\u0438\u043a\u0438\u0448\u043b\u0430\u043a"
     ],
     "name:und_x_variant":[
         "Karanchitugay",
         "Yangikishlak"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0646\u06af\u06a9\u0634\u0644\u06a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343776909,
-    "wof:lastmodified":1537713301,
+    "wof:lastmodified":1564286174,
     "wof:name":"Yangikishlak",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

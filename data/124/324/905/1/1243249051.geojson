@@ -25,6 +25,12 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Insar"
+    ],
+    "name:nor_x_preferred":[
+        "Insar"
+    ],
     "name:und_x_variant":[
         "Irsar",
         "\u0130nsar"
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1243249051,
-    "wof:lastmodified":1537713273,
+    "wof:lastmodified":1564286931,
     "wof:name":"Insar",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

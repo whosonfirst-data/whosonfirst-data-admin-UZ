@@ -25,8 +25,14 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0686\u200c\u06a9\u0648\u0644"
+    ],
     "name:rus_x_preferred":[
         "Uch-Kul\u2019"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0686-\u06a9\u0644"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1209929069,
-    "wof:lastmodified":1537713306,
+    "wof:lastmodified":1564286570,
     "wof:name":"Uch-Kul'",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

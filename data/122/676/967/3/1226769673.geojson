@@ -28,6 +28,18 @@
     "name:eng_x_preferred":[
         "Darcha"
     ],
+    "name:hin_x_preferred":[
+        "\u0926\u093e\u0930\u091a\u093e"
+    ],
+    "name:nep_x_preferred":[
+        "\u0926\u093e\u0930\u094d\u091a\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Darcha"
+    ],
+    "name:por_x_preferred":[
+        "Darcha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1226769673,
-    "wof:lastmodified":1537713402,
+    "wof:lastmodified":1564287175,
     "wof:name":"Darcha",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

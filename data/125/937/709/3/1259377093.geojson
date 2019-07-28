@@ -26,6 +26,24 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kuropatkino"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043a\u0430\u0432\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0584\u0561\u057e\u0561\u0571\u0578\u0580"
+    ],
+    "name:msa_x_preferred":[
+        "Kuropatkino"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u043e\u043f\u0430\u0442\u043a\u0438\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043a\u0430\u0432\u0430\u0434\u0437\u043e\u0440"
+    ],
     "name:und_x_variant":[
         "Kuropatkina",
         "Kuropatkino",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1259377093,
-    "wof:lastmodified":1537713258,
+    "wof:lastmodified":1564287015,
     "wof:name":"Kuropatkino",
     "wof:parent_id":85680415,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062c\u0627\u0646\u062f\u0627\u0631"
+    ],
+    "name:kik_x_preferred":[
+        "Jondor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u043e\u043d\u0434\u043e\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "Candar"
+    ],
     "name:und_x_variant":[
         "Sverdlovo",
         "Dzhandzhar",
@@ -35,6 +47,12 @@
         "Dzhandar",
         "Sverdlov",
         "Swerdlow",
+        "Jondor"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u0646\u062f\u0627\u0631"
+    ],
+    "name:uzb_x_preferred":[
         "Jondor"
     ],
     "src:geom":"geonames",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1309715125,
-    "wof:lastmodified":1537713233,
+    "wof:lastmodified":1564286846,
     "wof:name":"Jondor",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

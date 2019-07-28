@@ -26,6 +26,15 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bakan"
+    ],
+    "name:deu_x_preferred":[
+        "Bakan"
+    ],
+    "name:swe_x_preferred":[
+        "Bakan"
+    ],
     "name:und_x_variant":[
         "Taly",
         "Bakan"
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259493451,
-    "wof:lastmodified":1537713359,
+    "wof:lastmodified":1564287050,
     "wof:name":"Bakan",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

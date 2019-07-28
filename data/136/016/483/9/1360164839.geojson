@@ -26,12 +26,48 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u06cc\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Cherabad"
+    ],
+    "name:hsb_x_preferred":[
+        "Sherobod"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a7\u30e9\u30d0\u30fc\u30c9"
+    ],
+    "name:kik_x_preferred":[
+        "Sherobod"
+    ],
+    "name:pol_x_preferred":[
+        "Sherobod"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0435\u0440\u043e\u0431\u043e\u0434"
+    ],
+    "name:rus_x_variant":[
+        "\u0428\u0435\u0440\u0430\u0431\u0430\u0434"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0438\u0440\u0430\u0431\u0430\u0434"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eerabad"
     ],
     "name:und_x_variant":[
         "Sherabad",
         "Shirabad",
+        "Sherobod"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u06cc\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:uzb_x_preferred":[
         "Sherobod"
     ],
     "src:geom":"geonames",
@@ -56,7 +92,7 @@
         }
     ],
     "wof:id":1360164839,
-    "wof:lastmodified":1537713245,
+    "wof:lastmodified":1564286812,
     "wof:name":"Sherobod",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

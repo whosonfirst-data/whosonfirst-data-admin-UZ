@@ -25,6 +25,27 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chaka"
+    ],
+    "name:deu_x_preferred":[
+        "Chaka"
+    ],
+    "name:fra_x_preferred":[
+        "Chaka"
+    ],
+    "name:ita_x_preferred":[
+        "Chaka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30ab"
+    ],
+    "name:por_x_preferred":[
+        "Chaka"
+    ],
+    "name:swe_x_preferred":[
+        "Chaka"
+    ],
     "name:uzb_x_preferred":[
         "Chaka"
     ],
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1344158905,
-    "wof:lastmodified":1537713472,
+    "wof:lastmodified":1564286159,
     "wof:name":"Chaka",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

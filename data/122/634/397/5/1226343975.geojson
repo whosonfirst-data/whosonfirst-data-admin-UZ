@@ -25,6 +25,18 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yau"
+    ],
+    "name:deu_x_preferred":[
+        "Yau"
+    ],
+    "name:fra_x_preferred":[
+        "Yau"
+    ],
+    "name:swe_x_preferred":[
+        "Yau"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1226343975,
-    "wof:lastmodified":1536792328,
+    "wof:lastmodified":1564287134,
     "wof:name":"Yau",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

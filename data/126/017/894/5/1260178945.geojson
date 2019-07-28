@@ -28,6 +28,15 @@
     "name:eng_x_preferred":[
         "Elobod"
     ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u0430\u0431\u0430\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u0430\u0431\u0430\u0434"
+    ],
+    "name:uzb_x_preferred":[
+        "Elobod"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1260178945,
-    "wof:lastmodified":1537713401,
+    "wof:lastmodified":1564286691,
     "wof:name":"Elobod",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

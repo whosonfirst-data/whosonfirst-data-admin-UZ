@@ -25,8 +25,140 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0634\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0631\u0634\u06cc"
+    ],
+    "name:bak_x_preferred":[
+        "\u04a0\u0430\u0440\u0448\u044b"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u0448\u044b"
+    ],
+    "name:bos_x_preferred":[
+        "Qarshi"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u0448\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Qarshi"
+    ],
+    "name:ceb_x_preferred":[
+        "Qarshi"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u0440\u0448\u0438"
+    ],
+    "name:deu_x_preferred":[
+        "Qarshi"
+    ],
+    "name:epo_x_preferred":[
+        "Kar\u015dio"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u062e\u0634\u0628"
+    ],
+    "name:fin_x_preferred":[
+        "Qar\u0161i"
+    ],
+    "name:fra_x_preferred":[
+        "Karchi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05e9\u05d9"
+    ],
+    "name:hsb_x_preferred":[
+        "Qarshi"
+    ],
+    "name:hun_x_preferred":[
+        "Qarshi"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0580\u0577\u056b"
+    ],
+    "name:ind_x_preferred":[
+        "Qarshi"
+    ],
+    "name:ita_x_preferred":[
+        "Karshi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30b7"
+    ],
+    "name:kaa_x_preferred":[
+        "Qarshi"
+    ],
+    "name:kaz_x_preferred":[
+        "\u049a\u0430\u0440\u0441\u044b"
+    ],
+    "name:kik_x_preferred":[
+        "Qarshi"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0448\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ub974\uc2dc"
+    ],
+    "name:lit_x_preferred":[
+        "Kar\u0161is"
+    ],
+    "name:mon_x_preferred":[
+        "\u0425\u0430\u0440\u0448 \u0445\u043e\u0442"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0642\u0627\u0631\u0634\u06cc"
+    ],
+    "name:nld_x_preferred":[
+        "Qarshi"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a15\u0a3e\u0a30\u0a38\u0a3c\u0a40"
+    ],
+    "name:pol_x_preferred":[
+        "Karszy"
+    ],
+    "name:ron_x_preferred":[
+        "Kar\u0219i"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0448\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Qarshi"
+    ],
+    "name:spa_x_preferred":[
+        "Qarshi"
+    ],
+    "name:swe_x_preferred":[
+        "Karsji"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0440\u0448\u044b"
+    ],
+    "name:tur_x_preferred":[
+        "Kar\u015f\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0448\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0631\u0634\u06cc"
+    ],
     "name:uzb_x_preferred":[
         "Qarshi"
+    ],
+    "name:vep_x_preferred":[
+        "Kar\u0161i"
+    ],
+    "name:war_x_preferred":[
+        "Qarshi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u723e\u5e0c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +181,7 @@
         }
     ],
     "wof:id":1243343563,
-    "wof:lastmodified":1537713500,
+    "wof:lastmodified":1564286951,
     "wof:name":"Qarshi",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

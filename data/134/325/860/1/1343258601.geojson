@@ -25,6 +25,27 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Karatobe"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b1\u03c4\u03cc\u03bc\u03c0\u03b5"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d8\u05d5\u05d1\u05d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u049a\u0430\u0440\u0430\u0442\u04e9\u0431\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0442\u043e\u0431\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Karatobe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0442\u043e\u0431\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1343258601,
-    "wof:lastmodified":1537036031,
+    "wof:lastmodified":1564286192,
     "wof:name":"Karatobe",
     "wof:parent_id":85680381,
     "wof:placetype":"locality",

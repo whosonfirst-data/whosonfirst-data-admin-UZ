@@ -25,6 +25,12 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kiprich"
+    ],
+    "name:hat_x_preferred":[
+        "Kiprich"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1326807535,
-    "wof:lastmodified":1537081299,
+    "wof:lastmodified":1564286028,
     "wof:name":"Kiprich",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

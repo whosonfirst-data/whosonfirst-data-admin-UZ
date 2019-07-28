@@ -25,6 +25,12 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ckb_x_preferred":[
+        "\u0633\u0648\u06b5\u062a\u0627\u0646\u0627\u0628\u0627\u062f"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0637\u0627\u0646\u200c\u0622\u0628\u0627\u062f"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u043b\u0442\u0430\u043d\u0430\u0431\u0430\u0434"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1226557677,
-    "wof:lastmodified":1537713372,
+    "wof:lastmodified":1564287192,
     "wof:name":"Sultonobod",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yangiqo\u2018rg\u2018on"
+    ],
     "name:und_x_variant":[
         "Yangikurgan",
         "Yangiq\u016drghon"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1260081913,
-    "wof:lastmodified":1537713300,
+    "wof:lastmodified":1564286673,
     "wof:name":"Yangiqo`rg`on",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

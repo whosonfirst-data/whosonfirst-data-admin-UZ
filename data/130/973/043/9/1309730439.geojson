@@ -25,6 +25,12 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0531\u056f\u0569\u0565\u0583\u0565"
+    ],
+    "name:tur_x_preferred":[
+        "Aktepe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1309730439,
-    "wof:lastmodified":1537038086,
+    "wof:lastmodified":1564286856,
     "wof:name":"Aktepe",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

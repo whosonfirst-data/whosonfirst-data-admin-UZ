@@ -25,6 +25,12 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u1019\u1000\u103a\u1019\u1014\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u1062\u1075\u103a\u1087\u1019\u1004\u103a\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "name:und_x_variant":[
         "Modmon"
     ],
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1310487209,
-    "wof:lastmodified":1537713253,
+    "wof:lastmodified":1564286709,
     "wof:name":"Matman",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

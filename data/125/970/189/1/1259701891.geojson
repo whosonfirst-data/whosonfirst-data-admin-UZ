@@ -25,6 +25,18 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0628\u0627\u0644"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0628\u0627\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Dubal"
+    ],
+    "name:ind_x_preferred":[
+        "Dubal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1259701891,
-    "wof:lastmodified":1537038860,
+    "wof:lastmodified":1564287029,
     "wof:name":"Dubal",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

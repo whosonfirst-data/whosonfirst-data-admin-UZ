@@ -26,6 +26,21 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kum"
+    ],
+    "name:deu_x_preferred":[
+        "Kum"
+    ],
+    "name:hun_x_preferred":[
+        "Kum"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10db\u10d8"
+    ],
+    "name:swe_x_preferred":[
+        "Kum"
+    ],
     "name:und_x_variant":[
         "Kun"
     ],
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1259362447,
-    "wof:lastmodified":1537713327,
+    "wof:lastmodified":1564287003,
     "wof:name":"Kum",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

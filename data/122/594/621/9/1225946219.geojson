@@ -25,8 +25,26 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kandi"
+    ],
+    "name:deu_x_preferred":[
+        "Kandi"
+    ],
+    "name:fin_x_preferred":[
+        "Kandi"
+    ],
+    "name:fra_x_preferred":[
+        "Kandi"
+    ],
+    "name:hun_x_preferred":[
+        "Kandi"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0434\u044b"
+    ],
+    "name:swe_x_preferred":[
+        "Kandi"
     ],
     "name:und_x_variant":[
         "Kandy"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1225946219,
-    "wof:lastmodified":1537713416,
+    "wof:lastmodified":1564287092,
     "wof:name":"Kandi",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",
