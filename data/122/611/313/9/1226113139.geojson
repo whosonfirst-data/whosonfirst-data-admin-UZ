@@ -25,6 +25,33 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Abay"
+    ],
+    "name:deu_x_preferred":[
+        "Abay"
+    ],
+    "name:est_x_preferred":[
+        "Abai"
+    ],
+    "name:kaa_x_preferred":[
+        "Abay"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0431\u0430\u0439"
+    ],
+    "name:lit_x_preferred":[
+        "Abajus"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0430\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Abay"
+    ],
+    "name:swe_x_preferred":[
+        "Abay"
+    ],
     "name:uzb_x_preferred":[
         "Abay"
     ],
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1226113139,
-    "wof:lastmodified":1537713486,
+    "wof:lastmodified":1564287131,
     "wof:name":"Abay",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

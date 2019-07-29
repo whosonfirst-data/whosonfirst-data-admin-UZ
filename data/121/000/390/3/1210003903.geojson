@@ -30,6 +30,9 @@
         "Kakaydy",
         "Kakaydi"
     ],
+    "name:uzb_x_preferred":[
+        "Kakaydi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1210003903,
-    "wof:lastmodified":1537713271,
+    "wof:lastmodified":1564286623,
     "wof:name":"Kakaydi",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

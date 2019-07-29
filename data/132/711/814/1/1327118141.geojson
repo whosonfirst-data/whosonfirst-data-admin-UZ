@@ -26,8 +26,14 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0631\u0628\u0627\u0632\u0627\u0631"
+    ],
     "name:und_x_variant":[
         "Mirbazar",
+        "Mirbozor"
+    ],
+    "name:uzb_x_preferred":[
         "Mirbozor"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1327118141,
-    "wof:lastmodified":1537713254,
+    "wof:lastmodified":1564286131,
     "wof:name":"Mirbozor",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

@@ -25,7 +25,16 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Krasnogorsk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
+    ],
     "name:und_x_variant":[
+        "Krasnogorsk"
+    ],
+    "name:uzb_x_preferred":[
         "Krasnogorsk"
     ],
     "src:geom":"geonames",
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1310485297,
-    "wof:lastmodified":1537713329,
+    "wof:lastmodified":1564286708,
     "wof:name":"Krasnogorskiy",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

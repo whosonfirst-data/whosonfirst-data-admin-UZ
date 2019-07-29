@@ -25,6 +25,99 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u0627\u0645\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "\u015eaman"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u0430\u043c\u0430\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0430\u043c\u0430\u043d"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0411\u04e9\u04e9"
+    ],
+    "name:cat_x_preferred":[
+        "Xaman"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0430\u043c\u0430\u043d"
+    ],
+    "name:chv_x_preferred":[
+        "\u0428\u0430\u043c\u0430\u043d"
+    ],
+    "name:dan_x_preferred":[
+        "Shaman"
+    ],
+    "name:deu_x_preferred":[
+        "Schamane"
+    ],
+    "name:epo_x_preferred":[
+        "\u015camano"
+    ],
+    "name:est_x_preferred":[
+        "\u0160amaan"
+    ],
+    "name:fra_x_preferred":[
+        "Chaman"
+    ],
+    "name:fry_x_preferred":[
+        "Sjamaan"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160aman"
+    ],
+    "name:hun_x_preferred":[
+        "S\u00e1m\u00e1n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u7948\u7977\u5e2b"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u049b\u0441\u044b"
+    ],
+    "name:lav_x_preferred":[
+        "\u0160amanis"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160amanas"
+    ],
+    "name:nld_x_preferred":[
+        "Sjamaan"
+    ],
+    "name:nno_x_preferred":[
+        "Sjaman"
+    ],
+    "name:pdc_x_preferred":[
+        "Braucher"
+    ],
+    "name:pol_x_preferred":[
+        "Szaman"
+    ],
+    "name:por_x_preferred":[
+        "Xam\u00e3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043c\u0430\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "\u0160aman"
+    ],
+    "name:spa_x_preferred":[
+        "Cham\u00e1n"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0430\u043c\u0430\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eaman"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u043c\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +139,7 @@
         }
     ],
     "wof:id":1259959847,
-    "wof:lastmodified":1536669217,
+    "wof:lastmodified":1564287060,
     "wof:name":"Shaman",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

@@ -25,8 +25,17 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0647\u0627\u062f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0440\u0445\u0430\u0434"
+    ],
     "name:und_x_variant":[
         "Farkhad",
+        "Farhod"
+    ],
+    "name:uzb_x_preferred":[
         "Farhod"
     ],
     "src:geom":"geonames",
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1343930331,
-    "wof:lastmodified":1537713371,
+    "wof:lastmodified":1564286214,
     "wof:name":"Farhod",
     "wof:parent_id":85680419,
     "wof:placetype":"locality",

@@ -34,7 +34,8 @@
         "Hazratishoh"
     ],
     "name:uzb_x_variant":[
-        "Xazratishoh"
+        "Xazratishoh",
+        "Xazratishox"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1260308063,
-    "wof:lastmodified":1537713333,
+    "wof:lastmodified":1564286672,
     "wof:name":"Hazratishoh",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
         "Dzhenichke",
         "Ingichka"
     ],
+    "name:uzb_x_preferred":[
+        "Ingichka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1243077733,
-    "wof:lastmodified":1537713342,
+    "wof:lastmodified":1564286873,
     "wof:name":"Ingichka",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

@@ -25,7 +25,55 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u0631\u062d\u0645\u062a"
+    ],
+    "name:ceb_x_preferred":[
+        "Marhamat"
+    ],
+    "name:deu_x_preferred":[
+        "Marhamat"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u062d\u0645\u062a"
+    ],
+    "name:hsb_x_preferred":[
+        "Marhamat"
+    ],
+    "name:ita_x_preferred":[
+        "Marhamat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30cf\u30de\u30c8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u0440\u0445\u0430\u043c\u0430\u0442"
+    ],
+    "name:kik_x_preferred":[
+        "Marhamat"
+    ],
+    "name:lit_x_preferred":[
+        "Marhamatas"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0631\u062d\u0645\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Marhamat"
+    ],
     "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0445\u0430\u043c\u0430\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Marhamat"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u04d9\u0440\u0445\u04d9\u043c\u04d9\u0442"
+    ],
+    "name:tur_x_preferred":[
+        "Merhamet"
+    ],
+    "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0445\u0430\u043c\u0430\u0442"
     ],
     "name:und_x_variant":[
@@ -34,6 +82,12 @@
         "Russkoye Selo",
         "Markhamat Vtoroy",
         "Myan-Tyube",
+        "Marhamat"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0631\u062d\u0645\u062a"
+    ],
+    "name:uzb_x_preferred":[
         "Marhamat"
     ],
     "src:geom":"geonames",
@@ -58,7 +112,7 @@
         }
     ],
     "wof:id":1343872461,
-    "wof:lastmodified":1537713323,
+    "wof:lastmodified":1564286246,
     "wof:name":"Marhamat",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

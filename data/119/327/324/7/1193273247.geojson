@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Ittifoq"
     ],
+    "name:uzb_x_preferred":[
+        "Ittifoq"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1193273247,
-    "wof:lastmodified":1537713393,
+    "wof:lastmodified":1564286658,
     "wof:name":"Ittifoq",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

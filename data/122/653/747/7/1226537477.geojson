@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Koson"
     ],
+    "name:ita_x_preferred":[
+        "Koson"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1226537477,
-    "wof:lastmodified":1537713396,
+    "wof:lastmodified":1564287209,
     "wof:name":"Koson",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

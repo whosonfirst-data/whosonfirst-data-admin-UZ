@@ -28,7 +28,16 @@
     "name:eng_x_preferred":[
         "Chek"
     ],
+    "name:ita_x_preferred":[
+        "Chek"
+    ],
     "name:kir_x_preferred":[
+        "Chek"
+    ],
+    "name:nld_x_preferred":[
+        "Chek"
+    ],
+    "name:uzb_x_preferred":[
         "Chek"
     ],
     "src:geom":"geonames",
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1226160643,
-    "wof:lastmodified":1537713381,
+    "wof:lastmodified":1564287127,
     "wof:name":"Chek",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

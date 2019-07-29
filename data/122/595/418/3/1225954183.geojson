@@ -26,6 +26,12 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Khasi"
+    ],
+    "name:deu_x_preferred":[
+        "Khasi"
+    ],
     "name:und_x_variant":[
         "Khosa",
         "Khasy",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1225954183,
-    "wof:lastmodified":1537713265,
+    "wof:lastmodified":1564287103,
     "wof:name":"Khasi",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

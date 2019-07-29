@@ -25,9 +25,21 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Buston"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0441\u0442\u043e\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0441\u0442\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "Bustan",
         "B\u016dston"
+    ],
+    "name:uzb_x_preferred":[
+        "Bo\u02bbston"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1327117843,
-    "wof:lastmodified":1537713372,
+    "wof:lastmodified":1564286130,
     "wof:name":"Buston",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

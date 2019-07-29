@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Ingichka"
     ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0433\u0438\u0447\u043a\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Ingichka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1360177217,
-    "wof:lastmodified":1537713386,
+    "wof:lastmodified":1564286819,
     "wof:name":"Ingichka",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

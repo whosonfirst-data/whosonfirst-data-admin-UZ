@@ -25,9 +25,39 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hsb_x_preferred":[
+        "Baxt"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30d5\u30c8"
+    ],
+    "name:kik_x_preferred":[
+        "Baxt"
+    ],
+    "name:lit_x_preferred":[
+        "Bachtas"
+    ],
+    "name:pol_x_preferred":[
+        "Baxt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0445\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Bajt"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u04d9\u0445\u0435\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0445\u0442"
+    ],
     "name:und_x_variant":[
         "Velikoalekseyevskiy",
         "Bakht"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u062e\u062a"
     ],
     "name:uzb_x_preferred":[
         "Baxt"
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1309775653,
-    "wof:lastmodified":1537713359,
+    "wof:lastmodified":1564286840,
     "wof:name":"Baxt",
     "wof:parent_id":85680419,
     "wof:placetype":"locality",

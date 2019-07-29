@@ -26,6 +26,21 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015euraabad"
+    ],
+    "name:ceb_x_preferred":[
+        "Shurabad"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10e3\u10e0\u10d0\u10d0\u10d1\u10d0\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u015euraabad"
+    ],
+    "name:swe_x_preferred":[
+        "Shurabad"
+    ],
     "name:und_x_variant":[
         "Shor-Abad",
         "Shurabad"
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1226157589,
-    "wof:lastmodified":1537713311,
+    "wof:lastmodified":1564287184,
     "wof:name":"Shurabad",
     "wof:parent_id":85680385,
     "wof:placetype":"locality",

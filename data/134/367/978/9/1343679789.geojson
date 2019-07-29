@@ -25,10 +25,37 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Oqoltin"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03ba\u03bf\u03bb\u03c4\u03af\u03bd"
+    ],
+    "name:kik_x_preferred":[
+        "Oqoltin"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0622\u06a9\u0648\u0644\u062a\u06cc\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0430\u043b\u0442\u044b\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Akalt\u0131n"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043a\u0430\u043b\u0442\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "Akaltyn",
         "Oqoltin",
         "Komsomolabad"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0642\u0648\u0644\u062a\u06cc\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Oqoltin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1343679789,
-    "wof:lastmodified":1537713365,
+    "wof:lastmodified":1564286211,
     "wof:name":"Oqoltin",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

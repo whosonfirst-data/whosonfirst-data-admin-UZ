@@ -30,6 +30,9 @@
         "Kyzylcha",
         "Qizilcha"
     ],
+    "name:uzb_x_preferred":[
+        "Qizilcha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1226128115,
-    "wof:lastmodified":1537713257,
+    "wof:lastmodified":1564287181,
     "wof:name":"Qizilcha",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

@@ -25,8 +25,74 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0626\u0646\u0627\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Denov"
+    ],
+    "name:ceb_x_preferred":[
+        "Denov"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u06ce\u0646\u06c6\u06a4"
+    ],
+    "name:deu_x_preferred":[
+        "Denov"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u200c\u0646\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Denov"
+    ],
+    "name:hsb_x_preferred":[
+        "Denov"
+    ],
+    "name:ita_x_preferred":[
+        "Denov"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30ca\u30a6"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0435\u043d\u0430\u0443"
+    ],
+    "name:kik_x_preferred":[
+        "Denov"
+    ],
+    "name:lit_x_preferred":[
+        "Denau"
+    ],
+    "name:pol_x_preferred":[
+        "Denov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043d\u0430\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Denov"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0438\u043d\u04d9\u04af"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0414\u0435\u04b3\u043d\u0430\u0432"
+    ],
+    "name:tur_x_preferred":[
+        "Denau"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043d\u0430\u0443"
+    ],
     "name:und_x_variant":[
         "Dinau"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0626\u0646\u0627\u0648"
+    ],
+    "name:uzb_x_preferred":[
+        "Denov"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +115,7 @@
         }
     ],
     "wof:id":1310290589,
-    "wof:lastmodified":1537713278,
+    "wof:lastmodified":1564286752,
     "wof:name":"Denov",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

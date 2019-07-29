@@ -25,6 +25,15 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kara-Bulak"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Kara-Bulak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1310223471,
-    "wof:lastmodified":1536825382,
+    "wof:lastmodified":1564286711,
     "wof:name":"Kara-Bulak",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

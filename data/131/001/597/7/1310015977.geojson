@@ -25,6 +25,30 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Nazar"
+    ],
+    "name:ceb_x_preferred":[
+        "Nazar"
+    ],
+    "name:deu_x_preferred":[
+        "Nazar"
+    ],
+    "name:nld_x_preferred":[
+        "Nazar"
+    ],
+    "name:pol_x_preferred":[
+        "Nazar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0441\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Nazar"
+    ],
+    "name:swe_x_preferred":[
+        "Nazar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +70,7 @@
         }
     ],
     "wof:id":1310015977,
-    "wof:lastmodified":1536626253,
+    "wof:lastmodified":1564286734,
     "wof:name":"Nazar",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

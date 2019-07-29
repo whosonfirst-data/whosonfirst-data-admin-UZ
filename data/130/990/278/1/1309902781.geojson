@@ -25,13 +25,40 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06cc\u0626\u06a9\u06a9\u0647\u200c\u0628\u0627\u063a"
+    ],
+    "name:hsb_x_preferred":[
+        "Yakkabog\u2018"
+    ],
+    "name:kik_x_preferred":[
+        "Yakkabog\u02bb"
+    ],
+    "name:pol_x_preferred":[
+        "Yakkabog\u02bb"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043a\u043a\u0430\u0431\u0430\u0433"
+    ],
+    "name:tat_x_preferred":[
+        "\u042f\u043a\u043a\u04d9\u0431\u0430\u0433"
+    ],
+    "name:tur_x_preferred":[
+        "Yakkaba\u011f"
+    ],
     "name:und_x_variant":[
         "Yakkabag",
         "Yakkabogh",
         "Stantsiya Yakkabag"
     ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0626\u06a9\u06c1 \u0628\u0627\u063a"
+    ],
     "name:uzb_x_preferred":[
         "Yakkabog\u2018"
+    ],
+    "name:uzb_x_variant":[
+        "Yakkabog\u02bb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1309902781,
-    "wof:lastmodified":1537713243,
+    "wof:lastmodified":1564286837,
     "wof:name":"Yakkabog`",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

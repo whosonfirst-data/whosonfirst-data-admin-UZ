@@ -31,6 +31,9 @@
         "Akkula",
         "Oqqula"
     ],
+    "name:urd_x_preferred":[
+        "\u0622\u0642 \u0642\u0648\u0644"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632645
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209336013,
-    "wof:lastmodified":1537713364,
+    "wof:lastmodified":1564286589,
     "wof:name":"Oqqula",
     "wof:parent_id":85632645,
     "wof:placetype":"locality",

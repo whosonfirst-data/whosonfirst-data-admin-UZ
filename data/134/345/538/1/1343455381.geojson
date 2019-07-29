@@ -29,6 +29,9 @@
         "Koshrabad",
         "Qizilcha"
     ],
+    "name:uzb_x_preferred":[
+        "Qizilcha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1343455381,
-    "wof:lastmodified":1537713367,
+    "wof:lastmodified":1564286242,
     "wof:name":"Qizilcha",
     "wof:parent_id":85680385,
     "wof:placetype":"locality",

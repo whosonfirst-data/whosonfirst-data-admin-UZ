@@ -25,6 +25,18 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vatan"
+    ],
+    "name:por_x_preferred":[
+        "Vatan"
+    ],
+    "name:rus_x_preferred":[
+        "Vatan"
+    ],
+    "name:spa_x_preferred":[
+        "Vatan"
+    ],
     "name:uzb_x_preferred":[
         "Vatan"
     ],
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1309683209,
-    "wof:lastmodified":1537713485,
+    "wof:lastmodified":1564286849,
     "wof:name":"Vatan",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

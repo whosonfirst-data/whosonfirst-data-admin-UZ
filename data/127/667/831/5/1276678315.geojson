@@ -26,6 +26,18 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ayman"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u30de\u30f3"
+    ],
+    "name:pol_x_preferred":[
+        "Ayman"
+    ],
+    "name:swe_x_preferred":[
+        "Ayman"
+    ],
     "name:und_x_variant":[
         "Aymak",
         "Ayman"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1276678315,
-    "wof:lastmodified":1537713287,
+    "wof:lastmodified":1564286443,
     "wof:name":"Ayman",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

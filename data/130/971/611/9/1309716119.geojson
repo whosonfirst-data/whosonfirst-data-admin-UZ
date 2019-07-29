@@ -25,8 +25,26 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tait"
+    ],
+    "name:fra_x_preferred":[
+        "Tait"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a4\u30c8"
+    ],
+    "name:pol_x_preferred":[
+        "Tait"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0438\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Tait"
+    ],
+    "name:swe_x_preferred":[
+        "Tait"
     ],
     "name:uzb_x_preferred":[
         "Tait"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1309716119,
-    "wof:lastmodified":1537713407,
+    "wof:lastmodified":1564286846,
     "wof:name":"Tait",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

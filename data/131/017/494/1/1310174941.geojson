@@ -25,6 +25,21 @@
     "iso:country":"UZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nayman"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u0430\u0439\u043c\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0439\u043c\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Nayman"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0439\u043c\u0430\u043d"
+    ],
     "name:uzb_x_preferred":[
         "Nayman"
     ],
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1310174941,
-    "wof:lastmodified":1537713492,
+    "wof:lastmodified":1564286753,
     "wof:name":"Nayman",
     "wof:parent_id":85680419,
     "wof:placetype":"locality",
