@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FA"
+    ],
     "lbl:latitude":40.482009,
     "lbl:longitude":71.534556,
     "mps:latitude":40.482009,
@@ -337,16 +340,13 @@
         }
     ],
     "wof:id":85680407,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "uzb"
     ],
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1563582249,
+    "wof:lastmodified":1565738640,
     "wof:name":"Ferghana",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

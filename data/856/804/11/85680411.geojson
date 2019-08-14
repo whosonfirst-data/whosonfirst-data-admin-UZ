@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NG"
+    ],
     "lbl:latitude":40.899095,
     "lbl:longitude":71.324063,
     "mps:latitude":40.899095,
@@ -326,16 +329,13 @@
         }
     ],
     "wof:id":85680411,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "uzb"
     ],
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1563582245,
+    "wof:lastmodified":1565738639,
     "wof:name":"Namangan",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

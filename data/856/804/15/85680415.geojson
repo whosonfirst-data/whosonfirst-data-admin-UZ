@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JI"
+    ],
     "lbl:latitude":40.485745,
     "lbl:longitude":67.558031,
     "mps:latitude":40.485745,
@@ -323,16 +326,13 @@
         }
     ],
     "wof:id":85680415,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "uzb"
     ],
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1563582251,
+    "wof:lastmodified":1565738640,
     "wof:name":"Jizzakh",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

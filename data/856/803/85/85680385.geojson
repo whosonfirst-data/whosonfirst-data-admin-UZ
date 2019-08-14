@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NW"
+    ],
     "lbl:latitude":42.238123,
     "lbl:longitude":64.531193,
     "mps:latitude":42.238123,
@@ -328,16 +331,13 @@
         }
     ],
     "wof:id":85680385,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "uzb"
     ],
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1563582259,
+    "wof:lastmodified":1565738640,
     "wof:name":"Navoi",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "lbl:latitude":39.819905,
     "lbl:longitude":66.480798,
     "mps:latitude":39.819905,
@@ -328,16 +331,13 @@
         }
     ],
     "wof:id":85680389,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "uzb"
     ],
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1563582255,
+    "wof:lastmodified":1565738640,
     "wof:name":"Samarkand",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

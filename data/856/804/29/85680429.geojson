@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "independent city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TK"
+    ],
     "lbl:latitude":41.31952,
     "lbl:longitude":69.246988,
     "mps:latitude":41.31952,
@@ -338,16 +341,13 @@
         }
     ],
     "wof:id":85680429,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "uzb"
     ],
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1563582248,
+    "wof:lastmodified":1565738639,
     "wof:name":"Tashkent",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

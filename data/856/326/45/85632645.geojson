@@ -15,6 +15,9 @@
     "itu:country_code":[
         "998"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UZ"
+    ],
     "lbl:latitude":41.726948,
     "lbl:longitude":63.960684,
     "mps:latitude":41.726948,
@@ -1047,16 +1050,13 @@
         }
     ],
     "wof:id":85632645,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "uzb"
     ],
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1563582263,
+    "wof:lastmodified":1565738641,
     "wof:name":"Uzbekistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QA"
+    ],
     "lbl:latitude":38.76017,
     "lbl:longitude":66.233129,
     "mps:latitude":38.76017,
@@ -325,16 +328,13 @@
         }
     ],
     "wof:id":85680395,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "uzb"
     ],
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1563582254,
+    "wof:lastmodified":1565738640,
     "wof:name":"Kashkadarya",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

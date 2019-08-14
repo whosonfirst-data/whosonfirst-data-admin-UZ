@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "autonomous republic"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QR"
+    ],
     "lbl:latitude":44.098227,
     "lbl:longitude":58.493011,
     "mps:latitude":44.098227,
@@ -390,16 +393,13 @@
         }
     ],
     "wof:id":85680381,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "uzb"
     ],
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1563582257,
+    "wof:lastmodified":1565738640,
     "wof:name":"Karakalpakstan",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

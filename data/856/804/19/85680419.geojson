@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SI"
+    ],
     "lbl:latitude":40.465531,
     "lbl:longitude":68.821288,
     "mps:latitude":40.465531,
@@ -317,16 +320,13 @@
         }
     ],
     "wof:id":85680419,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "uzb"
     ],
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1563582249,
+    "wof:lastmodified":1565738640,
     "wof:name":"Sirdaryo",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

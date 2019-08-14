@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KH"
+    ],
     "lbl:latitude":41.521966,
     "lbl:longitude":60.506699,
     "mps:latitude":41.521966,
@@ -325,16 +328,13 @@
         }
     ],
     "wof:id":85680377,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "uzb"
     ],
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1563582258,
+    "wof:lastmodified":1565738640,
     "wof:name":"Khorezm",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AN"
+    ],
     "lbl:latitude":40.806765,
     "lbl:longitude":72.332055,
     "mps:latitude":40.806765,
@@ -339,16 +342,13 @@
         }
     ],
     "wof:id":85680401,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "uzb"
     ],
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1563582250,
+    "wof:lastmodified":1565738640,
     "wof:name":"Andijon",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SU"
+    ],
     "lbl:latitude":37.95779,
     "lbl:longitude":67.472554,
     "mps:latitude":37.95779,
@@ -332,16 +335,13 @@
         }
     ],
     "wof:id":85680397,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "uzb"
     ],
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1563582257,
+    "wof:lastmodified":1565738640,
     "wof:name":"Surkhandarya",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

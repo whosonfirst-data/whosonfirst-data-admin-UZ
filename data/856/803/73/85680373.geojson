@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BU"
+    ],
     "lbl:latitude":40.012587,
     "lbl:longitude":63.875724,
     "mps:latitude":40.012587,
@@ -339,16 +342,13 @@
         }
     ],
     "wof:id":85680373,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "uzb"
     ],
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1563582256,
+    "wof:lastmodified":1565738640,
     "wof:name":"Bukhoro",
     "wof:parent_id":85632645,
     "wof:placetype":"region",
