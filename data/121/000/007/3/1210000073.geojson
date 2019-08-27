@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"69.09667,40.9975,69.13667,41.0375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Kul\u2019dzhapskent"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1210000073,
-    "wof:lastmodified":1537713328,
+    "wof:lastmodified":1566643634,
     "wof:name":"Kul'dzhapskent",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

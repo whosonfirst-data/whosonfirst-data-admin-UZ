@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"70.54286,40.44512,70.58286,40.48512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0686\u06cc\u0645\u0628\u0627\u06cc"
     ],
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":1310306721,
-    "wof:lastmodified":1564286728,
+    "wof:lastmodified":1566643717,
     "wof:name":"Chimboy",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

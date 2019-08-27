@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.72234,40.79955,72.76234,40.83955",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0410\u0438\u043c"
     ],
@@ -32,8 +36,7 @@
         "\u0410\u0457\u043c"
     ],
     "name:und_x_variant":[
-        "Aim",
-        "Oyim"
+        "Aim"
     ],
     "name:uzb_x_preferred":[
         "Oyim"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1260288597,
-    "wof:lastmodified":1564286693,
+    "wof:lastmodified":1566643691,
     "wof:name":"Oyim",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

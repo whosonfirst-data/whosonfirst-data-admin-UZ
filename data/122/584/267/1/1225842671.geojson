@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"70.87912,40.78189,70.91912,40.82189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Paxtaqaynar"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1225842671,
-    "wof:lastmodified":1537713390,
+    "wof:lastmodified":1566644078,
     "wof:name":"Paxtaqaynar",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

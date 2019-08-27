@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.5837,40.82889,72.6237,40.86889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0421\u0435\u0440\u0433\u043e-\u0422\u0435\u0448\u0438\u043a\u0442\u0430\u0448"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276237937,
-    "wof:lastmodified":1537713440,
+    "wof:lastmodified":1566643520,
     "wof:name":"Teshiktosh",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

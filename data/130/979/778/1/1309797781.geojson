@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"65.43429,41.49984,65.47429,41.53984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1309797781,
-    "wof:lastmodified":1536943201,
+    "wof:lastmodified":1566643805,
     "wof:name":"Bolquduq",
     "wof:parent_id":85680385,
     "wof:placetype":"locality",

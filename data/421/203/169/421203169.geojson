@@ -10,6 +10,9 @@
     "geom:latitude":40.78206,
     "geom:longitude":72.34424,
     "iso:country":"UZ",
+    "lbl:bbox":"72.32424,40.76206,72.36424,40.80206",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.1,
@@ -237,9 +240,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0434\u0438\u0436\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Andizhan"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0646\u062f\u06cc\u062c\u0627\u0646"
     ],
@@ -386,7 +386,7 @@
     "wof:concordances":{
         "gn:id":1514588,
         "gp:id":2272526,
-        "qs:id":229345,
+        "qs_pg:id":229345,
         "wd:id":"Q487656",
         "wk:page":"Andijan"
     },
@@ -402,7 +402,7 @@
         }
     ],
     "wof:id":421203169,
-    "wof:lastmodified":1563582859,
+    "wof:lastmodified":1566643826,
     "wof:name":"Andijon",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

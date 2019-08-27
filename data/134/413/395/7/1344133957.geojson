@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"67.80168,38.74376,67.84168,38.78376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Zombog\u2018"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1344133957,
-    "wof:lastmodified":1537713500,
+    "wof:lastmodified":1566643279,
     "wof:name":"Zombog`",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

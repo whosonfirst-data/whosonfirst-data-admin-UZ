@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"69.26167,40.38194,69.30167,40.42194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dal\u2019verzin Pervyy",
         "Dal\u2019varzin"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259366443,
-    "wof:lastmodified":1537713351,
+    "wof:lastmodified":1566643939,
     "wof:name":"Dal'varzin",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

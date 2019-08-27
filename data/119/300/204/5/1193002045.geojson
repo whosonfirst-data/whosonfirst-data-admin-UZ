@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"67.21861,39.95167,67.25861,39.99167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bazar-Dzhoy",
         "Kipchaksu",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193002045,
-    "wof:lastmodified":1537713285,
+    "wof:lastmodified":1566643644,
     "wof:name":"Bazardzhay",
     "wof:parent_id":85680415,
     "wof:placetype":"locality",

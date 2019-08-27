@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11395039.401038,
+    "geom:area_square_m":0.0,
     "geom:bbox":"69.213181,41.303011,69.213181,41.303011",
     "geom:latitude":41.303011,
     "geom:longitude":69.213181,
     "gn:latitude":40.92278,
     "gn:longitude":69.26611,
     "iso:country":"UZ",
+    "lbl:bbox":"69.208181,41.298011,69.218181,41.308011",
     "lbl:latitude":41.303011,
     "lbl:longitude":69.213181,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.319075,
     "mps:longitude":69.224409,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Ak-Tepe",
         "Ak-Tepinski",
         "Ak-Tyube"
-    ],
-    "name:unk_x_variant":[
-        "Aktepa"
     ],
     "qs:gn_adm0_cc":"UZ",
     "qs:gn_id":0,
@@ -63,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632645,
@@ -90,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936093,
+    "wof:lastmodified":1566643357,
     "wof:name":"Aktepa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

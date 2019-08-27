@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"67.94631,38.43448,67.98631,38.47448",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sakkizinchi Mart"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276203327,
-    "wof:lastmodified":1537713501,
+    "wof:lastmodified":1566643491,
     "wof:name":"8 Mart",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

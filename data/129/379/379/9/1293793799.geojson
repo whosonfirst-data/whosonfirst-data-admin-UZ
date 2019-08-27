@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"67.66333,38.19667,67.70333,38.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Bol\u2019shoy Ob-Shir"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293793799,
-    "wof:lastmodified":1537713284,
+    "wof:lastmodified":1566643384,
     "wof:name":"Bol'shoy Ob-Shir",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

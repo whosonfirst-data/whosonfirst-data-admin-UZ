@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"68.82139,40.19583,68.86139,40.23583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kik_x_preferred":[
         "Xovos"
     ],
@@ -43,8 +47,7 @@
     ],
     "name:und_x_variant":[
         "Ursat\u2019yevskaya",
-        "Ursat\u2019yevskiy",
-        "Khavast"
+        "Ursat\u2019yevskiy"
     ],
     "name:urd_x_preferred":[
         "\u062e\u0648\u0648\u0633\u062a"
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1259656241,
-    "wof:lastmodified":1564287008,
+    "wof:lastmodified":1566643944,
     "wof:name":"Xovos",
     "wof:parent_id":85680419,
     "wof:placetype":"locality",

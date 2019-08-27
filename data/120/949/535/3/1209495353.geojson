@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"67.12444,38.38167,67.16444,38.42167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kizyl-Naur",
         "Kyzylnaur"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209495353,
-    "wof:lastmodified":1537713256,
+    "wof:lastmodified":1566643584,
     "wof:name":"Qizilnavur",
     "wof:parent_id":85632645,
     "wof:placetype":"locality",

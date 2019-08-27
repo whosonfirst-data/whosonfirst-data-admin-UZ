@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.81847,40.28408,71.85847,40.32408",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aval\u2019",
         "Auval\u2019",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310113207,
-    "wof:lastmodified":1537713360,
+    "wof:lastmodified":1566643733,
     "wof:name":"Avval",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

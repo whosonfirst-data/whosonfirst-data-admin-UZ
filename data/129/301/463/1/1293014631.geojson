@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.24952,40.78411,72.28952,40.82411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0421\u0443\u044e\u043b\u0434\u0443\u0437"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293014631,
-    "wof:lastmodified":1537713420,
+    "wof:lastmodified":1566643373,
     "wof:name":"Suvyulduz",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

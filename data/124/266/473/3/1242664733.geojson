@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"67.51179,38.2716,67.55179,38.3116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0425\u0430\u0443\u0437"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242664733,
-    "wof:lastmodified":1564286911,
+    "wof:lastmodified":1566643871,
     "wof:name":"Khauz",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

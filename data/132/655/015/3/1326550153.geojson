@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"66.11506,39.28036,66.15506,39.32036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sho\u2018rbozor",
         "Shurbazar"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326550153,
-    "wof:lastmodified":1537713245,
+    "wof:lastmodified":1566643235,
     "wof:name":"Sho`rbozor",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

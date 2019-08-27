@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"70.88416,40.59483,70.92416,40.63483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Teleming",
         "Tyle-Min",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259685715,
-    "wof:lastmodified":1537713308,
+    "wof:lastmodified":1566643978,
     "wof:name":"Tiliming",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

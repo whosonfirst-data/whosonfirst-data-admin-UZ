@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"67.1154,37.71125,67.1554,37.75125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Paxtazor"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1327311015,
-    "wof:lastmodified":1537713498,
+    "wof:lastmodified":1566643180,
     "wof:name":"Paxtazor",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

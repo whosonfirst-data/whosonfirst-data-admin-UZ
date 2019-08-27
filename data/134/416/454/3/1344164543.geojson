@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.14954,40.49998,71.18954,40.53998",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bardon"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1344164543,
-    "wof:lastmodified":1564286228,
+    "wof:lastmodified":1566643335,
     "wof:name":"Bardon",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

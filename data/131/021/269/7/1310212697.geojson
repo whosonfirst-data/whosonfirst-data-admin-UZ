@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.92393,40.2196,71.96393,40.2596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Gul\u2019mion"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310212697,
-    "wof:lastmodified":1537713439,
+    "wof:lastmodified":1566643741,
     "wof:name":"Gulmiyon",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

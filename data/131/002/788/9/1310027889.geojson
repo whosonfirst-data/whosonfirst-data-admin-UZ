@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.55525,41.00156,71.59525,41.04156",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Orzu"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310027889,
-    "wof:lastmodified":1537713394,
+    "wof:lastmodified":1566643754,
     "wof:name":"Orzu",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

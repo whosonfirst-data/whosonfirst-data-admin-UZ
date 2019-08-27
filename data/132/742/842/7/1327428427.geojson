@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"64.54555,41.71018,64.58555,41.75018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Adzherekty",
         "Azhrykty",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327428427,
-    "wof:lastmodified":1537713360,
+    "wof:lastmodified":1566643257,
     "wof:name":"Ajiriqli",
     "wof:parent_id":85680385,
     "wof:placetype":"locality",

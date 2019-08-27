@@ -11,10 +11,14 @@
     "geom:longitude":66.76861,
     "gn:country":"UZ",
     "gn:fcode":"PPL",
-    "gn:pop":13791,
+    "gn:population":13791,
     "iso:country":"UZ",
+    "lbl:bbox":"66.74861,39.67667,66.78861,39.71667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0427\u0430\u0440\u0445\u0456\u043d"
     ],
@@ -26,9 +30,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u0440\u0445\u0438\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Charkhin"
     ],
     "name:uzb_x_preferred":[
         "Charxin"
@@ -48,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1217595,
         "gp:id":2270055,
-        "qs:id":130943,
+        "qs_pg:id":130943,
         "wd:id":"Q23829148",
         "wk:page":"Charxin, Uzbekistan"
     },
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":890433653,
-    "wof:lastmodified":1563582899,
+    "wof:lastmodified":1566643837,
     "wof:name":"Charxin",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

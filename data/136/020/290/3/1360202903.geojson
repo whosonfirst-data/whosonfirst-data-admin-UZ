@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"64.39667,39.89667,64.43667,39.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Laglak",
         "Lyaglyaka"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360202903,
-    "wof:lastmodified":1537713256,
+    "wof:lastmodified":1566643777,
     "wof:name":"Lyaglyaka",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

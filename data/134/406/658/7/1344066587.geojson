@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.27663,40.90365,72.31663,40.94365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0427\u0430\u0440\u0432\u0430\u0434\u0430\u0440"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1344066587,
-    "wof:lastmodified":1537713421,
+    "wof:lastmodified":1566643286,
     "wof:name":"Chorvador",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

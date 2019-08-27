@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"68.03791,38.57966,68.07791,38.61966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Doran-Son",
         "Doray-Son"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326917467,
-    "wof:lastmodified":1537713278,
+    "wof:lastmodified":1566643244,
     "wof:name":"Daragiston",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

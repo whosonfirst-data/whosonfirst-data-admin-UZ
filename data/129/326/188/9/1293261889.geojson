@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"68.99402,40.24279,69.03402,40.28279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Farhodobod"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293261889,
-    "wof:lastmodified":1537713497,
+    "wof:lastmodified":1566643453,
     "wof:name":"Farhodobod",
     "wof:parent_id":85680419,
     "wof:placetype":"locality",

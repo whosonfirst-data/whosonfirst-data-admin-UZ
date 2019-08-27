@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"67.52556,37.75167,67.56556,37.79167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dhalair",
         "Dzhalair"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209093467,
-    "wof:lastmodified":1537713277,
+    "wof:lastmodified":1566643546,
     "wof:name":"Jaloyir",
     "wof:parent_id":85632645,
     "wof:placetype":"locality",

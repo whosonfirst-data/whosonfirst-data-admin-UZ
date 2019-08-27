@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.32633,40.83242,72.36633,40.87242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u0443\u043a\u0430\u043d\u043b\u0438\u043a"
     ],
     "name:und_x_variant":[
-        "Kukanlik",
-        "\u041a\u0443\u043a\u0430\u043d\u043b\u0438\u043a"
+        "Kukanlik"
     ],
     "name:uzb_x_preferred":[
         "Quqonlik"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1243377681,
-    "wof:lastmodified":1537713405,
+    "wof:lastmodified":1566643850,
     "wof:name":"Quqonlik",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

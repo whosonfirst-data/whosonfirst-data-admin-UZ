@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.482009,
     "lbl:longitude":71.534556,
+    "lbl:min_zoom":8.0,
     "mps:latitude":40.482009,
     "mps:longitude":71.534556,
     "mz:hierarchy_label":1,
@@ -213,7 +214,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0435\u0440\u0433\u0430\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Farghona Oblasti"
     ],
     "name:urd_x_preferred":[
@@ -301,9 +302,9 @@
     "qs:type":"Region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1998-03-01",
+    "src:population_date":"1998-03-01",
     "statoids:area_km":"6,800",
     "statoids:area_mi":"2,600",
     "statoids:as_of_date":"1998-03-01",
@@ -327,7 +328,7 @@
         "gp:id":2347662,
         "hasc:id":"UZ.FA",
         "iso:id":"UZ-FA",
-        "qs:id":1135450,
+        "qs_pg:id":1135450,
         "wd:id":"Q487089"
     },
     "wof:country":"UZ",
@@ -346,11 +347,10 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1565738640,
+    "wof:lastmodified":1566643358,
     "wof:name":"Ferghana",
     "wof:parent_id":85632645,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":2584000,
     "wof:population_rank":12,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"65.12302,40.71827,65.16302,40.75827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kolodets Kyzyl-Kuduk",
         "Kolodets Kzyl-Kuduk",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243163643,
-    "wof:lastmodified":1537713325,
+    "wof:lastmodified":1566643926,
     "wof:name":"Qizilquduq",
     "wof:parent_id":85680385,
     "wof:placetype":"locality",

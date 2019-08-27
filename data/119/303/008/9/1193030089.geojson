@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.20467,40.89006,72.24467,40.93006",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zarbdor"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193030089,
-    "wof:lastmodified":1537713380,
+    "wof:lastmodified":1566643656,
     "wof:name":"Zarbdor",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

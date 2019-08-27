@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"65.79167,38.86889,65.83167,38.90889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Aral"
     ],
@@ -91,8 +95,7 @@
         "Aral"
     ],
     "name:und_x_variant":[
-        "Yangi-Mazar",
-        "Aral"
+        "Yangi-Mazar"
     ],
     "name:vie_x_preferred":[
         "Aral"
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1226227575,
-    "wof:lastmodified":1564287172,
+    "wof:lastmodified":1566644046,
     "wof:name":"Aral",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

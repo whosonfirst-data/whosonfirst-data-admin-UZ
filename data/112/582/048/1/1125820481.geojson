@@ -9,15 +9,18 @@
     "geom:bbox":"70.81556,40.37583,70.81556,40.37583",
     "geom:latitude":40.37583,
     "geom:longitude":70.81556,
-    "gn:gn_country":"UZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":20332,
+    "gn:country":"UZ",
+    "gn:fcode":"PPL",
     "gn:population":20332,
     "iso:country":"UZ",
+    "lbl:bbox":"70.79556,40.35583,70.83556,40.39583",
     "lbl:latitude":40.37583,
     "lbl:longitude":70.81556,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u042f\u0439\u043f\u0430\u043d"
@@ -58,7 +61,7 @@
     "name:tur_x_preferred":[
         "Yaypan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bazar-Yaypan"
     ],
     "name:urd_x_preferred":[
@@ -79,7 +82,7 @@
     "qs_pg:qs_id":133071,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125820481,
-    "wof:lastmodified":1563582904,
+    "wof:lastmodified":1566643839,
     "wof:name":"Yaypan",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

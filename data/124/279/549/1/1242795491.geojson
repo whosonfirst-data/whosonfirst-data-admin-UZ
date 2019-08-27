@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.31107,40.69538,72.35107,40.73538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1242795491,
-    "wof:lastmodified":1537575770,
+    "wof:lastmodified":1566643910,
     "wof:name":"Beshkaram",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

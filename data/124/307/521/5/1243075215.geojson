@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.13945,40.45069,71.17945,40.49069",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Qo\u2018g\u2018ali"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243075215,
-    "wof:lastmodified":1537713466,
+    "wof:lastmodified":1566643840,
     "wof:name":"Qo`g`ali",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

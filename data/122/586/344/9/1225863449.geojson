@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"UZ",
+    "lbl:bbox":"72.53351,40.58195,72.57351,40.62195",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0422\u0430\u044f\u043a\u0435 \u0412\u0442\u043e\u0440\u043e\u0439"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225863449,
-    "wof:lastmodified":1537713406,
+    "wof:lastmodified":1566644037,
     "wof:name":"Tayake Vtoroy",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

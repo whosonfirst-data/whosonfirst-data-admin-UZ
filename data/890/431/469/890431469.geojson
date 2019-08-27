@@ -11,10 +11,14 @@
     "geom:longitude":71.49556,
     "gn:country":"UZ",
     "gn:fcode":"PPL",
-    "gn:pop":13470,
+    "gn:population":13470,
     "iso:country":"UZ",
+    "lbl:bbox":"71.47556,40.40639,71.51556,40.44639",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0647\u0645\u0632\u0629"
     ],
@@ -102,7 +106,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043c\u0437\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vannovskiy"
     ],
     "name:urd_x_preferred":[
@@ -126,7 +130,7 @@
     "wof:concordances":{
         "gn:id":1513650,
         "gp:id":2270088,
-        "qs:id":276592,
+        "qs_pg:id":276592,
         "wd:id":"Q252454",
         "wk:page":"Hamza"
     },
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":890431469,
-    "wof:lastmodified":1563582896,
+    "wof:lastmodified":1566643836,
     "wof:name":"Hamza",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

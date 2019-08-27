@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"67.08109,38.63785,67.12109,38.67785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293574749,
-    "wof:lastmodified":1536661378,
+    "wof:lastmodified":1566643413,
     "wof:name":"Oqzov",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

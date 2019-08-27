@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"63.93,39.56333,63.97,39.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Saiac"
     ],
@@ -88,8 +92,7 @@
     ],
     "name:und_x_variant":[
         "Sayarg",
-        "Saray",
-        "Sayat"
+        "Saray"
     ],
     "name:uzb_x_preferred":[
         "Sayat"
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1225959109,
-    "wof:lastmodified":1564287105,
+    "wof:lastmodified":1566644006,
     "wof:name":"Sayat",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

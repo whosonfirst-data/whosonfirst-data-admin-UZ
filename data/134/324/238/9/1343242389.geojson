@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"67.05889,38.31611,67.09889,38.35611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yukary-Machay",
         "Machay",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343242389,
-    "wof:lastmodified":1537713234,
+    "wof:lastmodified":1566643298,
     "wof:name":"Yuqori Machay",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

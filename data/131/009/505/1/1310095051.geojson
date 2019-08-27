@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"60.66911,41.94251,60.70911,41.98251",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Saksonbirko\u2018prik"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310095051,
-    "wof:lastmodified":1537713405,
+    "wof:lastmodified":1566643713,
     "wof:name":"Saksonbirko`prik",
     "wof:parent_id":85680381,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.91426,40.85589,71.95426,40.89589",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sariovul"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226660195,
-    "wof:lastmodified":1537713377,
+    "wof:lastmodified":1566644035,
     "wof:name":"Sarnovul",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

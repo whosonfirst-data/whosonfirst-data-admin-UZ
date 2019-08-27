@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"69.00722,41.01667,69.04722,41.05667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Novomikhaylovskiy",
         "Novo-Mikhaylovskoye",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226832703,
-    "wof:lastmodified":1537713319,
+    "wof:lastmodified":1566644059,
     "wof:name":"Nowomikhaylowka",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

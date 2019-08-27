@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"68.80976,40.44001,68.84976,40.48001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Qahramon"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1360057889,
-    "wof:lastmodified":1564286829,
+    "wof:lastmodified":1566643794,
     "wof:name":"Qahramon",
     "wof:parent_id":85680419,
     "wof:placetype":"locality",

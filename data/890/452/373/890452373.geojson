@@ -11,10 +11,14 @@
     "geom:longitude":67.7875,
     "gn:country":"UZ",
     "gn:fcode":"PPL",
-    "gn:pop":24900,
+    "gn:population":24900,
     "iso:country":"UZ",
+    "lbl:bbox":"67.7675,37.97944,67.8075,38.01944",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0634\u0648\u0631\u0686\u06cc"
     ],
@@ -51,9 +55,6 @@
     "name:tur_x_preferred":[
         "\u015eor\u00e7\u0131"
     ],
-    "name:unk_x_variant":[
-        "Chourtchi"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u0648\u0631\u0686\u06cc"
     ],
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":1216115,
         "gp:id":2272636,
-        "qs:id":130931,
+        "qs_pg:id":130931,
         "wd:id":"Q891639"
     },
     "wof:country":"UZ",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":890452373,
-    "wof:lastmodified":1563582892,
+    "wof:lastmodified":1566643835,
     "wof:name":"Sho\u2019rchi",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

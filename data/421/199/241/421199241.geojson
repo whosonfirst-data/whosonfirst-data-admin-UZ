@@ -10,8 +10,12 @@
     "geom:latitude":40.31528,
     "geom:longitude":67.95444,
     "iso:country":"UZ",
+    "lbl:bbox":"67.93444,40.29528,67.97444,40.33528",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u067e\u062e\u062a\u0647\u200c\u06a9\u0627\u0631"
@@ -61,9 +65,6 @@
     "name:tur_x_preferred":[
         "Pahtakar"
     ],
-    "name:unk_x_variant":[
-        "Paxtakor"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u062e\u062a\u06c1 \u06a9\u0627\u0631\u060c \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
     ],
@@ -103,7 +104,7 @@
     "wof:concordances":{
         "gn:id":1513038,
         "gp:id":2271498,
-        "qs:id":190795,
+        "qs_pg:id":190795,
         "wd:id":"Q769384",
         "wk:page":"Pakhtakor, Uzbekistan"
     },
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":421199241,
-    "wof:lastmodified":1563582875,
+    "wof:lastmodified":1566643831,
     "wof:name":"Pakhtakor",
     "wof:parent_id":85680415,
     "wof:placetype":"locality",

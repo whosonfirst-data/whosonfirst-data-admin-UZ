@@ -11,10 +11,14 @@
     "geom:longitude":68.03583,
     "gn:country":"UZ",
     "gn:fcode":"PPL",
-    "gn:pop":16524,
+    "gn:population":16524,
     "iso:country":"UZ",
+    "lbl:bbox":"68.01583,40.50472,68.05583,40.54472",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u062f\u0648\u0633\u062a\u0644\u06cc\u06a9"
     ],
@@ -51,9 +55,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0441\u0442\u043b\u0456\u043a"
     ],
-    "name:unk_x_variant":[
-        "Dustlik"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u0648\u0633\u062a\u0644\u06cc\u06a9"
     ],
@@ -75,7 +76,7 @@
     "wof:concordances":{
         "gn:id":1514125,
         "gp:id":2269968,
-        "qs:id":133100,
+        "qs_pg:id":133100,
         "wd:id":"Q892038",
         "wk:page":"Dustlik District"
     },
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":890433739,
-    "wof:lastmodified":1563582898,
+    "wof:lastmodified":1566643836,
     "wof:name":"D\u016dstlik",
     "wof:parent_id":85680415,
     "wof:placetype":"locality",

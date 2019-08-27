@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.18466,40.64093,72.22466,40.68093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0410\u0440\u0433\u044b\u043d"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1277083947,
-    "wof:lastmodified":1537713361,
+    "wof:lastmodified":1566643463,
     "wof:name":"Arg`in",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

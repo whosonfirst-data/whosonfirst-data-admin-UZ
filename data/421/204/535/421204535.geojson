@@ -10,8 +10,12 @@
     "geom:latitude":40.47111,
     "geom:longitude":71.72472,
     "iso:country":"UZ",
+    "lbl:bbox":"71.70472,40.45111,71.74472,40.49111",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0631\u063a\u0644\u0627\u0646"
@@ -169,9 +173,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0433\u0456\u043b\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Margilan"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0631\u063a\u06cc\u0644\u0627\u0646"
     ],
@@ -229,7 +230,7 @@
     "wof:concordances":{
         "gn:id":1513243,
         "gp:id":2271213,
-        "qs:id":241188,
+        "qs_pg:id":241188,
         "wd:id":"Q261076",
         "wk:page":"Margilan"
     },
@@ -245,7 +246,7 @@
         }
     ],
     "wof:id":421204535,
-    "wof:lastmodified":1563582855,
+    "wof:lastmodified":1566643825,
     "wof:name":"Marghilon",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

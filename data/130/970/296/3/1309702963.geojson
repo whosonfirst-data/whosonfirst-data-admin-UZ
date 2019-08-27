@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"66.78071,38.34327,66.82071,38.38327",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0622\u0642\u200c\u062a\u0627\u0634"
     ],
@@ -75,8 +79,7 @@
     ],
     "name:und_x_variant":[
         "Chul\u2019guzak",
-        "Aktash",
-        "Oqtosh"
+        "Aktash"
     ],
     "name:urd_x_preferred":[
         "\u0622\u0642 \u062a\u0627\u0634"
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1309702963,
-    "wof:lastmodified":1564286842,
+    "wof:lastmodified":1566643804,
     "wof:name":"Oqtosh",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"UZ",
+    "lbl:bbox":"71.74556,39.94389,71.78556,39.98389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Iordan",
         "Yardam",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1344264663,
-    "wof:lastmodified":1537713273,
+    "wof:lastmodified":1566643331,
     "wof:name":"Yordon",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

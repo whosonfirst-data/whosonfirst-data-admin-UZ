@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.0771,40.68634,72.1171,40.72634",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Bog\u2018ishamol"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226765389,
-    "wof:lastmodified":1537713482,
+    "wof:lastmodified":1566644048,
     "wof:name":"Bog`ishamol",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

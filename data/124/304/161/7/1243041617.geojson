@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"68.87848,40.82528,68.91848,40.86528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Maydontol"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243041617,
-    "wof:lastmodified":1537713487,
+    "wof:lastmodified":1566643894,
     "wof:name":"Maydontol",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

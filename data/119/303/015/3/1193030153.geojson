@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.79451,40.69187,71.83451,40.73187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Gagarin"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193030153,
-    "wof:lastmodified":1537713452,
+    "wof:lastmodified":1566643655,
     "wof:name":"Gagarin",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

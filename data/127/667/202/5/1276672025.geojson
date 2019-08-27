@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.06387,40.63543,72.10387,40.67543",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0427\u0443\u0434\u0436\u0430\u044e\u0437\u0438\u044f"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1276672025,
-    "wof:lastmodified":1537713407,
+    "wof:lastmodified":1566643500,
     "wof:name":"Cho`jayuziya",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

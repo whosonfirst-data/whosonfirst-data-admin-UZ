@@ -10,6 +10,9 @@
     "geom:latitude":38.86667,
     "geom:longitude":65.8,
     "iso:country":"UZ",
+    "lbl:bbox":"65.78,38.84667,65.82,38.88667",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -188,7 +191,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0448\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bek Budi"
     ],
     "name:urd_x_preferred":[
@@ -333,7 +336,7 @@
     "wof:concordances":{
         "gn:id":1216311,
         "gp:id":2271571,
-        "qs:id":1354511,
+        "qs_pg:id":1354511,
         "wd:id":"Q644008",
         "wk:page":"Qarshi"
     },
@@ -349,7 +352,7 @@
         }
     ],
     "wof:id":421177861,
-    "wof:lastmodified":1563582881,
+    "wof:lastmodified":1566643832,
     "wof:name":"Qarshi",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

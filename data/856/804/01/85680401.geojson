@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.806765,
     "lbl:longitude":72.332055,
+    "lbl:min_zoom":8.0,
     "mps:latitude":40.806765,
     "mps:longitude":72.332055,
     "mz:hierarchy_label":1,
@@ -185,7 +186,7 @@
         "Andizjan"
     ],
     "name:tam_x_preferred":[
-        "\u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0b9c\u0ba9\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0b9c\u0ba9\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tat_x_preferred":[
         "\u04d8\u043d\u0434\u0438\u0497\u0430\u043d \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -208,7 +209,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0434\u0438\u0436\u0430\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Andijon Oblasti"
     ],
     "name:urd_x_preferred":[
@@ -300,9 +301,9 @@
     "qs:type":"Region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1998-03-01",
+    "src:population_date":"1998-03-01",
     "statoids:area_km":"4,200",
     "statoids:area_mi":"1,600",
     "statoids:as_of_date":"1998-03-01",
@@ -327,7 +328,7 @@
         "gp:id":2347659,
         "hasc:id":"UZ.AN",
         "iso:id":"UZ-AN",
-        "qs:id":895013,
+        "qs_pg:id":895013,
         "unlc:id":"UZ-AN",
         "wd:id":"Q487384",
         "wk:page":"Andijan Region"
@@ -348,11 +349,10 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1565738640,
+    "wof:lastmodified":1566643358,
     "wof:name":"Andijon",
     "wof:parent_id":85632645,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":2116000,
     "wof:population_rank":12,

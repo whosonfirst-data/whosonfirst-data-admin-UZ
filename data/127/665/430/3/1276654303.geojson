@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.6491,41.32225,71.6891,41.36225",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gaznon"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276654303,
-    "wof:lastmodified":1537713394,
+    "wof:lastmodified":1566643539,
     "wof:name":"Gaznon",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

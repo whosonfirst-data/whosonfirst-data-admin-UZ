@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"65.56333,39.58,65.60333,39.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Bagarnar\u2019"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209804335,
-    "wof:lastmodified":1537713286,
+    "wof:lastmodified":1566643620,
     "wof:name":"Bagarnar'",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

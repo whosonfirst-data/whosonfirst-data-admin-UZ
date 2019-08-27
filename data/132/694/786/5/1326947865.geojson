@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.32716,40.52825,72.36716,40.56825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "G\u0259rg\u0259r"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1326947865,
-    "wof:lastmodified":1564286039,
+    "wof:lastmodified":1566643195,
     "wof:name":"Gargar",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

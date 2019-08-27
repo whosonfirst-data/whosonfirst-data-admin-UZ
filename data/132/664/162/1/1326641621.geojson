@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"70.47267,40.44062,70.51267,40.48062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Oqmachit"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326641621,
-    "wof:lastmodified":1537713440,
+    "wof:lastmodified":1566643239,
     "wof:name":"Oqmachit",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

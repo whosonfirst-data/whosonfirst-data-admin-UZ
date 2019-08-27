@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"59.39395,43.57865,59.43395,43.61865",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maypost"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226132321,
-    "wof:lastmodified":1537713230,
+    "wof:lastmodified":1566644041,
     "wof:name":"Maypo`st Urochisha",
     "wof:parent_id":85680381,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"66.86333,39.49667,66.90333,39.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ak-Buyrya",
         "Ak-buyro",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243572515,
-    "wof:lastmodified":1537713290,
+    "wof:lastmodified":1566643893,
     "wof:name":"Akbuyra",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

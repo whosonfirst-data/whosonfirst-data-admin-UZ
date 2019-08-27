@@ -11,8 +11,11 @@
     "geom:longitude":59.46005,
     "gn:country":"UZ",
     "gn:fcode":"PPL",
-    "gn:pop":50000,
+    "gn:population":50000,
     "iso:country":"UZ",
+    "lbl:bbox":"59.44005,42.38043,59.48005,42.42043",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -88,7 +91,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0434\u0436\u0435\u0439\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khodzheyli"
     ],
     "name:urd_x_preferred":[
@@ -212,7 +215,7 @@
     "wof:concordances":{
         "gn:id":601339,
         "gp:id":2270791,
-        "qs:id":273804,
+        "qs_pg:id":273804,
         "wd:id":"Q1400173"
     },
     "wof:country":"UZ",
@@ -227,7 +230,7 @@
         }
     ],
     "wof:id":890440105,
-    "wof:lastmodified":1563582888,
+    "wof:lastmodified":1566643833,
     "wof:name":"Kh\u016djayli",
     "wof:parent_id":85680381,
     "wof:placetype":"locality",

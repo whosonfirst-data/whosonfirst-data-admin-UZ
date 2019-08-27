@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2896166.085585,
+    "geom:area_square_m":0.0,
     "geom:bbox":"69.222107,41.378868,69.222107,41.378868",
     "geom:latitude":41.378868,
     "geom:longitude":69.222107,
     "iso:country":"UZ",
+    "lbl:bbox":"69.217107,41.373868,69.227107,41.383868",
     "lbl:latitude":41.378868,
     "lbl:longitude":69.222107,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.378869,
     "mps:longitude":69.222107,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:eng_x_variant":[
         "Karakamysh"
-    ],
-    "name:unk_x_variant":[
-        "Qoraqamish"
     ],
     "qs:gn_adm0_cc":"UZ",
     "qs:gn_id":0,
@@ -59,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632645,
@@ -84,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936093,
+    "wof:lastmodified":1566643357,
     "wof:name":"Qoraqamish",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

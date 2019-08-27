@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.03366,40.9425,72.07366,40.9825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yangi Qo\u2018g\u2018ay"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276972231,
-    "wof:lastmodified":1537713383,
+    "wof:lastmodified":1566643535,
     "wof:name":"Yangi Qo`g`ay",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

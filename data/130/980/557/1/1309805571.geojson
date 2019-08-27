@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.07191,40.49874,71.11191,40.53874",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Kichik-Kenagas"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1309805571,
-    "wof:lastmodified":1537713472,
+    "wof:lastmodified":1566643814,
     "wof:name":"Kichik-Kenagas",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

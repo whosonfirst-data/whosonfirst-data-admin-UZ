@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"70.94465,40.71901,70.98465,40.75901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Orol"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209822907,
-    "wof:lastmodified":1537713504,
+    "wof:lastmodified":1566643587,
     "wof:name":"Orol",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

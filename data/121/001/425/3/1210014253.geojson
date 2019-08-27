@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.4613,40.83645,71.5013,40.87645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Qorayantoq"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1210014253,
-    "wof:lastmodified":1537713387,
+    "wof:lastmodified":1566643636,
     "wof:name":"Qorayantoq",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"68.10556,39.94389,68.14556,39.98389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pshagar",
         "Pishagar"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242844819,
-    "wof:lastmodified":1537713249,
+    "wof:lastmodified":1566643905,
     "wof:name":"Pishag`ar",
     "wof:parent_id":85680415,
     "wof:placetype":"locality",

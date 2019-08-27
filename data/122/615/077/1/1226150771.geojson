@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.14041,39.95711,71.18041,39.99711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Malbutsoy"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226150771,
-    "wof:lastmodified":1537713468,
+    "wof:lastmodified":1566644054,
     "wof:name":"Malbutsoy",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

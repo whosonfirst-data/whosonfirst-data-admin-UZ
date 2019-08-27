@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"67.38,39.71333,67.42,39.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Paykha Vtoraya",
         "Layka",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260094999,
-    "wof:lastmodified":1537713250,
+    "wof:lastmodified":1566643674,
     "wof:name":"Payna Vtoraya",
     "wof:parent_id":85680415,
     "wof:placetype":"locality",

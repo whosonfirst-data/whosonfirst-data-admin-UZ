@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.12667,40.53389,71.16667,40.57389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yangiqo\u2018rg\u2018on"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1260081913,
-    "wof:lastmodified":1564286673,
+    "wof:lastmodified":1566643677,
     "wof:name":"Yangiqo`rg`on",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

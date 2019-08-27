@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"68.06493,40.37918,68.10493,40.41918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Mingchinor"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343940737,
-    "wof:lastmodified":1537713484,
+    "wof:lastmodified":1566643326,
     "wof:name":"Mingchinor",
     "wof:parent_id":85680415,
     "wof:placetype":"locality",
