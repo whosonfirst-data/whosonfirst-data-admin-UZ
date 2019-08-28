@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"67.40333,37.48889,67.44333,37.52889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062c\u0631\u0642\u0648\u0631\u063a\u0627\u0646"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1343441155,
-    "wof:lastmodified":1564286257,
+    "wof:lastmodified":1566643356,
     "wof:name":"Jarqo`rg`on",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

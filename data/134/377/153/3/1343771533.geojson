@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.81597,40.80437,72.85597,40.84437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0411\u0430\u0448\u0442\u0443\u043f"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343771533,
-    "wof:lastmodified":1537713437,
+    "wof:lastmodified":1566643292,
     "wof:name":"Bashtup",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":41.521966,
     "lbl:longitude":60.506699,
+    "lbl:min_zoom":8.0,
     "mps:latitude":41.521966,
     "mps:longitude":60.506699,
     "mz:hierarchy_label":1,
@@ -197,9 +198,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0440\u0435\u0437\u043c\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:unk_x_variant":[
-        "Xorazm"
-    ],
     "name:urd_x_preferred":[
         "\u062e\u0648\u0627\u0631\u0632\u0645 \u0635\u0648\u0628\u06c1"
     ],
@@ -285,9 +283,9 @@
     "qs:type":"Region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1998-03-01",
+    "src:population_date":"1998-03-01",
     "statoids:area_km":"6,300",
     "statoids:area_mi":"2,400",
     "statoids:as_of_date":"1998-03-01",
@@ -313,7 +311,7 @@
         "gp:id":2347665,
         "hasc:id":"UZ.KH",
         "iso:id":"UZ-XO",
-        "qs:id":555924,
+        "qs_pg:id":555924,
         "unlc:id":"UZ-KH",
         "wd:id":"Q487561",
         "wk:page":"Xorazm Region"
@@ -334,11 +332,10 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1565738640,
+    "wof:lastmodified":1566643360,
     "wof:name":"Khorezm",
     "wof:parent_id":85632645,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1272000,
     "wof:population_rank":12,

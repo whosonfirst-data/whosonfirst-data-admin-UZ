@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"65.61079,38.85188,65.65079,38.89188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lyagandy"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209901763,
-    "wof:lastmodified":1537713256,
+    "wof:lastmodified":1566643569,
     "wof:name":"Lagandi",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

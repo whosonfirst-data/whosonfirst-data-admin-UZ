@@ -10,8 +10,12 @@
     "geom:latitude":40.64153,
     "geom:longitude":72.23868,
     "iso:country":"UZ",
+    "lbl:bbox":"72.21868,40.62153,72.25868,40.66153",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0410\u0441\u0430\u043a\u0430"
@@ -85,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0441\u0430\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Leninsk"
     ],
     "name:urd_x_preferred":[
@@ -130,7 +134,7 @@
     "wof:concordances":{
         "gn:id":1513271,
         "gp:id":2272609,
-        "qs:id":133084,
+        "qs_pg:id":133084,
         "wd:id":"Q378393",
         "wk:page":"Asaka, Uzbekistan"
     },
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":421178631,
-    "wof:lastmodified":1563582885,
+    "wof:lastmodified":1566643832,
     "wof:name":"Assake",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

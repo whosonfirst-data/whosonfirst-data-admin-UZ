@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"65.77346,38.87391,65.81346,38.91391",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1276330111,
-    "wof:lastmodified":1536783372,
+    "wof:lastmodified":1566643493,
     "wof:name":"Uzunchavo",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

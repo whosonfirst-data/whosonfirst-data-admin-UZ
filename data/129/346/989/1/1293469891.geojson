@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"68.0439,38.42896,68.0839,38.46896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Bo\u2018ston"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293469891,
-    "wof:lastmodified":1537713501,
+    "wof:lastmodified":1566643383,
     "wof:name":"Bo`ston",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.6047,40.46928,71.6447,40.50928",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Katta-Beshkapa"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276659163,
-    "wof:lastmodified":1537713462,
+    "wof:lastmodified":1566643540,
     "wof:name":"Katta-Beshkapa",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

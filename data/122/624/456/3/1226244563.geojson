@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"70.99159,40.5605,71.03159,40.6005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Gul\u2019kishlak"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226244563,
-    "wof:lastmodified":1537713473,
+    "wof:lastmodified":1566644052,
     "wof:name":"Gulqishloq",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

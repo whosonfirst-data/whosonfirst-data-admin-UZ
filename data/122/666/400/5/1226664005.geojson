@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.59663,40.67534,72.63663,40.71534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u043c\u0456\u043d\u0442\u044d\u0440\u043d"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1226664005,
-    "wof:lastmodified":1564287152,
+    "wof:lastmodified":1566644034,
     "wof:name":"Komintern",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

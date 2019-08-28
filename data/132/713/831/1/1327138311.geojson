@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.95263,40.85677,71.99263,40.89677",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chinovat",
         "Tschinabad",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327138311,
-    "wof:lastmodified":1537713352,
+    "wof:lastmodified":1566643205,
     "wof:name":"Chinobod",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

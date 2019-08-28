@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"59.60803,42.35613,59.64803,42.39613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kyzketken"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310685767,
-    "wof:lastmodified":1537713230,
+    "wof:lastmodified":1566643751,
     "wof:name":"Qizketkan",
     "wof:parent_id":85680381,
     "wof:placetype":"locality",

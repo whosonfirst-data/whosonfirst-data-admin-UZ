@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"65.90604,39.16097,65.94604,39.20097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rahimso\u2018fi",
         "Raim-Sufi"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209092037,
-    "wof:lastmodified":1537713248,
+    "wof:lastmodified":1566643546,
     "wof:name":"Rahimso`fi",
     "wof:parent_id":85632645,
     "wof:placetype":"locality",

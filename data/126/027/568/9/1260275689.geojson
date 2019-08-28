@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.05135,41.01236,71.09135,41.05236",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Arigbo\u2018yi"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260275689,
-    "wof:lastmodified":1537713392,
+    "wof:lastmodified":1566643682,
     "wof:name":"Arigbo`yi",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

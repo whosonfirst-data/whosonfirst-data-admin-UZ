@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.16532,40.38575,71.20532,40.42575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Qo\u2018rgo\u2018ncha"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276885169,
-    "wof:lastmodified":1537713463,
+    "wof:lastmodified":1566643477,
     "wof:name":"Qo`rgo`ncha",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

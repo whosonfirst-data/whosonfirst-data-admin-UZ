@@ -11,10 +11,14 @@
     "geom:longitude":72.07292,
     "gn:country":"UZ",
     "gn:fcode":"PPL",
-    "gn:pop":33167,
+    "gn:population":33167,
     "iso:country":"UZ",
+    "lbl:bbox":"72.05292,40.50204,72.09292,40.54204",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0642\u0628\u0627"
     ],
@@ -72,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "Kuva"
-    ],
     "name:urd_x_preferred":[
         "\u0642\u0648\u0648\u0627"
     ],
@@ -96,7 +97,7 @@
     "wof:concordances":{
         "gn:id":1526979,
         "gp:id":2272606,
-        "qs:id":1031880,
+        "qs_pg:id":1031880,
         "wd:id":"Q867152",
         "wk:page":"Quva"
     },
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":890436623,
-    "wof:lastmodified":1563582894,
+    "wof:lastmodified":1566643835,
     "wof:name":"Quva",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

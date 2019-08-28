@@ -24,16 +24,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"66.84667,40.04667,66.88667,40.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0418\u043d\u0433\u0438\u0447\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Ingishna",
         "Ingishka",
-        "Dzhenichke",
-        "Ingichka"
+        "Dzhenichke"
     ],
     "name:uzb_x_preferred":[
         "Ingichka"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1243077733,
-    "wof:lastmodified":1564286873,
+    "wof:lastmodified":1566643842,
     "wof:name":"Ingichka",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

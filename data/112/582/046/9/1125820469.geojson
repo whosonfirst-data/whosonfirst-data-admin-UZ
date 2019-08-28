@@ -9,15 +9,18 @@
     "geom:bbox":"68.9,40.98333,68.9,40.98333",
     "geom:latitude":40.98333,
     "geom:longitude":68.9,
-    "gn:gn_country":"UZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":24781,
+    "gn:country":"UZ",
+    "gn:fcode":"PPL",
     "gn:population":24781,
     "iso:country":"UZ",
+    "lbl:bbox":"68.88,40.96333,68.92,41.00333",
     "lbl:latitude":40.98333,
     "lbl:longitude":68.9,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Zafar"
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0417\u0430\u0444\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Almazar"
     ],
     "qs_pg:aaroncc":"UZ",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":133070,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1125820469,
-    "wof:lastmodified":1564286871,
+    "wof:lastmodified":1566643838,
     "wof:name":"Zafar",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

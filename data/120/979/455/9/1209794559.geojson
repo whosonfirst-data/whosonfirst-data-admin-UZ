@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"68.95276,40.78749,68.99276,40.82749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Konka"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209794559,
-    "wof:lastmodified":1564286543,
+    "wof:lastmodified":1566643575,
     "wof:name":"Konka",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.01331,40.75865,72.05331,40.79865",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0414\u0443\u043b\u0430\u043d"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209123805,
-    "wof:lastmodified":1537713349,
+    "wof:lastmodified":1566643578,
     "wof:name":"Do`lan",
     "wof:parent_id":85632645,
     "wof:placetype":"locality",

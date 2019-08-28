@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":41.726948,
     "lbl:longitude":63.960684,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":41.726948,
     "mps:longitude":63.960684,
     "mz:hierarchy_label":1,
@@ -823,13 +825,9 @@
     "name:ukr_x_variant":[
         "\u0423\u0437\u0431\u0435\u043a\u0456\u0441\u0442\u0430\u043d"
     ],
-    "name:und_x_preferred":[
-        "Uzbekiston Respublikasi"
-    ],
     "name:und_x_variant":[
-        "Republika Uzbekistan"
-    ],
-    "name:unk_x_variant":[
+        "Uzbekiston Respublikasi",
+        "Republika Uzbekistan",
         "Uzbekskaya Sovetskaya Sotsialisticheskaya Respublika"
     ],
     "name:urd_x_preferred":[
@@ -990,7 +988,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"998",
     "statoids:ds":"UZ",
@@ -1034,7 +1032,7 @@
         "marc:id":"uz",
         "ne:adm0_a3":"UZB",
         "nyt:id":"78657374252143117211",
-        "qs:id":556334,
+        "qs_pg:id":556334,
         "uncrt:id":"UZ",
         "wd:id":"Q265",
         "wk:page":"Uzbekistan",
@@ -1056,7 +1054,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1565738641,
+    "wof:lastmodified":1566643360,
     "wof:name":"Uzbekistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

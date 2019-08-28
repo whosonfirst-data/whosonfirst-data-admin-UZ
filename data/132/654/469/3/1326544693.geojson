@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.89667,40.49667,71.93667,40.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ramadan"
     ],
@@ -303,8 +307,7 @@
         "\u0420\u0430\u043c\u0430\u0434\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Romadan",
-        "Ramadan"
+        "Romadan"
     ],
     "name:urd_x_preferred":[
         "\u0631\u0645\u0636\u0627\u0646"
@@ -351,7 +354,7 @@
         }
     ],
     "wof:id":1326544693,
-    "wof:lastmodified":1564286118,
+    "wof:lastmodified":1566643250,
     "wof:name":"Ramadan",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

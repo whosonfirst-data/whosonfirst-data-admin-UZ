@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.21826,40.34277,71.25826,40.38277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Urtamakhalla"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343769575,
-    "wof:lastmodified":1537713463,
+    "wof:lastmodified":1566643300,
     "wof:name":"O`rtamaxalla",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"69.26528,40.79417,69.30528,40.83417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Karakuyli",
         "Karakuylyu",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276854661,
-    "wof:lastmodified":1537713339,
+    "wof:lastmodified":1566643516,
     "wof:name":"Qoraquyli",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

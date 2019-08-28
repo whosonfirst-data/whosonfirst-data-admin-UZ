@@ -11,10 +11,14 @@
     "geom:longitude":60.34556,
     "gn:country":"UZ",
     "gn:fcode":"PPL",
-    "gn:pop":16948,
+    "gn:population":16948,
     "iso:country":"UZ",
+    "lbl:bbox":"60.32556,41.515,60.36556,41.555",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0642\u0648\u0634 \u06a9\u0624\u067e\u06cc\u0631"
     ],
@@ -51,7 +55,7 @@
     "name:tur_x_preferred":[
         "Ko\u015fk\u00f6p\u00fcr"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koshkupyr"
     ],
     "name:urd_x_preferred":[
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":1512978,
         "gp:id":2271578,
-        "qs:id":133078,
+        "qs_pg:id":133078,
         "wd:id":"Q650339"
     },
     "wof:country":"UZ",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890433737,
-    "wof:lastmodified":1563582898,
+    "wof:lastmodified":1566643837,
     "wof:name":"Q\u016dshk\u016dpir",
     "wof:parent_id":85680377,
     "wof:placetype":"locality",

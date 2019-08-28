@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"67.18,39.38,67.22,39.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u06a9\u0645\u0627\u0646 \u06af\u0631\u0627\u0646"
     ],
@@ -33,8 +37,7 @@
         "Kamangaran"
     ],
     "name:und_x_variant":[
-        "Koman-Gora",
-        "Kamangaran"
+        "Koman-Gora"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1226152885,
-    "wof:lastmodified":1564287183,
+    "wof:lastmodified":1566644054,
     "wof:name":"Kamangaran",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

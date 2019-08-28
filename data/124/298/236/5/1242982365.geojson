@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.7887,40.55512,71.8287,40.59512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Istarkhan",
         "Ishtarkhan",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1242982365,
-    "wof:lastmodified":1537713342,
+    "wof:lastmodified":1566643916,
     "wof:name":"Ishtirxon",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

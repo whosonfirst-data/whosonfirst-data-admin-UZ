@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"67.03757,38.29462,67.07757,38.33462",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Urtamachay",
         "Past-Machay",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226829255,
-    "wof:lastmodified":1537713250,
+    "wof:lastmodified":1566644050,
     "wof:name":"Pastki Machay",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

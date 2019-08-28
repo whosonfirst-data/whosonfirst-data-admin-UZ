@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.74034,41.21715,71.78034,41.25715",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Qorachasho\u2018rkent"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260386447,
-    "wof:lastmodified":1537713395,
+    "wof:lastmodified":1566643669,
     "wof:name":"Qorachasho`rkent",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

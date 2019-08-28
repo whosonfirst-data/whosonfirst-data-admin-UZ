@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"68.49438,40.28346,68.53438,40.32346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Chamanzor"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226315269,
-    "wof:lastmodified":1537713496,
+    "wof:lastmodified":1566644072,
     "wof:name":"Chamanzor",
     "wof:parent_id":85680419,
     "wof:placetype":"locality",

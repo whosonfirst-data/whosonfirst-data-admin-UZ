@@ -23,12 +23,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.05281,41.0121,72.09281,41.0521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Katta-Mogol",
-        "Kattamugul",
-        "Kattamug\u2018ul"
+        "Kattamugul"
     ],
     "name:uzb_x_preferred":[
         "Kattamug\u2018ul"
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1276869661,
-    "wof:lastmodified":1537713337,
+    "wof:lastmodified":1566643470,
     "wof:name":"Kattamug`ul",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

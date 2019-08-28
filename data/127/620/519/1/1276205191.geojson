@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"69.39944,41.10694,69.43944,41.14694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Urtasaray",
         "Ortasaray",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276205191,
-    "wof:lastmodified":1537713304,
+    "wof:lastmodified":1566643490,
     "wof:name":"Urtasaroy",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

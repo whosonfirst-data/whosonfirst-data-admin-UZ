@@ -11,10 +11,14 @@
     "geom:longitude":64.68333,
     "gn:country":"UZ",
     "gn:fcode":"PPL",
-    "gn:pop":41070,
+    "gn:population":41070,
     "iso:country":"UZ",
+    "lbl:bbox":"64.66333,40.08,64.70333,40.12",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:deu_x_preferred":[
         "G\u02bbijduvon"
     ],
@@ -75,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u0436\u0434\u0443\u0432\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akmal\u2019-Abad"
     ],
     "name:urd_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":1513983,
         "gp:id":2272565,
-        "qs:id":276595,
+        "qs_pg:id":276595,
         "wd:id":"Q1027045"
     },
     "wof:country":"UZ",
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":890431473,
-    "wof:lastmodified":1563582895,
+    "wof:lastmodified":1566643836,
     "wof:name":"Ghijduwon",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

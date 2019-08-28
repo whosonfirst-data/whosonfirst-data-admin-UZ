@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.11757,40.49179,72.15757,40.53179",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0423\u0447\u0442\u0430\u043b"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226541705,
-    "wof:lastmodified":1537713413,
+    "wof:lastmodified":1566644072,
     "wof:name":"Uchtol",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

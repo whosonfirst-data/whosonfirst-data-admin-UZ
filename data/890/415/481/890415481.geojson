@@ -11,10 +11,14 @@
     "geom:longitude":64.44833,
     "gn:country":"UZ",
     "gn:fcode":"PPL",
-    "gn:pop":15620,
+    "gn:population":15620,
     "iso:country":"UZ",
+    "lbl:bbox":"64.42833,39.83778,64.46833,39.87778",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0642\u0644\u0639\u0647 \u0622\u0633\u06cc\u0627"
     ],
@@ -66,9 +70,6 @@
     "name:ukr_x_preferred":[
         "\u0490\u0430\u043b\u0430\u0430\u0441\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Galaasiya"
-    ],
     "name:urd_x_preferred":[
         "\u0642\u0644\u0639\u06c1 \u0622\u0633\u06cc\u0627"
     ],
@@ -90,7 +91,7 @@
     "wof:concordances":{
         "gn:id":1217340,
         "gp:id":2272559,
-        "qs:id":130935,
+        "qs_pg:id":130935,
         "wd:id":"Q650352",
         "wk:page":"Galaosiyo"
     },
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":890415481,
-    "wof:lastmodified":1563582889,
+    "wof:lastmodified":1566643834,
     "wof:name":"Galaosiyo",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"68.66199,40.54843,68.70199,40.58843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Oydinqishloq"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310683371,
-    "wof:lastmodified":1537713492,
+    "wof:lastmodified":1566643750,
     "wof:name":"Oydinqishloq",
     "wof:parent_id":85680419,
     "wof:placetype":"locality",

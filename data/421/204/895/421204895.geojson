@@ -10,8 +10,12 @@
     "geom:latitude":41.55806,
     "geom:longitude":69.77083,
     "iso:country":"UZ",
+    "lbl:bbox":"69.75083,41.53806,69.79083,41.57806",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u063a\u0632\u0644\u200c\u06a9\u0646\u062f"
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0437\u0430\u043b\u043a\u0435\u043d\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ghazalkent"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":1513996,
         "gp:id":2272561,
-        "qs:id":250792,
+        "qs_pg:id":250792,
         "wd:id":"Q891863"
     },
     "wof:country":"UZ",
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421204895,
-    "wof:lastmodified":1563582858,
+    "wof:lastmodified":1566643825,
     "wof:name":"Gazalkent",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

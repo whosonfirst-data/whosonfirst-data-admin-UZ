@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.71966,40.71306,72.75966,40.75306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u042d\u0448\u0430\u043d"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243273595,
-    "wof:lastmodified":1537713432,
+    "wof:lastmodified":1566643924,
     "wof:name":"Eshan",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

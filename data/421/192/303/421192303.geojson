@@ -10,8 +10,12 @@
     "geom:latitude":39.25528,
     "geom:longitude":65.15278,
     "iso:country":"UZ",
+    "lbl:bbox":"65.13278,39.23528,65.17278,39.27528",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0645\u0648\u0628\u0627\u0631\u06a9"
@@ -67,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0431\u0430\u0440\u0435\u043a"
     ],
-    "name:unk_x_variant":[
-        "Mubarek"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0628\u0627\u0631\u06a9\u060c \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
     ],
@@ -109,7 +110,7 @@
     "wof:concordances":{
         "gn:id":1216475,
         "gp:id":56122302,
-        "qs:id":79036,
+        "qs_pg:id":79036,
         "wd:id":"Q599533",
         "wk:page":"Muborak"
     },
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":421192303,
-    "wof:lastmodified":1563582850,
+    "wof:lastmodified":1566643823,
     "wof:name":"Muborak",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

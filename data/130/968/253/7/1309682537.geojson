@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"68.17263,40.59415,68.21263,40.63415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Jibekjo\u2018li"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1309682537,
-    "wof:lastmodified":1537713484,
+    "wof:lastmodified":1566643809,
     "wof:name":"Jibekjo`li",
     "wof:parent_id":85680415,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":60.63333,
     "gn:country":"UZ",
     "gn:fcode":"PPLA",
-    "gn:pop":150110,
+    "gn:population":150110,
     "iso:country":"UZ",
+    "lbl:bbox":"60.61333,41.53,60.65333,41.57",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -178,7 +181,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0440\u0433\u0435\u043d\u0447"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novo-Urgench"
     ],
     "name:urd_x_preferred":[
@@ -309,10 +312,12 @@
     "wof:concordances":{
         "gn:id":1512473,
         "gp:id":2272233,
-        "qs:id":273982,
-        "qs_pg:id":902848,
+        "qs_pg:id":273982,
         "wd:id":"Q472925",
         "wk:page":"Urgench"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":902848
     },
     "wof:country":"UZ",
     "wof:created":1469052062,
@@ -326,7 +331,7 @@
         }
     ],
     "wof:id":890435301,
-    "wof:lastmodified":1563582900,
+    "wof:lastmodified":1566643837,
     "wof:name":"Urganch",
     "wof:parent_id":85680377,
     "wof:placetype":"locality",

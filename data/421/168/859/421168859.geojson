@@ -10,6 +10,9 @@
     "geom:latitude":40.9983,
     "geom:longitude":71.67257,
     "iso:country":"UZ",
+    "lbl:bbox":"71.65257,40.9783,71.69257,41.0183",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -352,7 +355,7 @@
     "wof:concordances":{
         "gn:id":1513157,
         "gp:id":2272617,
-        "qs:id":273986,
+        "qs_pg:id":273986,
         "wd:id":"Q492552",
         "wk:page":"Namangan"
     },
@@ -368,7 +371,7 @@
         }
     ],
     "wof:id":421168859,
-    "wof:lastmodified":1563582842,
+    "wof:lastmodified":1566643822,
     "wof:name":"Namangan",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

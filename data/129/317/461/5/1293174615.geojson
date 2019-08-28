@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"68.77314,40.83099,68.81314,40.87099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "G\u00fcl"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1293174615,
-    "wof:lastmodified":1564286379,
+    "wof:lastmodified":1566643450,
     "wof:name":"Gul",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

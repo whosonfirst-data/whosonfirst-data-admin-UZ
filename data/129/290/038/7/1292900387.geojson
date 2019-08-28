@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"65.63324,40.37518,65.67324,40.41518",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ak-tyube",
         "Ak-Tepe",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1292900387,
-    "wof:lastmodified":1537713363,
+    "wof:lastmodified":1566643429,
     "wof:name":"Oqtepa",
     "wof:parent_id":85680385,
     "wof:placetype":"locality",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"64.677347,40.100877,64.677347,40.100877",
     "geom:latitude":40.100877,
     "geom:longitude":64.677347,
     "iso:country":"UZ",
+    "lbl:bbox":"64.657347,40.080877,64.697347,40.120877",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2272565,
-        "qs:id":1211564
+        "qs_pg:id":1211564
     },
     "wof:country":"UZ",
     "wof:created":1459008884,
-    "wof:geomhash":"cfced04906867a437e9b499490471f2a",
+    "wof:geomhash":"f998a74d40c8d934bf8e12f3b8451f9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421171183,
-    "wof:lastmodified":1466635833,
+    "wof:lastmodified":1566643833,
     "wof:name":"Gizhduvan",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

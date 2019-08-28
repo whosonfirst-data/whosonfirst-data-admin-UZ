@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.74827,40.31792,71.78827,40.35792",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Qorasuv"
     ],
@@ -58,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0441\u0443\u0432"
     ],
-    "name:und_x_variant":[
-        "Karasu"
-    ],
     "name:urd_x_preferred":[
         "\u0642\u0631\u06c1 \u0633\u0648\u0648"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1309917435,
-    "wof:lastmodified":1564286834,
+    "wof:lastmodified":1566643797,
     "wof:name":"Qorasuv",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

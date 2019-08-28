@@ -23,11 +23,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"66.11671,40.6907,66.15671,40.7307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "Koshrabad",
-        "Qizilcha"
+        "Koshrabad"
     ],
     "name:uzb_x_preferred":[
         "Qizilcha"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1343455381,
-    "wof:lastmodified":1564286242,
+    "wof:lastmodified":1566643345,
     "wof:name":"Qizilcha",
     "wof:parent_id":85680385,
     "wof:placetype":"locality",

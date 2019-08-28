@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":38.76017,
     "lbl:longitude":66.233129,
+    "lbl:min_zoom":8.0,
     "mps:latitude":38.76017,
     "mps:longitude":66.233129,
     "mz:hierarchy_label":1,
@@ -175,7 +176,7 @@
         "Qasjqadarja"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bb7\u0bcd\u0b95\u0bbf\u0b86\u0b9f\u0baf\u0bcb  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b95\u0bb7\u0bcd\u0b95\u0bbf\u0b86\u0b9f\u0baf\u0bcb \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tat_x_preferred":[
         "\u041a\u0430\u0448\u043a\u0430\u0434\u04d9\u0440\u044c\u044f \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -286,9 +287,9 @@
     "qs:type":"Region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1998-03-01",
+    "src:population_date":"1998-03-01",
     "statoids:area_km":"28,400",
     "statoids:area_mi":"11,000",
     "statoids:as_of_date":"1998-03-01",
@@ -313,7 +314,7 @@
         "gp:id":2347664,
         "hasc:id":"UZ.QA",
         "iso:id":"UZ-QA",
-        "qs:id":219629,
+        "qs_pg:id":219629,
         "unlc:id":"UZ-QA",
         "wd:id":"Q487577",
         "wk:page":"Qashqadaryo Region"
@@ -334,11 +335,10 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1565738640,
+    "wof:lastmodified":1566643359,
     "wof:name":"Kashkadarya",
     "wof:parent_id":85632645,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":2067000,
     "wof:population_rank":12,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"66.77339,38.63738,66.81339,38.67738",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lyaylyak",
         "Lyaylik",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209434885,
-    "wof:lastmodified":1537713255,
+    "wof:lastmodified":1566643629,
     "wof:name":"O`rtadara",
     "wof:parent_id":85632645,
     "wof:placetype":"locality",

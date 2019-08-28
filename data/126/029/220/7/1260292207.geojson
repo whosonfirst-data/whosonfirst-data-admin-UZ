@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"70.92999,40.48188,70.96999,40.52188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0622\u0648\u0686\u06cc"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1260292207,
-    "wof:lastmodified":1564286687,
+    "wof:lastmodified":1566643686,
     "wof:name":"Ovchi",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

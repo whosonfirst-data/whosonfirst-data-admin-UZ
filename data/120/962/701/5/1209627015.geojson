@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.33597,40.35638,71.37597,40.39638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dutir"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209627015,
-    "wof:lastmodified":1537713463,
+    "wof:lastmodified":1566643555,
     "wof:name":"Do`tir",
     "wof:parent_id":85632645,
     "wof:placetype":"locality",

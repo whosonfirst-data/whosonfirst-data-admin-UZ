@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"66.32636,38.98764,66.36636,39.02764",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mayda"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1243249077,
-    "wof:lastmodified":1564286931,
+    "wof:lastmodified":1566643887,
     "wof:name":"Mayda",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

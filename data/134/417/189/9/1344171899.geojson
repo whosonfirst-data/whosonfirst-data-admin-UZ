@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"67.09667,40.06333,67.13667,40.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u0643"
     ],
@@ -60,8 +64,7 @@
         "Turk"
     ],
     "name:und_x_variant":[
-        "Shurcha",
-        "Turk"
+        "Shurcha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1344171899,
-    "wof:lastmodified":1564286225,
+    "wof:lastmodified":1566643332,
     "wof:name":"Turk",
     "wof:parent_id":85680415,
     "wof:placetype":"locality",

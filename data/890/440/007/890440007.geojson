@@ -11,8 +11,11 @@
     "geom:longitude":64.55167,
     "gn:country":"UZ",
     "gn:fcode":"PPL",
-    "gn:pop":62620,
+    "gn:population":62620,
     "iso:country":"UZ",
+    "lbl:bbox":"64.53167,39.70278,64.57167,39.74278",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -205,7 +208,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0433\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novaya Bukhara"
     ],
     "name:vec_x_preferred":[
@@ -336,7 +339,7 @@
     "wof:concordances":{
         "gn:id":1217180,
         "gp:id":2272571,
-        "qs:id":130937,
+        "qs_pg:id":130937,
         "wd:id":"Q419081",
         "wk:page":"Kogon"
     },
@@ -352,7 +355,7 @@
         }
     ],
     "wof:id":890440007,
-    "wof:lastmodified":1563582888,
+    "wof:lastmodified":1566643834,
     "wof:name":"Kogon",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

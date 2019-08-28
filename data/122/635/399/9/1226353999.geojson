@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"70.68734,40.61623,70.72734,40.65623",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Chinachak"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226353999,
-    "wof:lastmodified":1537713374,
+    "wof:lastmodified":1566644029,
     "wof:name":"Chinachak",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.47687,40.90936,72.51687,40.94936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kokankishlak",
         "Pakhtaabad",
         "Koran-Kishlak",
-        "Q\u016dqonqishloq",
-        "Pakhtaobod"
+        "Q\u016dqonqishloq"
     ],
     "name:uzb_x_preferred":[
         "Pakhtaobod"
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1226351903,
-    "wof:lastmodified":1537713318,
+    "wof:lastmodified":1566644030,
     "wof:name":"Paxtaobod",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

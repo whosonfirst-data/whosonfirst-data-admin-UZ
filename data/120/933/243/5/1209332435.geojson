@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"UZ",
+    "lbl:bbox":"72.33561,40.58452,72.37561,40.62452",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0423\u043a\u0447\u0438"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209332435,
-    "wof:lastmodified":1537713305,
+    "wof:lastmodified":1566643608,
     "wof:name":"O`qchi",
     "wof:parent_id":85632645,
     "wof:placetype":"locality",

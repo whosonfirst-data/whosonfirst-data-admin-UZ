@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.21549,40.97264,72.25549,41.01264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Arabqishloq"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209324203,
-    "wof:lastmodified":1537713480,
+    "wof:lastmodified":1566643600,
     "wof:name":"Arabqishloq",
     "wof:parent_id":85632645,
     "wof:placetype":"locality",

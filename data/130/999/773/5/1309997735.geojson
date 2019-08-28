@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"64.89039,40.1385,64.93039,40.1785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Urta-Kurgan"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309997735,
-    "wof:lastmodified":1537713304,
+    "wof:lastmodified":1566643803,
     "wof:name":"O`rtaqo`rg`on",
     "wof:parent_id":85680385,
     "wof:placetype":"locality",

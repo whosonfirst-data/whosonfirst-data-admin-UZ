@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"66.81556,39.07556,66.85556,39.11556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Oktyabr\u2019",
         "Otyabr\u2019skiy"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209711113,
-    "wof:lastmodified":1537713251,
+    "wof:lastmodified":1566643583,
     "wof:name":"Otyabr'skiy",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

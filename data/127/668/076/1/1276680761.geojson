@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.70449,41.28468,71.74449,41.32468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Pastki Yalang\u2018och"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276680761,
-    "wof:lastmodified":1537713394,
+    "wof:lastmodified":1566643506,
     "wof:name":"Pastki Yalang`och",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

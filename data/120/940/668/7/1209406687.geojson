@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"65.65947,40.54762,65.69947,40.58762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gorod Nurata",
         "Nurota Shahri"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209406687,
-    "wof:lastmodified":1537713371,
+    "wof:lastmodified":1566643581,
     "wof:name":"Nurota Shahri",
     "wof:parent_id":85632645,
     "wof:placetype":"locality",

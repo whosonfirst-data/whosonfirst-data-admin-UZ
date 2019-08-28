@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.12854,41.05368,71.16854,41.09368",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Og\u2018asaroy"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310103293,
-    "wof:lastmodified":1537713392,
+    "wof:lastmodified":1566643737,
     "wof:name":"Og`asaroy",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

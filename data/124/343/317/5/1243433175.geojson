@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"69.71972,41.28806,69.75972,41.32806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Changi"
     ],
@@ -69,8 +73,7 @@
         "\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bbf"
     ],
     "name:und_x_variant":[
-        "Changir",
-        "Changi"
+        "Changir"
     ],
     "name:urd_x_preferred":[
         "\u0686\u0627\u0646\u06af\u06cc"
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1243433175,
-    "wof:lastmodified":1564287002,
+    "wof:lastmodified":1566643939,
     "wof:name":"Changi",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

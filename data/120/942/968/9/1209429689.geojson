@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"67.09667,39.66333,67.13667,39.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Galya-Kepa",
         "Gallyakapa"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209429689,
-    "wof:lastmodified":1537713275,
+    "wof:lastmodified":1566643622,
     "wof:name":"Gallyakapa",
     "wof:parent_id":85632645,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"65.96498,39.40732,66.00498,39.44732",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Xozrasmali"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209298139,
-    "wof:lastmodified":1537713402,
+    "wof:lastmodified":1566643612,
     "wof:name":"Xozrasmali",
     "wof:parent_id":85632645,
     "wof:placetype":"locality",

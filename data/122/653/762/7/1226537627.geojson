@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.65361,40.93116,71.69361,40.97116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kumkurgan"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226537627,
-    "wof:lastmodified":1537713345,
+    "wof:lastmodified":1566644069,
     "wof:name":"G`alcha",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

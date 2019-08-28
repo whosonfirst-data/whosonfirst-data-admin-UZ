@@ -11,10 +11,14 @@
     "geom:longitude":71.80512,
     "gn:country":"UZ",
     "gn:fcode":"PPL",
-    "gn:pop":5100,
+    "gn:population":5100,
     "iso:country":"UZ",
+    "lbl:bbox":"71.78512,39.96322,71.82512,40.00322",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0634\u0627\u0629 \u0645\u0631\u062f\u0627\u0646"
     ],
@@ -87,7 +91,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0445\u0456\u043c\u0430\u0440\u0434\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shakhimardan"
     ],
     "name:uzb_x_preferred":[
@@ -110,7 +114,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1216189,
-        "qs:id":130932,
+        "qs_pg:id":130932,
         "wd:id":"Q1005592",
         "wk:page":"Shohimardon"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":890452375,
-    "wof:lastmodified":1563582893,
+    "wof:lastmodified":1566643835,
     "wof:name":"Shohimardon",
     "wof:parent_id":85672995,
     "wof:placetype":"locality",

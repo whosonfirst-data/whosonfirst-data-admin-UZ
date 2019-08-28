@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"59.07511,42.99267,59.11511,43.03267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1226635755,
-    "wof:lastmodified":1536872860,
+    "wof:lastmodified":1566644064,
     "wof:name":"Janatalap",
     "wof:parent_id":85680381,
     "wof:placetype":"locality",

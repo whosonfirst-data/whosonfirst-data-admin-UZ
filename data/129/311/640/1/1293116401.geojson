@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.67706,40.66418,72.71706,40.70418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u042f\u043d\u0433\u0438-\u0411\u0443\u0441\u0442\u0430\u043d"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293116401,
-    "wof:lastmodified":1537713432,
+    "wof:lastmodified":1566643438,
     "wof:name":"Yangi Bo`ston",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

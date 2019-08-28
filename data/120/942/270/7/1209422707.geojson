@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"70.88071,40.66458,70.92071,40.70458",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kiyaly",
         "Kumkiyali",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209422707,
-    "wof:lastmodified":1537713374,
+    "wof:lastmodified":1566643622,
     "wof:name":"Qumqiyali",
     "wof:parent_id":85632645,
     "wof:placetype":"locality",

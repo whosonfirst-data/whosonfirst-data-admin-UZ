@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"60.04276,42.10215,60.08276,42.14215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gorod Mangit",
         "Manghit Shahri"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309824823,
-    "wof:lastmodified":1537713371,
+    "wof:lastmodified":1566643807,
     "wof:name":"Mang`it Shahri",
     "wof:parent_id":85680381,
     "wof:placetype":"locality",

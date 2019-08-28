@@ -10,6 +10,9 @@
     "geom:latitude":41.37833,
     "geom:longitude":60.36389,
     "iso:country":"UZ",
+    "lbl:bbox":"60.34389,41.35833,60.38389,41.39833",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -191,7 +194,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0456\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khorezm"
     ],
     "name:urd_x_preferred":[
@@ -331,7 +334,7 @@
     "wof:concordances":{
         "gn:id":1513604,
         "gp:id":2272594,
-        "qs:id":493493,
+        "qs_pg:id":493493,
         "wd:id":"Q486195",
         "wk:page":"Khiva"
     },
@@ -347,7 +350,7 @@
         }
     ],
     "wof:id":421168861,
-    "wof:lastmodified":1563582843,
+    "wof:lastmodified":1566643822,
     "wof:name":"Khiva",
     "wof:parent_id":85680377,
     "wof:placetype":"locality",

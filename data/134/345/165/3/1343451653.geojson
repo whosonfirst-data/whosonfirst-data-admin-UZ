@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"65.53229,38.78451,65.57229,38.82451",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shirkent"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343451653,
-    "wof:lastmodified":1537713245,
+    "wof:lastmodified":1566643345,
     "wof:name":"Sherkent",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

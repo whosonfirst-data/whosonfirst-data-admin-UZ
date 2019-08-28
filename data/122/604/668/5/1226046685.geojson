@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.52482,40.89628,72.56482,40.93628",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0410\u0431\u0434\u0436\u0443\u0432\u0430\u0437"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226046685,
-    "wof:lastmodified":1537713437,
+    "wof:lastmodified":1566644028,
     "wof:name":"Abjuvaz",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

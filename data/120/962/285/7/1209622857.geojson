@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.15617,40.51234,71.19617,40.55234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pakhta"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209622857,
-    "wof:lastmodified":1537713467,
+    "wof:lastmodified":1566643558,
     "wof:name":"Paxta",
     "wof:parent_id":85632645,
     "wof:placetype":"locality",

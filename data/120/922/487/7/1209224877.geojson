@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"60.49667,41.69667,60.53667,41.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "At-Chapar",
         "Khuday-Nazar-Sheykh"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209224877,
-    "wof:lastmodified":1537713332,
+    "wof:lastmodified":1566643590,
     "wof:name":"Khuday-Nazar-Sheykh",
     "wof:parent_id":85632645,
     "wof:placetype":"locality",

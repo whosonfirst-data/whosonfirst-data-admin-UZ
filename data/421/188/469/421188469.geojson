@@ -10,8 +10,11 @@
     "geom:latitude":41.28194,
     "geom:longitude":69.18111,
     "iso:country":"UZ",
+    "lbl:bbox":"69.17611,41.27694,69.18611,41.28694",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Chilonzor Tumani"
@@ -78,7 +81,7 @@
     "wof:concordances":{
         "gn:id":1514230,
         "gp:id":2269787,
-        "qs:id":1097014,
+        "qs_pg:id":1097014,
         "wd:id":"Q2637617",
         "wk:page":"Chilanzar"
     },
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421188469,
-    "wof:lastmodified":1563582868,
+    "wof:lastmodified":1566643828,
     "wof:name":"Chilanzar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

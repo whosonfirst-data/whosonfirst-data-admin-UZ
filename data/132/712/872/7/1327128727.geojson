@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"60.98111,41.53444,61.02111,41.57444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0414\u04af\u0440\u0442\u043a\u04af\u043b"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1327128727,
-    "wof:lastmodified":1564286058,
+    "wof:lastmodified":1566643209,
     "wof:name":"Turtkul",
     "wof:parent_id":85680381,
     "wof:placetype":"locality",

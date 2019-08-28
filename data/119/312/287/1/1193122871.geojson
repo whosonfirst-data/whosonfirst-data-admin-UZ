@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"66.20316,39.37242,66.24316,39.41242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Airitam",
         "Air-Tam",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193122871,
-    "wof:lastmodified":1537713286,
+    "wof:lastmodified":1566643649,
     "wof:name":"Ayritom",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"65.74278,38.85361,65.78278,38.89361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lauman"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226740529,
-    "wof:lastmodified":1537713295,
+    "wof:lastmodified":1566644016,
     "wof:name":"Lag`mon",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

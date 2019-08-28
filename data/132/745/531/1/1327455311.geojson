@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"64.66333,39.93,64.70333,39.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dad-burun",
         "Dodburun"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327455311,
-    "wof:lastmodified":1537713278,
+    "wof:lastmodified":1566643259,
     "wof:name":"Dodburun",
     "wof:parent_id":85680385,
     "wof:placetype":"locality",

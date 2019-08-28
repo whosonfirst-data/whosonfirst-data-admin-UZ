@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Samarkand",
     "iso:country":"UZ",
+    "lbl:bbox":"67.31333,37.76333,67.35333,37.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1310219585,
-    "wof:lastmodified":1536830884,
+    "wof:lastmodified":1566643742,
     "wof:name":"Topkara",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",

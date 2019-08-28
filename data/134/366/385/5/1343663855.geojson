@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"UZ",
+    "lbl:bbox":"71.07787,40.06421,71.11787,40.10421",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041b\u0438\u043c\u0431\u0443\u0440"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343663855,
-    "wof:lastmodified":1564286197,
+    "wof:lastmodified":1566643311,
     "wof:name":"Limbur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

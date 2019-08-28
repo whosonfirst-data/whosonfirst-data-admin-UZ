@@ -10,8 +10,12 @@
     "geom:latitude":40.42722,
     "geom:longitude":71.71889,
     "iso:country":"UZ",
+    "lbl:bbox":"71.69889,40.40722,71.73889,40.44722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Komsomolski"
@@ -43,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stantsiya Gorchakovo"
     ],
     "name:uzb_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":1513491,
         "gp:id":2270889,
-        "qs:id":133086
+        "qs_pg:id":133086
     },
     "wof:country":"UZ",
     "wof:created":1459009912,
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421197405,
-    "wof:lastmodified":1527716406,
+    "wof:lastmodified":1566643830,
     "wof:name":"Komsomol'skiy",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

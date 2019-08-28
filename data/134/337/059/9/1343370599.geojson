@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"71.14922,40.45135,71.18922,40.49135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Karakul\u2019"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343370599,
-    "wof:lastmodified":1537713466,
+    "wof:lastmodified":1566643271,
     "wof:name":"Qorako`l",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

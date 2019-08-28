@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"UZ",
+    "lbl:bbox":"72.1573,40.71496,72.1973,40.75496",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Sho\u2018rqishloq"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310109877,
-    "wof:lastmodified":1537713452,
+    "wof:lastmodified":1566643738,
     "wof:name":"Sho`rqishloq",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",
