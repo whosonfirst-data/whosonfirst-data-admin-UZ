@@ -69,6 +69,9 @@
         "gp:id":2271575
     },
     "wof:country":"UZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"433c6156e9276408813a6ee362044df8",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566643357,
+    "wof:lastmodified":1582379068,
     "wof:name":"Qoraqamish",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

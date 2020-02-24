@@ -75,6 +75,9 @@
         "gp:id":2269282
     },
     "wof:country":"UZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"66e81f1f9ab854339171325772439198",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566643357,
+    "wof:lastmodified":1582379067,
     "wof:name":"Aktepa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
