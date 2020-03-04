@@ -624,6 +624,9 @@
     ],
     "wof:country":"UZ",
     "wof:created":1459008783,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"08f064e0cb5e9b511ba78dff08ba22b4",
     "wof:hierarchy":[
         {
@@ -634,7 +637,7 @@
         }
     ],
     "wof:id":421168855,
-    "wof:lastmodified":1566643822,
+    "wof:lastmodified":1582379076,
     "wof:name":"Tashkent",
     "wof:parent_id":85680429,
     "wof:placetype":"locality",

@@ -321,6 +321,9 @@
     },
     "wof:country":"UZ",
     "wof:created":1469052062,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"75a4692fbbb01d01716acdef6e2b2efb",
     "wof:hierarchy":[
         {
@@ -331,7 +334,7 @@
         }
     ],
     "wof:id":890435301,
-    "wof:lastmodified":1566643837,
+    "wof:lastmodified":1582379077,
     "wof:name":"Urganch",
     "wof:parent_id":85680377,
     "wof:placetype":"locality",

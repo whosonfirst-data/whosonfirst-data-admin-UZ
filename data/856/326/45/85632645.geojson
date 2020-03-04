@@ -1040,6 +1040,10 @@
     },
     "wof:country":"UZ",
     "wof:country_alpha3":"UZB",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"42b30b065ed38867009fa7731e085068",
     "wof:hierarchy":[
         {
@@ -1054,7 +1058,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1566643360,
+    "wof:lastmodified":1583259822,
     "wof:name":"Uzbekistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
