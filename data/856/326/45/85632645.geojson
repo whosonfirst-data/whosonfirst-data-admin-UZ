@@ -1017,9 +1017,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Uzbekistan",
-        "digitalenvoy:country_code":[
-            860
-        ],
+        "digitalenvoy:country_code":860,
         "fb:id":"en.uzbekistan",
         "fifa:id":"UZB",
         "fips:code":"UZ",
@@ -1061,7 +1059,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1583529243,
+    "wof:lastmodified":1583797453,
     "wof:name":"Uzbekistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
