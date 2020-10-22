@@ -9,7 +9,6 @@
     "geom:bbox":"55.9758386634,40.9858706731,62.4709985702,45.5587189739",
     "geom:latitude":43.421428,
     "geom:longitude":58.818394,
-    "gn:id":"",
     "iso:country":"UZ",
     "label:eng_x_preferred_longname":[
         "Karakalpakstan Autonomous Republic"
@@ -400,7 +399,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1566643359,
+    "wof:lastmodified":1603263306,
     "wof:name":"Karakalpakstan",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

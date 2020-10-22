@@ -9,7 +9,6 @@
     "geom:bbox":"66.6142598807,39.4844127402,68.6965449805,41.2003803517",
     "geom:latitude":40.374117,
     "geom:longitude":67.641471,
-    "gn:id":"",
     "iso:country":"UZ",
     "label:eng_x_preferred_longname":[
         "Jizzakh Region"
@@ -333,7 +332,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1566643358,
+    "wof:lastmodified":1603263306,
     "wof:name":"Jizzakh",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

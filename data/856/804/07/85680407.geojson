@@ -9,7 +9,6 @@
     "geom:bbox":"70.353824097,39.8744664525,72.2283277997,40.7747466093",
     "geom:latitude":40.437051,
     "geom:longitude":71.279152,
-    "gn:id":"",
     "iso:country":"UZ",
     "label:eng_x_preferred_longname":[
         "Ferghana Region"
@@ -347,7 +346,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1566643358,
+    "wof:lastmodified":1603263306,
     "wof:name":"Ferghana",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

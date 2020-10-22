@@ -9,7 +9,6 @@
     "geom:bbox":"62.1803703141,38.9403740458,65.3654472194,41.4932815624",
     "geom:latitude":40.178214,
     "geom:longitude":63.719414,
-    "gn:id":"",
     "iso:country":"UZ",
     "label:eng_x_preferred_longname":[
         "Bukhoro Region"
@@ -349,7 +348,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1566643359,
+    "wof:lastmodified":1603263306,
     "wof:name":"Bukhoro",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

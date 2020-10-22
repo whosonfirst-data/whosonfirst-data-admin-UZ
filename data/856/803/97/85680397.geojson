@@ -9,7 +9,6 @@
     "geom:bbox":"66.4934912514,37.1851474,68.3606641035,39.0029780217",
     "geom:latitude":38.020592,
     "geom:longitude":67.458519,
-    "gn:id":"",
     "iso:country":"UZ",
     "label:eng_x_preferred_longname":[
         "Surkhandarya Region"
@@ -342,7 +341,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1566643359,
+    "wof:lastmodified":1603263306,
     "wof:name":"Surkhandarya",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

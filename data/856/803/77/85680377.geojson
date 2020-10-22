@@ -9,7 +9,6 @@
     "geom:bbox":"60.0491817632,40.5055155224,62.4472790871,42.0055758729",
     "geom:latitude":41.344159,
     "geom:longitude":61.023834,
-    "gn:id":"",
     "gn:population":1411406,
     "iso:country":"UZ",
     "label:eng_x_preferred_longname":[
@@ -332,7 +331,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1566643360,
+    "wof:lastmodified":1603263306,
     "wof:name":"Khorezm",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

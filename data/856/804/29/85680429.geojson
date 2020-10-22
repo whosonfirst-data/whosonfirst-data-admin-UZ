@@ -9,7 +9,6 @@
     "geom:bbox":"69.1360688076,41.2191723459,69.3637697456,41.4035519085",
     "geom:latitude":41.317804,
     "geom:longitude":69.249157,
-    "gn:id":"",
     "gn:population":2309600,
     "iso:country":"UZ",
     "label:eng_x_preferred_longname":[
@@ -345,7 +344,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1566643358,
+    "wof:lastmodified":1603263306,
     "wof:name":"Tashkent",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

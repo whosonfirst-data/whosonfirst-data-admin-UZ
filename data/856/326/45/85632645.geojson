@@ -9,7 +9,6 @@
     "geom:bbox":"55.998218,37.172257,73.148946,45.590075",
     "geom:latitude":41.774572,
     "geom:longitude":63.124064,
-    "gn:id":"",
     "gn:population":27865738,
     "iso:country":"UZ",
     "itu:country_code":[
@@ -1116,7 +1115,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1587428697,
+    "wof:lastmodified":1603263306,
     "wof:name":"Uzbekistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

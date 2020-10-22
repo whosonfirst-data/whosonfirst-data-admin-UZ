@@ -9,7 +9,6 @@
     "geom:bbox":"61.7430843438,39.4642581237,66.8012252127,43.7227845255",
     "geom:latitude":41.975654,
     "geom:longitude":64.359571,
-    "gn:id":"",
     "iso:country":"UZ",
     "label:eng_x_preferred_longname":[
         "Navoi Region"
@@ -338,7 +337,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1566643360,
+    "wof:lastmodified":1603263306,
     "wof:name":"Navoi",
     "wof:parent_id":85632645,
     "wof:placetype":"region",
