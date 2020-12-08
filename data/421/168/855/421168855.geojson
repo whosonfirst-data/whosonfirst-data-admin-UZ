@@ -637,7 +637,9 @@
         85680429
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632645,
+    "wof:capital_of":[
+        85632645
+    ],
     "wof:concordances":{
         "gn:id":1512569,
         "gp:id":2272113,
@@ -662,7 +664,7 @@
         }
     ],
     "wof:id":421168855,
-    "wof:lastmodified":1587428698,
+    "wof:lastmodified":1607390882,
     "wof:name":"Tashkent",
     "wof:parent_id":85680429,
     "wof:placetype":"locality",
