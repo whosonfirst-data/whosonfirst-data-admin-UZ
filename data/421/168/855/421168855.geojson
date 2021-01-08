@@ -643,6 +643,7 @@
     "wof:concordances":{
         "gn:id":1512569,
         "gp:id":2272113,
+        "ne:id":1159151501,
         "qs_pg:id":1064617,
         "wd:id":"Q269"
     },
@@ -664,7 +665,8 @@
         }
     ],
     "wof:id":421168855,
-    "wof:lastmodified":1607390882,
+    "wof:lastmodified":1608688189,
+    "wof:megacity":1,
     "wof:name":"Tashkent",
     "wof:parent_id":85680429,
     "wof:placetype":"locality",
