@@ -135,6 +135,9 @@
         "Buchara"
     ],
     "name:hun_x_preferred":[
+        "Bukhoro"
+    ],
+    "name:hun_x_variant":[
         "Buhara"
     ],
     "name:hye_x_preferred":[
@@ -474,7 +477,7 @@
         }
     ],
     "wof:id":421173627,
-    "wof:lastmodified":1566643827,
+    "wof:lastmodified":1636504663,
     "wof:name":"Bukhoro",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

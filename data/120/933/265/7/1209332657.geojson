@@ -38,6 +38,9 @@
     "name:bel_x_preferred":[
         "\u042e\u0440\u0433\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0987\u09df\u09c1\u09b0\u0997\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u042e\u0440\u0433\u0430"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:deu_x_preferred":[
         "Jurga"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03bf\u03cd\u03c1\u03b3\u03ba\u03b1"
     ],
     "name:epo_x_preferred":[
         "Jurga"
@@ -68,8 +74,14 @@
     "name:fra_x_preferred":[
         "Iourga"
     ],
+    "name:hin_x_preferred":[
+        "\u092f\u0941\u0930\u094d\u0917\u093e"
+    ],
     "name:hsb_x_preferred":[
         "Jurga"
+    ],
+    "name:ind_x_preferred":[
+        "Yurga"
     ],
     "name:ita_x_preferred":[
         "Jurga"
@@ -131,6 +143,9 @@
     "name:ukr_x_preferred":[
         "\u042e\u0440\u0433\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u0631\u06af\u0627"
+    ],
     "name:vep_x_preferred":[
         "Jurg"
     ],
@@ -160,7 +175,7 @@
         }
     ],
     "wof:id":1209332657,
-    "wof:lastmodified":1566643609,
+    "wof:lastmodified":1636504657,
     "wof:name":"Yurga",
     "wof:parent_id":85632645,
     "wof:placetype":"locality",

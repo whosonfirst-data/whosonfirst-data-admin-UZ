@@ -93,6 +93,9 @@
         "Namangan"
     ],
     "name:hun_x_preferred":[
+        "Namangan"
+    ],
+    "name:hun_x_variant":[
         "Namang\u00e1n"
     ],
     "name:hye_x_preferred":[
@@ -371,7 +374,7 @@
         }
     ],
     "wof:id":421168859,
-    "wof:lastmodified":1566643822,
+    "wof:lastmodified":1636504661,
     "wof:name":"Namangan",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

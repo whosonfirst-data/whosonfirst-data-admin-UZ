@@ -74,6 +74,9 @@
     "name:hsb_x_preferred":[
         "Guliston"
     ],
+    "name:hun_x_preferred":[
+        "Guliston"
+    ],
     "name:hye_x_preferred":[
         "\u0533\u0578\u0582\u056c\u056b\u057d\u057f\u0561\u0576"
     ],
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":1293776589,
-    "wof:lastmodified":1566643386,
+    "wof:lastmodified":1636504653,
     "wof:name":"Guliston",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

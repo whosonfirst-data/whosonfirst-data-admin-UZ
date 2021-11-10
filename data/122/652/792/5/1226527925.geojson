@@ -327,6 +327,9 @@
         "To\u02bbg\u02bbon"
     ],
     "name:vie_x_preferred":[
+        "Dam"
+    ],
+    "name:vie_x_variant":[
         "\u0110\u1eadp"
     ],
     "name:war_x_preferred":[
@@ -341,6 +344,12 @@
     "name:yid_x_preferred":[
         "\u05d3\u05d0\u05dd"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u6c34\u5e93"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9054\u6728\u6cb3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -352,7 +361,7 @@
         "gn:id":7785312
     },
     "wof:country":"UZ",
-    "wof:geomhash":"a86e68e135f4d90e1556d1cba7d52594",
+    "wof:geomhash":"9dd64f51294bceb610683e6c7318dab5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -362,7 +371,7 @@
         }
     ],
     "wof:id":1226527925,
-    "wof:lastmodified":1566644063,
+    "wof:lastmodified":1636504669,
     "wof:name":"Dam",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",
@@ -372,10 +381,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    66.55058000000001,
+    66.55058,
     39.01353,
-    66.55058000000001,
+    66.55058,
     39.01353
 ],
-  "geometry": {"coordinates":[66.55058000000001,39.01353],"type":"Point"}
+  "geometry": {"coordinates":[66.55058,39.01353],"type":"Point"}
 }

@@ -68,6 +68,9 @@
     "name:guj_x_preferred":[
         "\u0aa8\u0ab5\u0acb\u0aaf"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d0\u05d1\u05d5\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0928\u0935\u094b\u0908"
     ],
@@ -328,7 +331,7 @@
         }
     ],
     "wof:id":421168857,
-    "wof:lastmodified":1566643822,
+    "wof:lastmodified":1636504662,
     "wof:name":"Navoi",
     "wof:parent_id":85680385,
     "wof:placetype":"locality",

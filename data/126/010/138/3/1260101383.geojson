@@ -29,6 +29,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0632\u0631\u0627\u0641\u0634\u0648\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09b0\u09be\u09ab\u09b6\u09cb\u09a8"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03c1\u03b1\u03c6\u03c3\u03cc\u03bd"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05e8\u05e4\u05e9\u05d5\u05df"
+    ],
+    "name:ind_x_preferred":[
+        "Zarafshon"
+    ],
+    "name:swe_x_preferred":[
+        "Zarafshon"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0627\u0631\u0641\u0634\u0648\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Zarafshon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -40,7 +64,7 @@
         "gn:id":7858623
     },
     "wof:country":"UZ",
-    "wof:geomhash":"433a850b58ffaa774631f88b5d75ac52",
+    "wof:geomhash":"5291a2ea1f1d1783ba94c4c00a777079",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1260101383,
-    "wof:lastmodified":1566643692,
+    "wof:lastmodified":1636504658,
     "wof:name":"Zarafshon",
     "wof:parent_id":85680385,
     "wof:placetype":"locality",
@@ -60,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    65.71916999999999,
+    65.71917,
     40.10176,
-    65.71916999999999,
+    65.71917,
     40.10176
 ],
-  "geometry": {"coordinates":[65.71916999999999,40.10176],"type":"Point"}
+  "geometry": {"coordinates":[65.71917000000001,40.10176],"type":"Point"}
 }

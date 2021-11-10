@@ -132,6 +132,9 @@
         "Zaljev"
     ],
     "name:hun_x_preferred":[
+        "Bay"
+    ],
+    "name:hun_x_variant":[
         "\u00d6b\u00f6l"
     ],
     "name:hye_x_preferred":[
@@ -338,7 +341,7 @@
         }
     ],
     "wof:id":1326552481,
-    "wof:lastmodified":1566643236,
+    "wof:lastmodified":1636504648,
     "wof:name":"Bay",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

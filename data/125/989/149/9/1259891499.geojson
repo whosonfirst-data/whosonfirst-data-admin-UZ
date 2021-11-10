@@ -71,6 +71,9 @@
     "name:hsb_x_preferred":[
         "Guliston"
     ],
+    "name:hun_x_preferred":[
+        "Guliston"
+    ],
     "name:hye_x_preferred":[
         "\u0533\u0578\u0582\u056c\u056b\u057d\u057f\u0561\u0576"
     ],
@@ -148,7 +151,7 @@
         "gn:id":11057394
     },
     "wof:country":"UZ",
-    "wof:geomhash":"725e04f560d831b1617c5cf22ecb7604",
+    "wof:geomhash":"5c1a0396067be7d6426a39baee54128e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":1259891499,
-    "wof:lastmodified":1566643997,
+    "wof:lastmodified":1636504667,
     "wof:name":"Guliston",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",
@@ -168,10 +171,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    71.05771999999997,
+    71.05772,
     40.59304,
-    71.05771999999997,
+    71.05772,
     40.59304
 ],
-  "geometry": {"coordinates":[71.05771999999997,40.59304],"type":"Point"}
+  "geometry": {"coordinates":[71.05772,40.59304],"type":"Point"}
 }

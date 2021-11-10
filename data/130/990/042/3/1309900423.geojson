@@ -29,6 +29,69 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0993\u09a4\u09be\u09b0"
+    ],
+    "name:deu_x_preferred":[
+        "Otar"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c4\u03ac\u03c1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062a\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Otar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d8\u05d0\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0913\u0924\u093e\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Otar"
+    ],
+    "name:ind_x_preferred":[
+        "Otar"
+    ],
+    "name:ita_x_preferred":[
+        "Otar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30bf\u30fc\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ud0c0\ub974"
+    ],
+    "name:nld_x_preferred":[
+        "Otar"
+    ],
+    "name:pol_x_preferred":[
+        "Otar"
+    ],
+    "name:spa_x_preferred":[
+        "Otar"
+    ],
+    "name:swe_x_preferred":[
+        "Otar"
+    ],
+    "name:tur_x_preferred":[
+        "Otar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u062a\u0627\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Otar"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5965\u5854\u5c14"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5967\u5854\u723e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +113,7 @@
         }
     ],
     "wof:id":1309900423,
-    "wof:lastmodified":1566643800,
+    "wof:lastmodified":1636504661,
     "wof:name":"Otar",
     "wof:parent_id":85680385,
     "wof:placetype":"locality",

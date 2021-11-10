@@ -29,7 +29,13 @@
     "name:fra_x_preferred":[
         "Sirdaryo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05e8\u05d3\u05d0\u05e8\u05d9\u05d5"
+    ],
     "name:hsb_x_preferred":[
+        "Sirdaryo"
+    ],
+    "name:hun_x_preferred":[
         "Sirdaryo"
     ],
     "name:ita_x_preferred":[
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":421173995,
-    "wof:lastmodified":1566643828,
+    "wof:lastmodified":1636504663,
     "wof:name":"Sirdaryo",
     "wof:parent_id":85680419,
     "wof:placetype":"locality",

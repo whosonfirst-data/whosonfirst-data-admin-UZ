@@ -138,6 +138,9 @@
         "Salmon"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Salmon"
+    ],
+    "name:vie_x_variant":[
         "C\u00e1 h\u1ed3i"
     ],
     "src:geom":"geonames",
@@ -151,7 +154,7 @@
         "gn:id":7579398
     },
     "wof:country":"UZ",
-    "wof:geomhash":"b68aad1ae6151977bb23b90b8016e3b9",
+    "wof:geomhash":"acfbd08bebdafb8237a2be039570f7c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":1293805947,
-    "wof:lastmodified":1566643445,
+    "wof:lastmodified":1636504654,
     "wof:name":"Salmon",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",
@@ -171,10 +174,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    71.67683000000002,
+    71.67683,
     41.30893,
-    71.67683000000002,
+    71.67683,
     41.30893
 ],
-  "geometry": {"coordinates":[71.67683000000002,41.30893],"type":"Point"}
+  "geometry": {"coordinates":[71.67683,41.30893],"type":"Point"}
 }

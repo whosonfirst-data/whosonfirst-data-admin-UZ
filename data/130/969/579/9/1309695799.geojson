@@ -74,6 +74,9 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05e8\u05d5\u05d1"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u093f\u0930\u094b\u0935"
+    ],
     "name:hrv_x_preferred":[
         "Kirov"
     ],
@@ -82,6 +85,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u056b\u0580\u0578\u057e"
+    ],
+    "name:ind_x_preferred":[
+        "Kirov"
     ],
     "name:ita_x_preferred":[
         "Kirov"
@@ -135,6 +141,9 @@
         "Kirov"
     ],
     "name:spa_x_preferred":[
+        "Kirov"
+    ],
+    "name:spa_x_variant":[
         "K\u00edrov"
     ],
     "name:swa_x_preferred":[
@@ -148,6 +157,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0440\u043e\u0432"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0626\u06cc\u0631\u0648\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Kirov"
     ],
     "name:zho_x_preferred":[
         "\u57fa\u6d1b\u592b"
@@ -163,7 +178,7 @@
         "gn:id":11247345
     },
     "wof:country":"UZ",
-    "wof:geomhash":"84150285fc5aa93b755fa179c6935d8e",
+    "wof:geomhash":"ecca07c9f045c6c482e6a07c660f9476",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,7 +188,7 @@
         }
     ],
     "wof:id":1309695799,
-    "wof:lastmodified":1566643812,
+    "wof:lastmodified":1636504661,
     "wof:name":"Kirov",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",
@@ -183,10 +198,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    68.94684000000001,
+    68.94684,
     40.86273,
-    68.94684000000001,
+    68.94684,
     40.86273
 ],
-  "geometry": {"coordinates":[68.94684000000001,40.86273],"type":"Point"}
+  "geometry": {"coordinates":[68.94683999999999,40.86273],"type":"Point"}
 }
