@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.026099,
     "geom:area_square_m":242377731.507044,
-    "geom:bbox":"69.1360688076,41.2191723459,69.3637697456,41.4035519085",
+    "geom:bbox":"69.136069,41.219172,69.36377,41.403552",
     "geom:latitude":41.317804,
     "geom:longitude":69.249157,
     "gn:id":"",
@@ -39,17 +39,26 @@
     "name:aze_x_preferred":[
         "Da\u015fk\u0259nd vilay\u0259ti"
     ],
+    "name:bak_x_preferred":[
+        "\u0422\u0430\u0448\u043a\u0435\u043d\u0442 \u04e9\u043b\u043a\u04d9\u04bb\u0435"
+    ],
     "name:bel_x_preferred":[
         "\u0422\u0430\u0448\u043a\u0435\u043d\u0446\u043a\u0456 \u0432\u0456\u043b\u0430\u0435\u0442"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09b8\u0995\u09c7\u09a8\u09cd\u099f \u0985\u099e\u09cd\u099a\u09b2"
     ],
+    "name:ben_x_variant":[
+        "\u09a4\u09be\u09b6\u0996\u09a8\u09cd\u09a6 \u0985\u099e\u09cd\u099a\u09b2"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0430\u0448\u043a\u0435\u043d\u0442\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:ceb_x_preferred":[
         "Toshkent Viloyati"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0430\u0448\u043a\u0435\u043d\u0442\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
     "name:crh_x_preferred":[
         "Ta\u015fkent vil\u00e2yeti"
@@ -77,6 +86,9 @@
     "name:epo_x_preferred":[
         "Provinco Ta\u015dkento"
     ],
+    "name:epo_x_variant":[
+        "regiono Ta\u015dkento"
+    ],
     "name:est_x_preferred":[
         "Toshkendi vilajett"
     ],
@@ -95,11 +107,17 @@
     "name:fra_x_variant":[
         "Tachkent"
     ],
+    "name:frr_x_preferred":[
+        "Taschkent"
+    ],
     "name:glg_x_preferred":[
         "Provincia de Tashkent"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0ab6\u0acd\u0a95\u0ac7\u0a82\u0a9f \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d8\u05e9\u05e7\u05e0\u05d8"
     ],
     "name:hin_x_preferred":[
         "\u0924\u093e\u0936\u0915\u0947\u0902\u0924 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -125,6 +143,12 @@
     "name:kan_x_preferred":[
         "\u0ca4\u0cbe\u0cb7\u0ccd\u0c95\u0cc6\u0c82\u0c9f\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10e8\u10d9\u10d4\u10dc\u10e2\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0430\u0448\u043a\u0435\u043d\u0442 \u043e\u0431\u043b\u044b\u0441\u044b"
+    ],
     "name:kir_x_preferred":[
         "\u0422\u0430\u0448\u043a\u0435\u043d\u0442 \u043e\u0431\u043b\u0443\u0441\u0443"
     ],
@@ -140,6 +164,9 @@
     "name:lit_x_preferred":[
         "Ta\u0161kento vilajetas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d24\u0d3e\u0d37\u0d4d\u0d15\u0d46\u0d28\u0d4d\u0d31\u0d4d \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
+    ],
     "name:mar_x_preferred":[
         "\u0924\u094b\u0936\u094d\u0915\u0947\u0902\u0924 \u0935\u093f\u0932\u093e\u092f\u0924\u0940"
     ],
@@ -148,6 +175,9 @@
     ],
     "name:msa_x_preferred":[
         "Wilayah Toshkent"
+    ],
+    "name:nan_x_preferred":[
+        "Tashkent Chiu"
     ],
     "name:nld_x_preferred":[
         "Tasjkent"
@@ -167,6 +197,9 @@
     "name:por_x_preferred":[
         "Tashkent"
     ],
+    "name:pus_x_preferred":[
+        "\u062a\u0627\u0634\u06a9\u0646\u062f \u0648\u0644\u0627\u064a\u062a"
+    ],
     "name:ron_x_preferred":[
         "Regiunea Ta\u0219kent"
     ],
@@ -182,6 +215,9 @@
     "name:spa_x_preferred":[
         "Provincia de Taskent"
     ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u0448\u043a\u0435\u043d\u0442\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
     "name:swe_x_preferred":[
         "Tasjkent"
     ],
@@ -191,6 +227,9 @@
     "name:tat_x_preferred":[
         "\u0422\u0430\u0448\u043a\u04d9\u043d\u0442 \u04e9\u043b\u043a\u04d9\u0441\u0435"
     ],
+    "name:tat_x_variant":[
+        "\u0422\u0430\u0448\u043a\u0435\u043d\u0442 \u0432\u0438\u043b\u0430\u044f\u0442\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c3e\u0c37\u0c4d\u0c15\u0c46\u0c02\u0c1f\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
     ],
@@ -199,6 +238,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e2d\u0e0a\u0e40\u0e04\u0e19\u0e15\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e17\u0e32\u0e0a\u0e40\u0e04\u0e19\u0e15\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Ta\u015fkent ili"
@@ -330,7 +372,7 @@
         421168855
     ],
     "wof:country":"UZ",
-    "wof:geomhash":"08f064e0cb5e9b511ba78dff08ba22b4",
+    "wof:geomhash":"1da93eecff968ab3a75626ba9747b797",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -345,7 +387,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1566643358,
+    "wof:lastmodified":1690893346,
     "wof:name":"Tashkent",
     "wof:parent_id":85632645,
     "wof:placetype":"region",
@@ -359,10 +401,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    69.13606880762944,
-    41.21917234592706,
-    69.36376974557737,
-    41.40355190849385
+    69.136069,
+    41.219172,
+    69.36377,
+    41.403552
 ],
-  "geometry": {"coordinates":[[[69.22317234582715,41.40327588497416],[69.25693505021246,41.40355190849385],[69.28052771278379,41.39108786071625],[69.31124268759999,41.3879718483222],[69.34818968540571,41.37016606591129],[69.3519063073303,41.35397221394658],[69.33661592688355,41.33410935646168],[69.35041540854434,41.32743218794519],[69.36065373318331,41.31585842942303],[69.3535314209384,41.30651039403949],[69.36376974557737,41.29849779163982],[69.32593245761689,41.28425316535134],[69.27518597725111,41.24953188978492],[69.24344757664443,41.21917234592706],[69.21331088389024,41.22504893885747],[69.20084683611265,41.24196443201299],[69.2066337153737,41.25175761292354],[69.20574342611826,41.25576391367372],[69.18971822221823,41.24329986589612],[69.16479012666309,41.26466680442951],[69.15766781351886,41.27579541922324],[69.15588723500792,41.28825946700084],[69.13897174185246,41.28069200922891],[69.13606880762944,41.28282765357341],[69.16211925889672,41.33143848869537],[69.1701318612964,41.36304375276706],[69.22317234582715,41.40327588497416]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[69.22317200000001,41.403276],[69.256935,41.403552],[69.280528,41.391088],[69.311243,41.387972],[69.34819,41.370166],[69.351906,41.353972],[69.33661600000001,41.334109],[69.350415,41.327432],[69.360654,41.315858],[69.353531,41.30651],[69.36377,41.298498],[69.32593199999999,41.284253],[69.27518600000001,41.249532],[69.243448,41.219172],[69.213311,41.225049],[69.200847,41.241964],[69.20663399999999,41.251758],[69.205743,41.255764],[69.189718,41.2433],[69.16479,41.264667],[69.157668,41.275795],[69.15588700000001,41.288259],[69.138972,41.280692],[69.13606900000001,41.282828],[69.162119,41.331438],[69.170132,41.363044],[69.22317200000001,41.403276]]],"type":"Polygon"}
 }

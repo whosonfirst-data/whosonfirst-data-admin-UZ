@@ -38,17 +38,26 @@
     "name:aze_x_preferred":[
         "F\u0259rqan\u0259 vilay\u0259ti"
     ],
+    "name:bak_x_preferred":[
+        "\u0424\u0438\u0440\u0493\u04d9\u043d\u04d9 \u04e9\u043b\u043a\u04d9\u04bb\u0435"
+    ],
     "name:bel_x_preferred":[
         "\u0424\u0435\u0440\u0433\u0430\u043d\u0441\u043a\u0456 \u0432\u0456\u043b\u0430\u0435\u0442"
     ],
     "name:ben_x_preferred":[
         "\u09ab\u09c7\u09b0\u0997\u09be\u09a8\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
+    "name:ben_x_variant":[
+        "\u09ab\u09be\u09b0\u0997\u09be\u09a8\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:bul_x_preferred":[
         "\u0424\u0435\u0440\u0433\u0430\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:ceb_x_preferred":[
         "Fergana"
+    ],
+    "name:che_x_preferred":[
+        "\u0424\u0435\u0440\u0433\u0430\u043d\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
     "name:crh_x_preferred":[
         "Fer\u011fana vil\u00e2yeti"
@@ -72,6 +81,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Fergano"
+    ],
+    "name:epo_x_variant":[
+        "regiono Fergano"
     ],
     "name:est_x_preferred":[
         "Farg\u2018ona vilajett"
@@ -127,6 +139,9 @@
     "name:kat_x_preferred":[
         "\u10e4\u10d4\u10e0\u10e6\u10d0\u10dc\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
     ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0435\u0440\u0493\u0430\u043d\u0430 \u043e\u0431\u043b\u044b\u0441\u044b"
+    ],
     "name:kir_x_preferred":[
         "\u0424\u0435\u0440\u0433\u0430\u043d\u0430 \u043e\u0431\u043b\u0443\u0441\u0443"
     ],
@@ -145,6 +160,9 @@
     "name:ltz_x_preferred":[
         "Ferghana"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2b\u0d46\u0d7c\u0d17\u0d3e\u0d28 \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
+    ],
     "name:mar_x_preferred":[
         "\u092b\u0930\u094d\u0917\u094b\u0928\u093e \u0935\u093f\u0932\u093e\u092f\u0924\u0940"
     ],
@@ -154,11 +172,17 @@
     "name:msa_x_preferred":[
         "Wilayah Fergana"
     ],
+    "name:nan_x_preferred":[
+        "Fergana Chiu"
+    ],
     "name:nld_x_preferred":[
         "Farg\u02bbona"
     ],
     "name:nob_x_preferred":[
         "Fergana region"
+    ],
+    "name:oss_x_preferred":[
+        "\u0424\u0435\u0440\u0433\u0430\u043d\u0430\u0439\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
     ],
     "name:pan_x_preferred":[
         "\u0a2b\u0a3c\u0a30\u0a17\u0a28\u0a3e \u0a16\u0a47\u0a24\u0a30"
@@ -171,6 +195,9 @@
     ],
     "name:por_x_preferred":[
         "Fergana"
+    ],
+    "name:pus_x_preferred":[
+        "\u0641\u0631\u063a\u0627\u0646\u0647 \u0648\u0644\u0627\u064a\u062a"
     ],
     "name:ron_x_preferred":[
         "Regiunea Fergana"
@@ -187,6 +214,9 @@
     "name:spa_x_preferred":[
         "Provincia de Fergana"
     ],
+    "name:srp_x_preferred":[
+        "\u0424\u0435\u0440\u0433\u0430\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
     "name:swe_x_preferred":[
         "Fergana"
     ],
@@ -197,7 +227,8 @@
         "\u0424\u0438\u0440\u0433\u0430\u043d\u04d9 \u04e9\u043b\u043a\u04d9\u0441\u0435"
     ],
     "name:tat_x_variant":[
-        "\u0424\u04d9\u0440\u0433\u0430\u043d\u04d9 \u04e9\u043b\u043a\u04d9\u0441\u0435"
+        "\u0424\u04d9\u0440\u0433\u0430\u043d\u04d9 \u04e9\u043b\u043a\u04d9\u0441\u0435",
+        "\u0424\u04d9\u0440\u0433\u0430\u043d\u04d9 \u0432\u0438\u043b\u0430\u044f\u0442\u0435"
     ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c46\u0c30\u0c4d\u0c17\u0c3e\u0c28\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -207,6 +238,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e32\u0e01\u0e39\u0e40\u0e19\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e1f\u0e32\u0e23\u0e4c\u0e06\u0e2d\u0e19\u0e32"
     ],
     "name:tur_x_preferred":[
         "Fergana ili"
@@ -350,7 +384,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1636504650,
+    "wof:lastmodified":1690893347,
     "wof:name":"Ferghana",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

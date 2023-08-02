@@ -17,11 +17,23 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Yangiyo\u2018l"
+    ],
     "name:azb_x_preferred":[
         "\u06cc\u0626\u0646\u06af\u06cc \u06cc\u0648\u0644"
     ],
+    "name:aze_x_preferred":[
+        "Yanq\u0131yol"
+    ],
+    "name:bel_x_preferred":[
+        "\u042f\u043d\u0433\u0456\u044e\u043b\u044c"
+    ],
     "name:ceb_x_preferred":[
         "Yangiy\u016dl"
+    ],
+    "name:ces_x_preferred":[
+        "Jangijul"
     ],
     "name:ckb_x_preferred":[
         "\u06cc\u06d5\u0646\u06af\u06cc\u06cc\u0648\u06ce\u0644"
@@ -137,7 +149,7 @@
         }
     ],
     "wof:id":421185729,
-    "wof:lastmodified":1566643833,
+    "wof:lastmodified":1690893368,
     "wof:name":"Kaunchi",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

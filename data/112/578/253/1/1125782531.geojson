@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0646\u0643\u0648\u0635"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0643\u0648\u0635"
+    ],
+    "name:ast_x_preferred":[
+        "Nukus"
+    ],
     "name:azb_x_preferred":[
         "\u0646\u0624\u06a9\u06cc\u0633"
     ],
@@ -67,6 +73,9 @@
     "name:chv_x_preferred":[
         "\u041d\u0443\u043a\u0443\u0441"
     ],
+    "name:crh_x_preferred":[
+        "N\u00fck\u00fcs"
+    ],
     "name:dan_x_preferred":[
         "Nukus"
     ],
@@ -82,17 +91,26 @@
     "name:epo_x_preferred":[
         "Nukus"
     ],
+    "name:est_x_preferred":[
+        "Nukus"
+    ],
     "name:eus_x_preferred":[
         "Nukus"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0648\u06a9\u0648\u0633"
     ],
+    "name:fas_x_variant":[
+        "\u0646\u0648\u06a9\u0627\u062b"
+    ],
     "name:fin_x_preferred":[
         "Nukus"
     ],
     "name:fra_x_preferred":[
         "Noukous"
+    ],
+    "name:gle_x_preferred":[
+        "Nukus"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac1\u0a95\u0ac1\u0ab8"
@@ -112,6 +130,9 @@
     "name:hye_x_preferred":[
         "\u0546\u0578\u0582\u056f\u0578\u0582\u057d"
     ],
+    "name:ile_x_preferred":[
+        "Nukus"
+    ],
     "name:ind_x_preferred":[
         "Nukus"
     ],
@@ -125,10 +146,14 @@
         "Nokis"
     ],
     "name:kaa_x_variant":[
-        "No'kis"
+        "No'kis",
+        "N\u00f3kis"
     ],
     "name:kan_x_preferred":[
         "\u0ca8\u0cc1\u0c95\u0cc1\u0cb8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10e3\u10e5\u10e3\u10e1\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041d\u04af\u043a\u0456\u0441"
@@ -141,6 +166,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub204\ucfe0\uc2a4"
+    ],
+    "name:lat_x_preferred":[
+        "Nucus"
     ],
     "name:lav_x_preferred":[
         "Nukusa"
@@ -157,20 +185,32 @@
     "name:msa_x_preferred":[
         "Nukus"
     ],
+    "name:mzn_x_preferred":[
+        "\u0646\u0648\u06a9\u06cc\u0633"
+    ],
     "name:nld_x_preferred":[
         "Nukus"
     ],
     "name:nob_x_preferred":[
         "Nukus"
     ],
+    "name:oss_x_preferred":[
+        "\u041d\u0443\u043a\u0443\u0441"
+    ],
     "name:pan_x_preferred":[
         "\u0a28\u0a41\u0a15\u0a41\u0a38"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0646\u0648\u06a9\u0648\u0633"
     ],
     "name:pol_x_preferred":[
         "Nukus"
     ],
     "name:por_x_preferred":[
         "Nukus"
+    ],
+    "name:pus_x_preferred":[
+        "\u0646\u0648\u06a9\u0648\u0633"
     ],
     "name:ron_x_preferred":[
         "Nukus"
@@ -205,11 +245,17 @@
     "name:tgk_x_preferred":[
         "\u041d\u0443\u043a\u0443\u0441"
     ],
+    "name:tgk_x_variant":[
+        "\u041d\u0443\u049b\u0443\u0441"
+    ],
     "name:tgl_x_preferred":[
         "Nukus"
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e39\u0e01\u0e38\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e19\u0e2d\u0e01\u0e36\u0e2a"
     ],
     "name:tuk_x_preferred":[
         "N\u00f6kis"
@@ -229,6 +275,9 @@
     "name:uzb_x_preferred":[
         "Nukus"
     ],
+    "name:vec_x_preferred":[
+        "Nukus"
+    ],
     "name:vep_x_preferred":[
         "Nukus"
     ],
@@ -237,6 +286,9 @@
     ],
     "name:war_x_preferred":[
         "Nukus"
+    ],
+    "name:wuu_x_preferred":[
+        "\u52aa\u5e93\u65af"
     ],
     "name:yue_x_preferred":[
         "\u52aa\u5eab\u65af"
@@ -281,7 +333,7 @@
         }
     ],
     "wof:id":1125782531,
-    "wof:lastmodified":1566643840,
+    "wof:lastmodified":1690893377,
     "wof:name":"Nukus",
     "wof:parent_id":85680381,
     "wof:placetype":"locality",

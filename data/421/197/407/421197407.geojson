@@ -20,8 +20,14 @@
     "name:azb_x_preferred":[
         "\u0642\u06cc\u0628\u0631\u0627\u06cc"
     ],
+    "name:ceb_x_preferred":[
+        "Qibray"
+    ],
     "name:eng_x_preferred":[
         "Qibray"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0628\u0631\u06cc"
     ],
     "name:ita_x_preferred":[
         "Qibray"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421197407,
-    "wof:lastmodified":1566643830,
+    "wof:lastmodified":1690893363,
     "wof:name":"Qibray",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

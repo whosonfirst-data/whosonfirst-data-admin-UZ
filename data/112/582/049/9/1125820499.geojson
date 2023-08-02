@@ -25,8 +25,17 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0628\u0642\u0646\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0648\u0628\u0642\u0646\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Vabkent"
+    ],
     "name:azb_x_preferred":[
         "\u0648\u0627\u0628\u06a9\u0646\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Vabk\u0259nd"
     ],
     "name:bul_x_preferred":[
         "\u0412\u0430\u0431\u043a\u0435\u043d\u0442"
@@ -67,6 +76,9 @@
     "name:nld_x_preferred":[
         "Vabkent"
     ],
+    "name:pnb_x_preferred":[
+        "\u0648\u0627\u0628\u0642\u0646\u062f"
+    ],
     "name:pol_x_preferred":[
         "Vobkent"
     ],
@@ -78,6 +90,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0412\u0430\u0431\u043a\u04d9\u043d\u0442"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u043e\u0431\u043a\u0430\u043d\u0434"
     ],
     "name:tur_x_preferred":[
         "Vabkent"
@@ -131,7 +146,7 @@
         }
     ],
     "wof:id":1125820499,
-    "wof:lastmodified":1566643839,
+    "wof:lastmodified":1690893376,
     "wof:name":"Wobkent",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

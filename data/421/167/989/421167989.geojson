@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Gurlan"
+    ],
     "name:azb_x_preferred":[
         "\u06af\u0648\u0631\u0644\u0646"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:eng_x_preferred":[
         "Gurlan"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0644\u0646"
     ],
     "name:fra_x_preferred":[
         "Gurlan"
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":421167989,
-    "wof:lastmodified":1566643824,
+    "wof:lastmodified":1690893357,
     "wof:name":"Gurlan",
     "wof:parent_id":85680377,
     "wof:placetype":"locality",

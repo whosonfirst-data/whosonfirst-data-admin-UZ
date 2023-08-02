@@ -20,11 +20,20 @@
     "name:ara_x_preferred":[
         "\u0646\u0645\u0646\u0643\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0645\u0646\u0643\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Namangan"
+    ],
     "name:azb_x_preferred":[
         "\u0646\u0645\u0646\u0642\u0627\u0646"
     ],
     "name:aze_x_preferred":[
         "Namanqan"
+    ],
+    "name:aze_x_variant":[
+        "N\u0259m\u0259ngan"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u0430\u043c\u0430\u043d\u0433\u0430\u043d"
@@ -41,6 +50,9 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u043c\u0430\u043d\u0433\u0430\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Namangan"
+    ],
     "name:ceb_x_preferred":[
         "Namangan"
     ],
@@ -49,6 +61,9 @@
     ],
     "name:che_x_preferred":[
         "\u041d\u0430\u043c\u0430\u043d\u0433\u0430\u043d"
+    ],
+    "name:crh_x_preferred":[
+        "Namangan"
     ],
     "name:dan_x_preferred":[
         "Namangan"
@@ -80,11 +95,17 @@
     "name:fra_x_preferred":[
         "Namangan"
     ],
+    "name:gle_x_preferred":[
+        "Namangan"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0aae\u0abe\u0a82\u0a97\u0aa8"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05d0\u05d2\u05d0\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05e0\u05de\u05e0\u05d2\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0928\u092e\u0928\u0917\u0923"
@@ -104,6 +125,9 @@
     "name:ind_x_preferred":[
         "Namangan"
     ],
+    "name:isl_x_preferred":[
+        "Namangan"
+    ],
     "name:ita_x_preferred":[
         "Namangan"
     ],
@@ -115,6 +139,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca8\u0cae\u0c82\u0c97\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10db\u10d0\u10dc\u10d2\u10d0\u10dc\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041d\u0430\u043c\u0430\u043d\u0493\u0430\u043d"
@@ -155,6 +182,9 @@
     "name:nob_x_preferred":[
         "Namangan"
     ],
+    "name:oss_x_preferred":[
+        "\u041d\u0430\u043c\u0430\u043d\u0433\u0430\u043d"
+    ],
     "name:pan_x_preferred":[
         "\u0a28\u0a2e\u0a3e\u0a17\u0a3e\u0a28"
     ],
@@ -185,6 +215,9 @@
     "name:swe_x_preferred":[
         "Namangan"
     ],
+    "name:szl_x_preferred":[
+        "Namangan"
+    ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bbe\u0bae\u0bbe\u0ba9\u0bcd\u0b95\u0ba9\u0bcd"
     ],
@@ -194,11 +227,17 @@
     "name:tel_x_preferred":[
         "\u0c28\u0c2e\u0c02\u0c17\u0c28\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u041d\u0430\u043c\u0430\u043d\u0433\u043e\u043d"
+    ],
     "name:tgl_x_preferred":[
         "Namangan"
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e32\u0e21\u0e32\u0e07\u0e01\u0e32\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e19\u0e32\u0e21\u0e31\u0e07\u0e41\u0e01\u0e19"
     ],
     "name:tuk_x_preferred":[
         "Namangan"
@@ -218,6 +257,9 @@
     "name:uzb_x_preferred":[
         "Namangan"
     ],
+    "name:vec_x_preferred":[
+        "Namangan"
+    ],
     "name:vep_x_preferred":[
         "Namangan"
     ],
@@ -226,6 +268,9 @@
     ],
     "name:war_x_preferred":[
         "Namangan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7eb3\u66fc\u5e72"
     ],
     "name:yue_x_preferred":[
         "\u7d0d\u66fc\u5e72"
@@ -374,7 +419,7 @@
         }
     ],
     "wof:id":421168859,
-    "wof:lastmodified":1636504661,
+    "wof:lastmodified":1690893353,
     "wof:name":"Namangan",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

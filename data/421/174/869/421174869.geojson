@@ -17,8 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aka_x_preferred":[
+        "Fergana"
+    ],
     "name:ara_x_preferred":[
         "\u0641\u0631\u063a\u0627\u0646\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0641\u0631\u062c\u0627\u0646\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Fergana"
     ],
     "name:azb_x_preferred":[
         "\u0641\u06cc\u0631\u063a\u0627\u0646\u0627"
@@ -38,6 +47,9 @@
     "name:ben_x_preferred":[
         "\u09ab\u09be\u09b0\u099c\u09be\u09a8\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09ab\u09be\u09b0\u0997\u09be\u09a8\u09be"
+    ],
     "name:bos_x_preferred":[
         "Fergana"
     ],
@@ -47,6 +59,9 @@
     "name:cat_x_preferred":[
         "Fergana"
     ],
+    "name:cat_x_variant":[
+        "Fergan\u00e0"
+    ],
     "name:ceb_x_preferred":[
         "Fergana"
     ],
@@ -54,6 +69,9 @@
         "Fergana"
     ],
     "name:che_x_preferred":[
+        "\u0424\u0435\u0440\u0433\u0430\u043d\u0430"
+    ],
+    "name:chv_x_preferred":[
         "\u0424\u0435\u0440\u0433\u0430\u043d\u0430"
     ],
     "name:dan_x_preferred":[
@@ -71,6 +89,12 @@
     "name:epo_x_preferred":[
         "Fergano"
     ],
+    "name:est_x_preferred":[
+        "Fergana"
+    ],
+    "name:eus_x_preferred":[
+        "Fergana"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u063a\u0627\u0646\u0647\u200e"
     ],
@@ -86,6 +110,9 @@
     ],
     "name:fra_x_variant":[
         "Ferghana"
+    ],
+    "name:gle_x_preferred":[
+        "Fergana"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac7\u0ab0\u0a97\u0abe\u0aa8\u0abe"
@@ -129,6 +156,9 @@
     "name:kik_x_preferred":[
         "Fergana"
     ],
+    "name:kir_x_preferred":[
+        "\u0424\u0435\u0440\u0433\u0430\u043d\u0430"
+    ],
     "name:kom_x_preferred":[
         "\u0424\u0435\u0440\u0433\u0430\u043d\u0430"
     ],
@@ -150,6 +180,9 @@
     "name:mar_x_preferred":[
         "\u092b\u0947\u0930\u0917\u093e\u0928\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u0424\u044d\u0440\u0433\u0430\u043d\u0430"
+    ],
     "name:mhr_x_preferred":[
         "\u0424\u0435\u0440\u0433\u0430\u043d\u0430"
     ],
@@ -158,6 +191,9 @@
     ],
     "name:msa_x_preferred":[
         "Fergana"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0641\u0631\u063a\u0627\u0646\u0647"
     ],
     "name:nld_x_preferred":[
         "Farg\u02bbona"
@@ -195,6 +231,9 @@
     "name:sqi_x_preferred":[
         "Fergana"
     ],
+    "name:srp_x_preferred":[
+        "\u0424\u0435\u0440\u0433\u0430\u043d\u0430"
+    ],
     "name:swe_x_preferred":[
         "Fergana"
     ],
@@ -218,6 +257,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1f\u0e2d\u0e23\u0e4c\u0e01\u0e32\u0e19\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1f\u0e32\u0e23\u0e4c\u0e06\u0e2d\u0e19\u0e32"
     ],
     "name:tuk_x_preferred":[
         "Fergana"
@@ -245,6 +287,9 @@
         "\u0424\u0430\u0440\u0493\u043e\u043d\u0430",
         "Farg\u02bbona"
     ],
+    "name:vec_x_preferred":[
+        "Fergana"
+    ],
     "name:vep_x_preferred":[
         "Fergan"
     ],
@@ -253,6 +298,9 @@
     ],
     "name:war_x_preferred":[
         "Fergana"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8d39\u5c14\u5e72\u7eb3"
     ],
     "name:yue_x_preferred":[
         "\u8cbb\u723e\u5e72\u7d0d"
@@ -400,7 +448,7 @@
         }
     ],
     "wof:id":421174869,
-    "wof:lastmodified":1566643827,
+    "wof:lastmodified":1690893360,
     "wof:name":"Farghona",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

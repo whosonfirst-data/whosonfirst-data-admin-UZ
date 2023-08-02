@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Tashbulak"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0634\u200c\u0628\u0644\u0627\u063a"
+    ],
     "name:kik_x_preferred":[
         "Tashbulak"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421172859,
-    "wof:lastmodified":1566643828,
+    "wof:lastmodified":1690893362,
     "wof:name":"Toshbuloq",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

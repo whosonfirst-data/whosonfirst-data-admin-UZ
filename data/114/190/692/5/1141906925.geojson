@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0645\u0628\u0648\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0634\u064a\u0645\u0628\u0627\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Chimboy"
+    ],
     "name:azb_x_preferred":[
         "\u0686\u06cc\u0645\u0628\u0627\u06cc"
     ],
@@ -72,6 +78,9 @@
     "name:kaa_x_preferred":[
         "Shimbay"
     ],
+    "name:kaz_x_preferred":[
+        "\u0428\u044b\u043c\u0431\u0430\u0439"
+    ],
     "name:kik_x_preferred":[
         "Chimboy"
     ],
@@ -115,6 +124,9 @@
         "\u0686\u0645\u0628\u0626\u06d2"
     ],
     "name:uzb_x_preferred":[
+        "Chimboy"
+    ],
+    "name:vie_x_preferred":[
         "Chimboy"
     ],
     "name:war_x_preferred":[
@@ -240,7 +252,7 @@
         }
     ],
     "wof:id":1141906925,
-    "wof:lastmodified":1636504669,
+    "wof:lastmodified":1690893378,
     "wof:name":"Chimboy",
     "wof:parent_id":85680381,
     "wof:placetype":"locality",

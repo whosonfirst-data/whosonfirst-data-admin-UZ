@@ -20,8 +20,20 @@
     "name:ara_x_preferred":[
         "\u0634\u0647\u0631\u0633\u0628\u0632"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u0628\u0632"
+    ],
+    "name:ast_x_preferred":[
+        "Shahrisabz"
+    ],
     "name:azb_x_preferred":[
         "\u0634\u0647\u0631\u06cc\u200c\u0633\u0628\u0632"
+    ],
+    "name:aze_x_preferred":[
+        "\u015e\u0259hris\u0259bz"
+    ],
+    "name:bak_x_preferred":[
+        "\u0428\u04d9\u04bb\u0440\u0438\u0441\u04d9\u0431\u0435\u0437"
     ],
     "name:bel_x_preferred":[
         "\u0428\u0430\u0445\u0440\u044b\u0441\u0430\u0431\u0437"
@@ -41,6 +53,9 @@
     "name:ces_x_preferred":[
         "\u0160achrizabz"
     ],
+    "name:dag_x_preferred":[
+        "Shahrisabz"
+    ],
     "name:dan_x_preferred":[
         "Shahrisabz"
     ],
@@ -59,8 +74,17 @@
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u0628\u0632"
     ],
+    "name:fat_x_preferred":[
+        "Shahrisabz"
+    ],
     "name:fra_x_preferred":[
         "Chakhrisabz"
+    ],
+    "name:gle_x_preferred":[
+        "Shahrisabz"
+    ],
+    "name:gur_x_preferred":[
+        "Shahrisabz"
     ],
     "name:hbs_x_preferred":[
         "\u0160ahrisabz"
@@ -107,6 +131,12 @@
     "name:mal_x_preferred":[
         "\u0d37\u0d3e\u0d39\u0d4d\u0d30\u0d3f\u0d38\u0d3e\u0d2c\u0d4d\u200d\u0d38\u0d4d"
     ],
+    "name:mlt_x_preferred":[
+        "Shahrisabz"
+    ],
+    "name:mos_x_preferred":[
+        "Shahrisabz"
+    ],
     "name:nep_x_preferred":[
         "\u0936\u0916\u094d\u0930\u093f\u0938\u092c\u094d\u091c\u0915\u094b \u090f\u0924\u093f\u0939\u093e\u0938\u093f\u0915 \u0915\u0947\u0928\u094d\u0926\u094d\u0930"
     ],
@@ -122,7 +152,13 @@
     "name:pan_x_preferred":[
         "\u0a38\u0a3c\u0a3e\u0a39\u0a30\u0a40\u0a38\u0a2c\u0a1c\u0a3c"
     ],
+    "name:pnb_x_preferred":[
+        "\u0634\u06c1\u0631 \u0633\u0628\u0632"
+    ],
     "name:pol_x_preferred":[
+        "Shahrisabz"
+    ],
+    "name:por_x_preferred":[
         "Shahrisabz"
     ],
     "name:rus_x_preferred":[
@@ -146,11 +182,17 @@
     "name:swe_x_preferred":[
         "Sjachrisabz"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0b95\u0bb0\u0bbf\u0b9a\u0baa\u0bcd\u0b9a\u0bc1"
+    ],
     "name:tat_x_preferred":[
         "\u0428\u04d9\u04bb\u0440\u0435\u0441\u04d9\u0431\u0437"
     ],
     "name:tgk_x_preferred":[
         "\u0428\u0430\u04b3\u0440\u0438\u0441\u0430\u0431\u0437"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e32\u0e2e\u0e4c\u0e23\u0e37\u0e2d\u0e0b\u0e31\u0e1b\u0e2a\u0e4c"
     ],
     "name:tur_x_preferred":[
         "\u015eehr-i-Sebz"
@@ -165,6 +207,9 @@
         "\u0634\u06c1\u0631 \u0633\u0628\u0632"
     ],
     "name:uzb_x_preferred":[
+        "Shahrisabz"
+    ],
+    "name:vec_x_preferred":[
         "Shahrisabz"
     ],
     "name:vie_x_preferred":[
@@ -314,7 +359,7 @@
         }
     ],
     "wof:id":421197977,
-    "wof:lastmodified":1566643830,
+    "wof:lastmodified":1690893364,
     "wof:name":"Shakhrisabz",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

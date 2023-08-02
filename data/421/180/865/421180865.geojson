@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u062d\u0645\u062a"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0631\u062d\u0645\u062a"
     ],
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421180865,
-    "wof:lastmodified":1566643827,
+    "wof:lastmodified":1690893360,
     "wof:name":"Marhamat",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

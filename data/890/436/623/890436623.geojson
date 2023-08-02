@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0642\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0628\u0627"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0648\u0648\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Quva"
+    ],
+    "name:ces_x_preferred":[
+        "Quva"
     ],
     "name:ckb_x_preferred":[
         "\u0642\u0648\u06a4\u06d5"
@@ -48,6 +57,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30f4\u30a1"
+    ],
+    "name:kaz_x_preferred":[
+        "\u049a\u04b1\u0431\u0430"
     ],
     "name:kik_x_preferred":[
         "Quva"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":890436623,
-    "wof:lastmodified":1566643835,
+    "wof:lastmodified":1690893371,
     "wof:name":"Quva",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

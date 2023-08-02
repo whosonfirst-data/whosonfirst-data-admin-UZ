@@ -22,6 +22,15 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0646\u0627\u0642"
+    ],
+    "name:ast_x_preferred":[
+        "Mo\u2018ynoq"
+    ],
+    "name:bak_x_preferred":[
+        "\u041c\u0443\u0439\u043d\u0430\u04a1"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0443\u0439\u043d\u0430\u043a"
     ],
@@ -30,6 +39,9 @@
     ],
     "name:ceb_x_preferred":[
         "M\u016dynoq"
+    ],
+    "name:ces_x_preferred":[
+        "Mujnak"
     ],
     "name:chv_x_preferred":[
         "\u041c\u0443\u0439\u043d\u0430\u043a"
@@ -44,7 +56,8 @@
         "Muynak"
     ],
     "name:eng_x_variant":[
-        "Mo\u2018ynoq"
+        "Mo\u2018ynoq",
+        "Moynaq"
     ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u0646\u0627\u0642"
@@ -72,6 +85,9 @@
     ],
     "name:kaa_x_preferred":[
         "Moynaq"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u043e\u0439\u043d\u0430\u049b"
     ],
     "name:kik_x_preferred":[
         "Mo\u2018ynoq"
@@ -109,6 +125,9 @@
     "name:tat_x_preferred":[
         "\u041c\u0443\u0439\u043d\u0430\u043a"
     ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e2d\u0e22\u0e19\u0e31\u0e01"
+    ],
     "name:tuk_x_preferred":[
         "M\u00f6ynaq"
     ],
@@ -123,6 +142,9 @@
     ],
     "name:uzb_x_preferred":[
         "Mo\u02bbynoq tumani"
+    ],
+    "name:uzb_x_variant":[
+        "Mo\u02bbynoq"
     ],
     "name:zho_x_preferred":[
         "\u6728\u4f0a\u90a3\u514b"
@@ -164,7 +186,7 @@
         }
     ],
     "wof:id":1125782547,
-    "wof:lastmodified":1566643840,
+    "wof:lastmodified":1690893377,
     "wof:name":"M\u016dynoq",
     "wof:parent_id":85680381,
     "wof:placetype":"locality",
