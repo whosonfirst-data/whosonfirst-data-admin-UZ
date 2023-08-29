@@ -23,14 +23,23 @@
     "name:ara_x_preferred":[
         "\u0634\u0648\u0633\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0648\u0633\u062a"
+    ],
     "name:azb_x_preferred":[
         "\u0686\u0648\u0633\u062a"
+    ],
+    "name:aze_x_preferred":[
+        "\u00c7ust"
     ],
     "name:bel_x_preferred":[
         "\u0427\u0443\u0441\u0442"
     ],
     "name:ceb_x_preferred":[
         "Chust Shahri"
+    ],
+    "name:ces_x_preferred":[
+        "\u010cust"
     ],
     "name:ckb_x_preferred":[
         "\u0686\u0648\u0633\u062a"
@@ -116,6 +125,9 @@
     "name:tur_x_preferred":[
         "\u00c7ust"
     ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u0441\u0442"
+    ],
     "name:und_x_variant":[
         "Tschust"
     ],
@@ -130,6 +142,12 @@
     ],
     "name:uzb_x_variant":[
         "Chust shahri"
+    ],
+    "name:vie_x_preferred":[
+        "Chust"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u65af\u7279"
     ],
     "qs:gn_country":"UZ",
     "qs:gn_fcode":"PPL",
@@ -177,7 +195,7 @@
         }
     ],
     "wof:id":421205289,
-    "wof:lastmodified":1566643826,
+    "wof:lastmodified":1690893359,
     "wof:name":"Chust",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

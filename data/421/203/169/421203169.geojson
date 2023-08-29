@@ -44,8 +44,14 @@
     "name:ceb_x_preferred":[
         "Andijan"
     ],
+    "name:ces_x_preferred":[
+        "Andi\u017ean"
+    ],
     "name:che_x_preferred":[
         "\u0410\u043d\u0434\u0438\u0436\u0430\u043d"
+    ],
+    "name:crh_x_preferred":[
+        "Andican"
     ],
     "name:dan_x_preferred":[
         "Andisjan"
@@ -72,6 +78,9 @@
         "Andi\u017ean"
     ],
     "name:fra_x_preferred":[
+        "Andijan"
+    ],
+    "name:gle_x_preferred":[
         "Andijan"
     ],
     "name:glg_x_preferred":[
@@ -101,6 +110,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u0576\u0564\u056b\u056a\u0561\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0576\u057f\u056b\u056a\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Andijan"
@@ -192,6 +204,9 @@
     "name:rus_x_preferred":[
         "\u0410\u043d\u0434\u0438\u0436\u0430\u043d"
     ],
+    "name:sah_x_preferred":[
+        "\u0410\u043d\u0434\u0438\u0436\u0430\u043d"
+    ],
     "name:sco_x_preferred":[
         "Andijan"
     ],
@@ -203,6 +218,9 @@
     ],
     "name:spa_x_preferred":[
         "Andij\u00e1n"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043d\u0434\u0438\u045f\u0430\u043d"
     ],
     "name:swe_x_preferred":[
         "Andizjan"
@@ -228,6 +246,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e19\u0e15\u0e34\u0e08\u0e32\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e19\u0e14\u0e37\u0e2d\u0e08\u0e2d\u0e19"
+    ],
     "name:tuk_x_preferred":[
         "Andijan"
     ],
@@ -246,6 +267,9 @@
     "name:uzb_x_preferred":[
         "Andijon"
     ],
+    "name:vec_x_preferred":[
+        "Andijan"
+    ],
     "name:vep_x_preferred":[
         "Andi\u017ean"
     ],
@@ -254,6 +278,9 @@
     ],
     "name:war_x_preferred":[
         "Andijan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5b89\u96c6\u5ef6"
     ],
     "name:yue_x_preferred":[
         "\u5b89\u96c6\u5ef6"
@@ -402,7 +429,7 @@
         }
     ],
     "wof:id":421203169,
-    "wof:lastmodified":1566643826,
+    "wof:lastmodified":1690893358,
     "wof:name":"Andijon",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

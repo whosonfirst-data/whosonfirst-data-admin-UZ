@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u063a\u064a\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Mang\u2018it"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0627\u0646\u063a\u06cc\u062a"
     ],
@@ -31,6 +37,9 @@
     "name:eng_x_preferred":[
         "Mang\u2018it"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0646\u063a\u06cc\u062a"
+    ],
     "name:fra_x_preferred":[
         "Manguit"
     ],
@@ -39,6 +48,9 @@
     ],
     "name:kaa_x_preferred":[
         "Mang'it"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u04a3\u0493\u044b\u0442"
     ],
     "name:kik_x_preferred":[
         "Mang\u2018it"
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":890430443,
-    "wof:lastmodified":1566643835,
+    "wof:lastmodified":1690893370,
     "wof:name":"Manghit",
     "wof:parent_id":85680381,
     "wof:placetype":"locality",

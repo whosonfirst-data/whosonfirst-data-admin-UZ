@@ -17,14 +17,26 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0642\u0639\u0629"
+    ],
+    "name:ast_x_preferred":[
+        "Buka"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u06a9\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u016dka"
     ],
     "name:deu_x_preferred":[
         "Bo\u02bbka"
     ],
     "name:eng_x_preferred":[
         "Buka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0642\u0639\u0647"
     ],
     "name:fra_x_preferred":[
         "Buka"
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":421180859,
-    "wof:lastmodified":1566643827,
+    "wof:lastmodified":1690893360,
     "wof:name":"Buka",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

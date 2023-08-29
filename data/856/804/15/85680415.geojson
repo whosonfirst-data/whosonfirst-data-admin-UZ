@@ -38,6 +38,9 @@
     "name:aze_x_preferred":[
         "Cizz\u0259x vilay\u0259ti"
     ],
+    "name:aze_x_variant":[
+        "Cizak vilay\u0259ti"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u0436\u044b\u0437\u0430\u043a\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:ceb_x_preferred":[
         "Jizzakh Province"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0436\u0438\u0437\u0430\u043a\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
     "name:crh_x_preferred":[
         "Cizah vil\u00e2yeti"
@@ -70,6 +76,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco \u011ciza\u0125o"
+    ],
+    "name:epo_x_variant":[
+        "regiono \u011ciza\u0125o"
     ],
     "name:est_x_preferred":[
         "Jizzaxi vilajett"
@@ -119,6 +128,12 @@
     "name:kan_x_preferred":[
         "\u0c9c\u0cbf\u0c9d\u0cbe\u0c95\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d8\u10d6\u10d0\u10ee\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u044b\u0437\u0430\u049b \u043e\u0431\u043b\u044b\u0441\u044b"
+    ],
     "name:kir_x_preferred":[
         "\u0416\u044b\u0437\u0430\u043a \u043e\u0431\u043b\u0443\u0441\u0443"
     ],
@@ -134,6 +149,9 @@
     "name:lit_x_preferred":[
         "D\u017eizako vilajetas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d1c\u0d3f\u0d38\u0d4d\u0d38\u0d15\u0d4d\u0d24\u0d4d \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
+    ],
     "name:mar_x_preferred":[
         "\u091c\u093f\u091d\u093e\u0915\u094d\u0938 \u0935\u093f\u0932\u093e\u092f\u0924\u0940"
     ],
@@ -142,6 +160,9 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Jizzakh"
+    ],
+    "name:nan_x_preferred":[
+        "Jizzakh Chiu"
     ],
     "name:nld_x_preferred":[
         "Jizzax"
@@ -161,6 +182,9 @@
     "name:por_x_preferred":[
         "Jizzakh"
     ],
+    "name:pus_x_preferred":[
+        "\u062c\u064a\u0632\u06a9 \u0648\u0644\u0627\u064a\u062a"
+    ],
     "name:rus_x_preferred":[
         "\u0416\u0438\u0437\u0437\u0430\u0445\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
@@ -176,11 +200,20 @@
     "name:spa_x_preferred":[
         "Provincia de Djizaks"
     ],
+    "name:srp_x_preferred":[
+        "\u040f\u0438\u0437\u0430\u043a\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
     "name:swe_x_preferred":[
         "Dzjizzach"
     ],
+    "name:swe_x_variant":[
+        "Jizzax viloyati"
+    ],
     "name:tam_x_preferred":[
         "\u0b9c\u0bbf\u0bb8\u0bcd\u0b9a\u0bbe\u0b95\u0bcd\u0bb9\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9c\u0bbf\u0b9a\u0bbe\u0b95\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0496\u0438\u0437\u0437\u0430\u0445 \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -196,6 +229,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e22\u0e34\u0e0b\u0e0b\u0e31\u0e04"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e08\u0e36\u0e0b\u0e0b\u0e31\u0e06"
+    ],
+    "name:tuk_x_preferred":[
+        "Jizzakh wela\u00fdaty"
     ],
     "name:tur_x_preferred":[
         "Cizzak ili"
@@ -339,7 +378,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1636504651,
+    "wof:lastmodified":1690893347,
     "wof:name":"Jizzakh",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

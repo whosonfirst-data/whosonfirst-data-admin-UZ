@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Beshariq"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0634\u200c\u0627\u0631\u06cc\u0642"
+    ],
     "name:fra_x_preferred":[
         "Becharyk"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1125866647,
-    "wof:lastmodified":1566643838,
+    "wof:lastmodified":1690893375,
     "wof:name":"Beshariq",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

@@ -29,8 +29,14 @@
     "name:eng_x_preferred":[
         "Chinaz"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0646\u0627\u0632"
+    ],
     "name:fra_x_preferred":[
         "Chinaz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d9\u05e0\u05d0\u05d6"
     ],
     "name:hsb_x_preferred":[
         "Chinoz"
@@ -67,6 +73,9 @@
     ],
     "name:tur_x_preferred":[
         "\u00c7inaz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u043d\u0430\u0437"
     ],
     "name:und_x_variant":[
         "Cinaz"
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":421198747,
-    "wof:lastmodified":1566643829,
+    "wof:lastmodified":1690893362,
     "wof:name":"Chinaz",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

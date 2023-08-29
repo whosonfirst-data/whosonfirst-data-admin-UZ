@@ -70,8 +70,14 @@
     "name:msa_x_preferred":[
         "Hamzah"
     ],
+    "name:msa_x_variant":[
+        "hamzah"
+    ],
     "name:nld_x_preferred":[
         "hamza"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06c1\u0645\u0632\u06c1"
     ],
     "name:pol_x_preferred":[
         "hamza"
@@ -115,6 +121,9 @@
     "name:uzb_x_preferred":[
         "Hamza"
     ],
+    "name:zho_x_preferred":[
+        "\u6d77\u59c6\u5bb0"
+    ],
     "qs:name":"Hamza",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -146,7 +155,7 @@
         }
     ],
     "wof:id":890431469,
-    "wof:lastmodified":1566643836,
+    "wof:lastmodified":1690893372,
     "wof:name":"Hamza",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

@@ -20,11 +20,17 @@
     "name:azb_x_preferred":[
         "\u062a\u0624\u0631\u0647 \u0642\u0648\u0631\u063a\u0627\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "T\u016drag\u016drghon"
+    ],
     "name:deu_x_preferred":[
         "To\u2018raqo\u2018rg\u2018on"
     ],
     "name:eng_x_preferred":[
         "To\u2018raqo\u2018rg\u2018on"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0647\u200c\u0642\u0648\u0631\u063a\u0627\u0646"
     ],
     "name:fra_x_preferred":[
         "To\u02bbraqo\u02bbrg\u02bbon"
@@ -67,6 +73,9 @@
     ],
     "name:uzb_x_variant":[
         "To\u2018rqao\u2018rg\u2018on"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u62c9\u5eab\u723e\u5e72"
     ],
     "qs:gn_country":"UZ",
     "qs:gn_fcode":"PPL",
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":421193825,
-    "wof:lastmodified":1566643823,
+    "wof:lastmodified":1690893356,
     "wof:name":"Turakurgan",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

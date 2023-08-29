@@ -17,8 +17,20 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0634\u0642\u0646\u062f"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0634\u0642\u0646\u062f"
+    ],
     "name:azb_x_preferred":[
         "\u067e\u06cc\u0633\u06a9\u0646\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Pisk\u0259nt"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0441\u043a\u0435\u043d\u0442"
     ],
     "name:bul_x_preferred":[
         "\u041f\u0438\u0441\u043a\u0435\u043d\u0442"
@@ -28,6 +40,9 @@
     ],
     "name:eng_x_preferred":[
         "Piskent"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0633\u06a9\u0646\u062f"
     ],
     "name:hsb_x_preferred":[
         "Piskent"
@@ -64,6 +79,9 @@
     ],
     "name:tur_x_preferred":[
         "Pskent"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0441\u043a\u0435\u043d\u0442"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0633\u0642\u0646\u062f"
@@ -115,7 +133,7 @@
         }
     ],
     "wof:id":421167881,
-    "wof:lastmodified":1566643824,
+    "wof:lastmodified":1690893356,
     "wof:name":"Pskent",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "Alt\u0131ar\u0131q"
+    ],
     "name:ceb_x_preferred":[
+        "Oltiariq"
+    ],
+    "name:dan_x_preferred":[
         "Oltiariq"
     ],
     "name:deu_x_preferred":[
@@ -30,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Altyariq"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062a\u06cc\u0627\u0631\u0642"
     ],
     "name:kik_x_preferred":[
         "Oltiariq"
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":1125866663,
-    "wof:lastmodified":1566643837,
+    "wof:lastmodified":1690893374,
     "wof:name":"Oltiariq",
     "wof:parent_id":85680407,
     "wof:placetype":"locality",

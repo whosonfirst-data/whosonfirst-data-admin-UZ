@@ -35,6 +35,9 @@
     "name:ita_x_preferred":[
         "Kasan"
     ],
+    "name:nds_x_preferred":[
+        "Kasan"
+    ],
     "name:ron_x_preferred":[
         "Kasan"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421202411,
-    "wof:lastmodified":1566643826,
+    "wof:lastmodified":1690893359,
     "wof:name":"Kasan",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

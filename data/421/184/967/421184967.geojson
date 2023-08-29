@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0629 \u0642\u0648\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0631\u0629 \u0642\u0648\u0644"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0627\u0631\u0627\u06af\u0624\u0644"
+    ],
+    "name:aze_x_preferred":[
+        "Qarag\u00f6l"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043a\u0443\u043b"
@@ -98,6 +104,12 @@
     "name:tat_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043a\u04af\u043b"
     ],
+    "name:tgk_x_preferred":[
+        "\u049a\u0430\u0440\u0430\u043a\u04ef\u043b"
+    ],
+    "name:tuk_x_preferred":[
+        "Garag\u00f6l"
+    ],
     "name:tur_x_preferred":[
         "Karag\u00f6l"
     ],
@@ -161,7 +173,7 @@
         }
     ],
     "wof:id":421184967,
-    "wof:lastmodified":1566643831,
+    "wof:lastmodified":1690893365,
     "wof:name":"Karakul'",
     "wof:parent_id":85680373,
     "wof:placetype":"locality",

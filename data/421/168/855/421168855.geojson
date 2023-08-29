@@ -28,10 +28,19 @@
     "name:afr_x_preferred":[
         "Tasjkent"
     ],
+    "name:aka_x_preferred":[
+        "Tashkent"
+    ],
     "name:amh_x_preferred":[
         "\u1273\u123d\u12ac\u1295\u1275"
     ],
     "name:ara_x_preferred":[
+        "\u0637\u0634\u0642\u0646\u062f"
+    ],
+    "name:arg_x_preferred":[
+        "Tashkent"
+    ],
+    "name:ary_x_preferred":[
         "\u0637\u0634\u0642\u0646\u062f"
     ],
     "name:arz_x_preferred":[
@@ -43,6 +52,12 @@
     "name:ast_x_variant":[
         "Taxkent"
     ],
+    "name:ava_x_preferred":[
+        "\u0422\u0430\u0448\u043a\u0435\u043d\u0442"
+    ],
+    "name:awa_x_preferred":[
+        "\u0924\u093e\u0936\u0915\u0902\u0926"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0627\u0634\u06a9\u0646\u062f"
     ],
@@ -51,6 +66,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0422\u0430\u0448\u043a\u0435\u043d\u0442"
+    ],
+    "name:ban_x_preferred":[
+        "Toshkent"
     ],
     "name:bcl_x_preferred":[
         "Tashkent"
@@ -136,6 +154,9 @@
     "name:est_x_preferred":[
         "Toshkent"
     ],
+    "name:est_x_variant":[
+        "Ta\u0161kent"
+    ],
     "name:eus_x_preferred":[
         "Taxkent"
     ],
@@ -154,8 +175,14 @@
     "name:fra_x_preferred":[
         "Tachkent"
     ],
+    "name:frr_x_preferred":[
+        "Taschkent"
+    ],
     "name:fry_x_preferred":[
         "Tasjkent"
+    ],
+    "name:gag_x_preferred":[
+        "Ta\u015fkent"
     ],
     "name:gla_x_preferred":[
         "Tashkent"
@@ -166,8 +193,14 @@
     "name:glg_x_preferred":[
         "Tashkent"
     ],
+    "name:glv_x_preferred":[
+        "Tashkent"
+    ],
     "name:gom_x_preferred":[
         "\u0924\u093e\u0936\u094d\u0915\u0902\u0926"
+    ],
+    "name:grn_x_preferred":[
+        "Taskent"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0ab6\u0acd\u0a95\u0aa8\u0acd\u0aa6"
@@ -204,6 +237,9 @@
     ],
     "name:hyw_x_preferred":[
         "\u054f\u0561\u0577\u0584\u0565\u0576\u0564"
+    ],
+    "name:hyw_x_variant":[
+        "\u0539\u0561\u0577\u0584\u0565\u0576\u0564"
     ],
     "name:ido_x_preferred":[
         "Tashkent"
@@ -269,6 +305,9 @@
     "name:lav_x_preferred":[
         "Ta\u0161kenta"
     ],
+    "name:lfn_x_preferred":[
+        "Taxcent"
+    ],
     "name:lij_x_preferred":[
         "Taskent"
     ],
@@ -284,6 +323,9 @@
     "name:lzh_x_preferred":[
         "\u5854\u4ec0\u5e72"
     ],
+    "name:lzh_x_variant":[
+        "\u9054\u5931\u5e72"
+    ],
     "name:mai_x_preferred":[
         "\u0924\u093e\u0938\u094d\u0915\u0947\u0928\u094d\u091f"
     ],
@@ -293,17 +335,29 @@
     "name:mar_x_preferred":[
         "\u0924\u093e\u0936\u094d\u0915\u0902\u0926"
     ],
+    "name:mdf_x_preferred":[
+        "\u0422\u0430\u0448\u043a\u044d\u043d\u0442"
+    ],
     "name:mhr_x_preferred":[
         "\u0422\u0430\u0448\u043a\u0435\u043d\u0442"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0430\u0448\u043a\u0435\u043d\u0442"
     ],
+    "name:mlt_x_preferred":[
+        "Tashkent"
+    ],
     "name:mon_x_preferred":[
+        "\u0422\u0430\u0448\u043a\u0435\u043d\u0442"
+    ],
+    "name:mrj_x_preferred":[
         "\u0422\u0430\u0448\u043a\u0435\u043d\u0442"
     ],
     "name:msa_x_preferred":[
         "Tashkent"
+    ],
+    "name:mya_x_preferred":[
+        "\u1010\u102c\u1037\u101b\u103e\u103a\u1000\u1014\u1037\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:myv_x_preferred":[
         "\u0422\u0430\u0448\u043a\u0435\u043d\u0442 \u043e\u0448"
@@ -313,6 +367,9 @@
     ],
     "name:nan_x_preferred":[
         "Tashkent"
+    ],
+    "name:nav_x_preferred":[
+        "Ts\u00e9beekin Haal\u02bc\u00e1h\u00ed"
     ],
     "name:nds_x_preferred":[
         "Taschkent"
@@ -353,6 +410,9 @@
     "name:pap_x_preferred":[
         "Tashkent"
     ],
+    "name:pcd_x_preferred":[
+        "Tachkent"
+    ],
     "name:pms_x_preferred":[
         "Tashkent"
     ],
@@ -367,6 +427,9 @@
     ],
     "name:por_x_preferred":[
         "Tashkent"
+    ],
+    "name:por_x_variant":[
+        "Tasquente"
     ],
     "name:pus_x_preferred":[
         "\u062a\u0627\u0634\u0643\u0646\u062f"
@@ -397,6 +460,9 @@
     ],
     "name:sna_x_preferred":[
         "Tashkent"
+    ],
+    "name:snd_x_preferred":[
+        "\u062a\u0627\u0634\u06aa\u0646\u062f"
     ],
     "name:spa_x_preferred":[
         "Taskent"
@@ -665,7 +731,7 @@
         }
     ],
     "wof:id":421168855,
-    "wof:lastmodified":1608688189,
+    "wof:lastmodified":1690893354,
     "wof:megacity":1,
     "wof:name":"Tashkent",
     "wof:parent_id":85680429,

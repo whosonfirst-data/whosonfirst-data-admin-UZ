@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Uychi"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0648\u06cc\u0686\u06cc"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:eng_x_preferred":[
         "Uychi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06cc\u0686\u06cc"
     ],
     "name:fra_x_preferred":[
         "Uychi"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421196531,
-    "wof:lastmodified":1566643829,
+    "wof:lastmodified":1690893363,
     "wof:name":"Uychi",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

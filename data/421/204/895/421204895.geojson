@@ -20,6 +20,9 @@
     "name:azb_x_preferred":[
         "\u063a\u0632\u0644\u200c\u06a9\u0646\u062f"
     ],
+    "name:ceb_x_preferred":[
+        "G\u2018azalkent"
+    ],
     "name:deu_x_historical":[
         "Gasalkent"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:spa_x_preferred":[
         "Gazalkent"
+    ],
+    "name:szl_x_preferred":[
+        "G\u02bbazalkent"
     ],
     "name:tat_x_preferred":[
         "\u0413\u0430\u0437\u04d9\u043b\u043a\u04d9\u043d\u0442"
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":421204895,
-    "wof:lastmodified":1566643825,
+    "wof:lastmodified":1690893358,
     "wof:name":"Gazalkent",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Kamashi"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u0645\u0627\u0634\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Kamashi"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:kik_x_preferred":[
         "Qamashi"
+    ],
+    "name:lit_x_preferred":[
+        "Kama\u0161i"
     ],
     "name:nld_x_preferred":[
         "Kamashi"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":890452381,
-    "wof:lastmodified":1566643835,
+    "wof:lastmodified":1690893371,
     "wof:name":"Qamashi Suv Ombori",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

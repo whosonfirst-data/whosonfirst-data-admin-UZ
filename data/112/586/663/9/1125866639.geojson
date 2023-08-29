@@ -22,6 +22,15 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u064a\u0631\u062a\u0634\u064a\u0642"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u064a\u0631\u062a\u0634\u064a\u0642"
+    ],
+    "name:ast_x_preferred":[
+        "Chirchiq"
+    ],
     "name:azb_x_preferred":[
         "\u0686\u06cc\u0631\u0686\u06cc\u0642"
     ],
@@ -33,6 +42,9 @@
     ],
     "name:ceb_x_preferred":[
         "Chirchiq"
+    ],
+    "name:ces_x_preferred":[
+        "\u010cir\u010dik"
     ],
     "name:ckb_x_preferred":[
         "\u0686\u06cc\u0631\u0686\u06cc\u0642"
@@ -55,11 +67,17 @@
     "name:fra_x_preferred":[
         "Tchirtchik"
     ],
+    "name:gle_x_preferred":[
+        "Chirchiq"
+    ],
     "name:hsb_x_preferred":[
         "Chirchiq"
     ],
     "name:hun_x_preferred":[
         "Chirchiq"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u056b\u0580\u0579\u056b\u056f"
     ],
     "name:ind_x_preferred":[
         "Chirchiq"
@@ -83,6 +101,9 @@
         "Chirchiq"
     ],
     "name:nld_x_preferred":[
+        "Chirchiq"
+    ],
+    "name:nob_x_preferred":[
         "Chirchiq"
     ],
     "name:pol_x_preferred":[
@@ -119,6 +140,12 @@
         "\u0686\u06cc\u0631\u0686\u06cc\u0642"
     ],
     "name:uzb_x_preferred":[
+        "Chirchiq"
+    ],
+    "name:vec_x_preferred":[
+        "Chirchiq"
+    ],
+    "name:vie_x_preferred":[
         "Chirchiq"
     ],
     "name:vmf_x_preferred":[
@@ -167,7 +194,7 @@
         }
     ],
     "wof:id":1125866639,
-    "wof:lastmodified":1566643838,
+    "wof:lastmodified":1690893375,
     "wof:name":"Salor",
     "wof:parent_id":85680425,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Chilanzar"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0686\u06cc\u0644\u0627\u0646\u200c\u0632\u0627\u0631"
+    ],
     "name:fra_x_preferred":[
         "Tchilanzar"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421188469,
-    "wof:lastmodified":1566643828,
+    "wof:lastmodified":1690893362,
     "wof:name":"Chilanzar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

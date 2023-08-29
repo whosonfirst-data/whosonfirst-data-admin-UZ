@@ -20,8 +20,17 @@
     "name:azb_x_preferred":[
         "\u0628\u0626\u0634\u06a9\u0646\u062f"
     ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0448\u043a\u0435\u043d\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Beshkent"
+    ],
     "name:eng_x_preferred":[
         "Beshkent"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0634\u0642\u0646\u062f"
     ],
     "name:hsb_x_preferred":[
         "Beshkent"
@@ -43,6 +52,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0411\u0438\u0448\u043a\u04d9\u043d\u0442"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0435\u0448\u043a\u0435\u043d\u0442"
     ],
     "name:tur_x_preferred":[
         "Be\u015fkent"
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":421173671,
-    "wof:lastmodified":1566643828,
+    "wof:lastmodified":1690893361,
     "wof:name":"Beshkent",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

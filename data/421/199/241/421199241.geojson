@@ -20,6 +20,9 @@
     "name:azb_x_preferred":[
         "\u067e\u062e\u062a\u0647\u200c\u06a9\u0627\u0631"
     ],
+    "name:aze_x_preferred":[
+        "P\u0259xt\u0259kar"
+    ],
     "name:ceb_x_preferred":[
         "Paxtakor"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041f\u04d9\u0445\u0442\u04d9\u043a\u04d9\u0440"
+    ],
+    "name:tuk_x_preferred":[
+        "Pahtakor"
     ],
     "name:tur_x_preferred":[
         "Pahtakar"
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":421199241,
-    "wof:lastmodified":1566643831,
+    "wof:lastmodified":1690893364,
     "wof:name":"Pakhtakor",
     "wof:parent_id":85680415,
     "wof:placetype":"locality",

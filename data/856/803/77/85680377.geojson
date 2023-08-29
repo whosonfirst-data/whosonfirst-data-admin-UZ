@@ -45,8 +45,14 @@
     "name:bel_x_preferred":[
         "\u0425\u0430\u0440\u044d\u0437\u043c\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
     ],
+    "name:bel_x_variant":[
+        "\u0425\u0430\u0440\u044d\u0437\u043c\u0441\u043a\u0456 \u0432\u0456\u043b\u0430\u044f\u0442"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09cb\u09b0\u09be\u09ae \u0985\u099e\u09cd\u099a\u09b2"
+    ],
+    "name:ben_x_variant":[
+        "\u0996\u09cb\u09af\u09bc\u09be\u09b0\u09c7\u099c\u09ae \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bul_x_preferred":[
         "\u0425\u043e\u0440\u0435\u0437\u044a\u043c\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
@@ -54,8 +60,14 @@
     "name:ceb_x_preferred":[
         "Xorazm Viloyati"
     ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u0440\u0435\u0437\u043c\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
     "name:crh_x_preferred":[
         "Horezm vil\u00e2yeti"
+    ],
+    "name:crh_x_variant":[
+        "Harezm vil\u00e2yeti"
     ],
     "name:dan_x_preferred":[
         "Xorazm Region"
@@ -74,6 +86,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco \u0124orazmo"
+    ],
+    "name:epo_x_variant":[
+        "regiono \u0124orezmo"
     ],
     "name:est_x_preferred":[
         "Xorazm"
@@ -123,6 +138,9 @@
     "name:kan_x_preferred":[
         "\u0c9d\u0cca\u0cb0\u0cbe\u0c9d\u0cae\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10dd\u10e0\u10d4\u10d6\u10db\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0425\u043e\u0440\u0435\u0437\u043c \u043e\u0431\u043b\u044b\u0441\u044b"
     ],
@@ -141,6 +159,9 @@
     "name:lit_x_preferred":[
         "Chorezmo vilajetas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d4d\u0d38\u0d4a\u0d30\u0d38\u0d4d\u0d2e\u0d4d \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
+    ],
     "name:mar_x_preferred":[
         "\u091d\u094b\u0930\u093e\u091d\u094d\u092e \u0935\u093f\u0932\u093e\u092f\u0924\u0940"
     ],
@@ -150,11 +171,17 @@
     "name:msa_x_preferred":[
         "Wilayah Xorazm"
     ],
+    "name:nan_x_preferred":[
+        "Xorazm Chiu"
+    ],
     "name:nld_x_preferred":[
         "Xorazm"
     ],
     "name:nob_x_preferred":[
         "Xorazm region"
+    ],
+    "name:oss_x_preferred":[
+        "\u0425\u043e\u0440\u0435\u0437\u043c\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
     ],
     "name:pan_x_preferred":[
         "\u0a16\u0a4b\u0a30\u0a47\u0a1c\u0a2e \u0a38\u0a42\u0a2c\u0a3e"
@@ -168,6 +195,9 @@
     "name:por_x_preferred":[
         "Khorazm"
     ],
+    "name:pus_x_preferred":[
+        "\u062e\u0648\u0627\u0631\u0632\u0645 \u0648\u0644\u0627\u064a\u062a"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u0440\u0435\u0437\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
@@ -180,11 +210,17 @@
     "name:spa_x_preferred":[
         "Provincia de Corasmia"
     ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u0435\u0437\u043c\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
     "name:swe_x_preferred":[
         "Khwarezm"
     ],
     "name:tam_x_preferred":[
         "\u0bb8\u0bcb\u0bb0\u0bbe\u0bb8\u0bcd\u0bae\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u04d9\u0440\u04d9\u0437\u0435\u043c \u0432\u0438\u043b\u0430\u044f\u0442\u0435"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c4b\u0c30\u0c3e\u0c1c\u0c2e\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -194,6 +230,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e0b\u0e23\u0e31\u0e0b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e06\u0e2d\u0e23\u0e32\u0e0b\u0e36\u0e21"
     ],
     "name:tur_x_preferred":[
         "Harezm ili"
@@ -338,7 +377,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1636504652,
+    "wof:lastmodified":1690893349,
     "wof:name":"Khorezm",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

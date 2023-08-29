@@ -29,6 +29,9 @@
     "name:hsb_x_preferred":[
         "Bulung\u2018ur"
     ],
+    "name:hun_x_preferred":[
+        "Bulungur"
+    ],
     "name:jpn_x_preferred":[
         "\u30d6\u30eb\u30f3\u30b0\u30eb"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0411\u0443\u043b\u0443\u043d\u0433\u0443\u0440"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0443\u043b\u0443\u043d\u0493\u0443\u0440"
     ],
     "name:tur_x_preferred":[
         "Bulungur"
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421199267,
-    "wof:lastmodified":1566643831,
+    "wof:lastmodified":1690893364,
     "wof:name":"Bulungur",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

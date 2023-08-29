@@ -44,6 +44,9 @@
     "name:fra_x_preferred":[
         "Kitab"
     ],
+    "name:fra_x_variant":[
+        "Kitab "
+    ],
     "name:hsb_x_preferred":[
         "Kitob"
     ],
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421204893,
-    "wof:lastmodified":1587163138,
+    "wof:lastmodified":1690893358,
     "wof:name":"Kitab",
     "wof:parent_id":85680395,
     "wof:placetype":"locality",

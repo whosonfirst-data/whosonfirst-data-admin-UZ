@@ -20,8 +20,17 @@
     "name:azb_x_preferred":[
         "\u067e\u06cc\u0634\u0646\u0628\u0647"
     ],
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0439\u0448\u0430\u043d\u0431\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Payshanba"
+    ],
     "name:eng_x_preferred":[
         "Paishanba"
+    ],
+    "name:eng_x_variant":[
+        "Payshanba"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0646\u062c\u200c\u0634\u0646\u0628\u0647"
@@ -36,6 +45,12 @@
         "Payshanba"
     ],
     "name:rus_x_preferred":[
+        "\u041f\u0430\u0439\u0448\u0430\u043d\u0431\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Payshanba"
+    ],
+    "name:tgk_x_preferred":[
         "\u041f\u0430\u0439\u0448\u0430\u043d\u0431\u0430"
     ],
     "name:tur_x_preferred":[
@@ -95,7 +110,7 @@
         }
     ],
     "wof:id":421180861,
-    "wof:lastmodified":1566643827,
+    "wof:lastmodified":1690893360,
     "wof:name":"Payshanba",
     "wof:parent_id":85680389,
     "wof:placetype":"locality",

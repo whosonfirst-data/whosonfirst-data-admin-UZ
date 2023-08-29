@@ -17,10 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Pap"
+    ],
     "name:azb_x_preferred":[
         "\u067e\u0627\u067e"
     ],
     "name:bar_x_preferred":[
+        "Pop"
+    ],
+    "name:ceb_x_preferred":[
         "Pop"
     ],
     "name:deu_x_preferred":[
@@ -31,6 +37,9 @@
     ],
     "name:eng_x_preferred":[
         "Pop"
+    ],
+    "name:eng_x_variant":[
+        "Pap"
     ],
     "name:fas_x_preferred":[
         "\u067e\u067e"
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":421180863,
-    "wof:lastmodified":1566643827,
+    "wof:lastmodified":1690893361,
     "wof:name":"Pap",
     "wof:parent_id":85680411,
     "wof:placetype":"locality",

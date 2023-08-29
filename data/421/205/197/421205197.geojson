@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0646\u0627\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u062f\u0647 \u0646\u0648"
+    ],
     "name:azb_x_preferred":[
         "\u062f\u0626\u0646\u0627\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Denov"
     ],
     "name:ben_x_preferred":[
         "\u09a1\u09c7\u09a8\u09be\u0989"
@@ -68,6 +74,9 @@
     "name:hun_x_preferred":[
         "Denow"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u0576\u0561\u0578\u0582"
+    ],
     "name:ind_x_preferred":[
         "Denow"
     ],
@@ -93,6 +102,9 @@
         "Denov"
     ],
     "name:pol_x_preferred":[
+        "Denov"
+    ],
+    "name:por_x_preferred":[
         "Denov"
     ],
     "name:rus_x_preferred":[
@@ -136,6 +148,9 @@
     ],
     "name:vie_x_preferred":[
         "Denow"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u8bfa\u592b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uzbekistan",
@@ -275,7 +290,7 @@
         }
     ],
     "wof:id":421205197,
-    "wof:lastmodified":1636504662,
+    "wof:lastmodified":1690893359,
     "wof:name":"Denow",
     "wof:parent_id":85680397,
     "wof:placetype":"locality",
