@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":48.6393,
-    "geom:area_square_m":448301763218.500427,
+    "geom:area_square_m":448301763218.481018,
     "geom:bbox":"55.998218,37.172257,73.148946,45.590075",
     "geom:latitude":41.774572,
     "geom:longitude":63.124064,
@@ -14,6 +14,9 @@
     "iso:country":"UZ",
     "itu:country_code":[
         "998"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "UZ"
@@ -1199,7 +1202,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"998",
     "statoids:ds":"UZ",
     "statoids:fifa":"UZB",
@@ -1256,7 +1260,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"f4aad3ce4dfb6562a90e0407dc9c4cf6",
+    "wof:geomhash":"f20723b21409f6b39a827e663772d836",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1270,12 +1274,12 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1690893350,
+    "wof:lastmodified":1694492107,
     "wof:name":"Uzbekistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":31576400,
-    "wof:population_rank":15,
+    "wof:population":33580650,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-uz",
     "wof:shortcode":"UZ",
     "wof:superseded_by":[],
