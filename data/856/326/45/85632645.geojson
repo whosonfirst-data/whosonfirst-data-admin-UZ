@@ -1241,6 +1241,7 @@
         "hasc:id":"UZ",
         "icao:code":"UK",
         "ioc:id":"UZB",
+        "iso:code":"UZ",
         "itu:id":"UZB",
         "loc:id":"n91129869",
         "m49:code":"860",
@@ -1254,6 +1255,7 @@
         "wk:page":"Uzbekistan",
         "wmo:id":"UZ"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UZ",
     "wof:country_alpha3":"UZB",
     "wof:geom_alt":[
@@ -1274,7 +1276,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1694639561,
+    "wof:lastmodified":1695881219,
     "wof:name":"Uzbekistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
