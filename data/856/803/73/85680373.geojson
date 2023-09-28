@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.248123,
-    "geom:area_square_m":40132536684.175072,
+    "geom:area_square_m":40132541039.463638,
     "geom:bbox":"62.18037,38.940374,65.365447,41.493282",
     "geom:latitude":40.178214,
     "geom:longitude":63.719414,
@@ -379,13 +379,15 @@
         "gn:id":1114929,
         "gp:id":2347660,
         "hasc:id":"UZ.BU",
+        "iso:code":"UZ-BU",
         "iso:id":"UZ-BU",
         "qs_pg:id":1135448,
         "unlc:id":"UZ-BU",
         "wd:id":"Q487372"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UZ",
-    "wof:geomhash":"3660bef9bee4488c4b90e6bdf5a98080",
+    "wof:geomhash":"e0f97a663c281d15bca89e6467ff1282",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -400,7 +402,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1690893349,
+    "wof:lastmodified":1695884955,
     "wof:name":"Bukhoro",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

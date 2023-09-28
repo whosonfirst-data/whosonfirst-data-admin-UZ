@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.957017,
-    "geom:area_square_m":109902964391.175766,
+    "geom:area_square_m":109902959875.347183,
     "geom:bbox":"61.743084,39.464258,66.801225,43.722785",
     "geom:latitude":41.975654,
     "geom:longitude":64.359571,
@@ -353,13 +353,15 @@
         "gn:id":1484841,
         "gp:id":2347667,
         "hasc:id":"UZ.NW",
+        "iso:code":"UZ-NW",
         "iso:id":"UZ-NW",
         "qs_pg:id":1135453,
         "unlc:id":"UZ-NW",
         "wd:id":"Q487570"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UZ",
-    "wof:geomhash":"01e5376e38c14d89b7588becc2527a99",
+    "wof:geomhash":"39686aca1fd5bb4328718d3340cfcc70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -374,7 +376,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1690893350,
+    "wof:lastmodified":1695884956,
     "wof:name":"Navoi",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

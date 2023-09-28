@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.763579,
-    "geom:area_square_m":7088350967.449285,
+    "geom:area_square_m":7088347791.00181,
     "geom:bbox":"60.049182,40.505516,62.447279,42.005576",
     "geom:latitude":41.344159,
     "geom:longitude":61.023834,
@@ -355,14 +355,16 @@
         "gn:id":1484843,
         "gp:id":2347665,
         "hasc:id":"UZ.KH",
+        "iso:code":"UZ-XO",
         "iso:id":"UZ-XO",
         "qs_pg:id":555924,
         "unlc:id":"UZ-KH",
         "wd:id":"Q487561",
         "wk:page":"Xorazm Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UZ",
-    "wof:geomhash":"95a0f6a05decea21fa01cce326a69223",
+    "wof:geomhash":"436301edaab570cf44dce3fc25569de7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -377,7 +379,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1690893349,
+    "wof:lastmodified":1695884956,
     "wof:name":"Khorezm",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

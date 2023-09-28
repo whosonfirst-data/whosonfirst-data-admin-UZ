@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.992195,
-    "geom:area_square_m":19405728188.395035,
+    "geom:area_square_m":19405730549.459923,
     "geom:bbox":"66.493491,37.185147,68.360664,39.002978",
     "geom:latitude":38.020592,
     "geom:longitude":67.458519,
@@ -348,13 +348,15 @@
         "gn:id":1114926,
         "gp:id":2347668,
         "hasc:id":"UZ.SU",
+        "iso:code":"UZ-SU",
         "iso:id":"UZ-SU",
         "qs_pg:id":1135452,
         "unlc:id":"UZ-SU",
         "wd:id":"Q487537"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UZ",
-    "wof:geomhash":"011d7c77381a62dd24943a6e58539548",
+    "wof:geomhash":"dd8a399eca576eb7a4c4b16b926cd145",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -369,7 +371,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1690893349,
+    "wof:lastmodified":1695884956,
     "wof:name":"Surkhandarya",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.213482,
-    "geom:area_square_m":20850750610.451153,
+    "geom:area_square_m":20850749311.844357,
     "geom:bbox":"66.61426,39.484413,68.696545,41.20038",
     "geom:latitude":40.374117,
     "geom:longitude":67.641471,
@@ -358,12 +358,14 @@
         "gn:id":1484844,
         "gp:id":2347661,
         "hasc:id":"UZ.JI",
+        "iso:code":"UZ-JI",
         "iso:id":"UZ-JI",
         "qs_pg:id":1135449,
         "wd:id":"Q488811"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UZ",
-    "wof:geomhash":"a492e9b591d74996f79718a6fcca0bb5",
+    "wof:geomhash":"6a2b0e80c22431600699ed43f8ba4da0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -378,7 +380,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1690893347,
+    "wof:lastmodified":1695884956,
     "wof:name":"Jizzakh",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

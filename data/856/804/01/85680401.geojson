@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.459518,
-    "geom:area_square_m":4304277712.248594,
+    "geom:area_square_m":4304277463.758305,
     "geom:bbox":"71.581812,40.38565,73.148641,41.072843",
     "geom:latitude":40.753451,
     "geom:longitude":72.320385,
@@ -369,14 +369,16 @@
         "gn:id":1484846,
         "gp:id":2347659,
         "hasc:id":"UZ.AN",
+        "iso:code":"UZ-AN",
         "iso:id":"UZ-AN",
         "qs_pg:id":895013,
         "unlc:id":"UZ-AN",
         "wd:id":"Q487384",
         "wk:page":"Andijan Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UZ",
-    "wof:geomhash":"edcd6a90bf9c7946cce583bc6b075e8c",
+    "wof:geomhash":"f3af160152beb81bf1a5e962ca4016fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -391,7 +393,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1690893347,
+    "wof:lastmodified":1695884955,
     "wof:name":"Andijon",
     "wof:parent_id":85632645,
     "wof:placetype":"region",
