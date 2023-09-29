@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026099,
-    "geom:area_square_m":242377731.507044,
+    "geom:area_square_m":242378001.496943,
     "geom:bbox":"69.136069,41.219172,69.36377,41.403552",
     "geom:latitude":41.317804,
     "geom:longitude":69.249157,
@@ -362,17 +362,19 @@
         "gn:id":1484839,
         "gp:id":20070172,
         "hasc:id":"UZ.TK",
+        "iso:code":"UZ-TK",
         "iso:id":"UZ-TK",
         "loc:id":"n80004387",
         "qs_pg:id":236298,
         "wd:id":"Q487585",
         "wk:page":"Tashkent"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421168855
     ],
     "wof:country":"UZ",
-    "wof:geomhash":"1da93eecff968ab3a75626ba9747b797",
+    "wof:geomhash":"0483326d9a21d0e69b4ff4574b4182f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -387,7 +389,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1690893346,
+    "wof:lastmodified":1695884327,
     "wof:name":"Tashkent",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

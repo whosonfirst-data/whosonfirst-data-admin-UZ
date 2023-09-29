@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":18.375296,
-    "geom:area_square_m":165003440497.364899,
+    "geom:area_square_m":165003441936.788177,
     "geom:bbox":"55.975839,40.985871,62.470999,45.558719",
     "geom:latitude":43.421428,
     "geom:longitude":58.818394,
@@ -444,12 +444,14 @@
         "gn:id":453752,
         "gp:id":2347663,
         "hasc:id":"UZ.QR",
+        "iso:code":"UZ-QR",
         "iso:id":"UZ-QR",
         "qs_pg:id":1135451,
         "wd:id":"Q484245"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UZ",
-    "wof:geomhash":"f00ccbdc75806272a5e808ad69d4d9da",
+    "wof:geomhash":"78052d57e37069ecab234e8188d3ae8e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -464,7 +466,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1690893349,
+    "wof:lastmodified":1695884546,
     "wof:name":"Karakalpakstan",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

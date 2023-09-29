@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.025187,
-    "geom:area_square_m":29135011876.943752,
+    "geom:area_square_m":29135006882.996735,
     "geom:bbox":"64.367566,37.966593,67.678587,39.556759",
     "geom:latitude":38.842265,
     "geom:longitude":66.09501,
@@ -352,14 +352,16 @@
         "gn:id":1114928,
         "gp:id":2347664,
         "hasc:id":"UZ.QA",
+        "iso:code":"UZ-QA",
         "iso:id":"UZ-QA",
         "qs_pg:id":219629,
         "unlc:id":"UZ-QA",
         "wd:id":"Q487577",
         "wk:page":"Qashqadaryo Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UZ",
-    "wof:geomhash":"6ce133e359d5560c4284bbe3bea5c8a1",
+    "wof:geomhash":"33e955e63a9c28f1804c23556d3c8b49",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -374,7 +376,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1690893348,
+    "wof:lastmodified":1695884956,
     "wof:name":"Kashkadarya",
     "wof:parent_id":85632645,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.773367,
-    "geom:area_square_m":7278420840.360947,
+    "geom:area_square_m":7278420695.474513,
     "geom:bbox":"70.353824,39.874466,72.228328,40.774747",
     "geom:latitude":40.437051,
     "geom:longitude":71.279152,
@@ -364,12 +364,14 @@
         "gn:id":1484845,
         "gp:id":2347662,
         "hasc:id":"UZ.FA",
+        "iso:code":"UZ-FA",
         "iso:id":"UZ-FA",
         "qs_pg:id":1135450,
         "wd:id":"Q487089"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UZ",
-    "wof:geomhash":"e7586ce6d372e40db914fb4e85f96cbf",
+    "wof:geomhash":"39f9cedb56de39e6611ce4e564f36fe9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -384,7 +386,7 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1690893347,
+    "wof:lastmodified":1695884955,
     "wof:name":"Ferghana",
     "wof:parent_id":85632645,
     "wof:placetype":"region",
