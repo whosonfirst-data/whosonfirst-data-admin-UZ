@@ -32,6 +32,13 @@
     "name:eng_x_preferred":[
         "Qo\u2018rg\u2018oncha"
     ],
+    "name:und_x_variant":[
+        "Kurganchi",
+        "Kurgancha"
+    ],
+    "name:uzb_x_preferred":[
+        "Qo\u2018rg\u2018oncha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632645
@@ -39,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7528102
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1513366
+        ]
     },
     "wof:country":"UZ",
     "wof:geomhash":"ecb9d14c3b337d7696a8047ea8171ae9",
@@ -49,13 +61,15 @@
         }
     ],
     "wof:id":1209537727,
-    "wof:lastmodified":1566643553,
+    "wof:lastmodified":1706241110,
     "wof:name":"Qo`rg`oncha",
     "wof:parent_id":85632645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-uz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326844425
+    ],
     "wof:tags":[]
 },
   "bbox": [
